@@ -1,0 +1,336 @@
+[
+  {
+    "file": "Eum_VI_20250212_13h_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Ismertesse az aktív és a passzív immunizálás lényegét!\nAktív immunizálás: ...az immunizáció létrehozása érdekében\nelölt kórokozókat (antigént) juttatnak a szervezetbe védőoltások révén, amivel a\ntermészetes fertőzést próbálják utánozni, így serkentik a szervezet saját\n, amivel a fertőzések kivédhetővé válnak....\nPasszív immunizálás: ...már kész ellenanyagot (antitestet) juttatnak a\nszervezetbe a védőoltással, így hozzák létre az immunitást.",
+      "question_type": "open",
+      "correct_answer": "gyengített, vagy\nvédekezőképességét",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel az élettelen kórokok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "mechanikai hatások\nelektromos áram\nsugárzó energia\nhőártalom\nlégnyomás változása\nmeteorológiai tényezők\nkémiai ártalmak",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a mozgásrendszer alábbi sérüléseit!\n- ruptura: ...\n- distorsio: ...\n- luxatio: ...\n- fractura: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szakadás\nízületi rándulás\nízületi ficam\ncsonttörés",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a megadott izmokat és izomcsoportokat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. musculus gluteus maximus\n2. musculus biceps\n3. musculus deltoideus\n4. csuklyásizom\nA. vállövizom\nB. hátizom\nC. felkarizom\nD. csípőizom",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...Α...., 4.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a szív falának rétegeit!",
+      "question_type": "open",
+      "correct_answer": "szívbelhártya\nszívizom\nszívburok",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az atrioventricularis blokk lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerület átterjedése a pitvarról a kamrákba részben, vagy teljesen gátolt, ami átmeneti és tartós is lehet....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a felületes vénák gyulladásának lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "bőrpír a gyulladt véna felett\nmeleg tapintat\nmegkeményedett és tapintható véna\nnyomásérzékenység\nfájdalom\nhőemelkedés, láz",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Nevezze meg az orrmelléküregeket magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szénanátha lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérbő kötőhártya, könnyezés, szemviszketés\nduzzadt orrnyálkahártya, orrdugulás\ngyakori tüsszentés\nnagy mennyiségű, vízszerű orrváladék-ürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszához tartozó anatómiai\nképleteket!\n- colon transversum\n- jejunum\n- ileum\n- rectum\n- colon ascendens\n- caecum\n- duodenum\n- ventriculus",
+      "question_type": "open",
+      "correct_answer": "colon transversum\nrectum\ncolon ascendens\ncaecum",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "A szív melyik része nem vesz részt a kisvérkörben?",
+      "question_type": "multiple_choice",
+      "correct_answer": "bal pitvar",
+      "options": [
+        "jobb kamra",
+        "bal pitvar",
+        "tüdőerek",
+        "tüdőkapillárisok"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "II.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőszervi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. salmonellosis\n2. mumpsz\n3. soor\n4. typhus abdominalis\n5. herpes labialis\n\nBaktérium okozta megbetegedés: ...., ....\n\nVírus okozta megbetegedés: ...., ....\n\nGomba okozta megbetegedés: ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 5.\n3.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHonnan indul ki a húgyvezeték (ureter)?\n\nHonnan indul ki a húgycső (urethra)?\n\nHol keletkezik az elsődleges vizelet?\n\nÉlettani körülmények között tartalmaz-e epefestéket a végleges vizelet?\n\nMilyen folyamat megy végbe a Malpighi-testben?",
+      "question_type": "fill_in",
+      "correct_answer": "a vesemedencéből...\na húgyhólyagból...\na Malpighi-testben...\nnem...\nszűrés/filtráció...",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó rendszer kórtanához kapcsolódó szakkifejezések\nmagyar vagy latin megfelelőjét! Egészítse ki a táblázatot!\n\n| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| gennyvizelés |  |\n| vesekőbetegség | nephrolithiasis |\n| húgyhólyaggyulladás | cystitis |\n| zsákvese |  |\n| terhességi vesebaj | nephropathia gravidarum |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | pyuria |\n|  |  |\n|  |  |\n|  | hydronephrosis |\n|  |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Egészítse ki a fogamzással kapcsolatos mondatokat!\nAz érett petesejt az ... követően a méhkürtbe jut, ahol találkozik a\n....\nA... petesejt első osztódása a petevezetékben történik meg.\nEzt követően a petesejt a méh üregébe jut a petevezeték hámjának csillói és\n... mozgása következtében, ahol ... az előkészült\nnyálkahártyába.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ovulációt\nspermiumokkal\nmegtermékenyült\nféregszerű\nbeágyazódik",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a rejtettheréjűséget a megadott szempontok alapján!\nLényege: ...A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában tapinthatóak....\n\nA betegség kezelésének/gyógyításának lehetőségei: Írjon kettőt!\n- rendszerint spontán rendeződik\n- hormonkezelés\n- sebészi beavatkozás\n\nA betegség lehetséges következménye:\n...sterilitás...",
+      "question_type": "open",
+      "correct_answer": "herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában tapinthatóak.\n\nrendszerint spontán rendeződik\nhormonkezelés\nsebészi beavatkozás\n\nsterilitás",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Egészítse ki a Langerhans-szigetek sejtjeivel és hormonjaival kapcsolatos\ntáblázat hiányzó részeit!\n\n| Langerhans-szigetek |  | A hormonok hatása\n|---------|---------|---------|\n| sejtjei | hormonjai | *Írjon kettőt-kettőt! |\n| α-sejtek |  | - az inzulinnal ellentétes hatású, növeli a vércukorszintet\n- mozgósítja a májban tárolt glükogént\n- elősegíti a glükogén lebontását |\n| β-sejtek |  | - szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Langerhans-szigetek |  | A hormonok hatása\n|---------|---------|---------|\n| sejtjei | hormonjai | *Írjon kettőt-kettőt! |\n|  | glükagon |  |\n|  | inzulin |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. Conn-szindróma\n2. Basedow-kór\n3. Cushing-szindróma\n4. phaeochromocytoma\n5. myxoedema\n\nA mellékvesevelő megbetegedése: ......\nA mellékvesekéreg megbetegedése: ......\nA pajzsmirigy megbetegedése: .......",
+      "question_type": "fill_in",
+      "correct_answer": "4\n1., 3.\n2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az idegrendszerre vonatkozó helyes megállapításokat!\n- A másodlagos mozgatóközpont a fali lebenyben található, feladata a mozgások rendezetté szervezése.\n- A másodlagos látóközpont helye a nyakszirti lebeny agykérgi része.\n- A hallás kérgi központja a nyakszirti lebenyben helyezkedik el.\n- Az agytörzset a nyúltvelő, a híd és a nagyagy alkotja.\n- Az idegsejtek alakja rendkívül változatos.\n- A gerincvelőt többrétegű burok veszi körül, melyek között az agyvíz kering.\n- A híd gesztenye nagyságú és alakú, páratlan test, amely az agyalapon fekszik.\n- A neuroglia az idegszövet sejtközötti állománya, amely a neuronnal teljesen azonos szerkezetű építőelem.",
+      "question_type": "open",
+      "correct_answer": "A másodlagos látóközpont helye a nyakszirti lebeny agykérgi része.\nAz idegsejtek alakja rendkívül változatos.\nA gerincvelőt többrétegű burok veszi körül, melyek között az agyvíz kering.\nA híd gesztenye nagyságú és alakú, páratlan test, amely az agyalapon fekszik.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Írjon le kettőt az agytályog kialakulásának lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "középfülgyulladás szövődménye\naz orrmelléküregek gyulladásainak közvetlen átterjedése\nkoponya- és agytraumák",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Határozza meg a reflexív fogalmát!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...\nLátószerv receptorai: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szőrsejtek\nCorti-szerv\ncsapok, pálcikák\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az övsömör lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- bőrérzékenység az ideg lefutása mentén\n- fájdalmas bőrkiütések (folyadékkal telt hólyagok)\n- viszketés\n- hidegrázás\n- láz",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. szúrt\nB. csonkolt\nC. vágott seb\nD. szakított\nE. horzsolt\n\n1. súrlódás, esés, csúszás\n2. hegyes, éles eszköz\n3. éles tárgy, tompa erőhatás\n4. horgas, kampós eszköz\n5. gépek, sínen haladó járművek",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., В.-...5...., С.-...3...., D.-...4...., E.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Írja le, hogy eszméletlen beteg légzésvizsgálatakor mely esetben ítélhetjük a\nbeteg légzését normálisnak!",
+      "question_type": "open",
+      "correct_answer": "Amennyiben légútbiztosítást követően a beteg arca fölé hajolva, a mellkasát\nhármas érzékeléssel (érzem – hallom – látom) 10 másodpercig figyelve, legalább\nkettő minőségi légvétel történik.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VI_20250212_13h_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Ismertessen a sokk kialakulásának lehetséges okai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "durva, nagy roncsolással járó trauma\nkiterjedt égés\nnagyfokú vérveszteség\nnagyfokú folyadékveszteség",
+      "options": []
+    }
+  }
+]

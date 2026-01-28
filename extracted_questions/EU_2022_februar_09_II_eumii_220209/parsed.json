@@ -1,0 +1,325 @@
+[
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a test síkjaihoz leírásukat! Írja a betűjelek mellé a helyes válasz\nsorszámát!\nA. sagittalis sík\t\t1. a homloksíkra merőleges\nB. frontális sík\t\t2. a testen középvonalban elölről hátrafelé halad\nC. horizontális sík\t\t3. a homlokkal párhuzamos\nD. medián sík\t\t4. a középsíkkal párhuzamos\nΑ.-........, Β.-........, С.-........, D.-........\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "4, 3, 1, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi kórtani fogalmak lényegét!\nExsudatio:\nTranssudatio:",
+      "question_type": "open",
+      "correct_answer": "...gyulladás következtében az erek áteresztőképessége\n(permeabilitása) nő, így fehérjék, vérplazma és sejtek jutnak át az érfalon a szövetek közé...\n...gyulladás miatt a kisvénákban uralkodó nyomás nő, folyadék\nlép ki az érből, ami vizenyőt, izzadmányképződést okoz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek magyar, vagy latin megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek||\n|---------|---------|\n|magyarul|latinul|\n| | |\n|szalag| |\n| | |\n|sarokcsont| |\n| | |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek||\n|---------|---------|\n|magyarul|latinul|\n|kulcscsont|clavicula|\n||ligamentum|\n|szegycsont|sternum|\n||calcaneus|\n|ülőcsont|os ischii|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a Bechterew-kór lehetséges tüneteit, kezelésének lehetőségeit!\nTünetei: Írjon négyet!\n\nKezelésének lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "erős háti- és ágyéki gerincfájdalom\na fájdalom kisugározhat a combokba\ngerincmozgások beszűkülése\nfokozott háti görbület kialakulása és csontos rögzülése\nfáradékonyság\ngyógyszeres kezelés\ngyógytorna\nkorrekciós műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző és vezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai billentyű",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Purkinje rostok",
+        "Pitvar-kamrai billentyű"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. A felületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására\nfélhold alakú vagy zsebes billentyűk találhatók.\n\n2. Erőteljes összehúzódásra képesek, így továbbítják a vért a periféria felé.\n\n3. Faluk rendkívül vékony, csak endothel sejtekből állnak.\n\n4. Itt történik meg az oxigén és a tápanyagok leadása a sejtek felé a sejt közötti\ntérbe, valamint a szén-dioxid és az anyagcseretermékek felvétele.\n\n5. A vért a szívből a periféria felé juttatják.\n\n6. A periféria felől, a hajszálér területéről a szív irányába szállítják a vért.\n\nVerőerek jellemzői: ...., .....\nVisszerek jellemzői: ...., .....\nHajszálerek jellemzői: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5.\n1., 6.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot, melyek a vérben savas\nvegyhatást (acidosis) idéznek elő!",
+      "question_type": "open",
+      "correct_answer": "veseelégtelenség\nkiterjedt tüdőbetegségek (szén-dioxid felszaporodása a vérben)\nanyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a légzőrendszerrel kapcsolatos helyes\nmegállapításokat!\n- a légzés idegi szabályozásának a központja a kisagyban található\n- a jobb tüdő három lebenyből áll\n- a jobb tüdő két lebenyből áll\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám csökken\n- paraszimpatikus hatásra a bronchusok szűkülnek, a légzésszám csökken\n- paraszimpatikus hatásra a bronchusok tágulnak, a légzésszám csökken\n- a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja\n- a légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja\n- a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek\n(Helyes válaszonként 1-1 pont adható! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a jobb tüdő három lebenyből áll\na paraszimpatikus hatásra a bronchusok szűkülnek, a légzésszám csökken\na légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja\na hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "oldalszúrás\néles mellkasi fájdalom\nnehézlégzés\nköhögés\nlilás, alvadékos, véres köpet\nszapora szívverés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél szakaszait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "- patkóbél\n- éhbél\n- csípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMilyen színű a máj?\nMelyik emésztőenzim bontja le a fehérjéket?\nHol sűrűsödik be a májepe?\nVan-e emésztés a vastagbélben?",
+      "question_type": "fill_in",
+      "correct_answer": "...vörösesbarna...\n...a tripszin...\n...az epehólyagban...\n...nincs...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Ismertesse a hasfali sérv lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A hasfal valamely gyenge ellenállású helyén a hashártya előtüremkedik, mely\nhasüregi szerveket tartalmaz....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a szervekhez jellemzőjüket, leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. húgyhólyag\n2. húgycső\n3. vese\n4. húgyvezeték\n\nA. kb. 30 cm hosszú, lúdtoll vastagságú, nyálkahártyával bélelt, izmosfalú cső\nB. felépítésében és elhelyezkedésében nemi különbségek figyelhetők meg\nC. a nyálkahártya redőzöttsége a szerv nagyfokú befogadóképességét teszi\nlehetővé\nD. páros szerv, működési egysége a nephron\n\n1.-... , 2.-..., 3.-..., 4.-....",
+      "question_type": "matching",
+      "correct_answer": "C, B, D, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Ismertesse a vesekőbetegséget az alábbi szempontok szerint!\n\nA betegség lényege:\nA vese üregrendszerében az oldott sók és a vizeletben található kristályok kő formájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva akadályozhatják, vagy teljesen elzárhatják a vizelet útját.\n\nA veseköves roham tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő formájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva akadályozhatják, vagy teljesen elzárhatják a vizelet útját.\n\n- erős görcsös deréktáji fájdalom\n- a fájdalom kisugárzik a hólyagba, férfiaknál a herékbe, nőknél a nagyajkakba\n- kínzó vizelési inger\n- hányinger, hányás\n- haspuffadás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a külső női nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "nagyajkak\nkisajkak\ncsikló",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a terhesség gyanújeleit!\n- hányinger, hányás\n- fokozott nyálelválasztás\n- pozitív terhességi teszt\n- egyes szagoktól undorodás\n- a menstruáció elmaradása\n- livid (szederjes) hüvely\n- kedélyállapot-változás\n- bővebb hüvelyváladék\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "hányinger, hányás\nfokozott nyálelválasztás\negyes szagoktól undorodás\nkedélyállapot-változás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Írja le a kalcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "- csökkenti a vér kalciumszintjét\n- segíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. nanismus\n2. Addison-kór\n3. Conn-szindróma\n4. phaeochromocytoma\n5. diabetes insipidus\n6. acromegalia\n\nHiperfunkció következtében kialakult elváltozás: ....\n\nHipofunkció következtében kialakult elváltozás: ....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6....\n1., 2., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "- nyaki idegek\n- háti (mellkasi) idegek\n- ágyéki idegek\n- keresztcsonti idegek\n- farkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel a myasthenia gravis lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- csüngő szemhéj\n- nyelészavarok\n- gyengült fejmozgások\n- a végtagok és a törzsizomzat gyengesége\n- a légzőizmok esetleges bénulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan betegséget/állapotot, amely lábszárfekély\nkialakulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- keringési zavar\n- cukorbetegség\n- beidegzési zavarok\n- egyes bőrbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Határozza meg a nyelv területeit az ízérzékelésnek megfelelően!\n- az édes íz érzékelésének helye: ...\n- a sós íz érzékelésének helye: ...\n- a keserű íz érzékelésének helye: ...\n- a savanyú íz érzékelésének helye: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a nyelv hegye\na nyelv oldalsó szélei\na nyelvgyök\na nyelv oldalsó szélei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi szembetegségek lényegét!\nSzürke hályog: ...\nGlaukóma (zöld hályog): ...\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A szemlencse betegsége, a szemlencse állományának\nrészleges, vagy teljes elszürkülése következtében, csökken a szem belsejébe jutó\nfény mennyisége....\nA látóideg megbetegedése a szemben megemelkedett\ncsarnokvíznyomás következtében....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Írja a latin kifejezések mellé a magyar megfelelőket!\n- contusio cerebri: ...\n- combustio: ...\n- collapsus: ...\n- somnolentia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "agyzúzódás\négés\nájulás\naluszékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_II_eumii_220209_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Töltse ki az alábbi, a fagyási sérüléssel kapcsolatos táblázatot!\n| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n| I. fokú fagyás |  |\n| II. fokú fagyás |  |\n| III. fokú fagyás |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n|  | a bőr lilás, később kékes színű, vértelen, hideg és fájdalmas |\n|  | hólyagosodás jellemzi |\n|  | a bőr felső rétegei elhalnak, esetleg a bőr teljes mélységében is |",
+      "options": []
+    }
+  }
+]

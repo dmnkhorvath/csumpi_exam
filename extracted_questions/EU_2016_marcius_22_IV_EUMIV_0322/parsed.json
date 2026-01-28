@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát és az immunrendszer reakcióinak lényegét a megadott szempontok alapján!\n\nAz antigén fogalma:\nAzokat az anyagokat, amelyek a szervezetbe jutva a szervezet immunrendszerét védekező reakcióra késztetik, antigéneknek nevezzük.\n\nAz immunrendszer reakciói antigén hatására:\n- celluláris immunválasz:\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik, közömbösítik az antigént.\n\n- humorális immunválasz:\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva a szervezet immunrendszerét védekező reakcióra késztetik, antigéneknek nevezzük.\n\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik, közömbösítik az antigént.\n\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes válaszokat!\n- a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya azonos arányt mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton támaszkodik\n- a felső végtag izomtömege megnövekedett\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\na zsigerek a hasüreg irányába rendeződtek\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton támaszkodik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Írjon három olyan okot, mely a szervezet folyadék-\nés elektrolit háztartásának felborulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- hányás\n- hasmenés\n- nagyfokú izzadás\n- vérplazmavesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "fill_in",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!",
+      "question_type": "open",
+      "correct_answer": "Oka:\nA napfény ultraibolya sugarainak hiánya miatt elmarad a D-vitamin\nképződése (a bőrben lévő ergoszterinből nem keletkezik D-vitamin),\nígy a mészsók nem épülnek be a csontokba.\n\nTünetei: Írjon kettőt!\n- a csontok lágyak, görbültek\n- gerincferdülés\n- ó-láb vagy x-láb kialakulása\n\nA betegség megelőzése:\nD3-vitamin adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Ismertesse az izomműködés élettanával kapcsolatos\nalábbi fogalmak jelentését!\n\nKüszöbinger:\n... az a minimális ingererősség, melyre az izom összehúzódással\nválaszol...\n\nKontrakció:\n...egy izomrost összehúzódása inger hatására....",
+      "question_type": "fill_in",
+      "correct_answer": "az a minimális ingererősség, melyre az izom összehúzódással\negy izomrost összehúzódása inger hatására....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a leírt jellemzők alapján a betegségeket!\nA B12 - vitamin nem tud felszívódni a gyomorban termelődő intrinszik\nfaktor hiánya miatt.\n...\nA kóros (éretlen) fehérvérsejtek száma emelkedett, de funkciójukat nem\ntudják ellátni.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vészes vérszegénység\nleukémia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Ismertesse az angina pectoris jellemző fájdalmát a\nmegadott szempontok szerint!\n\nA fájdalom helye: \nA fájdalom jellege: \nA fájdalom kisugárzása: -",
+      "question_type": "open",
+      "correct_answer": "a szegycsont mögött\nszorító, markoló érzés\nnyak bal oldala\n- bal váll, bal kar\n- lapockák közé\n- gyomorgödörbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia kialakulásának lehetséges\nokai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "alsó végtagok trombózisa\nhasi műtét után\nszülés után, gyermekágyas időszak alatt\nkismedencei műtét után\npitvari trombózis\nhosszan tartó ágynyugalmat igénylő betegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső\nszakaszának részeit!\n\n- végbél\n- csípőbél\n- szájüreg\n- gyomor\n- patkóbél\n- vastagbél\n- nyelőcső\n- éhbél\n- garat\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg azt a helyet, ahol az alábbi tápanyagok\nbontása kezdődik!\nSzénhidrátok: ...\nFehérjék: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szájüreg\ngyomor\nvékonybél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Ismertessen a cukorbetegeknél előforduló alacsony\nvércukorszint (hypoglykaemia) kialakulásának okai közül\nkettőt!",
+      "question_type": "open",
+      "correct_answer": "a szükségesnél nagyobb mennyiségű inzulin adagolása\nelmarad az inzulin beadását követően a kellő mennyiségű szénhidrát\nfogyasztása\nintenzív fizikai munkavégzés, mely fokozza a szénhidrát felhasználását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Sorolja fel a vizeletkiválasztó - és elvezető rendszer\nrészeit!",
+      "question_type": "open",
+      "correct_answer": "vese\nhúgyhólyag\nhúgyvezeték\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Ismertessen a vesekőképződés hajlamosító tényezői közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "vizeletpangás a húgyutak szűkülete vagy elzáródása miatt\na vizelet fertőződése\nkőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNefron: ...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "fill_in",
+      "correct_answer": "újraképződés - regeneráció\nnövekedés - proliferáció\nelválasztás - szekréció\nlelökődés - menstruáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a férfi nemi működéssel\nkapcsolatos alábbi kérdésekre!\n\nHol termelődik a tesztoszteron?\n...\n\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\n\nMely férfi nemi szervben tárolódnak a spermiumok?\n...\n\nHol helyezkedik el a prosztata?\n...\n\nHol fejlődnek a herék a magzati életben?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a herék Leydig-féle sejtjeiben...\na herecsatornák falának hámjában...\na mellékherékben...\na húgyhólyag alatt...\na hasüregben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki az alábbi táblázatot!\n\n| A hormon neve | A hormon hatása (Írjon egyet-egyet!) |\n|---|---|\n| STH |   |\n| ADH |   |\n| FSH | nő |\n|  | férfi |\n| tiroxin |   |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása (Írjon egyet-egyet!) |\n|---|---|\n| STH | - fokozza a növekedést\n- fokozza a fehérjeszintézist |\n| ADH | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó hatású\n- emeli a vérnyomást |\n| FSH | nő - megindítja a tüszőérést\n- a petefészekre hat |\n|  | férfi - fokozza a spermatogenezist\n- a herékben megindítja az ondósejtek képződését |\n| tiroxin | - fokozza az anyagcserét\n- szabályozza a szöveti oxidációt |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes megállapításokat!\na óriásnövés oka a növekedési hormon túltermelődése\na diabetes insipidus tünete a vizeletmennyiség csökkenése\na strúma a mellékvese megnagyobbodásával járó kórkép\naz akromegália a csontvégek meghosszabbodását jelenti\na mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú\na Basedow-kór (hyperthyreosis) esetén a pulzus gyér, a vérnyomás\nalacsony\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az óriásnövés oka a növekedési hormon túltermelődése\naz akromegália a csontvégek meghosszabbodását jelenti\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse az agyhártyagyulladás (meningitis) lehetséges okait, tüneteit!\nOkai: Írjon kettőt!\n-\n-\n-\n-\nTünetei: Írjon négyet!\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "baktériumok okozta fertőzés\nvírusok okozta fertőzés\ngombák okozta fertőzés\nparaziták okozta fertőzés\nheves fejfájás, fény-zaj érzékenység\nmagas láz\nzavart tudat\naluszékonyság\nhányás\n„vadászkutyafekvés\"",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n- \n- \nFeladata:\n- ",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nfolyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó\nalábbi kérdésekre!\n\nHol kereszteződik a piramispálya nagy része?\n...\nMely lebenyben találhatók a látóközpontok?\n...\nHol található a hallás kérgi központja?\n...\nHogy nevezzük az idegrendszer támasztószövetét?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyúltvelőben\na nyakszirti lebenyben\na halánték lebenyben\nneuroglia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n- \n- \n- \nKözépfül részei:\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések\ntípusai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_IV_EUMIV_0322_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nféloldali végtagbénulás, arcbénulás\nbeszédzavar\nzavart tudat\nhirtelen eszméletvesztés",
+      "options": []
+    }
+  }
+]

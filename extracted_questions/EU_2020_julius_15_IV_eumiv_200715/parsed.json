@@ -1,0 +1,308 @@
+[
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\n- csontos labirintus: ...\n- Bowman-tok: ...\n- Langerhans-szigetek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fül\nvese\nhasnyálmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladástípusokat a képződött izzadmány jellege szerint!",
+      "question_type": "open",
+      "correct_answer": "- savós (serosus) gyulladás\n- gennyes (suppurativ) gyulladás\n- eves-üszkös gyulladás\n- vérzéses gyulladás\n- fibrines gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa az izmokat jellemzőjükkel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. hasizom\n2. nagy farizom\n3. deltaizom\nA. az injekció izomba történő beadásának gyakori helye\nB. részt vesz a váll jellegzetes alakjának kialakításában\nC. főleg széles, lapos izomból áll",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért felelős fehérjéket\n(véralvadási faktorokat)!",
+      "question_type": "open",
+      "correct_answer": "- fibrinogén\n- protrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a dongaláb megbetegedést a megadott szempontok szerint! Írjon\nhármat-hármat!\nTünetei:\nGyógyításának, kezelésének lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "- lógó lábfej\n- befelé forduló talpak\n- magasan álló sarok\n- bizonytalan állás, járás\n- korrekció gipszeléssel, tartó- és rögzítősínekkel\n- gyógytorna\n- masszázs\n- ortopédiai cipő alkalmazása\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül ötöt magyarul!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n1. égés\n2. mellékvese-elégtelenség\n3. anafilaxia\n4. vérzés\n5. vérmérgezés\n6. folyadékvesztés\nhypovolaemiás sokk okai: ......\ndisztributív sokk okai: ......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Húzza alá a végartériákra vonatkozó helyes állításokat!\n- Ha az artéria elzáródik, az általa ellátott terület elhal.\n- A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetést végartériának nevezzük.\n- Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\n- A végartéria az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Ha az artéria elzáródik, az általa ellátott terület elhal.\nAz egymással szomszédos területet ellátó artériák között nincs összeköttetés.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol helyezkednek el a hangszalagok?",
+      "question_type": "fill_in",
+      "correct_answer": "a pajzsporc és a kannaporcok között...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a vitaminokat a megadott szempontok szerint! Írja a\nvitaminok betűjelét a megfelelő helyre!\n\nVitaminok: A-vitamin, B-vitamin, C-vitamin, D-vitamin, E-vitamin, K-vitamin\n\nVízben oldódó vitaminok: ...\n\nZsírban oldódó vitaminok: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "B., C., A., D., E., K.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes megállapításokat!\n- A vékonybél nyálkahártyaredői felszínnövelő képletek.\n- Az éhbél és a csípőbél hossza együttesen kb. 5 méter.\n- Az éhbél fájdalma jelzi az éhséget.\n- A gyomorban szénhidrát- és fehérjeemésztés zajlik.\n- Fűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.\n- A disszimiláció a lebontási folyamatok összessége.\n- Az életkor előrehaladtával az asszimilációs folyamatok hangsúlyosabbá válnak.\n- A maradéknitrogén a zsíranyagcsere során keletkező bomlástermék.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vékonybél nyálkahártyaredői felszínnövelő képletek.\nAz éhbél és a csípőbél hossza együttesen kb. 5 méter.\nFűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.\nA disszimiláció a lebontási folyamatok összessége.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\nVesemedence-gyulladás:\nVesekövesség:",
+      "question_type": "open",
+      "correct_answer": "Az egyik, vagy mindkét vese sejt közötti állományának bakteriális fertőzés\nkövetkeztében kialakuló gennyes gyulladása.\nA vese üregrendszerében a vizeletben található oldott sók és kristályok kő\nformájában kicsapódnak, akadályozva, vagy elzárva a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elsődleges vizeletből visszaszívódó/kiválasztódó anyagok\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "víz\nNa-ion\nK-ion\nCl-ion\nkarbamid\ncukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését, feladatát!\nRészei:\n\n\n\nElhelyezkedése:\n...\n\nFeladata:\n\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\na kismedence közepén, a hólyag és a végbél között található...\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- fizikai és szellemi teljesítőképesség csökken\n- pszichés változások\n- androgén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csecsemőmirigyben\na melatonint",
+      "options": [
+        "a hypophysis hátsó lebenyében",
+        "a hypophysis elülső lebenyében",
+        "a csecsemőmirigyben",
+        "a hypophysisben",
+        "a melatonint",
+        "az ösztrogént"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a Basedow-kór tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- megnagyobbodott pajzsmirigy\n- nagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\n- szapora szívműködés\n- szívdobogásérzés\n- jó étvágy mellett súlycsökkenés\n- élénk bélmozgás, hasmenés\n- nyirkos tenyér és talp\n- állandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a vegetatív idegrendszer hatását a megadottak szerint!\nEgészítse ki a táblázatot!\n\n|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| szívfrekvencia |  |  |\n| vérnyomás |  |  |\n| pupilla |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| szívfrekvencia | nő | csökken |\n| vérnyomás | emelkedik | csökken |\n| pupilla | tágul | szűkül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt latinul a neuron részei közül!",
+      "question_type": "open",
+      "correct_answer": "perikaryon/neurocyta\nnucleus\nnucleolus\ndendrit\nneurit/axon\ntelodendrion",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg, mit jelent a szem adaptációja!",
+      "question_type": "open",
+      "correct_answer": "...Az ideghártyának és a pupillának a megváltozott fényviszonyokhoz való\nalkalmazkodása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!",
+      "question_type": "fill_in",
+      "correct_answer": "A., D., E....\nB., C....",
+      "options": [
+        "A. üllő",
+        "B. ívjáratok",
+        "C. csiga",
+        "D. kalapács",
+        "E. kengyel"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyi érkatasztrófákra jellemző tünetek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nbénulások\nbeszédzavar\nzavart tudat\nlátászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_IV_eumiv_200715_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá a rándulás tüneteit!\n- fájdalom\n- duzzanat\n- „rugalmas rögzítettség\"\n- elsősorban éjszaka jelentkező erős fájdalom\n- lilás elszíneződés\n- ízületi működés csökkenése\n- durva alakváltozás\n- csontvégek ropogása\n\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nduzzanat\nlilás elszíneződés\nízületi működés csökkenése",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Sorolja fel az ízületek alkotórészeit!",
+      "question_type": "open",
+      "correct_answer": "- ízületi fej\n- ízületi árok\n- ízületi tok\n- ízületi porc\n- ízületi szalagok\n- ízületi nedv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív: ...\nmáj: ...\ngyomor: ...\ntüdő: ...\nlép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster/ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Rendelje a gyulladás helyi tüneteinek latin kifejezése\nmellé azok magyar megfelelőjét!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. rubor\nB. tumor\nC. calor\nD. dolor\nE. functio laesa\n1. működéskárosodás\n2. melegség\n3. fájdalom\n4. vöröses elszíneződés\n5. duzzanat",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.- ...5...., C.- ...2...., D.-...3...., E.- ...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\ngyomorkapu-szűkület/pylorusszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. lúdtalp\nB. csonttörés\nC. csontvelőgyulladás\nD. gerincferdülés",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...1...., Β.- ...2...., C.- ...4...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- méreganyagok kiválasztása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\nvörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a szívbillentyűk típusait előfordulásuk helyével!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nagy artériák szájadékában\n2. jobb pitvar és kamra között\n3. fő visszerekben\n4. bal pitvar és kamra között\n\nZsebes billentyű: ...., ....\nKéthegyű vitorlás billentyű: .....\nHáromhegyű vitorlás billentyű: .....",
+      "question_type": "matching",
+      "correct_answer": "1, 3\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légutakba jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q009_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 7,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely belső elválasztású mirigy termeli a kalcitonint?\nHol termelődik az aldoszteron?\nMi az androgének feladata?\nHol termelődik a progeszteron?\nMi a szomatosztatin hatása?\nHogy nevezzük a csecsemőmirigy hormonját?\nHol termelődik a glükagon?",
+      "question_type": "fill_in",
+      "correct_answer": "...a pajzsmirigy...\n...a mellékvese kéregállományában...\n...a másodlagos férfi nemi jelleg kialakítása...\n...a petefészekben...\n...a testnövekedést gátolja...\n...timozin...\n...a hasnyálmirigyben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit! Írjon egy-egy\npéldát mindegyik csoporthoz!\n\nGyanújelek:\n- émelygés\n- hányinger, hányás\n- fokozott nyálelválasztás\n- szagoktól undorodás\n\nValószínűségi jelek:\n- menstruáció elmaradása\n- bővebb hüvelyváladék\n- livid (szerderjes) hüvely\n- pozitív terhességi teszt\n\nBiztos jelek:\n- magzatmozgás\n- magzati szívhangok",
+      "question_type": "open",
+      "correct_answer": "émelygés\nhányinger, hányás\nfokozott nyálelválasztás\nszagoktól undorodás\nmenstruáció elmaradása\nbővebb hüvelyváladék\nlivid (szerderjes) hüvely\npozitív terhességi teszt\nmagzatmozgás\nmagzati szívhangok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományában található\nképleteket feladatukkal!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. asszociációs rostok\n2. commissuralis rostok\n3. projekciós rendszer\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, illetve a leszálló\nrendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n1.-...., 2.-...., 3.-....",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...C...., 3.-... Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nérzészavar\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nféloldali végtagbénulás, arcbénulás\nbeszédzavar\nzavart tudat\nhirtelen eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- máj\n- hörgők\n- nyelőcső\n- aortaív ágai\n- pajzsmirigy\n- csecsemőmirigy\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\nnyelőcső\naortaív ágai\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő\nanyagokat! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. víz\n2. zsírok\n3. alkohol\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\n\ngyomor: ......\nvékonybél: ......\nvastagbél: ......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2., 5., 6.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?\n...\nMi a feladata a vesecsatornáknak?\n...\nTartalmaz-e az elsődleges vizelet cukrot?\n...\nTartalmaz-e az elsődleges vizelet nagymolekulájú fehérjét?\n...\nHol található a vizeletürítés reflexközpontja?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a szűrés (filtráció)\nvisszaszívás, kiválasztás...\nigen, tartalmaz...\nnem tartalmaz...\na gerincvelő alsó szakaszán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia\nchronica) tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés\nvagy székrekedés)\nfémes szájíz\nszáraz, vastagon lepedékes nyelv\nvizeletszagú lehelet\nmagas vérnyomás\nlesoványodás\nsúlyos vérszegénység, bőr- és nyálkahártya vérzések\nbőrviszketés, sárgás, szürkés bőrszín, száraz bőr\nvizenyő\nsavós hártyák gyulladásának tünetei\nlégzőszervi tünetek (Kussmaul-típusú légzés)\nidegrendszeri tünetek (fokozott reflexek, izomgörcsök, fejfájás,\nzavartság)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg\nlényegét!\n\nElsődleges nemi jelleg:\n\nMásodlagos nemi jelleg:",
+      "question_type": "open",
+      "correct_answer": "...a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők\nfejlődése)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon két jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- csontátépülés következtében a belső fülben a kengyel talpa rögzül az\novális ablakhoz\n- nőknél gyakoribb, mint férfiaknál\n- tünete kínzó fülzúgás\n- vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "az ingerek felvétele\naz ingerek ingerületté alakítása\naz ingerület továbbítása a központi idegrendszerhez.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül\nhármat!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_oktober_11_I_eumi_171011_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző\nkóros légzési formákkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. súlyos anyagcserezavarok (pl. veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás\n\nA. dyspnoe\nB. Cheyne-Stokes-légzés\nC. Kussmaul-légzés\n\n1.-...., 2.-...., 3.-....",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  }
+]

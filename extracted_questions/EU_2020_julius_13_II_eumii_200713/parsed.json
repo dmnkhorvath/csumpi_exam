@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- hámszövet\n- idegszövet\n- izomszövet\n- kötő-, és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi reakciókat a megadottak szerint! İrja a\nsorszámokat a táblázat megfelelő helyére!\n1. fibrines gyulladás\n2. túltengés\n3. sorvadás\n4. fájdalom\n5. idült produktív gyulladás\n\nA szervezet reakciói\n| jelző reakció | védekező reakció | szöveti elváltozásban és működés-\nváltozásban megnyilvánuló reakció |\n|---------|---------|---------|\n|  |  |  |\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| jelző reakció | védekező reakció | szöveti elváltozásban és működés-\nváltozásban megnyilvánuló reakció |\n|---------|---------|---------|\n| 4. | 1., 5. | 2., 3. |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Definiálja az alábbi fogalmakat!\n- szinergista izmok: ...\n- antagonista izmok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "egymás működését segítő izmok...\naz izmok működése egymással ellentétes hatású...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse a Bechterew-kór lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ízületi gyulladások különleges formája. A gerincet és a keresztcsontot alkotó\n ízületeket érintő, lassan kialakuló betegség, mely a csigolyák\n összecsontosodásával jár. Előfordulása a férfiaknál gyakoribb, mint a nőknél.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a hemoglobin?",
+      "question_type": "fill_in",
+      "correct_answer": "a vörösvérsejtben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Párosítsa az érfal rétegeihez jellemzőiket! Írja a sorszámokat a megfelelő\nbetűjelhez!\n\nA. Az érfal belső rétege\nB. Az érfal középső rétege\nC. Az érfal külső rétege\n\n1. kötőszövetből épül fel\n2. lapos endothel sejtekből áll\n3. simaizomsejtekből és rugalmas rostokból áll\n\nA. - ...., B. - ...., C. - ....",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüszős mandulagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "nyeléskor erősödő fájdalom\nmagas láz, hidegrázás\na garatképletek nyálkahártyája vörös\na mandula lepedékes\na nyelv bevont\nkellemetlen szájszag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség legfontosabb tüneteit!\n- véres köpet\n- nehézlégzés\n- telt nyaki vénák\n- tüdőödéma\n- bőséges éjszakai vizeletürítés\n- köhögés\n- cianózis\n- látható hasfali vénatágulat\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdőödéma\nköhögés\ncianózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul az alsó légutakat!",
+      "question_type": "fill_in",
+      "correct_answer": "- gége\n- légcső\n- tüdő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindig ingerelhetõek",
+      "options": [
+        "mindig ingerelhetõek",
+        "csak a szívpitvarokban ingerelhetõek",
+        "csak a szívkamrákban ingerelhetõek",
+        "csak a pitvar-kamrai csomóban ingerelhetõek"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "II.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. pepszin\n2. tripszin\n3. amiláz\n4. kimozin\n5. nukleáz\n\ngyomornedv enzimjei: ...., ....\nhasnyál enzimjei: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Ismertesse a vese koncentrációs munkájának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Amikor a szervezettől megvonjuk a folyadékot, a vizelet besűrűsödik, mert a vesék kevesebb folyadékban választják ki ugyanazt a bomlástermék mennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a máj funkciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epetermelés\nepesavképzés\na vérfesték átalakítása epefestékké\naz epefesték lebontása\nvérplazmafehérjék képzése\nméregtelenítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a heveny vesegyulladás okát, lehetséges tüneteit!\nOka: ...\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "autoimmun folyamatok – bakteriális fertőzés utóbetegsége...\náltalános tünetek: gyengeség, fejfájás, étvágytalanság\ntompa deréktáji fájdalom\nszem körüli-, boka-, csuklóödéma\nhőemelkedés, láz\nvizeletben fehérje és vér megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh falának rétegeit latinul!",
+      "question_type": "open",
+      "correct_answer": "perimetrium\nmyometrium\nendometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a prosztatagyulladás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gáttájék, derék, hímvessző és herék fájdalma\ngyakori vizelési inger\nfájdalmas, égő vizelés\nvizelési nehézség\nvéres vizelet\nmerevedés és az ejakuláció nehezített, fájdalmas\ntelítettségi érzés a végbélben\nhidegrázás, magas láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a glükokortikoidok (kortizol) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hatásukra fokozódnak a lebontó anyagcsere-folyamatok\n- csökkentik a csontképződést\n- csökkentik a sejt közötti tér fehérjéinek termelődését\n- szabályozzák a só-, és vízháztartást\n- szabályozzák a vérnyomást\n- gátolják az immunrendszer működését\n- gátolják a gyulladásos választ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n\nMilyen bőrtünete van az Addison-kóros betegnek?",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)...\n...az arc duzzadt, kifejezéstelen...\n...a bőr fokozottan pigmentált (sötét elszíneződésű) ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  | bénulás |\n|  | remegés (akarattól független) |\n|  | izomtónus-fokozódás |\n|  | beszédzavar |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer részeit! Írja a sorszámokat a megfelelő helyre!\n\n1. agyidegek\n2. gerincvelői idegek\n3. agyvelő\n4. gerincvelő\n\nközponti idegrendszer: ...., .... \n\nkörnyéki, vagy perifériás idegrendszer: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4....1., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le a normál szem látását jellemző két fogalom jelentését!\n\nTávolpont:\n...\n\nKözelpont:\n...",
+      "question_type": "open",
+      "correct_answer": "Az a legtávolabbi pont, ahonnan még a beeső sugarak az ideghártyán éles\nképet hoznak létre....\n\nA legközelebbi pont, amelyről maximális akkomodációval éles kép keletkezik\naz ideghártyán....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Határozza meg a nyelv területeit az ízérzékelésnek megfelelően!\n- a savanyú íz érzékelésének helye: ...\n- az édes íz érzékelésének helye: ...\n- a sós íz érzékelésének helye: ...\n- a keserű íz érzékelésének helye: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyelv oldalsó szélei...\na nyelv hegye...\na nyelv oldalsó szélei...\na nyelvgyök...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_II_eumii_200713_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor közlendő\ninformációkat/adatokat!\n- a bejelentő adatai (név, telefonszám)\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e egyéb segítség (pl. műszaki mentés)\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

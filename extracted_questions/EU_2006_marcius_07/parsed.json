@@ -1,0 +1,350 @@
+[
+  {
+    "file": "EU_2006_marcius_07_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel az elhalás fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- ék alakú elhalás\n- üszkösödés\n- felfekvés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q002_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 1,
+      "question_text": "Nevezze meg, hogy az alább felsorolt rosszindulatú\ndaganatok milyen szövetből fejlődnek ki!\n- carcinoma:\n- sarcoma:\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "hámszövet eredetű\nkötő- és támasztószövet eredetű",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Ismertesse, hogy a daganat sejtjei miben térnek el az ép\nszövet sejtjeitől!",
+      "question_type": "open",
+      "correct_answer": "- autonóm növekedés\n- eltérő mikroszkópos szerkezet\n- kóros anyagcsere",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit és írjon\nmindegyikre egy-egy /1-1/ példát is!\n",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes összeköttetés pl.: koponya varratai\n- porcos összeköttetés pl.: medencecsont csontjai között\n- csontos összeköttetés pl.: korábbi kötőszövetes vagy\nporcos összeköttetés elcsontosodása-\nkeresztcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Írja le a medencecsontot alkotó csontokat magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt /5/ lehetőséget a szívinfarctus\nmegelőzésére!",
+      "question_type": "open",
+      "correct_answer": "- dohányzás elhagyása\n- mozgásszegény életmód megváltoztatása\n- koleszterinszegény táplálkozás\n- magasvérnyomás kezeltetése\n- cukorbetegség kezeltetése\n- hajszolt életmód megszüntetése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!\n- a belégzett levegő előmelegítése\n- oxigéncsere\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- hangok képzése\n- szagok érzékelése",
+      "question_type": "open",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül\nhármat/3/!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q009_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 1,
+      "question_text": "Húzza alá az alábbi felsorolásból az energiaszolgáltató tápanyagokat!\n- fehérjék\n- víz\n- szénhidrátok\n- vitaminok\n- zsírok\n- ásványi sók",
+      "question_type": "open",
+      "correct_answer": "szénhidrátok, zsírok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőkövekre való bontása, majd azok felszívása és az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Írja a pontozott vonalra a gyomor részeit!",
+      "question_type": "fill_in",
+      "correct_answer": "...gyomorszáj...\n...kisgörbület..\n...gyomortest...\n...gyomorkapu...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet\njátszó tényezők közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "egyes gyógyszerek (szalicilátok)\nfertőzés (helicobacter pylori)\nétrendi hibák (koffein, fűszerek, rendszertelen étkezés)\nfokozott sav- és pepszintermelés\ndohányzás\nörökletes tényezők\néletmódbeli és idegrendszeri tényezők (szorongás, stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Hol termelődnek a lymphocyták?\n\n- Hol történik a vörösvértestek képzése?\n\n- Hol történik a vörösvértestek lebontása?",
+      "question_type": "open",
+      "correct_answer": "- a nyirokrendszerben\n- a vörös csontvelőben\n- a lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a cukorbetegség tünetei közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "a beteg sokat iszik, állandóan szomjas\nkínzó éhségérzet\njó étvágy mellett fogyás\nbőséges vizeletürítés\nizomgyengeség, idegbénulások\nszáraz bőr, bőrviszketés\nnehezen gyógyuló sebek\nnemi- és fogamzóképesség csökkenése\nmagas vércukorszint\nvizeletben cukor és aceton megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Húzza alá azokat az anyagokat, amelyeket a normál\nvizelet NEM tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Nevezze meg a szív elsődleges és másodlagos ingerképző központját!\nelsődleges ingerképző központ: ...\nmásodlagos ingerképző központ: ...",
+      "question_type": "fill_in",
+      "correct_answer": "sinus csomó...pitvar – kamrai csomó...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vesemedence-gyulladás tünetei közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\na vizelet zavaros, gennyes\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\nHonnan indul ki a húgyvezeték (ureter)?\nHonnan indul ki a húgycső (urethra)?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben ...\na vesemedencéből ...\na húgyhólyagból ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Írja le e a méh falának rétegeit magyarul\nés latinul!",
+      "question_type": "open",
+      "correct_answer": "- külső hashártya által borított réteg - perimetrium\n- középső izomréteg - myometrium\n- belső nyálkahártya réteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Töltse ki az alábbi táblázatot! Jellemezze a felsorolt hormonokat!\n\n| A hormon neve, rövidítése | A hormon hatása (Írjon egyet-egyet/1-1/!) |\n|---|---|\n| STH |  |\n| ADH |  |\n| FSH |  |\n| tiroxin |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve, rövidítése | A hormon hatása (Írjon egyet-egyet/1-1/!) |\n|---|---|\n| STH | Növekedést, fehérjeszintézist fokozza. |\n| ADH | A vese tubulusaiban a vízvisszaszívást szabályozza. |\n| FSH | Nőben megindítja a tüszőérést, Férfiban fokozza a spermatogenezist. |\n| tiroxin | Fokozza az anyagcserét, szöveti oxidációt. |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperthyreosisos és a hypothyreosisos beteg tüneteit! Töltse ki a táblázatot!\n| Tünetek | Hyperthyreosisos | Hypothyreosisos |\n|---|---|---|\n| Jellemző arc és szemváltozás |  |  |\n| Bőrelváltozások |  |  |\n| Hőmérséklet |  |  |\n| Széklet |  |  |\n| Viselkedés |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Tünetek | Hyperthyreosisos | Hypothyreosisos |\n|---|---|---|\n| Jellemző arc és szemváltozás | rémült tekintet, aggódó arckifejezés | duzzadt arc, kifejezéstelen tekintet |\n| Bőrelváltozások | nyirkos bőr | hideg, durva tapintású bőr |\n| Hőmérséklet | hőemelkedés | alacsony hőmérséklet |\n| Széklet | hasmenés | székrekedés |\n| Viselkedés | izgatott | fáradt, közömbös |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Húzza alá a paralysisre jellemző helyes állítást!\n- az izomerő csökkenése, izomgyengeség\n- az izomerő kiesése, bénulás\n(A helyes válaszra 1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az izomerő kiesése, bénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a vegetatív\nidegrendszer megfelelő hatásaival!\nÍrja a sorszámokat a megfelelő helyre!\n1. koszorúerek szűkülnek\n2. légzésszám fokozódik\n3. nyálelválasztás fokozódik\n4. vércukorszint emelkedik\n5. pupilla tágul\n6. a szív teljesítménye csökken\n7. bélmozgás fokozódik\n8. vérnyomás emelkedik\n9. vércukorszint csökken\n10.bronchiolus tágul\nSzimpatikus hatás:\nParaszimpatikus hatás:",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4, 5, 8, 10\n1, 3, 6, 7, 9",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül\nnégyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- a menstruáció elmaradása\n- a hüvely szederjes elszíneződése\n- bővebb hüvelyi váladék\n- felpuhult méhnyak\n- a terhességi próbák pozitívvá válása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 3,
+      "question_text": "Ismertesse az érzékszervek feladatait!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- a környezet meghatározott ingereinek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 5,
+      "question_text": "Nevezze meg a halló- és egyensúlyozó szervnek az ábrán\njelölt részeit! (Válaszait írja a számok mellé!)",
+      "question_type": "fill_in",
+      "correct_answer": "1. ...fülkagyló...\n2. ...hallójárat...\n3. ...dobhártya...\n4. ...kalapács...\n5. ...üllő...\n6. ...kengyel...\n7. ...félkörös ívjárat...\n8. ...hallóideg...\n9. ...csiga...\n10. ... Eustach-kürt...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Sorolja fel a vérzések fajtáit!",
+      "question_type": "open",
+      "correct_answer": "- artériás\n- vénás\n- capillaris",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_marcius_07_q029_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 5,
+      "question_text": "Ismertesse az elsősegélynyújtó feladatait a segítségnyújtás során! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- helyzet felmérése\n- tájékozódás a történtekről\n- újabb balesetveszély elhárítása\n- sérült elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- segítségkérés (mentők, tűzoltók stb.)\n- sérülttel maradni",
+      "options": []
+    }
+  }
+]

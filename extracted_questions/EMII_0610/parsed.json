@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EMII_0610_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Definiálja a járvány fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Valamilyen fertőző betegség egy adott földrajzi területen, illetve közösségben\negy meghatározott időtartam alatt sok embert betegít meg, vagy betegíthet meg.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az idegsejt fő részeit!",
+      "question_type": "open",
+      "correct_answer": "sejttest\naxon (hosszú nyúlvány)\ndendrit (rövid nyúlvány)\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Ismertesse a tályog fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A gennyes beolvadással keletkező, gennyel telt üreget tályognak (abscessus) nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n| Anatómai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n| csípőcsont |  |\n|  |  |\n| sarokcsont |  |\n|  |  |\n| szeméremcsont |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómai képletek |  |\n|---------|---------|\n|  | os ilium |\n| lábtőcsontok | tarsus |\n|  | calcaneus |\n| ínhüvely | vagina tendinis |\n|  | os pubis |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a mozgásszervrendszer betegségeinek jellemzőit a megadott\nszempontok szerint! Irja a sorszámokat a megfelelő helyre!\n\n1. gyermekkorban és kamaszkorban jellemző\n2. általában felnőttkorban kezdődik\n3. oka nem ismert, az immunfolyamatok, az öröklött hajlam és a vírusfertőzés\nis szerepet játszhat a kialakulásában\n4. baktérium által kiváltott immunválasz miatt alakul ki\n5. megelőzésében fontos a góckutatás\n6. a nőknél magasabb az elfordulás gyakorisága\n\nA reumás láz jellemzői: ...\n\nA sokízületi gyulladás jellemzői: .....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Egészítse ki a keringés szervrendszerére vonatkozó meghatározásokat!\nA ... és a ... az ingerképző központ\ningerületét viszik át a kamrák izomzatára. Normál ingerképzés esetén először\na ..., majd a ... húzódnak össze.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "His-nyaláb/His-köteg, Purkinje-rostok, pitvarok, kamrák",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a felületes vénák gyulladásának lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "bőrpír a gyulladt véna felett\nmeleg tapintat\nmegkeményedett és tapintható véna\nnyomásérzékenység\nfájdalom\nhőemelkedés, láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a gégére vonatkozó helyes megállapításokat!\n- latin neve: pharynx\n- latin neve: larynx\n- a hangadás szerve\n- a nyelés szerve\n- egyik porca a gégefedő\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n- a hangszalagok között található a hangrés\n- a kannaporcok kiemelkedő szöglete az „ádámcsutka\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "latin neve: larynx\na hangadás szerve\negyik porca a gégefedő\na hangszalagok között található a hangrés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szénanátha lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vérbő kötőhártya, könnyezés, szemviszketés\n- duzzadt orrnyálkahártya, orrdugulás\n- gyakori tüsszentés\n- nagy mennyiségű, vízszerű orrváladék-ürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Jellemezze a köhögés két típusát!\nProduktív köhögés: \nImproduktív köhögés:",
+      "question_type": "open",
+      "correct_answer": "a beteg az ingerlő váladékot köpet formájában kiköhögi.\nköpetürítéssel nem járó, „száraz” köhögés.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel,\ntünetekkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. P-vitamin\n2. A-vitamin\n3. D-vitamin\n4. B12-vitamin\n5. B6-vitamin\n\nA. görcsös rohamok, hányás, hasmenés\nB. angolkór\nC. vészes vérszegénység\nD. ínyvérzés\nE. farkasvakság",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.- E., 3.-B...., 4.-...C..., 5.-A...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Malpighi-test\n- Bartholin-mirigy\n- neurocyta\n- Bowman-tok\n- Henle-kacs\n- myelinhüvelyek\n- elsődleges kanyarulatos csatorna\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- kötőhártya",
+      "question_type": "multiple_choice",
+      "correct_answer": "Malpighi-test\nBowman-tok\nHenle-kacs\nelsődleges kanyarulatos csatorna\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Nevezze meg a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "- idegi szabályozás\n- hormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Írja le magyarul, hogy az alábbi esetekben melyik anyag szaporodik fel a\nvizeletben!\n- proteinuria: ...\n- haematuria: ...\n- pyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fehérje\nvér\ngenny",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\nhere: ...\nherezacskó: ...\nhímvessző: ...\ndülmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "testis\nscrotum\npenis\nprostata",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- gáttájék, derék, hímvessző és herék fájdalma\n- gyakori vizelési inger\n- fájdalmas, égő vizelés\n- vizelési nehézség\n- véres vizelet\n- nehezített, fájdalmas merevedés és ejakuláció\n- telítettségi érzés a végbélben\n- hidegrázás, magas láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezze meg a másodlagos férfi nemi jelleg kialakításáért felelős\nhormonokat!",
+      "question_type": "open",
+      "correct_answer": "tesztoszteron\nandrogén hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a Basedow-kór lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "megnagyobbodott pajzsmirigy\nnagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\nszapora szívműködés\nszívdobogásérzés\njó étvágy melletti súlycsökkenés\nélénk bélmozgás, hasmenés\nnyirkos tenyér és talp\nállandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Sorolja fel az idegsejteket nyúlványaik alapján!",
+      "question_type": "open",
+      "correct_answer": "egynyúlványú (unipoláris)\nkétnyúlványú (bipoláris)\nálegynyúlványú (pszeudounipoláris)\nsoknyúlványú (multipoláris)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Írjon le a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Mi az irha feladata?\n- a faggyútermelés\n- a bőr szilárdságának, rugalmasságának biztosítása\n\nA nyelv melyik területén érezzük savanyú ízt?\n- a nyelv oldalsó szélein\n- a nyelvgyökön\n\nHol helyezkedik el az egyensúlyozó készülék?\n- a hátsó koponya gödörben helyezkedik el\n- a belső fülben helyezkedik el",
+      "question_type": "multiple_choice",
+      "correct_answer": "a bőr szilárdságának, rugalmasságának biztosítása\n\na nyelv oldalsó szélein\n\na belső fülben helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Nevezze meg a leírások alapján a szem fénytörő közegeit magyarul!\nAz elülső és hátulsó szemcsarnokot tölti ki:\n...\nBikonvex, átlátszó, víztiszta, rugalmas test, amit tok vesz körül:\n...\nA szem belsejét kitöltő, átlátszó, kocsonyás állományú anyag:\n...\nAlakja óraüveghez hasonlít, domború, átlátszó hártya, idegekben gazdag, de\nereket nem tartalmaz:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "csarnokvíz\nszemlencse\nüvegtest\nszaruhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Töltse ki az alábbi, fagyási sérüléssel kapcsolatos táblázatot!\n| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n|  |  |\n|  |  |\n|  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n| I. fokú fagyás | a bőr lilás, később kékes színű, vértelen, hideg és fájdalmas |\n| II. fokú fagyás | hólyagosodás jellemzi |\n| III. fokú fagyás | a bőr felső rétegei elhalnak, esetleg a bőr teljes mélységében is |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0610_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül ötöt!\n- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavartság",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\nHIS-köteg: ...\ncsontos labirintus: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szív\nfül\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azok a testidegen anyagok, amelyek a szervezetbe jutva immunválaszt\nváltanak ki, és ennek eredményeként specifikus ellenanyagok, illetve\nimmunsejtek képződnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa a krónikus gyulladás típusait és jellemzőit! Írja a sorszámok mellé\na helyes válasz betűjelét!\n1. exsudatív jellegű gyulladás\n2. alternatív jellegű gyulladás\n3. idült produktív gyulladás\nA. elfajulásos és elhalásos jelenségek,\nkötőszövetes átalakulás\nB. idült tályog, nyálkahártyák\nkrónikus hurutjai\nC. sejtdús sarjszövetképződés, sajátos\nformája a granulómás gyulladás",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-A., 3.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában\nrésztvevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg a csigolyák nyúlványait!",
+      "question_type": "fill_in",
+      "correct_answer": "- tövisnyúlvány\n- ízületi nyúlvány\n- harántnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az arthrosis lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- az ízület rugalmasságának csökkenése\n- ízületi fájdalom\n- ízületi merevség\n- ízület nyomásérzékenysége\n- mozgáskorlátozottság, az ízület mozgásterjedelmének beszűkülése\n- ízületi recsegés, ropogás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. A periféria felől, a hajszálér területéről a szív irányába szállítják a vért.\n\n2. Faluk rendkívül vékony, csak endothel sejtekből állnak.\n\n3. A vért a szívből a periféria felé juttatják.\n\n4. Itt történik meg az oxigén és a tápanyagok leadása a sejtek felé a sejt közötti\ntérbe, valamint a szén-dioxid és az anyagcseretermékek felvétele.\n\n5. Erőteljes összehúzódásra képesek, így továbbítják a vért a periféria felé.\n\n6. A felületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására\nfélhold alakú vagy zsebes billentyűk találhatók.\n\nVerőerek jellemzői: ...\nVisszerek jellemzői: ...\nHajszálerek jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5.\n1., 6.\n2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nvérbőség: ...\nhelyi vértelenség: ...\nvérzés: ...\nvérrögösödés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "hyperaemia\nischaemia\nhaemorrhagia\nthrombosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a légzésszámot növelő tényezőket!\n- a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\n- a vér vegyhatásának savas irányba tolódása\n- a vegetatív idegrendszer paraszimpatikus hatása\n- a vér hőmérsékletének emelkedése\n- a légzés akaratlagos visszatartása\n- mély alvás állapota\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\na vér vegyhatásának savas irányba tolódása\na vér hőmérsékletének emelkedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg a tápanyagokat funkciójuk szerint! Írjon csoportonként egy-egy példát! Töltse ki a táblázatot!\n\n| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n| sejtépítők |  |\n| energiaszolgáltatók |  |\n| biokatalizátorok |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n|  | fehérjék, zsírok, ásványi sók |\n|  | zsírok, szénhidrátok |\n|  | ásványi sók, vitaminok |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a garatgyulladás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- felső légúti vírus, vagy baktérium\n- forró, vagy túl hideg táplálék fogyasztása\n- a gyulladást állandósíthatja a dohányzás, rendszeres alkoholfogyasztás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\ngyomorkapu-szűkület/pylorusszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. Henle-kacs\n2. érgomolyag\n3. Bowman-tok\n4. glomerulus\n5. elsődleges kanyarulatos csatorna\n6. másodlagos kanyarulatos csatorna\n\nMalpighi-test része: .....\ntubulus része: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4.\n1., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a pyelonephritis acuta lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "borzongás, hidegrázás, magas láz\nvesetájéki érzékenység\nkínzó és gyakori vizelési inger\nrossz közérzet\nhányinger, hányás\nzavaros, gennyes vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse az fűtymaszűkület lényegét, gyógyításának lehetőségeit!\nLényege:\nGyógyítása:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról.\na fityma tágítása\na fityma eltávolítása\na fitymafék átvágása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Sorolja fel a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH (tüszőérést, ondósejtképződést serkentő hormon)\nLH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\nLTH (tejelválasztást szabályozó hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Ismertesse a külső elválasztású mirigyek jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- kivezető csövük van\n- váladékukat közvetlenül a külvilágba, vagy egy belső üregrendszerbe ürítik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n\nMilyen bőrtünete van az Addison-kóros betegnek?",
+      "question_type": "open",
+      "correct_answer": "...exophthalmus (kidülledt szem)......az arc duzzadt, kifejezéstelen......a bőr fokozottan pigmentált (sötét elszíneződésű)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő betegséghez! Irja a\nsorszámokat a megfelelő helyre!\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4., 6....\n1., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse a távollátást a megadott szempontok szerint!\nLényege:\nOka:\nFő tünete:\nKorrigálásának lehetősége:",
+      "question_type": "open",
+      "correct_answer": "A szemben az éles kép az ideghártya mögött keletkezik.\nA szemgolyó hossztengelye rövidebb az átlagosnál.\nA tompalátás.\nGyűjtőlencséjű szemüveg/kontaktlencse alkalmazása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Határozza meg a nyelv területeit az ízérzékelésnek megfelelően!\n- az édes íz érzékelésének helye:\n- a savanyú íz érzékelésének helye:\n- a keserű íz érzékelésének helye:\n- a sós íz érzékelésének helye:",
+      "question_type": "fill_in",
+      "correct_answer": "a nyelv hegye\na nyelv oldalsó szélei\na nyelvgyök\na nyelv oldalsó szélei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöbinger:\n...\nküszöb alatti inger:\n...\nminimális stimulus:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "olyan erősségű inger, amely idegimpulzust vált ki...\nolyan gyenge inger, amelyre az idegrost nem válaszol...\naz a legkisebb inger, amely egyetlen idegrostot képes ingerelni...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor közlendő információkat/adatokat! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e egyéb segítség (pl. műszaki mentés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_14_III_eumiii_191114_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyi érkatasztrófákra jellemző tünetek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nbénulások\nbeszédzavar\nzavart tudat",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Nevezze az emberi test részeit! Egészítse ki a táblázatot!\n\n| Az emberi test részei |  |\n|---|---|\n| magyar megnevezés | latin megnevezés |\n| fej |  |\n|  |  |\n| törzs |  |\n|  |  |\n| has |  |\n|  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emberi test részei |  |\n|---|---|\n| magyar megnevezés | latin megnevezés |\n|  | caput |\n| nyak | collum, cervix |\n|  | truncus |\n| mellkas | thorax |\n|  | abdomen |\n| medence | pelvis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző és vezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai csomó",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a meghatározott szempontok szerint!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. láz\n2. fájdalom\n3. pirosság\n4. melegség\n5. gyorsult vörösvérsejt-süllyedés\n6. működéscsökkenés (kiesés)\nA gyulladás helyi tünetei: ...\nA gyulladás általános tünetei: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4., 6....\n1., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Ismertesse a Bechterew-kór lényegét, tüneteit!\nLényege: Elsősorban a csigolyák ízületeire korlátozódó krónikus ízületi\ngyulladás.\nTünetei: Írjon kettőt!\n- a gerincmozgások beszűkülése\n- fokozott háti görbület\n- a csigolyák összecsontosodása",
+      "question_type": "open",
+      "correct_answer": "Elsősorban a csigolyák ízületeire korlátozódó krónikus ízületi gyulladás.\na gerincmozgások beszűkülése\nfokozott háti görbület\na csigolyák összecsontosodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a medencecsontot alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- sipoly\n- fájdalom\n- alakváltozás\n- izomsorvadás\n- fekély\n- mozgáskiesés\n- vérömleny\n- vérmérgezés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás\nmozgáskiesés\nvérömleny",
+      "options": [
+        "sipoly",
+        "fájdalom",
+        "alakváltozás",
+        "izomsorvadás",
+        "fekély",
+        "mozgáskiesés",
+        "vérömleny",
+        "vérmérgezés"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Csoportosítsa a szívbillentyűk típusaihoz előfordulásuk helyét!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. nagy artériák szájadékában\n2. jobb pitvar és kamra között\n3. fő visszerekben\n4. bal pitvar és kamra között\nZsebes billentyű: ...., .... \nKéthegyű vitorlás billentyű: .....\nHáromhegyű vitorlás billentyű: .....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n4.\n2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\n\nHány perc a véralvadás normális ideje szobahőmérsékleten?",
+      "question_type": "open",
+      "correct_answer": "...megnő a véralvadási idő...\n... 5-7 perc ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot, amelyek a vérben alkalosist\nidéznek elő!",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú hányás\n- hasmenés\n- légzészavarok (fokozott szén-dioxid leadás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\ntágulnak",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás:\n\nReziduális levegő:",
+      "question_type": "open",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l).\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légmell (pneumothorax) tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- mellkasi szúró fájdalom\n- kínzó fulladás, nehézlégzés\n- szapora, felületes légzés\n- sápadtság\n- cianózis\n- verítékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul a vékonybél részeit!",
+      "question_type": "open",
+      "correct_answer": "duodenum\njejunum\nileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. B₁-vitamin\nA. angolkór\n2. B12-vitamin\nB. beriberi\n3. C-vitamin\nC. skorbut\n4. D-vitamin\nD. véralvadási zavar\n5. K-vitamin\nE. vészes vérszegénység",
+      "question_type": "matching",
+      "correct_answer": "B, E, C, A, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három, nemi érintkezés útján terjedő betegséget!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (syphilis)\nherpes genitalis\nAIDS",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Írja le magyarul, hogy az alábbi esetekben milyen kóros anyag szaporodik\nfel a vizeletben!\nProteinuria: ...\nHaematuria: ...\nPyuria:",
+      "question_type": "fill_in",
+      "correct_answer": "fehérje\nvér\ngenny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a férfi húgycső jellemzőit, elhelyezkedését! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hossza kb. 25 cm\n- két görbülete van\n- a húgyhólyagból való kilépésénél záróizom található, amely akarattól függetlenül működik\n- átfúrja a dülmirigyet, majd a gátat\n- az akarattól függő záróizom a gát magasságában található\n- belép a hímvessző hátsó részébe\n- a makk csúcsán nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\n\nMi borítja a méh falának belső rétegét?\n\nHol termelődik a progeszteron?\n\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "...a petevezeték...\n...méhnyálkahártya...\n...petefészekben...\n...myoma...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt hormonokat termelődési helyük\nszerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n1. inzulin\n2. ösztrogén\n3. parathormon\n4. progeszteron\n5. glükagon\npetefészek: ...., ....\nmellékpajzsmirigy: ......\nhasnyálmirigy: ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n3.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes megállapításokat!\n- az óriásnövés közvetlen oka a növekedési hormon túltermelődése\n- a diabetes insipidus tünete a bő vizelés és a szomjúságérzés\n- a strúma a mellékvese megnagyobbodásával járó kórkép\n- acromegalia esetén a csontvégek meghosszabbodnak\n- a mixödéma a pajzsmirigy fokozott működése miatt alakul ki\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetania\n- a hyperglykaemiás kómánál a lehelet aceton szagú\n- a Cushing-szindróma a mellékvesekéreg hormonjainak csökkent termelése\nmiatt alakul ki\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az óriásnövés közvetlen oka a növekedési hormon túltermelődése\na diabetes insipidus tünete a bő vizelés és a szomjúságérzés\nacromegalia esetén a csontvégek meghosszabbodnak\na hyperglykaemiás kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a neuron részeit! Egészítse ki a táblázatot!\n\n| latinul | magyarul |\n|----------|----------|\n| perikaryon/neurocyta |  |\n| dentrit |  |\n| nutrit/axon |  |\n| telodendrion |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| latinul | magyarul |\n|----------|----------|\n|  | idegsejt |\n|  | plazmanyúlvány |\n|  | idegnyúlvány |\n|  | végfácska |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- látászavar\n- akadozó beszéd\n- spasticus bénulás\n- mozgászavar\n- incontinentia\n- nyelési zavar\n- nystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!\nA. dobüreg\nB. csontos labirintus\nC. hártyás labirintus\nD. hallócsontok (kalapács, üllő, kengyel)\nE. fülkürt (Eustach-kürt)\nközépfül részei: ...\nbelső fül részei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A., D., E....\nВ., С....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertesse a carcinoma mammae lényegét és tüneteit!\nLényege: ...az emlő állományának rosszindulatú daganatos elfajulása...\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "az emlő állományának rosszindulatú daganatos elfajulása...\ntapintható csomó az emlőben\nnarancshéj-behúzódás a bőrön\nbefordult mellbimbó\na mellbimbó váladékozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Határozza meg az időfaktor lényegét, jelentőségét!\nLényege:\nAz időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a balesetes\nállapota. Magas az időfaktor, ha igen rövid idő alatt, igen sokat romlik a\nbalesetes állapota.\nJelentősége:\nA segélynyújtó ténykedéseinek sorrendjét az időfaktor határozza meg.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a balesetes\nállapota. Magas az időfaktor, ha igen rövid idő alatt, igen sokat romlik a\nbalesetes állapota.\nA segélynyújtó ténykedéseinek sorrendjét az időfaktor határozza meg.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_13_I_eumi_190213_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül hatot!\n- helyzetfelmérés\n- tájékozódás a történtekről\n- esetleges újabb balesetveszély elhárítása\n- a sérült állapotának megfelelő elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- mentőhívás/segítségkérés\n- a sérült felügyeletének biztosítása",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás/segítségkérés\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Sorolja fel a kórfolyamat szervezetkárosító hatásának mértékét befolyásoló\ntényezőket!",
+      "question_type": "open",
+      "correct_answer": "a kórok behatolásának helye, a behatolási kapu\nelsődleges lokalizáció, helyi tünetek\náltalános hatás\na kórfolyamat terjedése\na betegség lefolyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a betűjelek mellé a helyes válasz\nsorszámát!\n\nA. nyílirányú sík\nB. közép, vagy medián sík\nC. homlokirányú, vagy frontális sík\nD. vízszintes, vagy horizontális sík\n\n1. a homlok síkjával párhuzamosan fut\n2. a medián síkkal párhuzamos\n3. a homloksíkra merőleges\n4. a testet jobb és bal testfélre osztja",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2....., B.-...4...., C.-...1...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Írja le a magzati koponya sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes lemezei kb. 1-1,5 éves korig fokozatosan csontosodnak el\n- a homlokcsont és a két falcsont közt található kötőszöveti lemez a papírsárkány alakú nagykutacs\n- a nyakszirtcsont és a két falcsont közt található a háromszög alakú kiskutacs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 1,
+      "question_text": "A vérplazma fehérjéinek ozmotikus nyomása:",
+      "question_type": "multiple_choice",
+      "correct_answer": "csökkenti",
+      "options": [
+        "növeli",
+        "csökkenti",
+        "nem befolyásolja"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a veleszületett csípőficamot a megadott szempontok szerint!\nA betegség lényege:\n...\nKezelésének lehetőségei: Írjon kettőt!\n-\n-\n-\nMegelőzése:\n...",
+      "question_type": "open",
+      "correct_answer": "A combcsont ízületi feje elhagyja az ízületi vápát és ott rögzül, illetve a\ncsípőízületi vápa és a combfejecs veleszületetten fejletlen....\nizomerősítés\ngyógytorna\nszükség esetén műtét\nA minél korábbi felismerésében fontos a korai szűrés, szervezett\nszűrővizsgálatok (születéskor, majd 3-4 hetes, illetve 3-4 hónapos korban)....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a keringés szervrendszerére vonatkozó meghatározásokat!\nA sinuscsomó a jobb pitvar falában az... ingerképző központ, amely\npercenként ... ingert bocsát ki.\nA pitvar-kamrai csomó, mint másodlagos ingerképző központ, a ...\nalsó részében..., a ... felett helyezkedik el.\nA... a pitvar-kamrai csomóból indul ki, majd két szárra\nválva a kamrákat elválasztó sövényen húzódik lefelé.",
+      "question_type": "fill_in",
+      "correct_answer": "elsődleges\n60-80\njobb pitvar\na pitvar-kamrai határ\nHis-nyaláb/His-köteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, mely a véráramba jutva embóliát okozhat!",
+      "question_type": "open",
+      "correct_answer": "- thrombus\n- zsír\n- csontvelő\n- magzatvíz\n- gáz\n- levegő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja a sorszámokat a megfelelő helyre!\n1. a tüdő szövetét táplálja\n2. a mellkasi aortából ágazik el\n3. a szív jobb kamrájából indul\n4. a tüdő szövetét nem táplálja\n5. a gázcsere lebonyolításában nincs feladata\n6. a gázcseréhez szükséges vért szállítja\ntruncus pulmonalis rendszer: ...\narteria bronchialis rendszer: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6....\n1., 2., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Ismertesse a COPD betegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az alsó légutak, vagyis a tüdőn belüli légutak tartós beszűkülésével járó\nkrónikus obstruktív légúti betegség....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes megállapításokat!\n- A vastagbél a tápcsatorna leghosszabb szakasza.\n- A vastagbél nyálkahártyája jellegzetesen redőzött, bélbojhok nincsenek rajta.\n- A maradéknitrogén a fehérje-anyagcsere során keletkező bomlástermék.\n- A maradéknitrogén a zsíranyagcsere során keletkező bomlástermék.\n- A székletürítés reflexfolyamat, amely akaratlagosan is szabályozható.\n- A gyomorban szénhidrát és fehérjeemésztés zajlik.\n- A gyomor fundus-mirigyeinek fősejtjei enzimet, a fedősejtek pedig sósavat\ntermelnek.\n- A közös epevezeték és a pancreas vezetéke a Bauhin-billentyűn keresztül üríti\nváladékát a patkóbélbe.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A maradéknitrogén a fehérje-anyagcsere során keletkező bomlástermék.\nA székletürítés reflexfolyamat, amely akaratlagosan is szabályozható.\nA gyomor fundus-mirigyeinek fősejtjei enzimet, a fedősejtek pedig sósavat\ntermelnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az akut hasi katasztrófához vezető kórképek közül!",
+      "question_type": "open",
+      "correct_answer": "gyomorperforáció\nbélelzáródás\nakut hasnyálmirigy-gyulladás\nléprepedés\nméhen kívüli terhesség\nkizárt sérv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a vesekapu (hilus renalis) képletei közül!",
+      "question_type": "open",
+      "correct_answer": "veseartéria\nvesevéna\nhúgyvezeték\nnyirokerek\nidegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Ismertessen az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "- emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr-, és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a férfi nemi szervek magyar, vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| A férfi nemi szervek megnevezése |  |\n|---------|---------|\n| magyarul | latinul |\n| mellékhere |  |\n| dülmirigy | prostata |\n| ondóhólyag |  |\n| here | testis |\n| herezacskó |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A férfi nemi szervek megnevezése |  |\n|---------|---------|\n| magyarul | latinul |\n|  | epididymis |\n|  |  |\n|  | vesicula seminalis |\n|  |  |\n|  | scrotum |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Soroljon fel a női klimax lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- alvászavarok\n- fejfájás\n- ingerlékenység, depresszió\n- hőhullámok\n- szédülés\n- fülzúgás\n- elhízás\n- csontritkulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Ismertesse a mineralokortikoidok (aldoszteron) hatását!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a vesecsatornákban a víz és a nátrium visszaszívását\n- fokozzák a kloridion visszatartását\n- fokozzák a káliumion ürítését",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. acromegalia\n2. Cushing-szindróma\n3. Conn-szindróma\n4. Basedow-kór\n5. myxoedema\n6. gigantizmus\n\nAz agyalapi mirigy megbetegedése: ...., .... \nA pajzsmirigy megbetegedése: ...., ....\nA mellékvesekéreg megbetegedése: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 6., 4., 5., 2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- paresztézia: ...\n- nystagmus: ...\n- ataxia: ...\n- tremor: ...",
+      "question_type": "fill_in",
+      "correct_answer": "álérzékelés, fonák érzés, az érzékszervek érzékelési zavara...\nszemtekerezgés, a szemgolyó akaratlan ingamozgása...\na mozgások összerendezésének zavara, egyensúlyzavar...\nakarattól független remegés...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a harmadlagos agykérgi központok közül!",
+      "question_type": "open",
+      "correct_answer": "- beszédértő központ\n- a beszéd motoros központja\n- az írás, olvasás központja\n- a jövő agykérgi területe\n- a múlt kérgi területe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az érzékszervekkel kapcsolatos kérdésekre!\nA bőr melyik rétegében helyezkednek el a faggyúmirigyek?",
+      "question_type": "fill_in",
+      "correct_answer": "az irhában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Párosítsa a bőrbetegségekhez jellemzőiket! Írja a betűjelek mellé a helyes\nválasz sorszámát!\nA. seborrhoea\nB. psoriasis\nC. scabies\nD. pyoderma\n\n1. A könyök- és térdtájékon, a hajlatokban, és a hajas fejbőrön lencse, vagy\npénzérme nagyságú felrakódások.\n2. Fokozott faggyútermelés, megváltozik a termelt faggyú összetétele is, a\nfejbőrön lemezes hámlás látható.\n3. Fekély, gennyképződés, bűzös váladékozás, szövetelhalás, az érintett terület\nvizenyős és duzzadt.\n4. Vakarási nyomok a testhajlatokban, az övtájékon, finom zegzugos\nvonalrajzolat, apró járatok láthatóak a bőrben.\nΑ.-......, Β.-......, С.-......, D.-......",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...1...., С.-...4...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a koponyaűri vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "rövid ideig tartó eszméletvesztést követő feltisztulás, később ismét eszméletvesztés\nfejfájás\nszédülés\nhányás\nfokozódó zavartság\negyenlőtlen pupillák (a vérzés oldalán az agynyomás-fokozódásával párhuzamosan a pupilla tágul)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_III_EUMIII_0906_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá az újraélesztéssel kapcsolatos helyes megállapításokat!\n- Két segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint 1 percenként cseréljenek.\n- Két segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint 2 percenként cseréljenek.\n- A biztonságos környezet megteremtését követően első lépés a légutak\nfelszabadítása, szabaddá tétele.\n- Normál légzés fennállása esetén a sérültet nyugalomba kell helyezni és\nfolyamatosan ellenőrizni kell a légzését a mentő megérkezéséig.\n- A segélynyújtónak legelőször a biztonságos környezet megteremtéséről kell\ngondoskodnia.\n- Felnőttek esetén mellkaskompresszió során a mellkast körülbelül 4-8 cm\nmélységben kell lenyomni 100-120/perces frekvenciával.\n- A légzés vizsgálatot 15 másodpercig kell végezni.\n- A légzés vizsgálatot 10 másodpercig kell végezni.\n- Felnőttek esetén körülbelül 5-6 cm mélységben, 100-120/perces frekvenciával\nkell végezni a mellkaskompressziókat.",
+      "question_type": "multiple_choice",
+      "correct_answer": "Két segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint 2 percenként cseréljenek.\nA biztonságos környezet megteremtését követően első lépés a légutak\nfelszabadítása, szabaddá tétele.\nA segélynyújtónak legelőször a biztonságos környezet megteremtéséről kell\ngondoskodnia.\nFelnőttek esetén körülbelül 5-6 cm mélységben, 100-120/perces frekvenciával\nkell végezni a mellkaskompressziókat.",
+      "options": []
+    }
+  }
+]

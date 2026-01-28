@@ -1,0 +1,317 @@
+[
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok\nfeladataival! Írja a sorszám mellé a helyes válasz\nbetűjelét!\n\n1. T-lymphocyta\nA. fagocitózis\n2. B-lymphocyta\nB. sejtes immunválasz\n3. granulocyta és monocyta\nC. humorális immunválasz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...B...\n2.- ...C...\n3.- ...Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel az élő kórokozók közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\negysejtű állatok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyílvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\n\nOka:\n\nTünetei: Írjon kettőt!\n-\n-\n-\nA betegség megelőzése:",
+      "question_type": "open",
+      "correct_answer": "A napfény ultraibolya sugarainak hiánya miatt elmarad a D-vitamin\nképződése (a bőrben lévő ergoszterinből nem keletkezik D-vitamin), így\na mészsók nem épülnek be a csontokba.\n\na csontok lágyak, görbültek\ngerincferdülés\nó-láb vagy x-láb\n\nD3-vitamin adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Soroljon fel a jobbszívfél-elégtelenség\n(cardialis decompensatio) tünetei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "nagyvérköri pangás\ncyanosis (szederjesség)\ncardialis oedema (boka, lábszár, hasvízkór)\ntelt nyaki vénák\nnappali vizelet mennyisége csökken\néjszakai vizelés (nocturia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Ismertesse a lép feladatait!",
+      "question_type": "open",
+      "correct_answer": "lymphocytaképzés\na vér raktározása\nvörösvértestek lebontása\nvérlemezkék lebontása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés)\nlehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "lázas állapot\nszívizomgyulladás\nfokozott pajzsmirigyműködés\nszívelégtelenség\nvérszegénység\negyes gyógyszerek szedése pl: atropin\nélvezeti szerek fogyasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső és alsó részébe került idegen anyag, és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\nszűkülnek",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a\nrájuk jellemző kóros légzésformával! Írja a betegségek\nsorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\ndyspnoe: ...\n\nKussmaul-légzés: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3, 4\n1, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Rendelje a felszívódás helyéhez a felszívott tápanyag\nsorszámát! Írja a sorszámot a megfelelő helyre!\n1. víz\n2. zsírok\n3. nincs tápanyag felszívódás\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\ngyomorban: ......\nvékonybélben: ......\nvastagbélben: ......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél részeit magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "patkóbél - duodenum\néhbél - jejunum\ncsípőbél - ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros\nvizelettípusokkal! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. cukorbetegség\n2. glomerulonephritis\n3. vesemedence-gyulladás\n4. sárgaság\n\nA. fehérjevizelés\nB. gennyvizelés\nC. acetonvizelés\nD. bilirubin a vizeletben\n\n1.-... , 2.-... , 3.-... , 4.-...",
+      "question_type": "matching",
+      "correct_answer": "C, A, B, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nkarbamid\nurobilinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Sorolja fel a méh falának rétegeit latinul és magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "perimetrium - a hashártya által borított külső réteg\nmyometrium - középső (legvastagabb) réteg, az izomzat\nendometrium - belső réteg, a nyálkahártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\nA betegség lényege:\nTünetei: Írjon kettőt!\n- \n- \n- \nKezelése:\n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\nmegnövekszik a herezacskó\nnyomásérzékenység\nesetenként fájdalom\nsebészi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH (folliculusstimuláló hormon)\nLH (luteinizáló hormon)\nLTH (luteotrop hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "endokrin (belső elválasztású) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nalacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Egészítse ki a táblázatot a latin, illetve magyar\nmegfelelőkkel!\n\n| latin | magyar |\n|---|---|\n| paresis |  |\n|  | bénulás |\n|  | remegés (akarattól független) |\n| rigor |  |\n|  | beszédzavar |\n| atrophia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---|---|\n|  | izomgyengeség |\n| paralysis |  |\n| tremor |  |\n|  | izomtónus - fokozódás |\n| aphasia |  |\n|  | izomsorvadás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Ismertesse az agyhártyagyulladás (meningitis) lehetséges okait, tüneteit!\nOkai: Írjon kettőt!\nTünetei: Írjon négyet!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- baktériumok okozta fertőzés\n- vírusok okozta fertőzés\n- gombák okozta fertőzés\n- paraziták okozta fertőzés\n- heves fejfájás\n- fény-, zajérzékenység\n- magas láz\n- zavart tudat\n- aluszékonyság\n- hányás\n- „vadászkutyafekvés\"",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- csontos labirintus\n- hallócsontok\n- hártyás labirintus\n- dobhártya\n(Csak a két helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": [
+        "dobüreg",
+        "csontos labirintus",
+        "hallócsontok",
+        "hártyás labirintus",
+        "dobhártya"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az emlőgyulladás (mastitis) tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "emlőfájdalom\nemlőduzzanat\nélénkpiros színű bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját!",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertessen öt fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_I_eumI_0120_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hőguta jellemző tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött van",
+      "options": []
+    }
+  }
+]

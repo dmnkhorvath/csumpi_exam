@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A hasonló alakú, azonos funkciójú, közös eredetű sejtek összességét, a hozzá tartozó sejtközötti állománnyal együtt szövetnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\njelentésüket!\n\n| latin | magyar |\n|---|---|\n| akut |  |\n| krónikus |  |\n| morbus |  |\n| reverzíbilis |  |\n| benignus |  |\n| degeneráció |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---|---|\n|  | heveny |\n|  | idült |\n|  | betegség |\n|  | visszafordítható |\n|  | jóindulatú |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel az izmok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\nínhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a tünetek mellé a betegség sorszámát!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ......\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ......\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ......\nLógó lábfej, befelé néző talp: ......\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: .......",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Ismertesse az angina pectoris során jelentkező fájdalmat a megadott szempontok szerint!\nA fájdalom helye:\n- a szegycsont mögött\nA fájdalom jellege:\n- szorító, markoló fájdalom\nA fájdalom kisugárzása:\n- nyak bal oldala\n- bal váll, bal kar\n- lapockák közé\n- gyomorgödörbe",
+      "question_type": "open",
+      "correct_answer": "- a szegycsont mögött\n- szorító, markoló fájdalom\n- nyak bal oldala\n- bal váll, bal kar\n- lapockák közé\n- gyomorgödörbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n\nHol történik a vörösvérsejtek képzése?\n\nHol történik a vörösvérsejtek lebontása?",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben\na vörös csontvelőben\na lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\n...\nHogyan hat a Ca hiánya az izomműködésre az emberi szervezetben?\n...",
+      "question_type": "open",
+      "correct_answer": "megnő a véralvadási idő...\nizomgörcsök lépnek fel...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orr feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\na belélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg a légutak allergiás betegségeit!",
+      "question_type": "open",
+      "correct_answer": "szénanátha\ngégevizenyő\ntüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q011_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q012_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 8,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az\nalábbiakban megadott szempontok szerint!\n\nLényege:\n\nOka: Írjon kettőt!\n\nTünetek: Írjon ötöt!",
+      "question_type": "fill_in",
+      "correct_answer": "A májsejtek pusztulásával járó krónikus betegség.\n\ntúlzott alkoholfogyasztás\nfertőzés\n\nhaspuffadás\nnyomásérzékenység a jobb bordaív alatt\ntesttömegcsökkenés\nfakó, enyhén sárga színű bőr\nbőrviszketés\nhasvízkór\nbőrön csillag alakú értágulatok\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok\nepeutak, epehólyag idült gyulladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy alkotóelemet, amelyet a normál\nvizelet tartalmaz!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és kezelési\nlehetőségeit!\nLényege:\n- a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\nKezelése:\n- a hiba rendszerint spontán rendeződik a növekedés során\n- hormonkezelés végezhető 5-7 éves kor között\n- hormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "question_type": "open",
+      "correct_answer": "a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\na hiba rendszerint spontán rendeződik a növekedés során\nhormonkezelés végezhető 5-7 éves kor között\nhormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Fogalmazza meg a belső elválasztású mirigyek jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "Azok a mirigyek, amelyeknek kivezető csövük nincs, váladékuk a különböző\nhormonok, melyek a keringésbe kerülnek, és általában a mirigytől távol\nfejtik ki a hatásukat. Váladéktermelésüket elválasztásnak nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatására bekövetkező változásokat! Egészítse ki a táblázatot!\n\n|  | adrenalin, noradrenalin hatására |\n|---------|---------|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatására |\n|---------|---------|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- halántéki lebeny\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Csoportosítsa a tüneteket a megfelelő betegségekhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség,\n\"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nagyhártyagyulladás: ...\nepilepsziás nagy roham:: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a szem részeit és jelentőségüket!\nÍrja a betűjelek mellé a helyes sorszámokat!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nFajtái: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.\nvágott seb\nszúrt seb\nharapott seb\nhorzsolt seb\nzúzott seb\nlőtt seb\nroncsolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_januar_20_II_eumII_0120_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések\ntípusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "marószermérgezés (sav- és lúgmérgezés)\nalkoholmérgezés\nételmérgezés\nmérgező növények\ngyógyszermérgezések (altatószer-mérgezés)\nnövényvédőszer-mérgezés\ngázmérgezések (szén-monoxid-, szén-dioxid-, klórgáz-, nitrózus\ngázmérgezés)\ngombamérgezés",
+      "options": []
+    }
+  }
+]

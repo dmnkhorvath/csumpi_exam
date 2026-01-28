@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden az alábbi kóros szövetelváltozások lényegét!\n- infarktus: ...\n- felfekvés (decubitus): ...\n- lágyulásos elhalás (colliquatio): ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a tápláló erek elzáródása miatt ék alakú elhalás következik be pl. a szívben, tüdőben, vesében...\nnyomás hatására kialakuló elhalás...\naz elhalt rész elfolyósodik, főleg az agyban fordul elő...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Sorolja fel a hámszövetek fajtáit a felépítő sejtek alakja alapján!",
+      "question_type": "open",
+      "correct_answer": "- laphám\n- köbhám\n- hengerhám",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Ismertesse a fertőző betegségek megelőzésének alapvető tényezőit!",
+      "question_type": "open",
+      "correct_answer": "- higiénés viszonyok javítása\n- közegészségügyi munka\n- a szervezet ellenálló képességének növelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a megadott ízületekhez az ízülettípusokat! Írja a sorszámok mellé\na helyes válasz betűjelét!\n1. keresztcsont-csípőcsontízület\n2. vállízület\n3. hüvelykujj kéztő és kézközép közötti ízület\n4. csuklóízület",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Α...., 3.-...D...., 4.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a dongaláb megbetegedést a megadott szempontok szerint! Írjon hármat-hármat!\nTünetei:\n- Gyógyításának, kezelésének lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "- lógó lábfej\n- befelé forduló talpak\n- magasan álló sarok\n- bizonytalan állás, járás\n- korrekció gipszeléssel, tartó- és rögzítősínekkel\n- gyógytorna\n- masszázs\n- ortopédiai cipő alkalmazása\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a sorszámokat a megfelelő\nhelyre!\n\n1. innen indul ki a tüdőverőér\n2. fala kb. 15-20 mm vastag\n3. fala kb. 5 mm vastag\n4. vénás vér található benne\n5. artériás vér található benne\n\nbal kamra jellemzői: ...\njobb kamra jellemzői: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5....\n1., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Nevezze meg a vizeletelvezető rendszer részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- vesepiramisok gyűjtőcsatornái\n- vesekelyhek\n- vesemedence\n- húgyvezeték\n- húgyhólyag\n- húgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan tényezőt, amely a vérrögösödés kialakulásában szerepet játszhat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása (pl. vénás pangás)\n- nagy hasi műtétek utáni állapotok\n- szülés utáni állapotok\n- az erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\n- a vér összetételének megváltozása\n- az alvadási fehérjék kóros szintje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a légcsőre vonatkozó helyes megállapításokat!\nbelső felszínét nyálkahártya borítja\nbelső felszínét csillószőrös hengerhám borítja\nszimmetrikusan két főhörgőre ágazik\na benne elhelyezkedő hangszalagokat a levegő megrezegteti\na gégét a tüdővel köti össze\nC-alakú porcokból álló cső\nlatin neve: trachea\nlatin neve: pharynx\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "belső felszínét csillószőrös hengerhám borítja\nszimmetrikusan két főhörgőre ágazik\na gégét a tüdővel köti össze\nC-alakú porcokból álló cső\nlatin neve: trachea",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztma lényegét és lehetséges tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Lényege: ... a hörgők falában lévő simaizomzat görcse, melyet a kishörgők\nnyálkahártyájának duzzanata kísér...\n\nLehetséges tünetei: Írjon ötöt!\n- rohamszerűen jelentkező légszomj\n- légzési zörejek\n- köhögés\n- tapadós, üveges-nyákos köpet ürítése\n- kapkodó, rövid belégzés után hosszan elnyújtott, sípoló kilégzés\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epe összetevői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- epesavak\n- epesavak sói\n- koleszterin\n- lecitin\n- szervetlen sók\n- nyákanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa a gyomorszekréció fázisaihoz leírásukat! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. cephalicus fázis\n2. gasztrikus fázis\n3. intestinalis fázis\n\nA. a bélbe jutott étel visszahat a gyomorszekrécióra\núgy, hogy fenntartja azt\nB. az ételekkel kapcsolatos feltételes ingerek\nmegindítják a gyomornedv-szekréciót\nC. a tápláléknak a gyomor nyálkahártyájával való\nérintkezése indítja meg a gyomornedv-\nelválasztást idegi reflexek, valamint hormonális\nhatás révén",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Nevezzen meg az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- csökkent folyadékbevitel\n- a szervezet fokozott folyadék leadása\n- nagyfokú ödémaképződés\n- veseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Soroljon fel kettőt a mellékpajzsmirigy túlműködésének lehetséges okai\nközül!",
+      "question_type": "open",
+      "correct_answer": "- a mellékpajzsmirigy szöveteinek túltengése\n- daganat\n- a vér kalcium-szintjének kóros csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Írja le a méhnyálkahártya felépülésének és lelökődésének fázisait latin szakkifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "regeneratio/regeneráció\nproliferatio/proliferáció\nsecretio/szekréció\nmenstruatio/menstruáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a gonorrhoeát a megadott szempontok szerint!\n\nA betegség kórokozója:\n...\n\nA betegség tünetei:\n- \n- \n\nLehetséges szövődményei: Írjon kettőt!",
+      "question_type": "fill_in",
+      "correct_answer": "Baktérium (gonococcus)...\nférfiaknál gennyes húgycsőfolyás\nnőknél gennyes-nyákos folyás\nheregyulladás\nprosztatagyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul az agyvelő és a gerincvelő burkait!",
+      "question_type": "open",
+      "correct_answer": "kemény agyburok\npókhálóhártya\nlágy agyhártya, vagy érhordozó hártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását! Egészítse ki a táblázatot!\n\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| pulzusszám |  |\n| légzésszám |  |\n| perifériás erek |  |\n| bélműködés |  |\n| vércukorszint |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n| pulzusszám | emelkedik |\n| légzésszám | emelkedik |\n| perifériás erek | szűkülnek |\n| bélműködés | perisztaltika csökken/lassul |\n| vércukorszint | emelkedik |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megadottak szerint! Írja a sorszámokat\na megfelelő helyre!\n\n1. tarkókötöttség, „vadászkutyafekvés\"\n2. beszédzavar\n3. magas láz\n4. fénykerülés\n5. hemiparesis\n6. érzészavarok\n\nAgyvérzés tünetei: ...\n\nAgyhártyagyulladás tünetei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Sorolja fel a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "- szőrszálak\n- faggyúmirigyek\n- verejtékmirigyek\n- körmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a granuláris kötőhártya-gyulladás okát és lehetséges tüneteit!\nOka:\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "...baktériumfertőzés...\nkönnyezés\nfényérzékenység\na szaruhártyára és a szemhéjra is ráterjedő gyulladás\nhegesedve gyógyuló csomók kialakulása\na szemrés beszűkülése\nlátáscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül felnőttek esetén – az égett területek felmérésére\nszolgáló 9-es szabály alapján – a 9%-nak megfelelő területeket!\n- a fej\n- a gáttájék\n- egy felső végtag\n- a mellkas\n- egy alsó végtag\n- a mellkas háti felszíne\n- egy alsó végtag a térdtől lefelé\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a fej\negy felső végtag\negy alsó végtag a térdtől lefelé",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_V_eumv_210915_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a bordatörés fajtáit és lehetséges tüneteit!\nFajtái:\n\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- egyszerű\n- sorozatos\n- ablakos\n- felületes légzés\n- fulladásérzés\n- fájdalom\n- haematoma",
+      "options": []
+    }
+  }
+]

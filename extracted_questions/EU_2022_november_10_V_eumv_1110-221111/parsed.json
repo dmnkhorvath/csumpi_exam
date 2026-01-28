@@ -1,0 +1,320 @@
+[
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMilyen agglutinin található a B-vércsoportú ember szérumában?",
+      "question_type": "fill_in",
+      "correct_answer": "anti-A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Soroljon fel az élettelen kórokok közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- mechanikai hatások\n- elektromos áram\n- sugárzó energia\n- hőártalom\n- légnyomás változása\n- meteorológiai tényezők\n- kémiai ártalmak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül azokat, amelyeket a pikkelyvarrat\nköt össze!",
+      "question_type": "multiple_choice",
+      "correct_answer": "halántékcsont\nfalcsont",
+      "options": [
+        "halántékcsont",
+        "ékcsont",
+        "falcsont",
+        "nyakszirtcsont",
+        "homlokcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa az izmokat jellemzőjükkel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. deltaizom\n2. a láb izmai\n3. felkarizom\n4. hasizom\nA. hajlítóizma a musculus biceps\nB. főleg széles, lapos izomból áll\nC. rövid, kicsi izmokból áll\nD. részt vesz a váll jellegzetes alakjának kialakításában",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-A..., 4.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontritkulás gyógyításának, kezelésének lehetőségei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszeres kezelés\n- diéta\n- életmódváltás\n- a fizikai aktivitás növelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Nevezzen meg az angina pectoris jellemző tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hideg, verítékes bőr\n- szapora, elnyomható pulzus\n- nyomásérzés a mellkasban\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik: hátba, bal karba, vállba\n- halálfélelem\n- nyugtalanság, szorongás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a sorszámokat a megfelelő\nhelyre!\n1. ide ömlik a négy tüdővéna\n2. fala kb. 5 mm vastag\n3. fala kb. 2 mm vastag\n4. artériás vér található benne\n5. vénás vér található benne\n6. innen indul ki a tüdőverőér\njobb kamra jellemzői: ...\nbal pitvar jellemzői: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a gégevizenyő lényegét, veszélyét és lehetséges okait!\nLényege és veszélye:\n...\n A vizenyő gyorsan alakul ki, a duzzadt szövetek elzárják a levegő útját, ami\n állapotot jelenthet....\nLehetséges okai: Írjon hármat!\n- maró gázok, gőzök belégzése\n- rovarcsípés\n- egyéb allergizáló tényezők (pl. élelmiszerek, gyógyszerek)\n- a gége sérülése, gyulladása\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetnek a vizenyője.\néletveszélyes",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem tartozik a szív ingerképző rendszeréhez?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel a légzés megfigyelésénél feljegyezendő szempontokat!",
+      "question_type": "open",
+      "correct_answer": "a légzés száma\na légzés mélysége\na légzés ritmusa\na légzés hangja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a refluxbetegség lehetséges szövődményei közül!",
+      "question_type": "open",
+      "correct_answer": "- nyelőcsőgyulladás\n- nyelőcsőfekély\n- vérzés\n- nyelőcsőszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg a tápanyagokat funkciójuk szerint! Írjon csoportonként egy-egy példát! Töltse ki a táblázatot!\n\n| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n| sejtépítők |  |\n| energiaszolgáltatók |  |\n| biokatalizátorok |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n|  | fehérjék, zsírok, ásványi sók |\n|  | zsírok, szénhidrátok |\n|  | ásványi sók, vitaminok |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Ismertesse a vese koncentrációs munkájának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Amikor a szervezettől megvonjuk a folyadékot, a vizelet besűrűsödik, mert a vesék kevesebb folyadékban választják ki ugyanazt a bomlástermék mennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "- emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr-, és nyálkahártyavérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa a női nemi szervekhez jellemzőiket, leírásukat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. hüvely\nA. rugalmas izomcsatorna, amely méhnyakat és\na vulvát köti össze\n\n2. petevezeték\nB. a hüvelybemenetet két oldalról körülvevő,\nfőként zsírszövetből álló bőrredők\n\n3. méh\nC. mandula alakú páros szerv, a nagy és a\nkismedence határán helyezkedik el\n\n4. petefészek\nD. kb. 12 cm hosszú, páros, hullámos lefutású\ncsatorna, a petesejt továbbítására szolgál\n\n5. nagyajkak\nE. a kismedence közepén a hólyag és a végbél\nközött helyezkedik el",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...D...., 3.-...E..., 4.-...C...., 5.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel az andropauza jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- fizikai és szellemi teljesítőképesség csökken\n- pszichés változások\n- androgén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!\nLényege:\n...A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség....\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség....\ngyógyszeresen nem befolyásolható magas vérnyomás\ncsökkent vér K-szint\nizomfájdalom\nizomgyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Írja le a neuroendokrin rendszerrel kapcsolatos szakkifejezések latin, vagy\nmagyar megnevezését! Egészítse ki a táblázatot!\n\n| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| agyalapi mirigy elülső lebenye |  |\n|  | sella turcica |\n| mellékvese |  |\n|  | glandula thyreoidea |\n| csecsemőmirigy |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | adenohypophysis |\n| töröknyereg |  |\n|  | glandula suprarenalis |\n| pajzsmirigy |  |\n|  | thymus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5. pont",
+      "points": 10,
+      "question_text": "A következők közül melyik nem a szív ingerképző- és vezetőrendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gerincvelői reflexeket a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. talpreflex\n2. hashártyai reflex\n3. hasbőrreflex\n4. hólyagreflex\n5. feszítési reflex\n\nVegetatív reflex: ...., .... \nBőreredetű reflex: ...., .... \nIzomeredetű reflex: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n1., 3....\n5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Nevezzen meg az agyembólia lehetséges okai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "- thromboembolia\n- zsírembólia\n- légembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- az ideghártya leválása nem jár fájdalommal\n- a zöldhályog hirtelen kialakuló szembetegség\n- myopia esetén a szemgolyó hossztengelye az átlagosnál rövidebb\n- heveny fülkürtgyulladás esetén jó hatású a melegterápia alkalmazása\n- Méniére-betegség esetén a belső fül folyadéktereiben a nyomás\nmegemelkedik\n- psoriasis során fokozódik a faggyútermelés\n- a basalioma rosszindulatú festékes bőrdaganat\n- az övsömör bármely életkorban előfordulhat, oka vírusfertőzés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az ideghártya leválása nem jár fájdalommal\nheveny fülkürtgyulladás esetén jó hatású a melegterápia alkalmazása\nMéniére-betegség esetén a belső fül folyadéktereiben a nyomás\nmegemelkedik\naz övsömör bármely életkorban előfordulhat, oka vírusfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Írja le a bőr rétegeit latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "epidermis\ncorium\nsubcutis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések típusai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszermérgezés\n- alkoholmérgezés\n- gázmérgezés\n- marószermérgezés\n- gombamérgezés\n- növényvédőszer-mérgezés\n- ételmérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_10_V_eumv_1110-221111_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Ismertesse a sérülés következtében kialakult légmellet a megadott\nszempontok szerint!\nLényege: ...A mellüreg megnyílásakor levegő jut a mellüregbe....\nFajtái:\n- zárt\n- nyitott\n- szelepes\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "A mellüreg megnyílásakor levegő jut a mellüregbe....\nzárt\nnyitott\nszelepes",
+      "options": []
+    }
+  }
+]

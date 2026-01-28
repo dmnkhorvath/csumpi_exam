@@ -1,0 +1,338 @@
+[
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan helyet (behatolási kaput),\nahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nlégutak\nvéráram\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi szövetek típusaihoz a megadott\njellemzőket/feladatokat! Írja a sorszámokat a megfelelő\nbetűjelhez!\n\nA: hámszövet\nB: kötő- és támasztószövet\nC: izomszövet\nD: idegszövet\n\n1. feladata a sejtek, szövetek összekapcsolása, szerepe van a szervezet\npasszív tartásában\n2. a szervezet információs rendszerét építi fel\n3. összehúzódásra képes\n4. a test felszínét borítja, a testüregeket béleli\n\nA.- ...; Β.- ...; С.- ...; D.- ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...4...; Β.- ...1...; С.- ...3...; D.- ...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Rendelje az alábbi latin kifejezéseket magyar\nmegfelelőikhez! Írja a sorszám mellé a helyes válasz\nbetűjelét!\n1. anterior\n2. centralis\n3. inferior",
+      "question_type": "matching",
+      "correct_answer": "1.-...A..., 2.-...C..., 3.-...B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában részt vevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal!\nÍrja a meghatározásokhoz a helyes válasz sorszámát!\n\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA csigolyaívek záródásának hiánya: ......\nA csontok szervetlen és szerves állományának csökkenése: ......\nAz ízületi porc kopása:......\nD-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba:\n......",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szívinfarktus rizikófaktorai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nmozgásszegény életmód\nhelytelen táplálkozás\nmagas koleszterinszint\nmagas vérnyomás\nhajszolt életmód (stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél részeit magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "patkóbél - duodenum\néhbél - jejunum\ncsípőbél - ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző\nfeladatokkal! Írja a betűk mellé a megfelelő sorszámot!\n\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma\n\n1. immunvédekezés\n2. oxigén reverzibilis megkötése\n3. hormonok szállítása\n4. véralvadás\n\nA.- ... ...; B.- ... ...; C.- ... ... ; D.- ... ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél - elégtelenség\nlegfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdőödéma\n- véres köpet\n- cianózis\n- bőséges éjszakai vizeletürítés\n- köhögés\n- látható hasfali vénatágulat",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdőödéma\ncianózis\nköhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\n\nAz alveolusok és az arteria, illetve a vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- a belső légzés\n\nA légzőközpont helye:\n- a kisagy\n\nA garatot a dobüreggel köti össze:\n- a fülkürt",
+      "question_type": "multiple_choice",
+      "correct_answer": "- a külső légzés\n- a nyúltvelő",
+      "options": [
+        "- a belső légzés",
+        "- a külső légzés",
+        "- a kisagy",
+        "- a nyúltvelő",
+        "- a fülkürt",
+        "- a gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szervezet gázcseréjének biztosítása, az oxigén felvétele, és a szén-dioxid leadása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Soroljon fel az idült orrnyálkahártya-gyulladás lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "orrmelléküreg-gyulladás\norrsövényferdülés\norrgaratmandula-túltengés\nszennyezett levegő, dohányfüst",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Ismertesse a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "idegi szabályozás\nhormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos széklet\nfájdalmas székletürítés\ngörcsös hasi fájdalom\nétvágytalanság\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi szervek elhelyezkedését a szervezetben!\nvesék: ...\nprosztata: ...\nméh: ...",
+      "question_type": "fill_in",
+      "correct_answer": "közvetlenül a gerinc két oldalán, a XII. háti és a II. ágyéki\ncsigolya magasságában, a hashártya mögött helyezkednek\nel...\na húgyhólyag alatt helyezkedik el...\na kismedencében középen, a húgyhólyag és a végbél között\nhelyezkedik el...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel a fog részeit!",
+      "question_type": "open",
+      "correct_answer": "korona\nnyak\ngyökér",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző\nkóros vizelettípussal! Írja a sorszámokat a\nmegfelelő betűjelhez!\n\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA-......, B - ....., C - ....., D - .....",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nés latinul!",
+      "question_type": "open",
+      "correct_answer": "külső hashártya által borított réteg - perimetrium\nközépső izomréteg - myometrium\nbelső nyálkahártya réteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál\na húgycső felőli felszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\n\nHipofízis: \n\nCsecsemőmirigy: \n\nHasnyálmirigy:",
+      "question_type": "fill_in",
+      "correct_answer": "a koponyaalapon az ékcsont árkában\na gátorüregben a szegycsont mögött\na patkóbél homorulatában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő\nbetegséghez! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség,\"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományában található\nképleteket feladatukkal!\nÍrja a számok mellé a helyes válasz betűjelét!\n\n1. asszociációs rostok\n2. commissuralis rostok\n3. projekciós rendszer\n\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, illetve a leszálló\nrendszereken keresztül a periféria felé.\n\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\n\nC. A két félteke szimmetrikus helyeit kötik össze.\n\n1.-... 2.-... 3.-...",
+      "question_type": "matching",
+      "correct_answer": "B\nC\nA",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szürkehályog (cataracta) kialakulásának\nlehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "veleszületett (az anya terhesség alatti vírusfertőzése okozza)\nanyagcsere-betegségek miatt kialakuló\nszövődményes\nsérülés\nsugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit!\nÍrja a megadott csoportokhoz a helyes válasz betűjelét!\nA. dobüreg\nB. csontos labirintus\nC. hártyás labirintus\nD. hallócsontok (kalapács, üllő, kengyel)\nE. fülkürt (Eustach-kürt)\nközépfül részei: ...\nbelső fül részei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A, D, E\nB, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 5,
+      "question_text": "Ismertessen öt fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_II_EuMII_0420_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  }
+]

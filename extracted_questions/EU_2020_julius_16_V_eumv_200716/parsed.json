@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q001_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 7,
+      "question_text": "Nevezze meg az emberi test fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- fej\n- nyak\n- törzs\n- mellkas\n- hasüreg\n- medence\n- végtagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket a rájuk jellemző vizenyőtípusokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. jobbszívfél-elégtelenség\n2. balszívfél-elégtelenség\n3. vesebetegség\n\nA. tüdővizenyő\nB. arcon, szem körül megjelenő vizenyő\nC. boka-, lábszár vizenyő",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q003_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 7,
+      "question_text": "Ismertesse a petyhüdt bénulást a megadott szempontok alapján!\nLényege: ...\nOka: ...\nTünetei: Írjon hármat!\n- \n- \n- \n-\nGyógyításának lehetőségei: Írjon kettőt!\n- \n- \n-",
+      "question_type": "open",
+      "correct_answer": "az izmok működésének teljes vagy részleges hiánya...\na gerincvelőt, vagy a környéki idegeket érintő betegségek...\na mozgásfejlődés visszamaradása\na szellemi fejlődés visszamaradása\nmozgászavar\nbeilleszkedési zavar\naz alapbetegség kezelése\ngyógytorna\nfizioterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q005_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 8,
+      "question_text": "Nevezze meg az ABO- vércsoportrendszer elemeit! Egészítse ki a táblázatot!\n\n| Vércsoport típusa | Antigének a vörösvértestek felszínén | Antitestek a vérszérumban |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Antigének a vörösvértestek felszínén | Antitestek a vérszérumban |\n|---|---|---|\n| A | A | anti-B |\n| B | B | anti-A |\n| AB | AB | nincs |\n| 0 | nincs | anti-A, anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az angina pectoris jellemző tüneteit!\n- torokfájdalom\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik: hátba, bal karba, vállba\n- jobb bordaív alatti görcsös, a jobb lapocka tájára sugárzó fájdalom\n- halálfélelem\n- túlzott nyugalom\n- hideg, verítékes bőr\n- száraz, meleg bőr\n- szapora, elnyomható pulzus\n- bénulások\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "szegycsont mögötti fájdalom (szorító, nyomásérzés)\na fájdalom kisugárzik: hátba, bal karba, vállba\nhalálfélelem\nhideg, verítékes bőr\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a\nsorszámokat a megfelelő helyre!\n\n1. hosszan elnyúló, sípoló kilégzés\n2. üvegszerű, tapadós köpet\n3. véres köpet\n4. fogyás, rossz közérzet\n\ntüdőasztma: ...., .....\ntuberkulózis: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos alábbi kérdésekre!\nA szervezet hány %-a víz?\nAz összvíztartalom hány %-a van a sejten belül?\nMi az exsiccosis?",
+      "question_type": "fill_in",
+      "correct_answer": "60-70%-a\n50%\na víztartalom drasztikus csökkenése, kiszáradás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a garatmandula-gyulladás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- láz\n- nyelési fájdalom\n- rossz közérzet\n- vörös és duzzadt szájpadmandulák\n- gombostűfejnyi, lencsényi szürkésfehér pont/folt\n- állszögleti nyirokcsomók duzzanata\n- állszögleti nyirokcsomók mérsékelt fájdalma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmakat!\nNephron: ...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya/a szervezet belső környezetének állandósága...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- fokozott folyadékbevitel\n- ödémák kiürülése\n- diuretikumok szedése\n- cukorbetegség\n- krónikus veseelégtelenség (kompenzáló polyuria)\n- folyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\n...\nMi borítja a méh falának belső rétegét?\n...\nHogyan nevezzük a méh izomzatának jóindulatú daganatát?\n...\nHol termelődik a progeszteron?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték\nméhnyálkahártya\nmióma\na petefészekben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "genetikus tényezők\nhormonális tényezők\nanyagcsere-betegségek\nkörnyezeti tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását! Egészítse ki a\ntáblázatot!\n\n|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés |  |\n| vérnyomás |  |\n| légzésszám |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés | gyorsul |\n| vérnyomás | emelkedik |\n| légzésszám | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a mellékpajzsmirigy csökkent működésének lehetséges\ntünetei közül!",
+      "question_type": "open",
+      "correct_answer": "a kéz és láb ujjainak zsibbadása\nizom görcsök, izom összehúzódások: „őzfej\" kéztartás (a hüvelykujj és a\nkézujjak kúpot képeznek), „ördögi vigyor” (risus sardonicus) a mimikai\nizmok görcse miatt\nszapora szívműködés\na gégeizmok görcse\nszürkehályog\nszáraz, repedezett bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na helyes válasz sorszámát a megfelelő helyre!\n\n1. híd\n2. thalamus\n3. hypothalamus\n4. nyúltvelő\n5. hálózatos sejtrendszer (formatio reticularis)\n\nagytörzs: ...\nköztiagy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerincvelő működését jellemző reflexcsoportokat!",
+      "question_type": "open",
+      "correct_answer": "- izomeredetű, saját (proprioceptiv) reflexek\n- bőreredetű, külső (exteroceptív) reflexek\n- zsigeri (vegetativ) reflexek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\nívjáratok\nCorti-szerv\nhallócsontok\nhallóideg\nkengyel\ncsiga\ndobhártya\nfülkagyló\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nCorti-szerv\nhallóideg\ncsiga",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Soroljon fel a nyelvgyulladás lehetséges okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- égési sérülés\n- mechanikai sérülés\n- irritáció\n- vashiányos vérszegénység\n- B-vitamin-hiány\n- mérgezés\n- felmaródás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészségkárosodás három\nalapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "- váratlanul, hirtelen következik be\n- a sérülés vagy betegség az életet veszélyezteti\n- magas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_V_eumv_200716_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az elsősegélynyújtó feladatai közül mérgezések esetén!\n- az életveszély elhárítása\n- a szabad légút biztosítása\n- a méreg további bejutásának, illetve felszívódásának megakadályozása\n- a szennyezett ruházat eltávolítása\n- a testfelszín méregtelenítése\n- a méreg hatástalanítása, közömbösítése\n- mentőhívás\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "az életveszély elhárítása\na szabad légút biztosítása\na méreg további bejutásának, illetve felszívódásának megakadályozása\na szennyezett ruházat eltávolítása\na testfelszín méregtelenítése",
+      "options": []
+    }
+  }
+]

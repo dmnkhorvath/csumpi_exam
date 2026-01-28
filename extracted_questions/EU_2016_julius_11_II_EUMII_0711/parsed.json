@@ -1,0 +1,317 @@
+[
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Nevezze meg az izomszövet típusait!",
+      "question_type": "open",
+      "correct_answer": "simaizomszövet\nharántcsíkolt izomszövet\nszívizomszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Soroljon fel a heveny izzadmányos (exsudativ) gyulladás formái közül hármat!",
+      "question_type": "open",
+      "correct_answer": "savós\ngennyes\nüszkös\nvérzéses\nfibrines",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározásokhoz tartozó helyes\nválaszokat!\nAz alveolusok és az arteria/vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\n- belső légzés\n- külső légzés\nA légzőközpont helye:\n- kisagy\n- nyúltvelő\nA garatot a dobüreggel köti össze:\n- fülkürt\n- gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\nnyúltvelő\nfülkürt",
+      "options": [
+        "belső légzés",
+        "külső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szekunder (másodlagos) hypertonia okai\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "vesebetegség\nendokrin betegségek\nanyagcserezavarok\narterioszklerózis\nközponti idegrendszer betegségei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Ismertesse a csontvázrendszer funkcióit!\nÍrjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "a test szilárd vázát alkotja (mozgásrendszer passzív része)\néletfontosságú szerveket véd\nüregeiben található a vörös csontvelő, amely a vérképzés szerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Sorolja fel a felső ugróízület (bokaízület) alkotásában\nrészt vevő csontokat!",
+      "question_type": "fill_in",
+      "correct_answer": "sípcsont\nszárkapocscsont\nugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul az alábbi sérüléseket!\nruptura:\ndistorsio:\nluxatio:\nfractura:",
+      "question_type": "fill_in",
+      "correct_answer": "repedés, szakadás\nrándulás\nficam\ntörés/csonttörés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges harántcsíkolt izom\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\n- működését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom összehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés)\nlehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "lázas állapot\nfokozott pajzsmirigyműködés\nszívelégtelenség\nvérszegénység\negyes gyógyszerek szedése, pl: Atropin\nélvezeti szerek fogyasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer alsó részének szakaszait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vakbél\nszigmabél\nvégbél\nharánt vastagbél",
+      "options": [
+        "vakbél",
+        "éhbél",
+        "szigmabél",
+        "végbél",
+        "patkóbél",
+        "haránt vastagbél",
+        "csípőbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?\n...\nMi a feladata a vesecsatornáknak?\n...\nTartalmaz-e az elsődleges vizelet cukrot?\n...\nTartalmaz-e az elsődleges vizelet nagymolekulájú fehérjét?\n...\nHol található a vizeletürítés reflexközpontja?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a szűrés (filtráció) ...\nvisszaszívás, kiválasztás...\nigen, tartalmaz...\nnem tartalmaz...\na gerincvelő alsó szakaszán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia kialakulására hajlamosító tényezők/állapotok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "alsó végtagok trombózisa\nhasi műtét utáni állapot\nszülés utáni, gyermekágyas időszak\nkismedencei műtét\npitvari trombózis\nhosszan tartó ágynyugalmat igénylő betegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- halántéki lebeny",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nbélsárhányás\nszékletürítés hiánya\n„néma has”\nbeesett arc\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték\nméhnyálkahártya\npetefészekben, a sárgatest termeli\nmyoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\nA betegség lényege:\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\nmenövekszik a herezacskó\nnyomásérzékenység\nesetenként fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Ismertesse a herék feladatát!",
+      "question_type": "open",
+      "correct_answer": "- hímivarsejtek (spermiumok) képzése\n- férfi nemi hormon (tesztoszteron) termelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach-kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szürkehályog (cataracta) kialakulásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- veleszületett (az anya terhesség alatti vírusfertőzése okozza)\n- anyagcsere-betegségek miatt kialakuló\n- szövődményes (más szemelváltozás következtében)\n- sérülés\n- sugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_II_EUMII_0711_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Soroljon fel a légzés- és keringésmegállás lehetséges okai\nközül hármat-hármat!\n\nLégzésmegállás lehetséges okai:\n- \n- \n- \n- \n\nKeringésmegállás lehetséges okai:\n- \n- \n- \n- \n-",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  }
+]

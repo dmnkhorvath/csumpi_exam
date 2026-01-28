@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. Holter-vizsgálat\n2. CT\n3. H2-kilégzési teszt\n4. ABPM\n5. BMI\n\nA. 24 órás vérnyomás-monitorozás\nB. laktózérzékenység\nC. 24 órás EKG-vizsgálat\nD. testtömegindex\nE. számítógépes rétegvizsgálat",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-E., 3.-...B...., 4.-...A...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a szervezet túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "anafilaxiás folyamatok\nasthma bronchiale\nszénanátha\natópiás dermatitis (ekcéma)\ntranszfúziós reakciók\nújszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az arthrosis lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- az ízület rugalmasságának csökkenése\n- ízületi fájdalom\n- ízületi merevség\n- az ízület nyomásérzékenysége\n- mozgáskorlátozottság, az ízület mozgásterjedelmének beszűkülése\n- ízületi recsegés, ropogás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az arckoponya csontjait!\n- halántékcsont\n- nyakszirtcsont\n- rostacsont\n- ekecsont\n- járomcsont\n- homlokcsont\n- felső állcsont\n- ékcsont\n- falcsont",
+      "question_type": "multiple_choice",
+      "correct_answer": "rostacsont\nekecsont\njáromcsont\nfelső állcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány nap a vörösvértestek élettartama?\nHány perc a véralvadás normális ideje szobahőmérsékleten?\nHogyan hat a kalcium hiánya a véralvadásra az emberi szervezetben?\nMely enzim végzi a protrombin trombinná alakítását?",
+      "question_type": "open",
+      "correct_answer": "körülbelül 120 nap\n5-7 perc\na véralvadás ideje elhúzódik\na trombokináz enzim",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a szekunder (másodlagos) hypertonia lehetséges okai\nközül!",
+      "question_type": "open",
+      "correct_answer": "veseartéria szűkülete\nvesemedence-gyulladás\npajzsmirigy-túlműködés\narterioszklerózis\nközponti idegrendszer betegségei\nterhességi toxikózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzés mechanizmusával kapcsolatos leírásokat, jellemzőket\na megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a rekesz és bordaközi izmok elernyednek\n2. a mellüregi szívóhatás növekszik\n3. a rekeszizom összehúzódik, ellaposodik, a hasüreg irányába mozdul\n4. a mellüreg összehúzódik, a mellüregi szívóhatás csökken\n5. csak erőltetett formájában működnek aktívan a légzőizmok\n6. a hasprés és a bordaközi izmok segítik\n\nA belégzés jellemzője: ...\n\nA kilégzés jellemzője: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Írja le a pneumothorax lényegét, lehetséges következményét!",
+      "question_type": "open",
+      "correct_answer": "...A mellhártya lemezei közé levegő kerül, a megnövekedett nyomás hatására a tüdő összeesik, melynek következtében a légzőfelület csökken, ami miatt heveny légzési elégtelenség alakulhat ki....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a májzsugorodás (cirrhosis hepatis) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "haspuffadás, hasi fájdalom\nnyomásérzékenység a jobb bordaív alatt\nfakó, enyhén sárga színű bőr\nhasvízkór\ncsillag alakú/pókhálószerű értágulatok a bőrön\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa az életfontosságú építőanyagokat (tápanyagokat) funkciójuk\nszerinti jellemzőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. zsírok\n2. szénhidrátok\n3. vitaminok\n4. fehérjék\n\nA. Életfontosságú szerves vegyületek, amelyek energiát nem szolgáltatnak, de a\nszervezet és az enzimek működéséhez nélkülözhetetlenek.\nB. Nitrogéntartalmú szerves vegyületek, építőköveik az aminosavak.\nC. Az emberi szervezet glikogén formájában raktározza. A szervezet fő\nenergiaforrásaként szolgálnak.\nD. Nitrogénmentes anyagok, a vízben nem oldódnak. A szervezet nagy\nenergiatartalmú alkotórészét alkotják.",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...A...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó rendszer kórtanához kapcsolódó szakkifejezések\nmagyar, vagy latin megfelelőjét! Egészítse ki a táblázatot!\n\n| Szakkifejezések |\n| ----------- | ----------- |\n| magyarul | latinul |\n| gennyvizelés |  |\n| vesekőbetegség |  |\n| húgyhólyaggyulladás |  |\n| zsákvese |  |\n| terhességi vesebaj |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |\n| ----------- | ----------- |\n| magyarul | latinul |\n|  | pyuria |\n|  | nephrolitiasis |\n|  | cystitis |\n|  | hydronephrosis |\n|  | nephropathia gravidarum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a várandósság gyanújelei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "émelygés\nhányinger, hányás\nfokozott nyálelválasztás\nkedélyállapot-változás\nundorodás egyes szagoktól\nhízás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Írjon le négyet az AIDS lehetséges terjedési módjai közül!",
+      "question_type": "open",
+      "correct_answer": "- vér\n- ondó\n- hüvelyváladék\n- anyatej\n- fertőzött injekciós tű",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a golyvát a megadott szempontok szerint!\nLehetséges tünetei: Írjon hármat!\nGyógyítása:",
+      "question_type": "open",
+      "correct_answer": "a pajzsmirigy látható megnagyobbodása\nfulladásérzés\nnyelési nehezítettség\nrekedtség\nfokozott jódbevitel\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Nevezze meg a másodlagos férfi nemi jelleg kialakításáért felelős hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- tesztoszteron\n- androgén hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belső elválasztású (endokrin) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- már alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le az agytrombózis lényegét és kialakulásának hajlamosító tényezőit!\nLényege: ...\nKialakulásának hajlamosító tényezői:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "az ér elzáródása az érfalon képződött vérrög miatt...\nvéralvadási zavarok\narterioszklerózis\nidőskor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Rendezze az alábbi harmadlagos agykérgi központokat elhelyezkedési\nhelyeikhez! Írja a sorszámokat a megfelelő helyre!\n\n1. írás és olvasás központja\n2. beszédértő központ\n3. a múlt agykérgi területe\n4. a jövő agykérgi területe\n\nTemporális lebeny: ......\nFali lebeny: ......\nHomloklebeny: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2, 1, 3, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Ismertessen a psoriasis lehetséges tünetei, jellemzői közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- legjellemzőbben a könyök-, térdtájékon, a hajlatokban, és a hajas fejbőrön\nfordul elő az elváltozás\n- lencse, vagy pénzérme nagyságú felrakódások a bőrön\n- gyulladásos alapon vastag, viaszcseppszerű, pikkelyes elváltozás\n- a felrakódás leválása után fénylő, vörös, érzékeny felület marad vissza",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze a leírások alapján a szem fénytörő közegeit magyarul!\nBikonvex, átlátszó, víztiszta, rugalmas test, amit tok vesz körül:\n...\nA szem belsejét kitöltő, átlátszó, kocsonyás állományú anyag:\n...\nAlakja óraüveghez hasonlít, domború, átlátszó hártya, idegekben gazdag, de\nereket nem tartalmaz:\n...\nAz elülső és hátulsó szemcsarnokot tölti ki:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "szemlencse\nüvegtest\nszaruhártya\ncsarnokvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertesse az öregkori nagyothallás lényegét és két fő tünetét!",
+      "question_type": "open",
+      "correct_answer": "...A kor előrehaladtával a Corti-szervben degenerativ folyamat zajlik, amely\nfokozatosan mindkét fülben halláscsökkenést okoz....\n- a magas hangok iránti érzékenység csökken\n- csökkent, nehézkes beszédértés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a hypothermia lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- hideg, sápadt, száraz bőr\n- gyengeség\n- zavart tudat\n- aluszékonyság, ami eszméletvesztéshez vezet\n- lassú, felületes légzés\n- lassú, gyengülő pulzus (szívmegállás is bekövetkezhet)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_III_eumiii_0208-230214_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Húzza alá az elsősegélynyújtás témaköréhez kapcsolódó helyes\nmegállapításokat!\n- Gerincsérülés fennállása esetén minden esetben stabil oldalfekvésben kell\nelhelyezni a sérültet.\n- Az ájulás bekövetkezhet minden előjel nélkül.\n- A légúti idegentest eltávolítása érdekében a Rautek-féle műfogást kell\nalkalmazni.\n- Metszett sebnél a sebszélek épek, a vérzés bőséges és csak ritka a fertőzés\nveszélye.\n- Szakított seb esetén a sebszélek egyenetlenek, roncsoltak, a vérzés és a\nfertőzésveszély csak kismértékű.\n- A marószert ivott beteget - amennyiben eszméleténél van - hánytatni kell\nmindenképpen.\n- Az eszméletlen betegnél legfontosabb teendő az átjárható légutak biztosítása.\n- Fagyási sérülés elsősorban a fedetlen testrészeken és a rosszabb vérellátású\nterületeken fordul elő.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az ájulás bekövetkezhet minden előjel nélkül.\nMetszett sebnél a sebszélek épek, a vérzés bőséges és csak ritka a fertőzés\nveszélye.\nAz eszméletlen betegnél legfontosabb teendő az átjárható légutak biztosítása.\nFagyási sérülés elsősorban a fedetlen testrészeken és a rosszabb vérellátású\nterületeken fordul elő.",
+      "options": []
+    }
+  }
+]

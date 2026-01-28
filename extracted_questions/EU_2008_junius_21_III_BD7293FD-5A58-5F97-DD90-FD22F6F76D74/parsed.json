@@ -1,0 +1,461 @@
+[
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\njelentésüket!",
+      "question_type": "fill_in",
+      "correct_answer": "heveny\nidült\nbetegség\nvisszafordítható\njóindulatú\nelfajulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden az alábbi kóros\nszövetelváltozások lényegét!\nulcus: a bőr vagy nyálkahártya körülírt, nehezen gyógyuló,\nszövetpusztulással járó, mélybe terjedő elváltozása\ninfarctus: a tömör szervek (tüdő, lép, vese, agy, szív) szövetében artériás\nelzáródás okozta ék alakú elhalás\ndecubitus: felfekvés a bőr és az alatta lévő szövetek elhalása a nyomásnak\nkitett területeken\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a bőr vagy nyálkahártya körülírt, nehezen gyógyuló,\nszövetpusztulással járó, mélybe terjedő elváltozása\na tömör szervek (tüdő, lép, vese, agy, szív) szövetében artériás\nelzáródás okozta ék alakú elhalás\nfelfekvés a bőr és az alatta lévő szövetek elhalása a nyomásnak\nkitett területeken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbiakban megadott szempontok szerint!\nlényege: \ntünetei: -\n-\n-\nkezelése: -\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a combfejecs nem illeszkedik az ízvápába\nhosszkülönbség a végtagok között\na végtag kifelé fordul\nmozgáskorlátozottság\nkorai felismerés\nPavlik-kengyel\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q004_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont, tünetekre: 0,5-0,5 pont; kezelésre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Írja le a szívizom élettani sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- Különleges izom, mely egyesíti a vázizom és simaizom szerkezetét és\ntulajdonságait.\n- Akaratunktól független, ritmusos összehúzódás jellemzi, nehezen\nfárad.\n- Működésében a „minden vagy semmi törvénye” érvényesül: a\nszívizom küszöb feletti ingerre maximális összehúzódással válaszol,\nküszöb alatti ingerre nem reagál.\n- Jellemzi még a működést a refrakter stádium: az a periódus, amelyben a\nszívizom összehúzódás utáni elernyedt állapotban van, de még nem\ningerelhető. A szívizom refrakter stádiuma hosszabb, mint a\nvázizmoké.\n- Valamennyi szívizomrost ingerküszöbe azonos.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\nHogyan hat a Ca hiánya az izomműködésére az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "- a Ca hiányában megnő a véralvadási idő\n- a Ca hiányában izomgörcsök lépnek fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél - elégtelenség legfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdő ödéma\n- cyanosis\n- bőséges éjszakai vizeletürítés\n- köhécselés",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntelt nyaki vénák\ntüdő ödéma\ncyanosis\nköhécselés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül hármat/3/!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": [
+        "a belégzett levegő előmelegítése",
+        "oxigéncsere",
+        "a belégzett levegő párásítása",
+        "hőháztartás fenntartása",
+        "hangok képzése",
+        "szagok érzékelése"
+      ]
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Nevezze meg a tüdő szövetének vérellátását biztosító ereket!",
+      "question_type": "open",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző kóros légzési formával! Írja a betegségek sorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás coma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\ndyspnoe: ...\nKussmaul-légzés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3, 4...\n1, 2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegséggel! Írja a betűk mellé a megfelelő sorszámot!\n\nA. C-vitamin\nB. A-vitamin\nC. K-vitamin\nD. B₁-vitamin\nE. B12-vitamin\nF. D-vitamin\n\n1. angolkór\n2. scorbut\n3. farkasvakság\n4. vészes vérszegénység\n5. beri-beri\n6. véralvadási zavar\n\nA - ... B - ... C - ... D - ... E - ... F - ...",
+      "question_type": "matching",
+      "correct_answer": "A - ...2... B - ...3... C - ...6... D - ...5... E - ...4... F - ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer alsó\nrészének szakaszait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vakbél\nszigmabél\nvégbél\nharánt vastagbél",
+      "options": [
+        "vakbél",
+        "éhbél",
+        "szigmabél",
+        "végbél",
+        "patkóbél",
+        "haránt vastagbél",
+        "csípőbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Írjon négy /4/ olyan okot, mely a szervezet folyadék-elektrolit háztartás egyensúlyának felborulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "hányás\nhasmenés\nnagyfokú izzadás\nvérplazma vesztés\nvérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q016_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "Határozza meg a húgyhólyag feladatát!",
+      "question_type": "open",
+      "correct_answer": "- a vizelet gyűjtése\n- a vizelet tárolása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHol képződik az elsődleges vizelet?\n\nMennyi az elsődleges vizelet napi mennyisége?\n\nTartalmaz-e élettani körülmények között a végleges vizelet urobilinogént?\n\nTartalmaz-e az elsődleges vizelet cukrot?\n\nTartalmaz-e a végeleges vizelet bilirubint?\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a Malpighi-testben\n180 liter\ntartalmaz\ntartalmaz\nnem tartalmaz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Írjon az alábbi jellegzetes oedema képződési helyek mellé egy-egy jellegzetes kórképet!\nBoka, lábszár:\nTüdő ödéma:\nArc, szem körül:",
+      "question_type": "fill_in",
+      "correct_answer": "jobb szívfél elégtelenség, cor pulmonale\nbal szívfél elégtelenség\nvese eredetű betegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség kialakulásáért felelős\nokok közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nnemi szervek, főleg a méhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Soroljon fel a prosztata megnagyobbodás tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele-módszer alapján!\nIdőtartam:\nNaegele-módszer:",
+      "question_type": "fill_in",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 1,
+      "question_text": "Írja le, az alábbi tünetek alapján a hormonális eredetű betegséget!\n1. bő vizelés (polyuria): napi 3 - 20 1, alacsony sűrűségű vizelet\n2. a beteg szomjazik, sok folyadékot iszik\nA betegség neve:",
+      "question_type": "open",
+      "correct_answer": "diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának a hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- adrenalin\n- noradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\nMely hormon szabályozza a tej kiürülését az emlőből?\nHol termelődik az ADH hormon?\nHol tárolódik az ADH hormon?\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "open",
+      "correct_answer": "prolaktin (luteotrop hormon)\noxytocin\nhypothalamusban\na hypophysis hátulsó lebenyében\ndiabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q025_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 1,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-szintet emelik!\n- inzulin\n- glukagon\n- adrenalin\n- somatostatin",
+      "question_type": "multiple_choice",
+      "correct_answer": "glukagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Nevezze meg és jellemezze röviden a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "Terminális idegvégződés: mely esetben más szövettel képez kapcsolatot.\nIntercalaris idegvégződés: mely esetben az idegnek egy másik idegen van a végződése.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket!\nÍrja a megadott betegségekhez a tünetek sorszámát!\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, „vadászkutyafekvés\"\n2. magas láz\n3. heves fejfájás\n5. rángógörcs\n6. fénykerülés\n\nagyhártyagyulladás:\nepilepsziás nagy roham:",
+      "question_type": "fill_in",
+      "correct_answer": "...2, 3, 4, 6...\n...1, 5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q029_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 1,
+      "question_text": "Húzza alá a paralysisre jellemző helyes állítást!\n- az izomerő csökkenése, izomgyengeség\n- az izomerő kiesése, bénulás",
+      "question_type": "multiple_choice",
+      "correct_answer": "az izomerő kiesése, bénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q030_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 1,
+      "question_text": "Írja le, mely agyideg közvetíti a szaglással felvett kémiai\ninformációt!",
+      "question_type": "fill_in",
+      "correct_answer": "I. agyideg (szaglóideg)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q031_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 6,
+      "question_text": "Ismertesse a herpes simplex fertőzést az alábbiakban\nmeghatározott szempontok szerint!\nA. Oka:\nB. Megjelenése: Írjon hármat /3/!\n- száj nyálkahártyája\n- ajak nyálkahártyája\n- nemi szervek\nC. Tünetek: Írjon hármat /3/!\n- láz\n- hólyagok megjelenése és heveny gyulladás az érintett területen\n- regionális nyirokcsomó duzzanat\nD. Kiújulását elősegítő tényezők: Írjon négyet /4/!\n- fertőző betegség\n- erős napsugárzás\n- immunitáscsökkenés\n- stressz",
+      "question_type": "open",
+      "correct_answer": "Herpes simplex vírus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q032_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Az A részre: 1 pont, B, C és D részre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q033_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\ncsontos labirintus\nhallócsontok\nhártyás labirintus\ndobhártya\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q034_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.*",
+      "points": 3,
+      "question_text": "Soroljon fel hat /6/ tünetet, melyek alapján a sérültnél\nbelső vérzésre gondol!",
+      "question_type": "open",
+      "correct_answer": "- hűvös, nyirkos bőr\n- sápadt, hamuszürke arcszín\n- szapora pulzus\n- fájdalom\n- szomjúságérzés\n- zavartság, nyugtalanság\n- vérzés valamely testnyílásból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q035_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.",
+      "points": 3,
+      "question_text": "Határozza meg elsősegélynyújtáskor a sérült fektetési módját az alábbi állapotokban!\neszméletlenség: ...\nklinikai halál (újraélesztéskor): ...\nhasi sérülés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés...\nkemény alapon hanyatt fektetve...\nhanyatt fektetve, lábakat térdben felhúzva...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q036_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "34.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vérzések fajtái közül hármat /3/ magyarul",
+      "question_type": "open",
+      "correct_answer": "- artériás\n- vénás\n- kapilláris\n- kevert vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_junius_21_III_BD7293FD-5A58-5F97-DD90-FD22F6F76D74_q037_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "35.*",
+      "points": 1,
+      "question_text": "Határozza meg az időfaktor fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy egységnyi idő alatt mennyit romlik a\nbalesetes állapota.(Magas az időfaktor, ha igen rövid idő alatt, igen\nsokat romlik a balesetes állapota.)",
+      "options": []
+    }
+  }
+]

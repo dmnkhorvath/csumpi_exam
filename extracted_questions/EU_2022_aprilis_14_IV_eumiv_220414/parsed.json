@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a magyar kifejezéseket latin megfelelőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\n\nA. tapintás\nB. hallgatózás\nC. kopogtatás\nD. megtekintés\n\n",
+      "question_type": "matching",
+      "correct_answer": "3, 4, 2, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan helyet az emberi testben ahol hámszövet található!",
+      "question_type": "open",
+      "correct_answer": "a bőr felszíni rétege\naz emésztőrendszer nyálkahártyájának külső felszíne\na légzőrendszer nyálkahártyájának külső felszíne\na kiválasztó rendszer nyálkahártyájának külső felszíne\naz üreges szervek belső felszíne\na vér-, és nyirokerek belső felszíne",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Jellemezze a csontszövetet felépítő szilárd alkotórészeket!",
+      "question_type": "open",
+      "correct_answer": "- szervetlen állomány: elsősorban kalciumsók alkotják, de mintegy 20 különböző elem található benne, a csont szilárdságát adja\n- szerves állomány: osszein, kötőszöveti rostokból, fehérjét és szénhidrátot tartalmazó összetett molekulákból épül fel, a csont rugalmasságát adja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a gerincferdülés okait és tüneteit!\nOka: Írjon kettőt!\n- csigolyafejlődési rendellenesség\n- izombénulás\n- a gerinc statikai elváltozása\nTünetei: Írjon négyet!\n- az egyik oldali váll, illetve csípő magasabban állása\n- sánta járás\n- fizikai terhelhetőség csökkenése\n- hátfájdalom\n- háti, vagy mellkasi bordapúp",
+      "question_type": "open",
+      "correct_answer": "csigolyafejlődési rendellenesség\nizombénulás\na gerinc statikai elváltozása\naz egyik oldali váll, illetve csípő magasabban állása\nsánta járás\nfizikai terhelhetőség csökkenése\nhátfájdalom\nháti, vagy mellkasi bordapúp",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés kórtanára vonatkozó helyes\nmegállapításokat!\n- Alacsony pulzusszámot okozhat a testhőmérséklet csökkenése (a lehűlés), a\npajzsmirigy alulműködése, illetve bizonyos gyógyszerek szedése.\n- Embóliának nevezzük azt, amikor a vér az érpályán belül megalvad.\n- A balszívfél-elégtelenség jellemzője a nagy vérköri pangás.\n- A tüdővizenyő fő tünete a súlyos dyspnoe, a szörcsölő köhögés, a szapora\npulzus és a híg, halvány rózsaszínű, habos „szilvalészerű” köpet ürítése.\n- Reumás szívgyulladás Streptococcus okozta utóbetegség miatt is kialakulhat.\n- Sinus tachycardia során a pulzus szabályos ütemű, de a percenkénti ingerek\nszáma tartósan 60/perc alatti.\n- A sinuscsomó működési zavara paroxismalis tachycardiát okoz, amit a\n90-100/perc feletti szívfrenkvencia jellemez.\n- A hipertónia lényege a kórosan emelkedett szisztolés és diasztolés nyomás,\namely az arteriolák elsődleges szűkületén alapul.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Alacsony pulzusszámot okozhat a testhőmérséklet csökkenése (a lehűlés), a\npajzsmirigy alulműködése, illetve bizonyos gyógyszerek szedése.\nA tüdővizenyő fő tünete a súlyos dyspnoe, a szörcsölő köhögés, a szapora\npulzus és a híg, halvány rózsaszínű, habos „szilvalészerű” köpet ürítése.\nA hipertónia lényege a kórosan emelkedett szisztolés és diasztolés nyomás,\namely az arteriolák elsődleges szűkületén alapul.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Ismertesse a nyirokcsomók szerkezetét és szerepét!\nSzerkezetük:\n\nSzerepük: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "kéregállomány\nvelőállomány\nodavezető nyirokér\nelvezető nyirokér\nlymphocytatermelés\nvédekező működés a fagocitáló sejtek révén\na nyirokerek és a nyirokcsomók szerepet játszanak a rosszindulatú daganatok\nterjedésében is, mert gyakran itt képződnek először áttétek (metasztázis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőközpont működését befolyásoló tényezőket a megadottak szerint! Írja a sorszámokat a megfelelő helyre!\n1. ijedtség\n2. fájdalom\n3. a vegetatív idegrendszer szimpatikus hatása\n4. a vegetatív idegrendszer paraszimpatikus hatása\n5. a légzőizmok működésének akaratlagos lassítása\n6. a légzőközponton áthaladó vér szén-dioxid nyomásának emelkedése\nSerkentő tényezők: ...\nGátló tényezők: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a légutak allergiás betegségeit!",
+      "question_type": "open",
+      "correct_answer": "szénanátha\ngégevizenyő\ntüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő tünetekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. P-vitamin\nA. idegrendszeri tünetek, görcsök\n2. B6-vitamin\nB. hajhullás, a hámszövet sorvadása\n3. A-vitamin\nC. ínyvérzés\n4. B12-vitamin\nD. véralvadási zavar\n5. K-vitamin\nE. vészes vérszegénység",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-B., 4.-E..., 5.-..D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a máj funkciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epetermelés\nepesavképzés\na vérfesték átalakítása epefestékké\naz epefesték lebontása\nvérplazmafehérjék képzése\nméregtelenítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges\nvizeletben élettanilag megtalálhatók!\n- húgysav\n- fehérje\n- cukor\n- karbamid\n- genny\n- foszforsav\n- epefesték\n- urobilinogén\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "karbamid\nfoszforsav\nurobilinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a heveny vesegyulladás okát, lehetséges tüneteit!",
+      "question_type": "open",
+      "correct_answer": "...autoimmun folyamatok – bakteriális fertőzés utóbetegsége...\náltalános tünetek: gyengeség, fejfájás, étvágytalanság\ntompa deréktáji fájdalom\nszem körüli-, boka-, csuklóödéma\nhőemelkedés, láz\nvizeletben fehérje és vér megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a szervekhez! Írja a sorszámokat a megfelelő helyre!\n1. áthalad rajta a húgycső\n2. gesztenye nagyságú és alakú szerv\n3. a spermiumok termelődésének helye\n4. a spermiumok tárolódásának helye\n5. a húgyhólyag alatt helyezkedik el\n6. galambtojás nagyságú szerv\nprosztata: ......\nhere: ......\nmellékhere: ......",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 6.\n4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a méhnyakrák jellemzői/tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- eleinte semmilyen panaszt sem okoz\n- folyás\n- véres váladékozás\n- közösülés után jelentkező vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit! Töltse ki táblázatot!\n\n|  | A csecsemőmirigy |\n|---|---|\n| Hormonja |  |\n| Feladatai Írjon kettőt! |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|---|---|\n| Hormonja | timozin |\n| Feladatai Írjon kettőt! | - a növekedést fokozza\n- a szexuális fejlődést serkenti\n- antitestképzés (nyirokszerv) |\n| Helye a szervezetben | a gátorüreg elülső részében, a szegycsont\nmögött helyezkedik el |\n| Jellemzője Írjon egyet! | - kisgyermekkorig aktív\n- serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel az Addison-kór lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fáradékonyság, gyengeség\n- sötét foltok a bőrön (ott is, ahol nem éri napfény)\n- sötét szeplők\n- étvágycsökkenés, fogyás\n- hasi fájdalom\n- alacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerincvelő kötegeihez tartozó neuronokat!\n- elülső szarv: ...\n- hátsó szarv: ...\n- oldalszarv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "mozgatóneuronok\nérzőneuronok\nvegetatív neuronok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Sorolja fel az agytörzset alkotó agyrészeket!",
+      "question_type": "open",
+      "correct_answer": "- nyúltvelő\n- híd\n- középagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a myasthenia gravis lényegét!",
+      "question_type": "open",
+      "correct_answer": "Autoimmun betegség, az idegsejtek közötti szinapszisban termelődő acetilkolin mennyisége csökken, vagy az elbontóenzim működése fokozott, ami miatt az ideg- és izomingerületi átvitel akadályozott.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Ismertessen az ideghártya-leválás jellemzői/tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- látótérkiesés\n- látásvesztés\n- apró, lebegő tárgyak, felvillanások észlelése\n- nem jár fájdalommal",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Határozza meg a nyelv területeit az ízérzékelésnek megfelelően!\n- az édes íz érzékelésének helye: ...\n- a keserű íz érzékelésének helye: ...\n- a savanyú íz érzékelésének helye: ...\n- a sós íz érzékelésének helye: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyelv hegye\na nyelvgyök\na nyelv oldalsó szélei\na nyelv oldalsó szélei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Egészítse ki az alábbi mondatokat!\n... gyanúja esetén a beteget sokk-fektetésben helyezzük el.\nAz égési felület nagyságának meghatározásakor a sérült saját egy tenyérnyi (ujjak nélkül) felületét ...-nak vesszük.\nKülső (fél)automata ... alkalmazása során a ... utasításait követve kell az ellátást végezni.",
+      "question_type": "fill_in",
+      "correct_answer": "Belső vérzés\n1%\ndefibrillátor\nkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_IV_eumiv_220414_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg az időfaktor és a magas időfaktor lényegét!\nIdőfaktor lényege: Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a sérült/beteg állapota.\nMagas időfaktor lényege: Magas az időfaktor, ha igen rövid idő alatt, igen sokat\nromlik a sérült/beteg állapota.",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a sérült/beteg állapota.\nMagas az időfaktor, ha igen rövid idő alatt, igen sokat\nromlik a sérült/beteg állapota.",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a sorszámokat a megfelelő betűjelhez!\n\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n\n1. gyenge ellenálló képesség, légzőszervi és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési - és cukorbetegségre való hajlam\n\nΑ.- ......, Β.- ......, С.- ......, D.- ......",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...3..., Β.- ...1..., С.- ...4..., D.- ...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás helyi tüneteinek létrejöttét!\nTöltse ki a táblázat hiányzó részeit!\n\n| Helyi tünet | Az elváltozás oka |\n|---|---|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Helyi tünet | Az elváltozás oka |\n|---|---|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik és hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q003_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 1,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer\nvédekezését mozgósítják, antigénnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\nsipoly\nfájdalom\nalakváltozás, duzzanat\nizomsorvadás\nmozgáskiesés\nX- láb\nvérömleny\nvérmérgezés\n(Csak a 4 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás, duzzanat\nmozgáskiesés\nvérömleny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Sorolja fel a medencecsontot alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Ismertesse az izomműködés élettanával kapcsolatos\nfogalmak jelentését!\nKüszöbinger:\n...\nKontrakció:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "az a minimális ingererősség, melyre az izom összehúzódással válaszol...\negy izomrost összehúzódása inger hatására....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a szívbillentyűk típusait előfordulásuk\nhelyével! Írja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nagy artériák szájadékában\n2. jobb pitvar és kamra között\n3. fő visszerekben\n4. bal pitvar és kamra között\n\nZsebes billentyű: ...\nKéthegyű vitorlás billentyű: ...\nHáromhegyű vitorlás billentyű: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 3\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- a vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\na vörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Sorolja fel az embólia fajtáit!",
+      "question_type": "open",
+      "correct_answer": "thromboembolia\nlégembólia\nzsírembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot a magyar, illetve a latin megfelelőkkel!\n\n| A légzőrendszer részei |  |\n|---------|---------|\n| magyar megnevezés | latin megnevezés |\n| orr |  |\n| garat |  |\n| gége |  |\n| légcső |  |\n| tüdő |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer részei |  |\n|---------|---------|\n| magyar megnevezés | latin megnevezés |\n|  | nasus |\n|  | pharynx |\n|  | larynx |\n|  | trachea |\n|  | pulmo |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer alsó részének szakaszait!\nvakbél\néhbél\nszigmabél\nvégbél\npatkóbél\nharánt vastagbél\ncsípőbél\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vakbél\nszigmabél\nvégbél\nharánt vastagbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nbélsárhányás\nszékletürítés hiánya\n„néma has\"\nbeesett arc\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel\nOliguria: ...\nPolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Ismertesse a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "idegi szabályozás\nhormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a\nszülés várható időpontjának kiszámítását a Naegele -\nmódszer alapján!",
+      "question_type": "open",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7\nnapot, majd visszaszámolunk 3 hónapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gumióvszer (kondom) használata\ntartós párkapcsolat\nsteril eszközök használata\nkábítószer-fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "open",
+      "correct_answer": "a hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Mi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- melatonint\n- ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\nmelatonint",
+      "options": [
+        "a csontok hosszirányú növekedésének serkentése",
+        "a csontok hosszirányú növekedésének gátlása",
+        "a pajzsmirigyben",
+        "mellékvesékben",
+        "a csecsemőmirigyben",
+        "a hypophysisben",
+        "a testnövekedést gátolja",
+        "a testnövekedést fokozza",
+        "melatonint",
+        "ösztrogént"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "endokrin (belső elválasztású) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nalacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó\nneuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó köteg\n2. oldalköteg\n3. elülső-oldalsó köteg\n\nA. vegetatív neuronok\nB. mozgató neuronok\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C..., 2.-...A..., 3.-...B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek számát és tagozódását!",
+      "question_type": "open",
+      "correct_answer": "8 pár nyaki ideg\n12 pár mellkasi ideg\n5 pár ágyéki ideg\n5 pár keresztcsonti ideg\n1 pár farkcsonti ideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó-szerv receptorai:...\nLátószerv receptorai:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Ismertesse a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "szőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan okot, amely eszméletvesztéshez vezethet!",
+      "question_type": "open",
+      "correct_answer": "fizikai kórokok\nvérkeringési zavar\ndaganat\nanyagcsere folyamatok zavarai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját\naz alábbi esetekre vonatkozóan!\n\nEszméletlen beteg esetén: ...\n\nÚjraélesztéskor: ...\n\nHasi sérülés esetén: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, a sérült lábait térdben felhúzva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_II_EUMII_0321_q029_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélyt igénylő egészség-károsodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés, vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  }
+]

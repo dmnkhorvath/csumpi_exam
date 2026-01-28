@@ -1,0 +1,319 @@
+[
+  {
+    "file": "EMIV_0214_q001_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 7,
+      "question_text": "Nevezze meg az emberi test fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- fej\n- nyak\n- törzs\n- mellkas\n- hasüreg\n- medence\n- végtagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Egészítse ki a betegségek lefolyás szerinti csoportosítására vonatkozó táblázatot!\n\n| A betegségek csoportosítása lefolyás szerint |          |\n|---------------------------------------------|----------|\n| magyarul                                    | latinul  |\n|                                             | akut     |\n| félheveny                                   |          |\n|                                             | krónikus/chronikus |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A betegségek csoportosítása lefolyás szerint |          |\n|---------------------------------------------|----------|\n| magyarul                                    | latinul  |\n| heveny                                      |          |\n|                                             | szubakut/subacut |\n| idült                                       |          |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa csontokhoz jellemzőiket/leírásukat! Írja a betűjelek mellé a helyes\nválasz sorszámát!\nA. rostacsont\nB. sípcsont\nC. nyakszirtcsont\nD. térdkalács\nE. falcsont\n1. a bokaízület alkotásában vesz részt\n2. páratlan csont, a szem- és az orrüreg határolásában vesz részt\n3. a foramen magnumot határolja\n4. gesztenye alakú, lapos csont\n5. négyszögletes csont, a koponyatető kialakításában vesz részt",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., B.-...1...., C.-...3...., D.-4., Ε.-...5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse az izomsorvadást a megadott szempontok szerint!\nLényege:\n\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Nem idegrendszeri eredetű izomelfajulásos betegség, amelyre jellemző az\nizmok fokozatos, megállíthatatlan sorvadása.\ngyógytorna\nfizioterápia\naz izmok kifárasztásának kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- A vér vegyhatása élettanilag alig változik, a pH-érték 5,34-5,45 közötti\ntartományban mozog.\n- A szív bal pitvarának falában található az elsődleges ingerképző központ.\n- Az arteria pulmonalis oxigénben szegény, szén-dioxidban gazdag vért szállít\na tüdőbe.\n- A vörös csontvelő a vérképzés elsődleges helye.\n- Élettanilag a vér alvadási ideje szobahőmérsékleten 3-5 perc.\n- A nagyvérkör a szív jobb kamrájából az aortával indul.\n- A bal szívfélben található a kéthegyű billentyű.\n- Pulzustérfogatnak nevezzük az egy kamrai összehúzódás alkalmával kilökött\nvérmennyiséget.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "Az arteria pulmonalis oxigénben szegény, szén-dioxidban gazdag vért szállít\na tüdőbe.\nA vörös csontvelő a vérképzés elsődleges helye.\nA bal szívfélben található a kéthegyű billentyű.\nPulzustérfogatnak nevezzük az egy kamrai összehúzódás alkalmával kilökött\nvérmennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Töltse ki az alábbi, a vérzések típusára vonatkozó táblázatot!\n| Vérzés típusa | Lényege, megjelenése |\n|---------------|-----------------------|\n| Külső vérzés |                       |\n| Belső vérzés |                       |\n| Vérömleny    |                       |",
+      "question_type": "fill_in",
+      "correct_answer": "| Vérzés típusa | Lényege, megjelenése |\n|---------------|-----------------------|\n| Külső vérzés | a testfelszínre ömlik a vér |\n| Belső vérzés | a testüregbe, szervek üregeibe jut a vér |\n| Vérömleny    | a szövetrészekbe jut a vér |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a légzés hangjának lehetséges kóros eltérései közül négyet!",
+      "question_type": "open",
+      "correct_answer": "sípoló\nszörcsögő\nstridoros\nhorkoló\nhörgő",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Csoportosítsa a légzés mechanizmusával kapcsolatos leírásokat, jellemzőket\na megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. a rekeszizom összehúzódik, ellaposodik, a hasüreg irányába mozdul\n2. aktív folyamat\n3. a hasprés és a bordaközi izmok segítik\n4. passzív folyamat\n5. a mellüregi szívóhatás növekszik\nA belégzés jellemzője: ...\nA kilégzés jellemzője: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 3., 5....\n4.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az emésztőrendszer részeinek magyar elnevezését a latin\nmegnevezésével! Írja a betűjelek mellé a helyes válasz sorszámát!\nA. éhbél\nB. gyomor\nC. patkóbél\nD. csípőbél\n\n1. duodenum\n2. ileum\n3. jejunum\n4. ventriculus/gaster",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., B.-...4...., C.-...1...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges kiváltó okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- összenövés\n- daganat\n- idegentest\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés\n- epekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Ismertesse a vese koncentrációs munkájának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Amikor a szervezettől megvonjuk a folyadékot, a vizelet besűrűsödik, mert a\nvesék kevesebb folyadékban választják ki ugyanazt a bomlástermék mennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg az idült vesegyulladás lefolyásának három szakaszát!",
+      "question_type": "open",
+      "correct_answer": "krónikus renális tünetek szaka\na kompenzált veseelégtelenség szaka\nveseelégtelenség (urémia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Írjon le a vesekőképződés hajlamosító tényezői közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vizeletpangás a húgyutak szűkülete, vagy elzáródása miatt\n- a vizelet fertőződése\n- kőképző anyagok felszaporodása a vizeletben\n- hibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a terhesség valószínűségi jeleit!\n- menstruáció elmaradása\n- livid (szederjes) hüvely\n- hányinger, hányás\n- pozitív terhességi teszt\n- egyes szagoktól undorodás\n- fokozott nyálelválasztás\n- émelygés\n- bővebb hüvelyváladék\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható)",
+      "question_type": "multiple_choice",
+      "correct_answer": "menstruáció elmaradása\nlivid (szederjes) hüvely\npozitív terhességi teszt\nbővebb hüvelyváladék",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és kezelési lehetőségeit!\nLényege:\n\nKezelése: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában tapinthatóak.\nrendszerint spontán rendeződik\nhormonkezelés\nsebészi beavatkozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Töltse ki a csecsmőmirigyre vonatkozó táblázatot!\n\n|  | A csecsemőmirigy |\n|---|---|\n| Hormonja |  |\n| Feladatai Írjon kettőt!* |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet!* |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|---|---|\n| Hormonja | - timozin |\n| Feladatai Írjon kettőt!* | - a növekedést fokozza\n|  | - a szexuális fejlődést serkenti\n|  | - antitestképzés (nyirokszerv)|\n| Helye a szervezetben | - a gátorüreg elülső részében, a szegycsont mögött helyezkedik el |\n| Jellemzője Írjon egyet!* | - kisgyermekkorig aktiv\n|  | - serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Írja le a bronzkór (Addison-kór) lényegét és lehetséges okait!\nLényege:\n...A mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\ncsökkent termelődése következtében kialakuló betegség....\nOkai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\ncsökkent termelődése következtében kialakuló betegség....\nfertőző betegség (pl. tbc)\ntumor\nautoimmun folyamatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezze meg a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "terminális idegvégződés\nintercalaris idegvégződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a progresszív stroke (PS) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tudatzavar\n- bénulások\n- légzészavar\n- beszédzavar\n- incontinentia\n- érzészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Rendezze az elsődleges agykérgi központokat elhelyezkedési helyeikhez! Írja\na sorszámokat a megfelelő helyre!\n\n1. testérzés\n2. látóközpont\n3. szaglás\n4. hallóközpont\n\nHalántéki lebeny: ...., .....\nNyakszirti lebeny: .....\nHátsó központi barázdatest: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.\n2.\n1.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EMIV_0214_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse a szem belsejében kialakult fertőzést a megadott szempontok\nszerint!\n\nLehetséges okai: Írjon kettőt!\n- \n- \n- \n\nLehetséges tünetei: Írjon hármat!\n- \n- \n- \n- \n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "baktérium\nvírusok\ngombák\nfájdalom\nvérbő ínhártya\nnagyfokú fényérzékenység\nrészleges vagy teljes látásvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a bőr feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a test elhatárolása a külvilágtól\n- a test védelme\n- hőszabályozás\n- zsírraktározás\n- érzékszerv",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Írja le az alábbi szembetegségek lényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "A szemhéj mirigyeinek gyulladása.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy olyan esetet, amelyek során a légző, eszméletlen sérültet\ntilos stabil oldalfekvésbe helyezni!",
+      "question_type": "open",
+      "correct_answer": "- gerinctörés/gerincsérülés, vagy annak gyanúja\n- felkarcsonttörés\n- súlyos, nyílt hasi sérülés\n- súlyos, nyílt mellkasi sérülés\n- medencetörés, vagy annak gyanúja\n- combcsonttörés, vagy annak gyanúja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0214_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a súlyos vérzés ellátásának lépéseit! Írja a sorszámokat a\npontozott vonalakra!\n... mentő hívása\n... nyomókötés felhelyezése\n... az artéria elszorítása az artériás nyomóponton/direkt nyomás\n... a sérült nyugalomba helyezése, pozícionálása\n... biztonságos környezet megteremtése\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "...5.... mentő hívása\n...4.... nyomókötés felhelyezése\n...3.... az artéria elszorítása az artériás nyomóponton/direkt nyomás\n...2.... a sérült nyugalomba helyezése, pozícionálása\n...1.... biztonságos környezet megteremtése",
+      "options": []
+    }
+  }
+]

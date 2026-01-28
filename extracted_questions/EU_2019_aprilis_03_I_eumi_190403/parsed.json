@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. superior/cranialis\n2. anterior\n3. posterior/dorsalis\n4. törzshöz közelebb eső\n5. középsíkhoz közel eső",
+      "question_type": "matching",
+      "correct_answer": "C, E, A, B, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\nBowman-tok: ...\nHIS-köteg: ...\nLangerhans-szigetek: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "vese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse a gerincferdülés okát és tüneteit!\nOka: Írjon kettőt!\n- \n- \n- a gerinc statikai elváltozása\nTünetei: Írjon hármat!\n- \n- \n- fizikai terhelhetőség csökkenése\n- hátfájdalom\n- háti, vagy mellkasi bordapúp",
+      "question_type": "open",
+      "correct_answer": "csigolyafejlődési rendellenesség\nizombénulás\naz egyik oldali váll, illetve csípő magasabban állása\nsánta járás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Sorolja fel az ízületekben létrejövő mozgásokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "hajlítás\nfeszítés\nközelítés\ntávolítás\nforgatás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\n- a pulzust a vena radialison számoljuk\n- a pulzus száma megegyezik a szívösszehúzódások számával\n- a nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\n- a kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\n- a vénák oxigéndús vért szállítanak\n- a vér pH-értéke: 7,34–7,42 között mozog\n- a vörösvértestek élettartama 220 nap\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\na pulzus száma megegyezik a szívösszehúzódások számával\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na vér pH-értéke: 7,34–7,42 között mozog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő kórképhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\nBalszívfél-elégtelenség: ...\nJobbszívfél-elégtelenség: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4....\n1, 3, 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz\nszapora, nehezített légzés\nmellkasi fájdalom\nhátfájdalom\nfejfájás\nszapora pulzus\nköhögés\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe ömlik a vena cava superior?",
+      "question_type": "multiple_choice",
+      "correct_answer": "jobb pitvar",
+      "options": [
+        "jobb pitvar",
+        "bal pitvar",
+        "jobb kamra",
+        "bal kamra"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. kalcium\n2. cink\n3. vas\n4. magnézium\n5. nátrium\n6. szelén\n\nmakroelemek: ..\nmikroelemek: ..",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3., 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orrmelléküregek feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\na belélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?\nMi a feladata a vesecsatornáknak?\nTartalmaz-e az elsődleges vizelet cukrot?\nTartalmaz-e az elsődleges vizelet nagymolekulájú fehérjét?\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "fill_in",
+      "correct_answer": "...a szűrés (filtráció) ...\n...visszaszívás, kiválasztás...\n...igen, tartalmaz...\n...nem tartalmaz...\n...a gerincvelő alsó szakaszán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a külső női nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "nagyajkak\nkisajkak\ncsikló",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Soroljon fel a prosztatagyulladás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gáttájék, derék, hímvessző és herék fájdalma\ngyakori vizelési inger\nfájdalmas, égő vizelés\nvizelési nehézség\nvéres vizelet\nmerevedés és az ejakuláció nehezített, fájdalmas\ntelítettségi érzés a végbélben\nhidegrázás, magas láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Mi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Ismertesse az inzulin hatását!",
+      "question_type": "open",
+      "correct_answer": "- szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar\nmegfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis | bénulás |\n| tremor | remegés (akarattól független) |\n| rigor |  |\n| aphasia | beszédzavar |",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  |  |\n|  |  |\n|  | izomtónus-fokozódás |\n|  |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Sorolja fel a nagyagykéreg lebenyeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a szem akkomodációjának folyamatát!",
+      "question_type": "open",
+      "correct_answer": "Az 5 méternél közelebbi tárgyról érkező széttartó fénysugarakat a szem a lencse domborúságának változtatásával gyűjti össze, korrigálja, így azok mindig az ideghártya sárgafoltjára vetülnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel az alacsony vércukorszint tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- émelygő éhségérzet\n- fejfájás\n- ideges feszültség\n- sápadtság, hideg verejtékezés\n- feszes pulzus\n- remegés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_aprilis_03_I_eumi_190403_q023_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 7,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódóan a földön fekvő\nsérült vizsgálatára vonatkozó mondatokat!\n\nA segélynyújtónak legelőször gondoskodnia kell a .... megteremtéséről.... Ez után az első lépés ... az vizsgálata. Amennyiben a sérült nem reagál, nem vonható kontaktusba, akkor\nazonnal ... hívnunk. A következő teendő ..., a fej hátrahajtásával, az áll előreemelésével.\nA légzés vizsgálatot ... kell végezni. Amennyiben normál\nlégzést tapasztalunk, akkor a sérültet .... kell elhelyezni\nés folyamatosan ellenőrizni kell a légzését....",
+      "question_type": "fill_in",
+      "correct_answer": "biztonságos környezet\neszmélet/reakciókészség\nsegítséget kell\na légutak felszabadítása/szabaddá tétele\n10 másodpercig\nstabil oldalfekvésben\na mentő megérkezéséig",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n\n1. gyenge ellenálló képesség, légzőszervi- és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési- és cukorbetegségre való hajlam\n\nA.- ...., B.- ...., C.- ...., D.- .....",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 4, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyílvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges\nokait! Írjon hármat - hármat!\nLégzésmegállás lehetséges okai:\n-\n-\n-\n-\nKeringésmegállás lehetséges okai:\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a tünetek mellé a betegség sorszámát!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ... ....\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ... ....\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ... ....\nLógó lábfej, befelé néző talp: ... ....\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ... ....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Sorolja fel a vizeletkiválasztó- és elvezető rendszer\nrészeit!",
+      "question_type": "open",
+      "correct_answer": "vese\nhúgyhólyag\nhúgyvezeték\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg azt a helyet, ahol az alábbi tápanyagok bontása kezdődik!\nszénhidrátok: ...\nfehérjék: ...\nzsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szájüreg\ngyomor\nvékonybél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Rendelje a latin kifejezéseket magyar meghatározásuk-hoz! Írja a helyes válasz sorszámát a megfelelő helyre!\n1. myoma\n2. lipoma\n3. papilloma\n4. carcinoma\n5. sarcoma\nIzomszövet eredetű jóindulatú daganat: ... ....\nHámszövet eredetű rosszindulatú daganat: ... ....\nHámszövet eredetű jóindulatú daganat: ... ....\nZsírszövet eredetű jóindulatú daganat: ... ....\nKötőszövet eredetű rosszindulatú daganat: ... ....",
+      "question_type": "matching",
+      "correct_answer": "1\n4\n3\n2\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos széklet\nkínzó székelési inger\ngörcsös hasi fájdalom\nétvágytalanság\nláz, hőemelkedés\nvérszegénység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "nyaki idegek\nmellkasi idegek\nágyéki idegek\nkeresztcsonti idegek\nfarkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n|  | A csecsemőmirigy |\n|----------|----------|\n| Hormonja |  |\n| Feladatai |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|----------|----------|\n| Hormonja | timozin |\n| Feladatai | a növekedést, a szexuális fejlődést serkenti\nantitestképzés (nyirokszerv) |\n| Helye a szervezetben | a gátorüreg elülső részében helyezkedik el |\n| Jellemzője Írjon egyet! | kisgyermekkorig aktív, serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez.\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q014_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 1,
+      "question_text": "Nevezze meg az alábbi tünetek alapján a hormonális\neredetű betegséget!\n- bő vizelés (polyuria): napi 3-20 1, alacsony sűrűségű vizelet\n- a beteg szomjazik, sok folyadékot iszik\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség\nlegfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdőödéma\n- véres köpet\n- cianózis\n- bőséges éjszakai vizeletürítés\n- köhögés\n- látható hasfali vénatágulat\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntelt nyaki vénák\ntüdőödéma\ncianózis\nköhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Nevezze meg a külső- és a középfül részeit\nmagyarul!\nkülső fül részei:\n-\n-\n-\nközépfül részei:\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\nLényege:\nA hörgők falában lévő  rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának  kísér.\nRohamot kiváltó allergének lehetnek: Írjon kettőt!\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\nTünetei: Írjon kettőt!\n- hirtelen jelentkező nehézlégzés\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "question_type": "fill_in",
+      "correct_answer": "simaizomzat\nduzzanata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a normál vizelet alkotóelemei közül!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsók\nurobilinogén\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel a zöldhályog tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "szem belső nyomása kórosan emelkedett\nlátásélesség romlása\nlátótérkiesés\nfejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztatamegnagyobbodás\ntünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\n\nMi a herezacskó szerepe?\n\nMi építi fel a hímvessző állományát?\n\nHol található a sárgatest?\n\nMi a széles méhszalag feladata?\n\nMennyi a spermiumok élettartama a női szervezetben?",
+      "question_type": "fill_in",
+      "correct_answer": "...a hasüregben...\n...a herék működéséhez szükséges, a test hőmérsékleténél alacsonyabb\nhőmérséklet biztosítása...\n...három barlangos test...\n...a petefészekben...\n...a méhet és a petefészket rögzíti...\n...1-2 пар...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_II_eumii_1115_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Sorolja fel a fog részeit!",
+      "question_type": "open",
+      "correct_answer": "korona\nnyak\ngyökér",
+      "options": []
+    }
+  }
+]

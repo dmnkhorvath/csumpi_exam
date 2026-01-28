@@ -1,0 +1,285 @@
+[
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Nevezze meg az idegsejt fő részeit!",
+      "question_type": "open",
+      "correct_answer": "sejttest\naxon (hosszú nyúlvány)\ndendrit (rövid nyúlvány)\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa a fertőző betegségek előfordulási módjaihoz jelentésüket! Írja\na betűjelek mellé a helyes válasz sorszámát!\n\nA. sporadikus\nB. epidémiás\nC. pandémiás\nD. endémiás\n\n1. A járvány, több országra, esetleg egy egész kontinensre, vagy az egész\nvilágra kiterjed.\n\n2. A fertőző betegségek térben és időben elszórtan, látszólag egymástól\nfüggetlenül fordulnak elő.\n\n3. Egy fertőző betegség bizonyos területen rövid időn belül jóval nagyobb\nszámban fordul elő, mint általában.\n\n4. A fertőző betegség egy bizonyos területen tartósan, rendszeresen előfordul.\n\nA.-......, B.-......, C.-......, D.-......",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Határozza meg a szervezet egészséges, normális állapotának fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az egészséges, vagy normális állapot egy viszonylagos egyensúlyi állapot, amelyben a szervezet – egyéni eltérés és tűrőképesség alapján – alkalmazkodik környezete változásaihoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az ízületeket összetartó tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "külső légnyomás\na porcfelszínek közötti tapadás\naz ízületi tok és a szalagkészülék\naz ízületeket körülvevő izmok feszessége\naz ízületek körül lévő egyéb lágy részek és a bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a veleszületett csípőficam tüneteit, kezelésének lehetőségeit!\nÍrjon kettőt-kettőt!\nTünetei:\n\nKezelésének lehetőségei:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- hosszkülönbség az alsó végtagok között\n- a farredők ráncaszimmetriája\n- bicegő, kacsázó járás\n- izomerősítés\n- gyógytorna\n- műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMilyen izmokból áll a verőerek középső rétege?",
+      "question_type": "fill_in",
+      "correct_answer": "simaizmokból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a vörösvértestek élettartama 220 nap\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\n uralkodó nyomással\n- a pulzust a vena radialison számoljuk\n- a kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\n- a nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\n- a vénák oxigéndús vért szállítanak\n- a vér normál pH-értéke: 7,34–7,42 között mozog\n- a pulzus száma megegyezik a szívösszehúzódások számával\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\n uralkodó nyomással\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\na vér normál pH-értéke: 7,34–7,42 között mozog\na pulzus száma megegyezik a szívösszehúzódások számával",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szívizomgyulladás (myocarditis) lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- jelentősen emelkedett pulzusszám\n- alacsony vérnyomás\n- nagyfokú fáradékonyság\n- nyomásérzés a mellkasban\n- szívritmuszavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a\nmegadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. hosszan elnyúló, sípoló kilégzés\n2. szapora, nehezített légzés\n3. hirtelen jelentkező nehézlégzés\n4. üvegszerű, tapadós köpet ürítése\n5. barnásvörös köpet ürítése\n6. magas, nehezen csillapítható láz\n\ntüdőgyulladás tünetei: ...., ...., ......\n\ntüdőasztma tünetei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légzőközpont helye:\n- kisagy\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\n- belső légzés\nA garatot a dobüreggel köti össze:\n- fülkürt",
+      "question_type": "multiple_choice",
+      "correct_answer": "- nyúltvelő\n- külső légzés\n- fülkürt",
+      "options": [
+        "kisagy",
+        "nyúltvelő",
+        "belső légzés",
+        "külső légzés",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\nnyál: ...\nhányás: ...\nszájüreg: ...",
+      "question_type": "fill_in",
+      "correct_answer": "saliva\nvomitus/emesis\ncavum oris",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőrendszer szakaszaihoz a szerveket! İrja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. patkóbél\n2. haránt vastagbél\n3. csípőbél\n4. gyomor\n5. éhbél\n6. szigmabél\n\nAz emésztőrendszer középső szakasza: ...1., 3., 4., 5....\nAz emésztőrendszer alsó szakasza: ...2., 6....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4., 5....\n2., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a vesekapu (hilus renalis) képletei közül!",
+      "question_type": "open",
+      "correct_answer": "veseartéria\nvesevéna\nhúgyvezeték\nnyirokerek\nidegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertesse nephrosis szindróma lehetséges okait és tüneteit! Írjon kettőt-kettőt!\nLehetséges okai:\n- allergiás kórképek\n- fertőzés\n- autoimmun betegség\nTünetei:\n- nagyfokú proteinuria\n- hypalbuminaemia\n- testszerte nagyfokú ödéma\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "allergiás kórképek\nfertőzés\nautoimmun betegség\nnagyfokú proteinuria\nhypalbuminaemia\ntestszerte nagyfokú ödéma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogamzásgátlás módszerei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "természetes módszerek\nmechanikai módszerek\nkémiai módszerek\nméhen belüli eszközök\nhormonális készítmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a férfi belső nemi szerveket!",
+      "question_type": "fill_in",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Sorolja fel a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH (tüszőérést, ondósejtképződést serkentő hormon)\nLH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\nLTH (tejelválasztást szabályozó hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertesse a golyvát a megadott szempontok szerint!\nLehetséges tünetei: Írjon hármat!\n- \n- \n- \n- \nGyógyítása:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a pajzsmirigy látható megnagyobbodása\nfulladásérzés\nnyelési nehézség\nrekedtség\nfokozott jódbevitel\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. II. agyideg\n2. IV. agyideg\n3. VI. agyideg\n4. VIII. agyideg\n5. X. agyideg\n6. XII. agyideg\n\nA. sodorideg\nB. távolító ideg\nC. egyensúlyozó és hallóideg\nD. nyelv alatti ideg\nE. látóideg\nF. bolygóideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-Α...., 3.-...B...., 4.-...C...., 5.-F...., 6.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyhártyagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "heves fejfájás\nhányás\nmagas láz\ntarkómerevség\nvadászkutyafekvés\nfokozott érzékenység a fény-, zaj-, és fájdalomingerekre",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "- szőrszálak\n- faggyúmirigyek\n- verejtékmirigyek\n- körmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a siketség lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "terhesség alatti rubeolafertőzés\nszülési sérülés\nközépfülgyulladás\ntoxikus ártalmak\nagyhártyagyulladás\nskarlát\nmumpsz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_III_eumiii_200910_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Töltse ki az alábbi, a fagyási sérüléssel kapcsolatos táblázatot!\n| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n| I. fokú fagyás |  |\n| II. fokú fagyás |  |\n| III. fokú fagyás |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| A fagyási sérülés fokozatai | A fagyási sérülés jellemzői |\n|---------|---------|\n|  | a bőr lilás, később kékes színű, vértelen,\nhideg és fájdalmas |\n|  | hólyagosodás jellemzi |\n|  | a bőr felső rétegei elhalnak, esetleg a bőr\nteljes mélységében is |",
+      "options": []
+    }
+  }
+]

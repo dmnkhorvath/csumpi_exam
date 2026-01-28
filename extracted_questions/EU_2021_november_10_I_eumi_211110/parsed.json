@@ -1,0 +1,309 @@
+[
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel a krónikus gyulladások típusait jellegzetességeik alapján!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- exsudativ jellegű gyulladás\n- alternatív jellegű gyulladás\n- idült produktív gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Ismertessen az egészségi állapotot meghatározó tényezők közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az egészségügyi ellátórendszer működése\n- genetikai tulajdonságok\n- környezeti tényezők\n- életmód\n- egészségmagatartás\n- társadalmi helyzet, jövedelmi viszonyok\n- társas támogatottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek||\n|---|---|\n|magyarul|latinul|\n|csonthártya||\n||sutura|\n|orsócsont||\n||articulatio humeri|\n|singcsont||\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek||\n|---|---|\n|magyarul|latinul|\n| |periosteum|\n|varrat| |\n| |radius|\n|vállízület| |\n| |ulna|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot, melyek a vérben lúgos\nvegyhatást (alkalosis) idéznek elő!",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú hányás\n- nagyfokú hasmenés\n- légzészavarok (fokozott szén-dioxid leadás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a porckorong-elfajulás tüneteit, kezelésének lehetőségeit!\nLehetséges tünetei: Írjon négyet!\n\n\n\n\n\nKezelésének lehetőségei: Írjon kettőt!\n\n\n\n",
+      "question_type": "open",
+      "correct_answer": "- érzészavar\n- zsibbadás\n- fájdalom\n- izomvédekezés\n- mozgáskorlátozottság\n- mozgásterápia\n- fizioterápia\n- gyógyszeres kezelés\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző és ingerületvezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai billentyű",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "Pitvar-kamrai billentyű"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a szív irányába szállítják a vért\n\n2. nagyfokú, gyors tágulásra és szűkülésre képesek\n\n3. nem képesek erőteljes összehúzódásra\n\n4. a falukat simaizomrostok alkotják, erőteljes összehúzódásra képesek\n\n5. az anyagcserében közvetlenül részt vesznek\n\n6. a vért a szívből a periféria felé juttatják\n\nHajszálerek jellemzői: ...., ....\nVisszerek jellemzői: ...., ....\nVerőerek jellemzői: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5.\n1., 3.\n4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a mellhártyagyulladás lényegét és tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Lényege:...A mellhártyát izgató tényezők, vagy daganat hatására a mellhártyán\ngyulladás alakul ki....\n\nLehetséges tünetei:\n- mély légvételkor és köhögéskor fokozódó fájdalom\n- szapora, felületes légzés\n- a beteg oldalon a mellkaskitérés akadályozott\n- hallgatózáskor jellegzetes nyikorgó dörzszörej",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat feladataikkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. C-vitamin\nA. a C-vitamin hatását támogatja\n2. P-vitamin\nB. hámvédő, és a látóbíbor alkotásában vesz részt\n3. A-vitamin\nC. fehérjék lebontása\n4. folsav\nD. a sejtek működésének szabályozása, antioxidáns\n5. B6-vitamin\nE. a vörösvérsejtek képződéséhez szükséges\n\n1.-... ...., 2.-... ...., 3.-... ...., 4.-... ...., 5.-... ....",
+      "question_type": "matching",
+      "correct_answer": "D, A, B, E, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel a nyelvgyulladás kialakulásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- vészes vérszegénység\n- vashiányos vérszegénység\n- B-vitamin hiánya\n- C-vitamin hiánya\n- fogbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írja le a vesekőbetegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vesekapun a vesevéna belép, a veseartéria pedig kilép.\n- A vesekelyhek a vesemedencébe torkollanak.\n- A vese a hasüreg elülső alsó részében helyezkedik el.\n- A vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.\n- A vesekapun a veseartéria belép, a vesevéna pedig kilép.\n- Anatómiailag a vesét három nagy részre oszthatjuk.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vesekelyhek a vesemedencébe torkollanak.\nA vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.\nA vesekapun a veseartéria belép, a vesevéna pedig kilép.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- fokozott folyadékbevitel\n- ödémák kiürülése\n- diuretikumok szedése\n- cukorbetegség\n- krónikus veseelégtelenség (kompenzáló polyuria)\n- folyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- genetikus tényezők\n- hormonális tényezők\n- anyagcsere-betegségek\n- környezeti tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMikor alakul ki a másodlagos nemi jelleg?",
+      "question_type": "fill_in",
+      "correct_answer": "...a nemi érés (pubertás) idején...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Írja a sorszámokat\na megfelelő helyre!\n1. aldoszteron\n2. timozin\n3. adrenokortikotrop hormon\n4. melatonin\n5. szomatotrop hormon\n6. kortizol\ncsecsemőmirigy: ......\nmellékvesekéreg állománya: .......\ntobozmirigy: .......\nhipofízis elülső lebenye: .......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n1., 6\n4\n3., 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Sorolja fel az idegsejteket nyúlványaik alapján!",
+      "question_type": "open",
+      "correct_answer": "egynyúlványú (unipoláris)\nkétnyúlványú (bipoláris)\nálegynyúlványú (pszeudounipoláris)\nsoknyúlványú (multipoláris)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Nevezze meg a megadott tünetek alapján a betegségeket!\n- Tünetek: bő vizelés, napi 3-20 1, alacsony sűrűségű vizelet, olthatatlan\nszomjúságérzés, sok folyadék fogyasztása.\nA betegség neve: ...\n- Tünetek: a csontok végi része megvastagodott, nagy orr, megvastagodott ajak\nés fül, erős állkapocs, hosszú ujjak, mély hang.\nA betegség neve: ...\n- Tünetek: zsírlerakódás a törzsön, a hát felső részén, nagy, kerek arc\n(holdvilágarc), vékonynak tűnő végtagok, kékeslilás csíkok (striák) a hason,\nvállon, felkaron, vagy a combon.\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diabetes insipidus\nacromegalia\nCushing-szindróma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nnystagmus\nakadozó beszéd\nspasztikus bénulások\nérzészavarok\nincontinentia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Párosítsa a bőr rétegeit jellemzőikkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. irha\n2. bőr alatti kötőszövet\n3. felhám\nA. ereket, idegeket nem tartalmaz, alapsejtrétegében\npigmentsejtek találhatóak\nB. gazdagon erezett, a bőr szilárdságát, valamint\nrugalmasságát biztosítja\nC. a szervezet egyik legnagyobb zsírraktára, eltérő\nvastagságú",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a látóideg-gyulladás kialakulásának okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sclerosis multiplex\norrmelléküreg-gyulladás\nvírusfertőzés\nagyhártyagyulladás\nimmunrendszeri betegség\na szemben kialakult gyulladások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a ficam jellemző tüneteit!\n- ízületi működés csökkenése\n- duzzanat\n- „rugalmas rögzítettség”\n- lilás elszíneződés\n- deformitás, durva alakváltozás\n- az ízület működése megszűnik/mozgásképtelenség\n- csontvégek ropogása\n- fájdalom, ami nyugalomban is jelentkezik\n- elsősorban éjszaka jelentkező erős fájdalom",
+      "question_type": "multiple_choice",
+      "correct_answer": "„rugalmas rögzítettség”\ndeformitás, durva alakváltozás\naz ízület működése megszűnik/mozgásképtelenség\nfájdalom, ami nyugalomban is jelentkezik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_I_eumi_211110_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel az ájulás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "szédülés\némelygés\ngyomortáji nyomás\nlátótérben fekete pontok, foltok megjelenése\na bőr sápadt, hűvös tapintatú\na nyálkahártyák sápadtak\nverejtékezés\nalacsony vérnyomás",
+      "options": []
+    }
+  }
+]

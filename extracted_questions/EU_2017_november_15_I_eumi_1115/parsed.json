@@ -1,0 +1,194 @@
+[
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Nevezze meg latinul az emberi test részeit!\nEgészítse ki a táblázatot!\n\nAz emberi test részei\n| magyarul | latinul |\n|---|---|\n| fej |  |\n| nyak |  |\n| törzs |  |\n| mellkas |  |\n| has |  |\n| medence |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n|  | caput |\n|  | collum, cervix |\n|  | truncus |\n|  | thorax |\n|  | abdomen |\n|  | pelvis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Határozza meg az antigén fogalmát és az immunrendszer reakcióinak lényegét a megadott szempontok alapján!\n\nAz antigén fogalma:\nAzokat az anyagokat, amelyek a szervezetbe jutva a szervezet immunrendszerét védekező reakcióra késztetik, antigéneknek nevezzük.\n\nAz immunrendszer reakciói antigén hatására:\n- celluláris immunválasz:\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik, közömbösítik az antigént.\n- humorális immunválasz:\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva a szervezet immunrendszerét védekező reakcióra késztetik, antigéneknek nevezzük.\n\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik, közömbösítik az antigént.\n\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan nevezzük a szív falának középső rétegét magyarul?",
+      "question_type": "fill_in",
+      "correct_answer": "szívizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a megadott szempontok szerint! Irja a helyes válasz sorszámát a megfelelő helyre!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt-szaporulat\n5. melegség\n\nGyulladás helyi tünetei: ...\nGyulladás általános tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Sorolja fel és jellemezze a betegségeket lefolyásuk\nszerint!",
+      "question_type": "open",
+      "correct_answer": "- heveny (acut): rövid ideig tart (1-2 naptól 2-4 hét), heves tünetekkel jár\n- félheveny (subacut): elhúzódó lefolyású, nem jár viharos tünetekkel\n- idült (chronicus): hosszantartó, évekig, évtizedekig tarthat, váltakozóan\nnyugalmi és aktív szakaszokkal jár",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel az elhalás fajtái közül kettőt latinul és\nmagyarul!",
+      "question_type": "open",
+      "correct_answer": "ék alakú elhalás – infarctus\nüszkösödés - gangraena\nfelfekvés - decubitus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Párosítsa a latin kifejezéseket magyar\nmeghatározásukkal! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. myoma\n2. lipoma\n3. papilloma\n4. carcinoma\n5. sarcoma\n\nIzomszövet eredetű jóindulatú daganat: ...1....\nHámszövet eredetű rosszindulatú daganat: ...4....\nHámszövet eredetű jóindulatú daganat: ...3....\nZsírszövet eredetű jóindulatú daganat: ...2....\nKötőszövet eredetű rosszindulatú daganat: ...5....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Sorolja fel a felső végtag csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "felkarcsont\norsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Sorolja fel az ízületek alkotórészeit!",
+      "question_type": "open",
+      "correct_answer": "ízületi fej\nízületi árok\nízületi tok\nízületi porc\nízületi szalagok\nízületi nedv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Sorolja fel a hasizmok fajtáit és feladatait!\nA hasizmok fajtái: Írjon hármat!\n- \n- \n- \n- \nA hasizmok feladatai: Írjon hármat!\n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom\nösszehúzódás: törzs előre hajlítása, alsó végtagok emelése\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q011_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul, majd írja le a mozgásrendszert\nérintő alábbi sérülések lényegét!\nRuptura: \nDistorsio: \nLuxatio: \nFractura:",
+      "question_type": "open",
+      "correct_answer": "repedés, szakadás - az izmok, inak, szalagok szakadása\nrándulás - erőbehatásra az ízületi fej elhagyja az ízületi árkot,\nmajd az erőbehatás megszűnése után visszatér az eredeti helyzetbe\nficam - erőbehatásra az ízületi fej az ízületi árkon kívülre kerül,\nés az erőbehatás megszűnése után sem tér vissza az eredeti helyzetbe\ncsonttörés - hirtelen erőbehatásra (trauma) a csont\nfolytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q012_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 8,
+      "question_text": "Nevezze meg az AB0-vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A | anti-B |\n| B | B | anti-A |\n| AB | AB | - |\n| 0 | - | anti-A, anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel a vérplazma összetevői közül hatot!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "fill_in",
+      "correct_answer": "zsírok, lipoidok\nszénhidrátok\nvéralvadási faktorok\nfestékanyagok\nionok\nnitrogéntartalmú anyagok\nhormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q014_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 8,
+      "question_text": "Párosítsa a jobb- és balszívfél-elégtelenséget\njellemzőikkel, tüneteikkel! Írja a tünetek sorszámát\na megfelelő helyre!\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszárödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n6. nehézlégzés\n7. köhögés\n8. éjszakai vizelés (nocturia)\nBalszívfél-elégtelenség: ...\nJobbszívfél-elégtelenség: ...",
+      "question_type": "matching",
+      "correct_answer": "2., 4., 6., 7....\n1., 3., 5., 8....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q015_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 8,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a megadott kórképeknek megfelelően!\nÍrja a tünetek sorszámát a megfelelő helyre!\n1. szapora, nehezített légzés\n2. gyakori, szúró mellkasi fájdalom\n3. hirtelen jelentkező nehézlégzés\n4. magas, nehezen csillapítható láz\n5. rövid, kapkodó belégzés\n6. hosszan elnyúló, sípoló kilégzés\n7. barnásvörös köpet\n8. üvegszerű, tapadós köpet\nTüdőgyulladás: ...\nTüdőasztma: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4., 7....\n3., 5., 6., 8....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_november_15_I_eumi_1115_q016_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 8,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét és\ntüneteit!\nLényege: \nTünetei: Írjon ötöt!\n- tudatzavar\n- bénulások\n- légzészavar\n- beszédzavar\n- incontinentia\n- érzészavarok",
+      "question_type": "open",
+      "correct_answer": "az agyszövet állományában kialakult vérzés miatt az érintett\nterületen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása\nalakul ki",
+      "options": []
+    }
+  }
+]

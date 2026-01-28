@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EMVII_1010_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egy adott funkció ellátására specializálódott azonos alakú és azonos működésű\nsejtek és a köztük lévő sejt közötti állomány alkotják a szövetet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a harántcsíkolt izmot és a simaizmot a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n\n| Szempontok | harántcsíkolt izom | simaizom |\n|---|---|---|\n| helye |  |  |\n| irányítás |  |  |\n| összehúzódás |  |  |\n| erőkifejtés mértéke |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | harántcsíkolt izom | simaizom |\n|---|---|---|\n| helye | vázizmok | zsigeri szervek és erek fala |\n| irányítás | akaratlagos és reflexes | akarattól független |\n| összehúzódás | gyors | lassú, hullámszerű |\n| erőkifejtés mértéke | jelentős erőkifejtés | viszonylag nagy erőkifejtés |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Egészítse ki a csigolyákkal kapcsolatos táblázat hiányzó részeit!\n\n| Csigolyák megnevezése |  |  |\n|---|---|---|\n| magyarul | latinul | Csigolyák darabszáma |\n| farkcsigolya |  |  |\n| keresztcsonti csigolya |  |  |\n| háti csigolya |  |  |\n| nyaki csigolya |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|---|\n|  | vertebra coccygis | 3-4 |\n|  | vertebra sacralis | 5 |\n|  | vertebra thoracalis | 12 |\n|  | vertebra cervicalis | 7 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való elmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a keringés szervrendszerére vonatkozó meghatározásokat!\nFiziológiás körülmények között a szív elsődleges ingerképző központja a\n... pitvar hátsó falában elhelyezkedő .... Innen terjed szét\naz ingerület a ..., és éri el a pitvar-kamrai határ közelében\nelhelyezkedő atrioventricularis csomót/AV-csomót. A pitvar-kamrai csomóból\nindul ki a ... , amely két ... oszlik.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "jobb\nsinuscsomó\npitvarokra\nHis-köteg/His-nyaláb\nTawara-szárra",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan tényezőt, amely a vérrögösödés kialakulásában\nszerepet játszhat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása (pl. vénás pangás)\n- nagy hasi műtétek utáni állapotok\n- szülés utáni állapotok\n- az erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\n- a vér összetételének megváltozása\n- az alvadási fehérjék kóros szintje",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja\na megadott csoportokhoz a helyes sorszámot!\n\n1. a mellkasi aortából indul\n2. a szív jobb kamrájából indul\n3. a tüdő szövetét nem táplálja\n4. a tüdő szövetét táplálja\n5. a gázcsere lebonyolításában nincs feladata\n6. a gázcseréhez szükséges vért szállítja\n\narteria bronchialis rendszer: ...., ...., .....\n\ntruncus pulmonalis rendszer: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz\nszapora, nehezített légzés\nmellkasi fájdalom\nhátfájdalom\nfejfájás\nszapora pulzus\nköpettel járó köhögés\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Írjon le négyet a hasnyálmirigy enzimjei közül!",
+      "question_type": "open",
+      "correct_answer": "tripszin\namiláz\nnukleáz\nlipáz\nelasztáz\nkollagenáz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez a jellemző tüneteiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. aranyérbetegség\n2. epehólyag-gyulladás\n3. gyomordaganat\n4. gyomorfekély\n\nA. fogyás, húsundor, vérszegénység\nB. jobb bordaív alatti heveny fájdalom\nC. éles, görcsös gyomortáji fájdalom\nD. friss, vércsíkos széklet",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-A..., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztásra vonatkozó helyes\nmegállapításokat!\n- Az ADH a mellékvesében termelődik.\n- Az ADH hormon a vesecsatornák utolsó szakaszának vízáteresztő képességét\nbiztosítja.\n- Az ADH hormon a vesecsatornák első szakaszának vízáteresztő képességét\nbiztosítja.\n- Emelkedett ADH termelés esetén a naponta ürített vizelet mennyisége\nelérheti a 8-12 litert is.\n- Csökkent ADH termelés esetén a naponta ürített vizelet mennyisége elérheti\na 8-12 litert is.\n- Az ADH a hypothalamusban termelődik.\n- Csökkent ADH-termelés esetén nő a permeábilitás.\n- Az aldoszteron fokozza a Na-ion és a víz visszaszívását, így csökken az ürített\nvizelet mennyisége.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az ADH hormon a vesecsatornák utolsó szakaszának vízáteresztő képességét\nbiztosítja.\nAz ADH hormon a vesecsatornák első szakaszának vízáteresztő képességét\nbiztosítja.\nAz ADH a hypothalamusban termelődik.\nAz aldoszteron fokozza a Na-ion és a víz visszaszívását, így csökken az ürített\nvizelet mennyisége.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. fokozott hányás, hasmenés\n2. diabetes insipidus\n3. nagyfokú ödémaképződés\n4. ödémák kiürülése\n5. heveny és krónikus veseelégtelenséghez vezető kórképek\n6. cukorbetegség\nCsökkent vizeletelválasztás (oliguria) okai: ...\nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 5....2., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a genitális herpesz lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a nemi szerveken és környékén égő érzés\n- fájdalom\n- apró hólyagok\n- fájdalmas nyirokcsomó-duzzanat\n- láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Jellemezze a kalcitonin hormont a megadott szempontok szerint!\ntermelődési helye:\n...\nhatása:\n...\nhatásmechanizmusa:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "pajzsmirigy\na vér kalcium szintjét csökkenti\nsegíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a tetániás állapotot a megadott szempontok alapján!\nLényege:\nA tetániás roham tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...A vérszérum kalcium szintjének csökkenése....\n- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\n- szapora szívműködés\n- a gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Párosítsa a kóros elváltozások latin és magyar elnevezését! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. rigor\nA. remegés (akarattól független)\n2. paresis\nB. szemtekerezgés\n3. tremor\nC. izomgyengeség\n4. tenebrositas\nD. izomtónus-fokozódás\n5. nystagmus\nE. homályállapot",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...A...., 4.-E., 5.-..B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az érzékszervekkel kapcsolatos kérdésekre!\nMi az üvegtest feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "a szem állandó alakjának biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a szaglószerv fáradékonyságának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ember szaglószerve fáradékony, bizonyos idő eltelte után az adott szagot\nmár nem érzi, hozzászokik a szaghoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Nevezze meg három lehetséges tünetét az ajakherpesz (herpes labialis) fertőzésnek!",
+      "question_type": "open",
+      "correct_answer": "- égő, viszkető érzés az érintett területen\n- fájdalmas hólyagocskák megjelenése az érintett területen\n- heveny gyulladás az érintett területen\n- regionális nyirokcsomó duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá az elsősegélynyújtás témaköréhez kapcsolódó helyes\nmegállapításokat!\n- Gerincsérülés fennállása esetén minden esetben stabil oldalfekvésben kell\nelhelyezni a sérültet.\n- Az ájulás bekövetkezhet minden előjel nélkül.\n- A légúti idegentest eltávolítása érdekében a Rautek-féle műfogást kell\nalkalmazni.\n- Metszett sebnél a sebszélek épek, a vérzés bőséges és csak ritka a\nfertőzésveszélye.\n- Szakított seb esetén a sebszélek egyenetlenek, roncsoltak, a vérzés és a\nfertőzésveszély csak kismértékű.\n- A marószert ivott beteget - amennyiben eszméleténél van hánytatni kell\nmindenképpen.\n- Az eszméletlen betegnél legfontosabb teendő az átjárható légutak biztosítása.\n- Fagyási sérülés elsősorban a fedetlen testrészeken és a rosszabb vérellátású\nterületeken fordul elő.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az ájulás bekövetkezhet minden előjel nélkül.\nMetszett sebnél a sebszélek épek, a vérzés bőséges és csak ritka a\nfertőzésveszélye.\nAz eszméletlen betegnél legfontosabb teendő az átjárható légutak biztosítása.\nFagyási sérülés elsősorban a fedetlen testrészeken és a rosszabb vérellátású\nterületeken fordul elő.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések típusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszermérgezés\n- alkoholmérgezés\n- gázmérgezés\n- marószermérgezés\n- gombamérgezés\n- növényvédőszer-mérgezés\n- mérgező növények",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_1010_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Írja le röviden az elsősegélynyújtás fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azonnali beavatkozás, sérülés, rosszullét esetén a végleges szakellátás\nmegkezdése előtt.",
+      "options": []
+    }
+  }
+]

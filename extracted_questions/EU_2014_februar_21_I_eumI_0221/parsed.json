@@ -1,0 +1,334 @@
+[
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes betűjelet!\n1. superior\nA. központi\n2. perifériás\nB. alsó\n3. posterior\nC. hasi irányú\n4. ventralis\nD. felső\n5. centrális\nE. környéki\n6. inferior\nF. hátsó",
+      "question_type": "matching",
+      "correct_answer": "1.:...D... 2.:E 3.:...F... 4.:...C... 5.:...A... 6.:...Β...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a rosszindulatú daganatok jellemzőit!\n- növekedése lassú\n- növekedése gyors\n- átszövi a környező szöveteket, összenő vele\n- környezettől élesen elhatárolódik\n- sejtjei, és szerkezete hasonlít a kiinduló szövet sejtjeihez\n- sejtjei, és szerkezete eltér az ép szövetekétől\n- metasztázist (áttétet) okoz\n- nem újul ki\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "növekedése gyors\nátszövi a környező szöveteket, összenő vele\nsejtjei, és szerkezete eltér az ép szövetekétől\nmetasztázist (áttétet) okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és ideg ellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHol helyezkedik el a háromhegyű vitorlás billentyű?",
+      "question_type": "open",
+      "correct_answer": "A jobb pitvar és a jobb kamra között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Nevezze meg a leírt jellemzők alapján a betegségeket!\nA B12 - vitamin nem tud felszívódni a gyomorban termelődő intrinszik\nfaktor hiánya miatt.\n...\nA kóros (éretlen) fehérvérsejtek korlátlan mennyiségben képződnek, de\nfunkciójukat nem tudják ellátni.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vészes vérszegénység\nleukémia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Sorolja fel a szívbillentyűhibák (vitium cordis) típusait! \nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "bal vénás szájadék szűkülete\nkéthegyű szívbillentyű elégtelensége\naortabillentyű-elégtelenség\naortaszűkület\ntricuspidalis billentyű elégtelenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "A légutak középső, és alsó részébe került idegen anyag és az\nott keletkezett váladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\n\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\n\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\n\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak\n\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\n\nnyúltvelő\n\nemelkedik\n\nszűkülnek",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a betegségek betűjele mellé tünetének számát!\nA. tüdőtályog\nB. tüdővizenyő\nC. tüdőasztma\nD. tuberkulózis\n\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet\n\nA: ... ...; B: ... ...; C: ... ...; D: ... ...;",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimeikkel!\nÍrja a sorszám mellé a megfelelő betűjelet!\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. kötőszöveti rostok\nA. kollagenáz, elasztáz\nB. lipáz\nC. tripszin\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "C, D, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az\nalábbiakban megadott szempontok szerint!\n\nLényege:\n\nOka: Írjon kettőt /2/!\n- túlzott alkoholfogyasztás\n- fertőzés\n- epeutak, epehólyag idült gyulladása\n\nTünetek: Írjon hatot /6/!\n- haspuffadás\n- nyomásérzékenység a jobb bordaív alatt\n- testtömeg csökkenés\n- fakó, enyhén sárgaszínű bőr\n- bőrviszketés\n- hasvízkór\n- bőrön csillag alakú értágulatok\n- tág vénás hálózat a hasfalon\n- vénatágulatok a nyelőcsőben",
+      "question_type": "open",
+      "correct_answer": "A májsejtek pusztulásával járó krónikus betegség."
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q013_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; okaira, tüneteire: 0,5-0,5 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyeketa normál vizelet NEM tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz\n(Csak a négy /4/ válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!\nÍrja a megfelelő betegség mellé a jellemző tüneteinek\nsorszámát!\n\n1. éles fájdalom a deréktájon\n2. szemhéj, arc, kéz ödémája\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a nagyajkakba\nsugárzik\n6. a vizeletben fehérje jelenhet meg\n\nVesekövesség: ...\nGlomerulonephritis acuta: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4, 5\n2, 3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\n\nMi a szerepe a sárgatesthormonnak?\n\nHol található a sárgatest?\n\nMi a széles méhszalag feladata?\n\nMely hormon felelős a női nemi jelleg kialakulásáért?",
+      "question_type": "open",
+      "correct_answer": "A méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására.\n\nA petefészek kéregállományában.\n\nA méhet és a petefészket rögzíti.\n\nAz ösztrogén.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és gyógyítási\nlehetőségeit!\n\nLényege:\n- a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\n- a hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\n\nGyógyítása:\n- hormonkezelés végezhető 5-7 éves kor között\n- hormonkezelés eredménytelensége esetén, sebészi beavatkozás\nszükséges a pubertás kor előtt",
+      "question_type": "open",
+      "correct_answer": "a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\na hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\nhormonkezelés végezhető 5-7 éves kor között\nhormonkezelés eredménytelensége esetén, sebészi beavatkozás\nszükséges a pubertás kor előtt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "endokrin (belső elválasztású) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nalacsonyabb koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q019_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 7,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetaniás állapotot!\n\nLényege:\nA vérszérum Ca szintjének csökkenése következtében kialakuló spontán\nizomgörcsök, izomrángások.\n\nOka:\nA mellékpajzsmirigy csökkent működése. Leggyakrabban strúma műtét után\nfordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\n\nTünetei: Írjon négyet /4/!\n- a kéz és láb ujjainak zsibbadása az első jel\n- a kéz őzfejtartása (hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban is görcs alakul ki: „ördögi vigyor” (risus\nsardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet\n\nGyógyítása, ellátása:\n- Ca adása intravénásan",
+      "question_type": "open",
+      "correct_answer": "Lényege:\nA vérszérum Ca szintjének csökkenése következtében kialakuló spontán\nizomgörcsök, izomrángások.\n\nOka:\nA mellékpajzsmirigy csökkent működése. Leggyakrabban strúma műtét után\nfordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\n\nTünetei: Írjon négyet /4/!\n- a kéz és láb ujjainak zsibbadása az első jel\n- a kéz őzfejtartása (hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban is görcs alakul ki: „ördögi vigyor” (risus\nsardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet\n\nGyógyítása, ellátása:\n- Ca adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Írja le, hogy a gerincvelő egyes szarvai milyen típusú neuronokat tartalmaznak!\nHátsó szarv: ... neuronok...\nOldalsó szarv: ... neuronok...\nElülső szarv: ... neuronok...",
+      "question_type": "fill_in",
+      "correct_answer": "érző neuronok\nvegetatív neuronok\nmozgató neuronok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\nhomloklebeny\nékcsonti lebeny\nrostacsonti lebeny\nfali lebeny\nnyakszirti lebeny\nalsó lebeny\nhalántéki lebeny\n(Csak a négy /4/ válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön kép keletkezik, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q024_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen beteget!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Ismertesse a sérültek elhelyezési módját az alábbi esetekben!\n\nOrrvérzés esetén:\n...\n\nLégmell esetén:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej ...félülő helyzet (nyugalom)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q026_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 10,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nFajtái:(magyarul)",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.\nszúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_februar_21_I_eumI_0221_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Fogalmára: 2 pont; fajtáira: 1-1 pont adható!) „Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

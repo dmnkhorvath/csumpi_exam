@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan helyet az emberi testben ahol hámszövet található!",
+      "question_type": "open",
+      "correct_answer": "a bőr felszíni rétege\naz emésztőrendszer nyálkahártyájának külső felszíne\na légzőrendszer nyálkahártyájának külső felszíne\na kiválasztó rendszer nyálkahártyájának külső felszíne\naz üreges szervek belső felszíne\na vér-, és nyirokerek belső felszíne",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Párosítsa az elhalás formáihoz a leggyakoribb előfordulási helyüket! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. zsírnekrózis\n2. infarktus\n3. száraz üszök\n4. lágyulásos\n5. nedves üszök\n\nA. kéz- és lábujjak, orr és a fül\nB. agy\nC. garat, mandulák\nD. az emlőben, a bőr alatt, és a hasnyálmirigy körül\nE. szív, tüdő, vese",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-E., 3.-А...., 4.-...B...., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel az agykoponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- koronavarrat\n- nyílvarrat\n- pikkelyvarrat\n- lambdavarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a discopathiát a megadott szempontok szerint!\nLényege:\n...\nKialakulásának lehetséges okai: Írjon kettőt!\n-\n-\n-\nKezelésének lehetőségei: Írjon hármat!\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a csigolyák közti porcok elfajulása, deformálódása...\nmozgáshiány\na gerinc statikai hibája\ntrauma\nmozgásterápia\nfizioterápia\ngyógyszeres kezelés\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a keringés szervrendszerére vonatkozó kérdésekre!\nHol helyezkedik el a lép?",
+      "question_type": "fill_in",
+      "correct_answer": "a rekesz alatt, a hasüreg bal oldalán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel az érelmeszesedés (arterioszklerózis) következményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az érfal merevvé válik, ezért könnyen megrepedhet\n- trombózisok alakulhatnak ki\n- az ér lumene szűkül, majd elzáródhat\n- a szervekben vérellátási zavar alakulhat ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő anatómiai\nképleteket!\n- nervus vagus\n- hörgők\n- aortaív ágai\n- fő nyirokvezeték\n- pajzsmirigy\n- csecsemőmirigy\n- máj\n- tüdők\n- lép\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "nervus vagus\naortaív ágai\nfő nyirokvezeték\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a garatgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- kaparó, égő jellegű fájdalom\n- a garat éjszakai kiszáradása\n- állandó idegentestérzés a torokban\n- vérbő és váladékos garatnyálkahártya\n- magas láz\n- étvágytalanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa a feladatokat/funkciókat a szervekhez! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. amiláztermelés\n2. epesavképzés\n3. epefesték lebontása\n4. lipáztermelés\n5. vérplazmafehérjék képzése\n6. glükagontermelés\n\nmáj: ...2., 3., 5....\n\nhasnyálmirigy: ...1., 4., 6....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Ismertesse a coeliakia lényegét, következményét!",
+      "question_type": "open",
+      "correct_answer": "...A gabonafélék fehérjéje (glutén) által kiváltott allergiás reakció, a beteg nem\ntudja megemészteni a liszttel készült ételeket. Ez a rendellenesség a belek\ngyulladásához, sorvadásához vezet, a bélbolyhok pusztulása miatt felszívódási\nzavar jön létre....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul a vesét körülvevő három tokot!",
+      "question_type": "open",
+      "correct_answer": "- külső, vékony kötőszövetes tok\n- középső, zsíros tok\n- belső kötőszövetes tok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok szedése\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a fogamzással, várandósággal kapcsolatos\nhelyes megállapításokat!\n- Ivarérett korban mindkét petefészekben kb. 28 naponként egy tüsző\nmegreped.\n- A menstruációs ciklus regenerációs fázisában a nyálkahártya megvastagszik.\n- Az érett petesejt a méhkürtben termékenyül meg.\n- A megtermékenyült petesejt első osztódása a méh üregében megy végbe.\n- A normál szülés a terhesség 37. és 42. hete között következik be.\n- A megrepedt tüsző helyén sárgatest keletkezik.\n- A terhesség első nyolc hetében az utódot magzatnak hívjuk.\n- Az utód nemét a hímivarsejt kromoszómái nem befolyásolják.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Ivarérett korban mindkét petefészekben kb. 28 naponként egy tüsző\nmegreped.\nAz érett petesejt a méhkürtben termékenyül meg.\nA normál szülés a terhesség 37. és 42. hete között következik be.\nA megrepedt tüsző helyén sárgatest keletkezik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatamegnagyobbodás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- eleinte gyakori vizelés\n- később hirtelen jelentkező vizelési inger\n- a vizelet indításának nehezítettsége\n- gyakori vizelési inger\n- vékony vizeletsugár\n- megszakadó vizeletsugár\n- vizeletcsepegés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyeket a szervezetben található helyükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. tobozmirigy\nA. a középső koponyagödörben, a töröknyeregben\n2. hypothalamus\nB. a koponya belsejében a III. agykamra felső részénél\n3. csecsemőmirigy\nC. a III. agykamra fenekét, oldalfalát képezi\n4. hipofizis\nD. a mellkasban, a szegycsont mögött",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...D...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Cushing-szindróma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "zsírlerakódás a törzsön, a hát felső részén\nnagy, kerek arc (holdvilágarc)\nvékonynak tűnő végtagok\naz izomtömeg és az izomerő csökkenése\nnehezen gyógyuló bőrsérülések\nkékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\nnőknél fokozott szőrképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerincvelő kötegeihez tartozó neuronokat!\n- hátsó szarv: ...\n- oldalszarv: ...\n- elülső szarv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "érzőneuronok\nvegetatív neuronok\nmozgatóneuronok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| Kóros elváltozások |  |\n|---------|---------|\n| latinul | magyarul |\n| nystagmus |  |\n| somnolentia |  |\n| aphasia |  |\n| rigor |  |\n| tenebrositas |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Kóros elváltozások |  |\n|---------|---------|\n|  | szemtekerezgés |\n|  | kóros aluszékonyság |\n|  | beszédzavar |\n|  | izomtónus-fokozódás |\n|  | homályállapot |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa az érzékszervek és az emlő témaköréhez tartozó megállapításokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. az ideghártya elülső része tartalmazza a fényfelvevő receptorokat\n2. a szaruhártya óraüvegszerű alakú, átlátszó hártya\n3. az emlőkben nincs izomszövet\n4. az emlőt főleg zsírszövet és kötőszövet építi fel\n5. a szőrszálak az irhában helyezkednek el\n6. a faggyúmirigyek a bőr alatti kötőszövetbe vannak beágyazva\n\nIgaz megállapítás: ...\n\nHamis megállapítás: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4....\n\n1., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a psoriasis kezelésének, gyógyításának lehetőségei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gyógyszeres kezelés\nkenőcsök helyi alkalmazása\nfénykezelés\npszichés támogatás\ndiéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertessen ötöt az elsősegélynyújtó feladatai közül mérgezések esetén!",
+      "question_type": "open",
+      "correct_answer": "- az életveszély elhárítása\n- a szabad légút biztosítása\n- a méreg további bejutásának, illetve felszívódásának megakadályozása\n- a mérgező anyaggal szennyezett ruházat eltávolítása\n- a testfelszín méregtelenítése\n- a méreg hatástalanítása, közömbösítése\n- mentőhívás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_08_VI_eumvi_230608_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódó mondatokat!\nMellkaskompressziót felnőttek esetén .../perces frekvenciával kell\nvégezni.\nA kompresszió és lélegeztetés aránya .... A váltások során törekedni kell\naz ... minimalizálására.\nKét segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint ... percenként cseréljenek.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "100-120\n30:2\nidőveszteség\n2",
+      "options": []
+    }
+  }
+]

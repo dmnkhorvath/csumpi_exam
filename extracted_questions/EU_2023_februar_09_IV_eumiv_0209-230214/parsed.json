@@ -1,0 +1,270 @@
+[
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 6,
+      "question_text": "Soroljon fel a kötőszövet feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "kitölti az egyes szervek közti tereket\nösszeköti a szerveket\nvédelmet nyújt a mechanikai ártalmakkal szemben\nvédelmet nyújt a kémiai ártalmak ellen\nvédelmet nyújt a fertőzések ellen\nvédelmet nyújt az idegen anyagok lerakódása ellen\nzsírt tárol",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa a krónikus gyulladás típusait és jellemzőit! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. exsudatív jellegű gyulladás\nA. elfajulásos és elhalásos jelenségek,\nkötőszövetes átalakulás\n\n2. idült produktív gyulladás\nB. sejtdús sarjszövetképződés, sajátos\nformája a granulómás gyulladás\n\n3. alternatív jellegű gyulladás\nC. idült tályog, a nyálkahártyák\nkrónikus hurutjai tartoznak hozzá",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Β...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a Scheuermann-féle betegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- terhelhetőség csökkenése\n- mozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek| |\n|---------|---------|\n|magyarul|latinul|\n|kéz| |\n| | |\n|szárkapocscsont| |\n| | |\nín| |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek| |\n|---------|---------|\n| | manus|\n|könyökízület| articulatio cubiti|\n| |fibula|\n|nyálkatömlő|bursa|\n| |tendo|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a lépre vonatkozó helyes megállapításokat!\n- a rekesz alatt a hasüreg bal oldalán helyezkedik el\n- a rekesz alatt a hasüreg jobb oldalán helyezkedik el\n- szöveti szerkezete két állományra különíthető el\n- fehér pulpáját a vér alakos elemei alkotják\n- fő feladata a méreganyagok kiválasztása\n- fő feladata a lymphocyták képzése\n- kékesvörös színű, puha, páratlan szerv\n- kemény, lila színű, páros szerv\n- glükogént raktároz\n- a vért raktározza\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a rekesz alatt a hasüreg bal oldalán helyezkedik el\nszöveti szerkezete két állományra különíthető el\nfő feladata a lymphocyták képzése\nkékesvörös színű, puha, páratlan szerv\na vért raktározza",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel az alsó végtag érelmeszesedésének lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "a láb fázékony\nidőszakos sántítás\na lábujjak bőre sérülékeny\na kisebb sebek is nehezen gyógyulnak\nelhalás, gangréna\naz érintett végtag hűvösebb tapintatú, mint az ellenoldali",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi jellemzőket, tüneteket a megfelelő betegséghez! Írja\na betegségek mellé a helyes válasz sorszámát!\n\n1. a Koch bacillus okozza\n2. véres köpetürítés\n3. a kilégzés nehezített, sípoló\n4. rohamszerűen jelentkező légszomj\n5. cseppfertőzéssel terjed\n6. üvegszerű, nyálkás, tapadós köpetürítés\n\ntuberkulózis: ...\nasthma bronchiale: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a gátorüregben (mediastinum) elhelyezkedő anatómiai\nképletek közül ötöt!\n- szív\n- csecsemőmirigy\n- az aortaív ágai\n- nyelőcső\n- aorta descendens\n- nervus vagus\n- fő nyirokvezeték\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "szív\ncsecsemőmirigy\naz aortaív ágai\nnyelőcső\naorta descendens\nnervus vagus\nfő nyirokvezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe az alábbi anatómiai képleteket a táplálék\nemésztőrendszerben megtett útjának megfelelően! Írja le a sorszámokat a\nhelyes sorrendben!\n\n1. gaster\n2. colon\n3. intestinum\n4. cavum oris\n5. oesophagus\n6. pharynx\n\nHelyes sorrend: ...",
+      "question_type": "fill_in",
+      "correct_answer": "4., 6., 5., 1., 3., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a tartósan magas vércukorszint hosszú távú szövődményei közül!",
+      "question_type": "open",
+      "correct_answer": "- látásromlás\n- magas vérnyomás\n- vérkeringési zavarok\n- érszűkület\n- veseműködési zavarok\n- pajzsmirigybetegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\nNephrosis szindróma:\nVesemedence-gyulladás:",
+      "question_type": "open",
+      "correct_answer": "Veseeredetű tünetegyüttes, a vese glomeruláris rendszerének károsodása, ami\nleggyakrabban különböző fertőző betegségek, allergiás kórképek, vagy\nautoimmun betegségek következtében alakul ki.\nAz egyik, vagy mindkét vese sejt közötti állományának bakteriális fertőzés\nkövetkeztében kialakuló gennyes gyulladása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a menstruációs ciklus fázisait az időtartamukkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. szekréció\n2. menstruáció\n3. regeneráció\n4. proliferáció\n\nA. kb. 2-3 nap a menstruációt követően\nB. kb. 3-5 nap\nC. kb. 10 nap\nD. a ciklus 14. napja",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Β...., 3.-...Α...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a férfi húgycső jellemzőit! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hossza kb. 25 cm\n- két görbülete van\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a dülmirigyet és a gátat\n- a makk csúcsán nyílik a külvilágba\n- a nemi váladék kiürítésére is szolgál",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a diabetes insipidus jellemzőit!\n- a hasnyálmirigy inzulintermelő sejtjeinek károsodása következtében alakul ki\n- kialakulásának oka a hipofízis hátsó lebenyének daganata, gyulladása, vagy csökkent működése\n- kialakulásának oka a hipofízis elülső lebenyének daganata, gyulladása, vagy fokozott működése\n- az antidiuretikus hormon (ADH) termelődésének csökkenése, vagy hiánya miatt alakul ki\n- az antidiuretikus hormon (ADH) fokozott termelődése következtében alakul ki\n- a vizelet fajsúlya alacsony\n- a vizelet fajsúlya magas\n- a betegnek olthatatlan szomjúságérzése van\n- oliguria\n- polyuria\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "kialakulásának oka a hipofízis hátsó lebenyének daganata, gyulladása, vagy csökkent működése\naz antidiuretikus hormon (ADH) termelődésének csökkenése, vagy hiánya miatt alakul ki\na vizelet fajsúlya alacsony\na betegnek olthatatlan szomjúságérzése van\npolyuria",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Írja le a tobozmiriggyel kapcsolatos ismereteit a megadottak szerint!\nElhelyezkedése: ...\ntalálható...\nHormonja: ...\nA hormon hatása: Írjon négyet!*\n- szabályozza az alvás és ébrenlét ciklusát\n- befolyásolja a bőr színét\n- gátolja a nemi mirigyek működését\n- gátolja a pajzsmirigy működését\n- hat a víz-, és elektrolit-háztartásra\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a koponya belsejében, a III. agykamra felső részénél\na melatonin...\nszabályozza az alvás és ébrenlét ciklusát\nbefolyásolja a bőr színét\ngátolja a nemi mirigyek működését\ngátolja a pajzsmirigy működését\nhat a víz-, és elektrolit-háztartásra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "nyaki idegek\nháti (mellkasi) idegek\nágyéki idegek\nkeresztcsonti idegek\nfarkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Ismertesse az alábbi kifejezések magyar jelentését!",
+      "question_type": "open",
+      "correct_answer": "agnózia: ...az érzékelt tárgyak, vagy lények fel nem ismerése, a felismerés, a\nmegismerés zavara...\nafázia: ...beszédzavar, a beteg nem tudja gondolatait szóban, vagy írásban\nkifejezni...\nakinézis: ...a mozgástevékenység korlátozottsága, vagy hiánya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "A nyelv melyik területén érezzük keserű ízt?\n- a nyelv hegyén\n- a nyelvgyökön\n- a nyelv oldalsó szélein",
+      "question_type": "multiple_choice",
+      "correct_answer": "a nyelvgyökön",
+      "options": [
+        "a nyelv hegyén",
+        "a nyelvgyökön",
+        "a nyelv oldalsó szélein"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a basalioma kezelésének, megelőzésének lehetőségei közül\nkettőt-kettőt!\nKezelés lehetőségei:\n- \n- \n- \nMegelőzésének lehetőségei:\n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "műtét – sebészi kimetszés\nkiégetés\nfagyasztás\nnapozás kerülése\nvédőruházat viselése\nfényvédő krémek alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!",
+      "question_type": "open",
+      "correct_answer": "- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_IV_eumiv_0209-230214_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Csoportosítsa a mérgezésekkel kapcsolatos megállapításokat a megadottak szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. A lenyelt maró mérgeket legkönnyebben lúgos folyadék itatásával közömbösíthetjük.\n\n2. Mérgezés (intoxikáció) akkor következik be, ha a testfelületre került vagy a szervezetbe bejutó vegyi anyag (mérgező anyag, toxin) a szervezet működési egyensúlyát megzavarja, és időleges vagy maradandó károsodást okoz.\n\n3. A mérgezett beteghez - még mérgezés gyanúja esetén is orvost, vagy mentőt kell hívni.\n\n4. Csak nagy mennyiségű méreganyag bejutása esetén kell az orvost, vagy a mentőket értesíteni.\n\n5. A méreggel szennyezett ruházatot csak akkor szabad eltávolítani, ha a sérült beleegyezik.\n\n6. Elsősegélynyújtás során meg kell akadályozni a méreg további bejutását és felszívódását.\n\nIgaz állítás: ...2., 3., 6....\n\nHamis állítás: ...1., 4., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5....",
+      "options": []
+    }
+  }
+]

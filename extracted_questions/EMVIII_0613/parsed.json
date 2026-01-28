@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EMVIII_0613_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki az anatómiai síkokkal, irányokkal kapcsolatos táblázatot! A megfelelő oszlopba tegyen „X\"-et!\n\n|  | síkot jelöl | irányt jelöl |\n|---|---|---|\n| proximalis |  |  |\n| sagittalis |  |  |\n| lateralis |  |  |\n| frontalis |  |  |\n| distalis |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | síkot jelöl | irányt jelöl |\n|---|---|---|\n| proximalis |  | X |\n| sagittalis | X |  |\n| lateralis |  | X |\n| frontalis | X |  |\n| distalis |  | X |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a mechanikai hatásra létrejövő lehetséges elváltozások közül négyet magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyomás\ndörzsölés, horzsolás, karcolás\nrázkódás\nzúzódás\nrepedés\ncsonttörés\nficam\nrándulás\nsebzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul az alkar és a kéz csontjait!\nAz alkar csontjai:\n\nA kéz csontjai:",
+      "question_type": "fill_in",
+      "correct_answer": "orsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csigolyák nyúlványait!",
+      "question_type": "fill_in",
+      "correct_answer": "tövisnyúlvány\nízületi nyúlvány\nharántnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a keringés szervrendszerére vonatkozó kérdésekre!\nA szív melyik üregéből indul ki a kisvérkör?",
+      "question_type": "fill_in",
+      "correct_answer": "...a jobb kamrából...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a balszívfél-elégtelenség jellegzetes tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "nehézlégzés\northopnoe\ntüdőödéma\nfáradékonyság\nköhögés, köhécselés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez leírásukat! Írja a betűjelek mellé a helyes válasz\nsorszámát!\nA. bronchitis\nB. oedema laryngis\nC. COPD\nD. asthma bronchiale\n\n1. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének vizenyője\nkövetkeztében kialakuló életveszélyes állapot.\n2. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n3. A hörgők nyálkahártyájának gyulladásos betegsége.\n4. A tüdőn belüli légutak tartós beszűkülésével járó betegségek összefoglaló\nneve.\n\nΑ.-...3...., В.-...1...., С.-...4...., D.-...2....",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Egészítse ki a légzőrendszer képleteire vonatkozó táblázat hiányzó részeit!\n\nA légzőrendszer képletei\n\n| magyarul | latinul |\n|----------|---------|\n|  |  |\n|  |  |\n|  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|----------|---------|\n| ékcsonti üreg | sinus sphenoidalis |\n| rostacsont üregei | cellulae ethmoidales |\n| gátorüreg | mediastinum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0",
+      "points": 0,
+      "question_text": "(+1 pont)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. maltáz\n2. lipáz\n3. kimozin\n4. szaharáz\n5. pepszin\n6. tripszin\n\nFehérjét bontó enzim: ...., .... \nSzénhidrátot bontó enzim: ...., .... \nZsírt bontó enzim: .....\nTejfehérjét bontó enzim: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5., 6., 1., 4., 2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Soroljon fel a cukorbetegeknél előforduló alacsony vércukorszint\nkialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a szükségesnél nagyobb mennyiségű inzulin adagolása\n- az inzulin beadását követően elmarad a kellő mennyiségű szénhidrát fogyasztása\n- intenzív fizikai munkavégzés\n- fokozott pszichés megterhelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vesemedencébe torkollanak a vesekelyhek.\n- A vesét három tok veszi körül.\n- A Malphigi-testben történik a vízvisszaszívás.\n- A vese alaki, működési és fejlődési egysége a Malphigi-test.\n- A vese alaki, működési és fejlődési egysége a nephron.\n- A vese homloksíkú metszetén kéregállományt, velőállományt,\nvesekelyheket, és vesemedencét látunk.\n- A vizeletkiválasztást hormonok és idegrendszeri hatások nem befolyásolják.\n- A vesét két tok veszi körül.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Több válasz aláhúzása esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vesemedencébe torkollanak a vesekelyhek.\nA vesét három tok veszi körül.\nA vese alaki, működési és fejlődési egysége a nephron.\nA vese homloksíkú metszetén kéregállományt, velőállományt,\nvesekelyheket, és vesemedencét látunk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "- emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr- és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Egészítse ki a férfi nemi szervekkel kapcsolatos mondatokat!\nA... az embrionális fejlődés során két lebenyből forr össze.\nA hímvessző megnyúlt ... alakú szerv, a végén található a húgycső\n... nyílása....\nAz ... kisujjnyi vastagságú köteg, amely a herezacskóban és a\n... található.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhenger\nkűlső nyílása\nondózsinór\nlágyékcsatornában",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a premenstruációs zavarok (PMS) lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- depresszió\n- ingerlékenység\n- csökkent koncentrálóképesség\n- fejfájás\n- emlőérzékenység\n- álmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Milyen hormont termel a tobozmirigy?\n- a melatonint\n- a növekedési hormont\n- az ösztrogént\n\nHol termelődik a timozin?\n- a hypophysisben\n- a hypothalamusban\n- a csecsemőmirigyben\n\nMi a hatása a parathormonnak?\n- csökkenti a vér kalcium- és foszfátszintjét\n- segíti a kalciumionok beépülését a csontokba\n- emeli a vér kalcium- és foszfátszintjét\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést fokozza\n- a testnövekedést gátolja\n- fokozza a fehérjeszintézist, és az izomzat növekedését",
+      "question_type": "multiple_choice",
+      "correct_answer": "a melatonint\na csecsemőmirigyben\nemeli a vér kalcium- és foszfátszintjét\na testnövekedést gátolja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EMVIII_0613_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. phaeochromocytoma\n2. Basedow-kór\n3. Conn-szindróma\n4. Cushing-szindróma\n5. diabetes insipidus\n6. myxoedema\n\nA mellékvesevelő megbetegedése: ....\nA mellékvesekéreg megbetegedése: ....\nA hypothalamus megbetegedése: ....\nA pajzsmirigy megbetegedése: ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3., 4.\n5\n2., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse az agytályogot a megadott szempontok alapján!\nA betegség oka:\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...az agy bakteriális fertőződése...\nrossz közérzet\nláz\nagyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\ngóctünetek: érzéskiesés, látótérkiesés, beszédzavar\nepilepsziás roham",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Rendezze az alábbi harmadlagos agykérgi központokat elhelyezkedési\nhelyeikhez! Írja a sorszámokat a megfelelő helyre!\n\n1. írás és olvasás központja\n2. a múlt agykérgi területe\n3. a jövő agykérgi területe\n4. beszédértő központ\n\nTemporális lebeny: ... ....\nFali lebeny: ...., .... \nHomloklebeny: ... ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4\n1, 2\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat az anatómiai képleteket, amelyek\nrészt vesznek az egyensúly-érzékelés folyamatában!\n\n- tömlőcske\n- fülkagyló\n- zsákocska\n- hártyás labirintus\n- VII. agyideg\n- félkörös ívjáratok\n- VIII. agyideg\n- I. agyideg\n- IX. agyideg\n- thalamus\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "tömlőcske\nhártyás labirintus\nfélkörös ívjáratok\nVIII. agyideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Nevezzen meg az ajakherpesz (herpes labialis) fertőzés lehetséges tünetei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "- égő, viszkető, feszítő érzés\n- fájdalmas, áttetsző hólyagocskák megjelenése melyek megnyílnak, nedveznek\n- pörkösödve gyógyulnak a hólyagok\n- lázzal, fejfájással, izomfájdalommal kezdődhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor információkat/adatokat!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai (név, telefonszám)\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e egyéb segítség (pl. műszaki mentés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_0613_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Írjon le a rándulás tünetei/jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nlilás elszíneződés\naz ízületi működés csökken\naz ízület mozgása korlátozott\naz ízület körüli hajszálerek megrepedése miatt vérzés jelentkezhet\naz erőbehatás megszűnése után az ízületi fej visszatér az ízületi árokba",
+      "options": []
+    }
+  }
+]

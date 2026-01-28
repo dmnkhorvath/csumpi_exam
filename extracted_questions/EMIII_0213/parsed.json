@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EMIII_0213_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg az aktív és a passzív immunizálás lényegét!\nAktív immunizálás: ...az immunizáció létrehozása érdekében  juttatnak a szervezetbe védőoltások révén, amivel a\ntermészetes fertőzést próbálják utánozni, így serkentik a szervezet saját\nvédekezőképességét, amivel a fertőzések kivédhetővé válnak....\nPasszív immunizálás: ... juttatnak a\nszervezetbe a védőoltással, így hozzák létre az immunitást....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "gyengített vagy\nelölt kórokozókat (antigént)\n\nmár kész ellenanyagot (antitestet)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Ismertesse a fertőző betegségek felosztását!",
+      "question_type": "open",
+      "correct_answer": "bélfertőzések\na légutak fertőzései\na vér fertőzései\na kültakaró fertőzései\naz állatról emberre terjedő betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Húzza alá az alsó végtag izomzatához tartozó izmokat/izomcsoportokat!\n- egyenes hasizom\n- lábszárizmok\n- rombuszizom\n- lábizmok\n- nagy farizom\n- csuklyás izom\n- deltaizom\n- combizmok\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lábszárizmok\nlábizmok\nnagy farizom\ncombizmok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\nA. csonttuberkulózis\nB. reumás láz\nC. csontvelőgyulladás\nD. Bechterew-kór\nE. sokízületi gyulladás (RA)\n1. Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívkárosodást is okozhat.\n2. Cseppfertőzéssel terjed, elsősorban a mellkasi és az ágyéki csigolyákat\nérinti, de a térdben és a csípőben is jelentkezhet.\n3. A gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár.\n4. A kéz kisízületeinek fájdalmas gyulladása, fokozatos ízületi deformálódással\njáró betegsége.\n5. Főleg 16 éves kor alattiaknál fordul elő, az érintett végtag fájdalmas,\nduzzadt, felette a bőr piros, a fájdalom lüktető jellegű.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...1...., С.-...5...., D.-...3...., Ε.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a tüdővizenyő lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "súlyos dyspnoe\nköhögés és szörcsögő légzés\nszapora, alig tapintható pulzus\nhideg verítékezés\ncianózis\n„szilvalészerű” köpetürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Ismertesse a nyirokcsomók szerkezetét és szerepét!\nSzerkezetük:\n\n\n\n\nSzerepük: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- kéregállomány\n- velőállomány\n- odavezető nyirokér\n- elvezető nyirokér\n- lymphocytatermelés\n- védekező működés a fagocitáló sejtek révén\n- a nyirokerek és a nyirokcsomók szerepet játszanak a rosszindulatú daganatok\nterjedésében is, mert gyakran itt képződnek először áttétek (metasztázis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszerre vonatkozó alábbi mondatokat!\nA légcső kb. ... cm hosszú, C-alakú porcokból felépülő, ... falú cső. A légcső és a hörgők ... csillőszőrös hengerhám alkotja.\nA hangszalagok a pajzsporc és mögötte lévő ... között feszülnek.\nA hangszalagok között található a ....",
+      "question_type": "fill_in",
+      "correct_answer": "10-12\nrugalmas\nnyálkahártyahámját\nkannaporcok\nhangrés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségekhez a haemoptoe jellemző megjelenési\nformáit! Írja a betűjelek mellé a helyes válasz sorszámát!\n\nA. tuberkulózis\nB. tüdőgyulladás\nC. tüdőembólia\nD. tüdőtumor\n\n1. barnásvörös köpet\n2. halvány rózsaszínű, habos, szilvalészerű köpet\n3. élénkpiros, friss vért tartalmazó köpet\n4. véres, málnazselé szerű köpet\n\nΑ.-......, В.-......, C.-......, D.-......,",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Ismertesse a gyomorműködés hormonális szabályozását!",
+      "question_type": "open",
+      "correct_answer": "A táplálék gyomorba kerülésekor a gasztrin termelése megindul, majd a vérárammal a fedő-, és fősejtekhez jut, ahol sósav- és pepszintermelést eredményez. Amikor az emésztés befejeződik, a gasztrintermelés leáll.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Írjon le a hyperglykaemiás kóma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- szapora, mély ki- és belégzés\n- kipirult arc\n- szapora, elnyomható pulzus\n- vérnyomáscsökkenés\n- reflexek csökkenése, hiánya\n- eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Csoportosítsa a heveny veseelégtelenség lehetséges okait! Írja a sorszámokat\na megfelelő helyre!\n\n1. heveny szív eredetű keringési elégtelenség (infarktus)\n2. glomerulonephritis acuta\n3. nem csoportazonos vér adása\n4. kiszáradás\n5. terhesség alatti mérgezéses állapot (toxaemia)\n\nA vese előtti lehetséges ok: ...., .....\n\nVese eredetű lehetséges ok: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes megállapításokat!\n- A női húgycső mintegy 20 cm hosszú.\n- A férfi húgycső hossza kb. 25 cm.\n- A húgyhólyag normál űrtartalma 200-300 ml.\n- A húgyhólyag fenekén, egy kör alakú területen a nyálkahártya teljesen redőzött.\n- A vizelet az urétereken keresztül jut cseppenként a húgyhólyagba.\n- A húgyvezeték kb. 5 mm vastagságú és 10 cm hosszú cső.\n- A húgyhólyag kimeneti nyílását erős, gyűrű alakú, akaratunktól függő záróizom fogja körül.\n- A húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A férfi húgycső hossza kb. 25 cm.\nA húgyhólyag normál űrtartalma 200-300 ml.\nA vizelet az urétereken keresztül jut cseppenként a húgyhólyagba.\nA húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q013_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 1,
+      "question_text": "Határozza meg a nephron fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A vese működési egysége a nephron...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Egészítse ki a menstruációs ciklussal kapcsolatos táblázatot!\n\n| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I.  | felszíne hámosodik |  |\n| II.  | megvastagodik (tüszőrepedés) |  |\n| III.  | mirigyei váladékot termelnek, szerkezete fellazul, képes a megtermékenyített petesejt befogadására |  |\n| IV. menstruáció | zsugorodik, majd lelökődik | a progeszteron hirtelen csökkenése |",
+      "question_type": "fill_in",
+      "correct_answer": "| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I. regeneráció |  | ösztrogén, FSH (hipofizis) |\n| II. proliferáció |  | ösztrogén, FSH (hipofizis) |\n| III. szekréció |  | progeszteron, LH (hipofizis) |\n| IV. menstruáció |  |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nmenstruáció hiánya: ...\nerős vérzés: ...\nherevízsérv: ...\nférfiklimax:...",
+      "question_type": "fill_in",
+      "correct_answer": "amenorrhoea\nmenorrhagia\nhydrokele\nandropauza",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Ismertesse az inzulin hatását!",
+      "question_type": "open",
+      "correct_answer": "- szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyeket a kóros működésük esetén\nkialakuló betegségek lehetséges tüneteivel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. tobozmirigy\n2. hasnyálmirigy (endokrin rész)\n3. csecsemőmirigy\n4. agyalapi mirigy\n\nA. A testmagasság már korán jóval meghaladja az átlagost; a felső végtag\naránytalan hosszúságú.\n\nB. Fertőzésekkel szembeni fogékonyság, izomgyengeség, légzési nehézség\njelentkezik a betegnél.\n\nC. Gyakori vizelés mellett, erős szomjúság érzés kínozza a beteget;\nfáradékonyság; bőrviszketés jelenik meg.\n\nD. A beteg az alvás-ébrenlét ciklusának felborulására panaszkodik.\n\n1.-... , 2.-... , 3.-... , 4.-...",
+      "question_type": "matching",
+      "correct_answer": "D, C, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Írja le a sclerosis multiplex betegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A központi idegrendszert érintő gyulladásos autoimmun betegség, az idegsejtek\nmyelinhüvelyének pusztulásával járó kórkép. Az egyik leggyakoribb szervi\nidegbetegség az epilepszia mellett. Az első tünetek 20-40 éves kor körül\njelentkeznek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Nevezze meg a koponyaalapi törések egy-egy jellemző tünetét!",
+      "question_type": "open",
+      "correct_answer": "elülső scala törése: pápaszem-haematoma, liquor- és vércsorgás az orrból\nközépső scala törése: vérömleny a fül mögött, liquor- és vércsorgás a fülből\nhátsó scala törése: vérömleny a tarkón és a garatban, liquor- és vércsorgás a garatban",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Ismertesse a paraszimpatikus idegrendszer funkcióját!",
+      "question_type": "open",
+      "correct_answer": "- szerepe van a helyreállító folyamatokban, a szervezet nyugalmi fázisában\n- elősegíti a kimerült szövetek anyagveszteségének pótlását\n- fokozza a tápcsatorna működését",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Állítsa megfelelő sorrendbe a szem fénytörő közegeit kívülről befelé\nhaladva! Írja a sorszámokat a pontozott vonalakra!\n... .... szemlencse\n... .... üvegtest\n... .... szaruhártya\n... .... csarnokvíz\n(Csak a helyes sorrend esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "...3.... szemlencse\n...4.... üvegtest\n...1.... szaruhártya\n...2.... csarnokvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az emlőt felépítő képletek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "zsírszövet\nkötőszövet\nvérerek\nnyirokerek\ntejmirigyek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nMellkasi sérülés esetén: ...\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "félig ülő helyzet\nstabil oldalfektetés\nkemény alapon hanyatt fektetve",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sebellátás tilalmai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- a sebben lévő/a sebből kiálló idegen testet eltávolítani tilos\n- sebbe nyúlni tilos\n- a mások által megfelelően felhelyezett kötést eltávolítani tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0213_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a ficam lényegét!",
+      "question_type": "fill_in",
+      "correct_answer": "... Az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba...",
+      "options": []
+    }
+  }
+]

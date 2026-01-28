@@ -1,0 +1,323 @@
+[
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q001_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 7,
+      "question_text": "Hasonlítsa össze az izomszövet típusait! Egészítse ki a táblázatot!\n|  | simaizom | harántcsíkolt izom | szívizom |\n|---------|---------|---------|---------|\n| helye | zsigeri szervek és erek fala |  | szív |\n| irányítás | akarattól független |  |  |\n| összehúzódás | lassú, hullámszerű |  | rövid összehúzódás, hosszabb elernyedés |\n| erőkifejtés mértéke | viszonylag nagy erőkifejtés | jelentős erőkifejtés |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  | harántcsíkolt izom |  |\n|---------|---------|---------|---------|\n| helye |  | vázizmok |  |\n| irányítás |  | akarattlagos és reflexes | akarattól független |\n| összehúzódás |  | gyors |  |\n| erőkifejtés mértéke |  |  | nagy erőkifejtés |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Sorolja fel a krónikus gyulladások típusait jellegzetességeik alapján!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- exsudativ jellegű gyulladás\n- alternatív jellegű gyulladás\n- idült produktív gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel! Írja a jellemzők mellé\na betegségek sorszámát!\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nA kéz kisízületeinek fájdalmas gyulladása, fokozatos ízületi deformálódással\njáró betegsége: ......\n\nLezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek fájdalmas\ngyulladása, később szívkárosodást is okozhat: ......\n\nA gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár: .......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a csontvázrendszer funkciói, feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a szervezet szilárd vázát alkotja\n- életfontosságú szerveket véd\n- meghatározza a test alakját és méreteit\n- üregeiben található a vörös csontvelő, amely a vérképzés szerve\n- ásványi anyagokat raktároz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Nevezze meg magyarul az alkar csontjait!",
+      "question_type": "fill_in",
+      "correct_answer": "orsócsont\nsingcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai csomó",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. A vért a szívből a periféria felé juttatják.\n\n2. Faluk rendkívül vékony, csak endothel sejtekből állnak.\n\n3. A periféria felől, a hajszálér területéről a szív irányába szállítják a vért.\n\n4. Erőteljes összehúzódásra képesek, így továbbítják a vért a periféria felé.\n\n5. A felületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására félhold alakú vagy zsebes billentyűk találhatók.\n\n6. Itt történik meg az oxigén és a tápanyagok leadása a sejtek felé a sejt közötti térbe, valamint a szén-dioxid és az anyagcseretermékek felvétele.\n\nHajszálerek jellemzői: ... 2., 6....\nVisszerek jellemzői: ... 3., 5....\nVerőerek jellemzői: ... 1., 4....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Hajszálerek jellemzői: 2., 6.\nVisszerek jellemzői: 3., 5.\nVerőerek jellemzői: 1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- tüdővizenyő: ...\n- reumás szívgyulladás: ...\n- szívizomgyulladás: ...\n- szívburokgyulladás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "oedema pulmonum\ncarditis rheumatica\nmyocarditis\npericarditis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q009_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 7,
+      "question_text": "Ismertesse a légcsőgyulladást a megadott szempontok szerint!",
+      "question_type": "open",
+      "correct_answer": "vírus, baktérium\nizgató gázok, gőzök belélegzése\nszegycsont mögötti kaparó fájdalom\nlégzés közben fokozódó fájdalom\nugató jellegű köhögés\nköhögéscsillapító adása\nköptető alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA garatot a dobüreggel köti össze:\n- gége\n- fülkürt\nA légzőközpont helye:\n- kisagy\n- nyúltvelő\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\n- külső légzés\n- belső légzés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fülkürt\nnyúltvelő\nkülső légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A vérplazma fehérjéinek ozmotikus nyomása:",
+      "question_type": "multiple_choice",
+      "correct_answer": "állandó",
+      "options": [
+        "csökken",
+        "állandó",
+        "nő"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa az emésztőszervi betegségeket a megadott szempontok szerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. köszvény\n2. bélelzáródás\n3. cukorbetegség\n4. hastífusz\n\nAnyagcserezavar, -betegség: ......\nFertőzéses bélbetegség: ......\nAkut hasi katasztrófa: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n4.\n2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Jellemezze a bélbolyhokat a megadott szempontok szerint!\nFeladata: ...\nElhelyezkedése: ...\nSzövettani szerkezete: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a tápanyag felszívása\nvékonybél nyálkahártyáján\negyrétegű mikrobolyhos hengerhám",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat az epekövesség kialakulására hajlamosító tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "epepangás\nhelytelen táplálkozás\nfertőzések\naz életkor előrehaladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse a vesék feladatát, szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sók kiürítése\n- a vízben oldható hasznosíthatatlan anyagok kiürítése\n- a só-, és vízháztartás szabályozása\n- a homeosztázis fenntartása\n- hormontermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal! Írja\na sorszámokat a megfelelő betűjelhez!\n\nA. sárgaság\nB. vesemedence-gyulladás\nC. cukorbetegség\nD. glomerulonephritis",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...2...., С.-...1...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Ismertesse az AIDS-t az alábbi szempontok szerint!\nOka:\nTerjedésének módja: Írjon négyet!\nLappangási idő:",
+      "question_type": "open",
+      "correct_answer": "Virus (HIV)\nvér\nondó\negyéb váladékok (nyál, hüvelyváladék)\nanyatej\nfertőzött injekciós tű\n3-4 hét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\nHol helyezkedik el a prosztata?\n...\nHol fejlődnek a herék a magzati életben?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a herecsatornák falának hámjában...\na húgyhólyag alatt...\na hasüregben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit! Töltse ki táblázatot!\n\n|  | A csecsemőmirigy |\n|---|---|\n| Hormonja |  |\n| Feladatai Írjon kettőt! |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! |  |\n",
+      "question_type": "open",
+      "correct_answer": "|  |  |\n|---|---|\n| Hormonja | timozin |\n| Feladatai Írjon kettőt! | - a növekedést fokozza\n- a szexuális fejlődést serkenti\n- antitestképzés (nyirokszerv) |\n| Helye a szervezetben | a gátorüreg elülső részében, a szegycsont mögött helyezkedik el |\n| Jellemzője Írjon egyet! | - kisgyermekkorig aktív\n- serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöb alatti inger:\n...\nküszöbinger:\n...\nmaximális stimulus:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "olyan gyenge inger, amelyre az idegrost nem válaszol...\nolyan erősségű inger, amely idegimpulzust vált ki...\naz a legnagyobb inger, amely egy idegköteg valamennyi rostját ingerületbe hozza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- homloklebeny\n- ékcsonti lebeny\n- kisagyi lebeny\n- halántéki lebeny\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fali lebeny\nnyakszirti lebeny\nhomloklebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- tremor: ...\n- nystagmus: ...\n- ataxia: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "akarattól független remegés...\nszemtekerezgés, a szemgolyó akaratlan ingamozgása...\na mozgások összerendezésének zavara, egyensúlyzavar...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel a nyelvgyulladás lehetséges okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- égési sérülés\n- mechanikai sérülés\n- irritáció\n- vashiányos vérszegénység\n- B-vitamin-hiány\n- mérgezés\n- felmaródás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_II_eum2-201111_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel mérgezések esetén az elsősegélynyújtó feladatai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "az életveszély elhárítása\na szabad légút biztosítása\na méreg további bejutásának, illetve felszívódásának megakadályozása\na szennyezett ruházat eltávolítása\na testfelszín méregtelenítése\na méreg hatástalanítása, közömbösítése\nmentőhívás",
+      "options": []
+    }
+  }
+]

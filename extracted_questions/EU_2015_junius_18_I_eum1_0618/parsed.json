@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőjükkel! Írja a számok mellé a helyes válasz\nbetűjelét!\n1. fibroma\n2. myoma\n3. angioma\n4. osteoma\nA. érdaganat\nB. csontszöveti daganat\nC. izomszöveti daganat\nD. rostos kötőszöveti daganat\n1.: ...; 2.: ...; 3.: ...; 4: ...",
+      "question_type": "matching",
+      "correct_answer": "D; C; A; B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nválaszokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S - alakú görbületek találhatók\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\na zsigerek a hasüreg irányába rendeződtek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Rendelje a gyulladás helyi tüneteinek latin kifejezése\nmellé azok magyar megfelelőjét! Írja a betűjelek mellé a\nhozzájuk tartozó számot!\nA. rubor\nB. tumor\nC. calor\nD. dolor\nE. functio laesa\n1. működés károsodás\n2. melegség\n3. fájdalom\n4. vöröses elszíneződés\n5. duzzanat",
+      "question_type": "matching",
+      "correct_answer": "Α.: ...4...; B.: ...5...; C.: ...2...; D.: ...3...; Ε.: ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q004_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 8,
+      "question_text": "Sorolja fel az arckoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "felső állcsont\njáromcsont\nrostacsont\norrcsont\nállkapocs\nekecsont\nkönnycsont\nszájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\n\nOka:\n\nTünetei: Írjon kettőt /2/!\n- a csontok lágyak, görbültek\n- gerincferdülés\n- ó-láb vagy x-láb alakulhat ki\n\nA betegség megelőzése:",
+      "question_type": "open",
+      "correct_answer": "A napfény ultraibolya sugarainak hiánya miatt elmarad a D-vitamin\nképződése (a bőrben lévő ergoszterinből nem keletkezik D-vitamin), így\na mészsók nem épülnek be a csontokba.\nD3-vitamin adagolásával (hazánkban kéthetes kortól egy éves korig\nminden csecsemőnek kötelező a D-vitamin adása)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Tünetekre: 0,5-0,5 pont, okra, megelőzésre: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá a vörös csontvelő feladatait!\n- hézagpótló szerep\n- vörösvértestek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvértestek képzése\nlymphocyták képzése\ngranulocyták képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja az erek számát a megfelelő csoporthoz!\n\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\n\nKisvérkör erei: ...\nNagyvérkör erei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4\n2, 3, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés) lehetséges okai közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "lázas állapot\nfokozott pajzsmirigyműködés\nszívelégtelenség\nvérszegénység\negyes gyógyszerek szedése pl: Atropin\nélvezeti szerek fogyasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a tbc megelőzésének lehetőségeit!\nelhízás elkerülése\nrendszeres tüdőszűrés\nhigiénés szabályok betartása\ndohányzás\nallergizáló növények kerülése\nvédőoltás\nfertőző források felkeresése, gondozásba vétele\na tbc-ben szenvedő beteg hozzátartozóinak karanténba helyezése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q011_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor elzárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg a vastagbél szakaszait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "vakbél\nfelszálló vastagbél\nharánt vastagbél\nleszálló vastagbél\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei\nközül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\npylorusszűkület (stenosis pylori)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\nKrónikus urémia:\nA\n\nműködésképtelen vesefunkciók krónikus állapot kialakulásához vezetnek.\n\nVesekövesség:\nA\nkicsapódnak, innen a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.\n\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "veseállomány pusztulása következtében a csökkent vagy\nvese üregrendszerében különböző oldott sók kő formájában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q016_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\nKülső nemi szervek:\n-\n-\nBelső nemi szervek:\n-\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele - módszer alapján!",
+      "question_type": "fill_in",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7\nnapot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Soroljon fel a méhnyakrák diagnosztizálására alkalmas\nmódszerek közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "kolposzkópos vizsgálat\nszövettani vizsgálat\nbimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q019_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 7,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely belső elválasztású mirigy termeli a kalcitonint?\nHol termelődik az aldoszteron?\nMi az androgének feladata?\nHol termelődik a progeszteron?\nMi a szomatosztatin hatása?\nHogy nevezzük a csecsemőmirigy hormonját?\nHol termelődik a glükagon?",
+      "question_type": "fill_in",
+      "correct_answer": "...a pajzsmirigy...\n...a mellékvese kéregállományában...\n...a másodlagos férfi nemi jelleg kialakítása...\n...a petefészekben...\n...a testnövekedést gátolja...\n...timozin...\n...a hasnyálmirigyben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait!\nÍrjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szervezet anyagcsere-folyamatait\nemelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést\na szervezet hőközpontjának működését stimulálják\na szellemi működéshez szükségesek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását és számát!",
+      "question_type": "open",
+      "correct_answer": "8 pár nyaki ideg\n12 pár mellkasi ideg\n5 pár ágyéki ideg\n5 pár keresztcsonti ideg\n1 pár farkcsonti ideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nItt történik az ingerület átadása egyik idegsejtről a másikra, az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! Írja a betegségekhez a tünetek\nsorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, \"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham:: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó-szerv receptora:...\nLátószerv receptorai:...\nSzaglószerv receptora:...\nÍzlelőszerv receptora:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "a vérpályában nitrogén szabadul fel, amely buborék formájában elzárja a belső fül és más fontos szervek végartériáit pl: bányászoknál hirtelen történő kizsilipeléskor...\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Az okra: 2 pont, a tünetre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_junius_18_I_eum1_0618_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül\nhármat/3/!",
+      "question_type": "open",
+      "correct_answer": "- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- a sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)",
+      "options": []
+    }
+  }
+]

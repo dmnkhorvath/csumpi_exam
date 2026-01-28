@@ -1,0 +1,370 @@
+[
+  {
+    "file": "EU_2004_junius_10_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMit nevezünk behatolási kapunak?\nAzt a helyet, amelyen a kórokozó a szervezetbe jut.\nMettől-meddig tart a lappangási szakasz?\nA kórok behatolásától a tünetek megjelenéséig.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul az emberi test fő részeit!\n| Emberi test | Latin megnevezés |\n|-------------|-------------------|\n| fej         |                   |\n| nyak        |                   |\n| törzs       |                   |\n| mellkas     |                   |\n| has         |                   |\n| medence     |                   |",
+      "question_type": "fill_in",
+      "correct_answer": "| Emberi test | Latin megnevezés |\n|-------------|-------------------|\n| fej         | caput             |\n| nyak        | collum            |\n| törzs       | truncus           |\n| mellkas     | thorax            |\n| has         | abdomen           |\n| medence     | pelvis            |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a vérzések fajtáit latinul!\n- arterias\n- venas\n- capillaris\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q004_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "Határozza meg a rágóízület elhelyezkedését a koponyán!\nAz alsó állcsont és a halántékcsont által alkotott ízület.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Nevezze meg az agykoponyának és az arckoponyának\naz ábrán jelölt csontjait magyarul! Válaszát írja a számok mellé a pontozott vonalakra!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Írja le az izomműködés élettanával kapcsolatos\nfogalmakat!\nKüszöbinger: Minimális ingererősség, melyre az izom összehúzódással\nválaszol.\nKontrakció: Egy izomrost összehúzódása.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\n- Hol helyezkedik el a háromhegyű vitorlás billentyű?\nA jobb pitvar és a jobb kamra között.\n- Mi a billentyűk feladata?\nA vér egyirányú áramlásának biztosítása.\n- Milyen izmokból áll a vérerek középső rétege?\nSimaizmokból.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Hol termelődnek a lymphocyták?\n- a nyirokrendszerben\n- Hol történik a vörösvértestek képzése?\n- a vörös csontvelőben\n- Hol történik a vörösvértestek lebontása?\n- a lépben",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Nevezze meg a szív elsődleges és másodlagos ingerképző központját!\nelsődleges ingerképző központ: ...sinus csomó...\nmásodlagos ingerképző központ: ...pitvar - kamrai csomó...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Húzza alá a gátor üregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- máj\n- aortaív ágai\n- hörgők\n- nyelőcső\n- fő nyirokér\n- bolygóideg (nervus vagus)\n- csecsemőmirigy\n- pajzsmirigy",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\ntüdők\naortaív ágai\nhörgők\nnyelőcső\nfő nyirokér\nbolygóideg (nervus vagus)\ncsecsemőmirigy\npajzsmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk\njellemző kóros légzéshanggal!\n\n1. szörcsölő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű\n\nA. tüdőasztma\nB. tüdőödéma\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata\n\n1.- ...; 2.- ...; 3.- ...; 4.- ...",
+      "question_type": "matching",
+      "correct_answer": "B, C, A, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szénanátha tünetei közül hármat /3/!\n- vérbő kötőhártya\n- duzzadt orrnyálkahártya\n- orrdugulás\n- gyakori tüsszentés\n- nagy mennyiségű vízszerű orrváladék ürítés",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!\nA fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga előállítani nem képes, csak táplálékkal kerülhet a szervezetbe; az emberi szervezet számára nélkülözhetetlen.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az\nalábbiakban megadott szempontok szerint!\n\nLényege:\na májsejtek pusztulásával járó krónikus betegség",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q015_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; okaira, tüneteire: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!\n- patkóbél\n- éhbél\n- csípőbél",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n... a Malpighi-testben ...\nHonnan indul ki a húgyvezeték (ureter)?\n... a vesemedencéből ...\nHonnan indul ki a húgycső (urethra)?\n... a húgyhólyagból\nÉlettani körülmények között tartalmaz-e fehérjét a végleges vizelet?\n... nem",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a glomerulonephritis tüneteit!\n- vizenyő\n- fehérje vizelés\n- bilirubin vizelés\n- véres vizelet",
+      "question_type": "multiple_choice",
+      "correct_answer": "vizenyő\nfehérje vizelés\nvéres vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatát!\n- a vizelet gyűjtése\n- a vizelet tárolása\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Sorolja fel a tubulus részeit!\n- elsődleges kanyarulatos csatorna\n- Henle kacs\n- másodlagos kanyarulatos csatorna",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\na hasüregben\nMi a herezacskó szerepe?\na herék működéséhez szükséges, a testhőmérsékletnél alacsonyabb\nhőmérséklet biztosítása\nMi építi fel a hímvessző állományát?\nhárom barlangos test\nHol található a sárgatest?\na petefészek kéregállományában\nMi a széles méhszalag feladata?\na méhet és a petefészket rögzíti\nMennyi a spermiumok élettartama a női szervezetben?\n1-2 nap",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Nevezze meg tünetei alapján az érzékszervek betegségeit!\n(Válaszát írja a pontozott vonalra!)\n- a szem belső nyomása kórosan emelkedett\n- látásélesség romlása\n- látótérkiesés\n- fejfájás\n- forgó jellegű szédülés\n- hányinger, hányás\n- spontán nystagmus\n- nagyfokú halláscsökkenés",
+      "question_type": "fill_in",
+      "correct_answer": "...zöldhályog / glaucoma...\n...belső fül gyulladása\n(vagy Meniére-betegség)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két fő hatástani részét!\n- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol található a beszéd motoros központja?\nhomloklebeny\nfali lebeny\nMi a kisagy feladata?\na magatartást szabályozza",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny",
+      "options": [
+        "homloklebeny",
+        "fali lebeny",
+        "a magatartást szabályozza"
+      ]
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi az érhártya feladata?\n- az ideghártya táplálása\nHol található a pupilla?\n- a szivárványhártya közepén\nHol termelődik a csarnokvíz?\n- a szem középső burkában, a sugártest termeli\nHol találhatók a látás receptorai?\n- az ideghártyán\nMi a szemlencse feladata?\n- a szem alkalmazkodó képességének biztosítása\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": [
+        "érhártya",
+        "szívárványhártya",
+        "sugártest"
+      ]
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 3,
+      "question_text": "Soroljon fel az élő korókozók közül hármat /3/!\n- vírusok",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.",
+      "points": 3,
+      "question_text": "Írja le, hogyan helyezné el a sérülteket az alábbi\nesetekben?\norrvérzés esetén:\n...ülő helyzet, előre hajtott fej ...\ntüdővérzés esetén:\n...félülő helyzet (nyugalom)...\ngyomorvérzés esetén:\n...felhúzott térdekkel fektetni (hányás esetén stabil oldalfekvés)...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q029_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket aszerint, hogy endokrin mirigy alulműködés vagy túlműködés okozza!\nÍrja a sorszámot a megfelelő csoporthoz!\n1. Gigantizmus\n2. Diabetes insipidus\n3. Basedow kór\n4. Myxoedema\n\nAlulműködés okozza: ...\nTúlműködés okozza: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4\n1, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2004_junius_10_q030_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ olyan okot, amely\neszméletvesztéshez vezethet!\n- vegyi anyagok\n- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere folyamatok ártalma",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

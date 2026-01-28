@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejtek alkalmazkodásának lehetséges módjai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- fokozott anyagcsere, térfogat-növekedés\n- sejtszaporodás, túlburjánzás\n- tömegcsökkenés, sorvadás\n- alaki és működésbeli változások\n- az elpusztult sejtek pótlása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a kóroktanra vonatkozó helyes\nmegállapításokat!\n- A betegségeket kiváltó tényezők lehetnek primer és szekunder kórokok is.\n- Az etológia, vagy kóroktan a betegségek kiváltó tényezőivel és a kórokok\njellemzőivel foglalkozó tudomány.\n- A patogenezis, a kórfejlődés a kórfolyamatok kialakulásának mechanizmusa.\n- A betegségek kialakulásában nincs szerepe a nemnek.\n- A fájdalom megélése szubjektív, hatására a kóros állapot súlyosbodhat is.\n- Exsudatio során a kisvénákban uralkodó nyomás nő, és folyadék lép ki az\nérből.\n- A savós gyulladások mindig rosszindulatú szöveti elváltozások.\n- A sejtosztódással járó progresszív elváltozások közé tartoznak a daganatok és\na túltengések.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A betegségeket kiváltó tényezők lehetnek primer és szekunder kórokok is.\nA patogenezis, a kórfejlődés a kórfolyamatok kialakulásának mechanizmusa.\nA fájdalom megélése szubjektív, hatására a kóros állapot súlyosbodhat is.\nA sejtosztódással járó progresszív elváltozások közé tartoznak a daganatok és\na túltengések.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Jellemezze a csontszövetet felépítő szilárd alkotórészeket!\n- szervetlen állomány: ...\n- szerves állomány: ...",
+      "question_type": "open",
+      "correct_answer": "elsősorban kalciumsók alkotják, de mintegy 20\nkülönböző elem található benne, a csont szilárdságát adja...\nosszein, kötőszöveti rostokból, fehérjét és szénhidrátot\ntartalmazó összetett molekulákból épül fel, a csont rugalmasságát adja...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a csontvelőgyulladás okát és lehetséges tüneteit!\nOka: ...\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok megtelepedése a csontszövetben...\naz érintett végtag fájdalmas\nduzzadt\na gyulladásos góc felett piros, meleg tapintatú a bőr\nnyugalomban is fennálló, lüktető jellegű fájdalom\nmagas láz\nelesettség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a sokk fajtáit jellemzőikkel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. disztributív sokk\nA. az érpálya akut beszűkülése miatt alakul\nki\n2. kardiogén sokk\nB. a szív munkájának elégtelensége miatt\nalakul ki\n3. obstruktív sokk\nC. akut értágulat vezet a vérelosztás hirtelen\nzavarához\n4. hypovolaemiás sokk\nD. a keringő vérmennyiség akut csökkenése\nokozza",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B...., 3.-Α...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Jellemezze a légzőrendszer védekező reflexeit!\nköhögés:\n- \n- \ntüsszentés:\n- \n- ",
+      "question_type": "open",
+      "correct_answer": "zárt hangrés melletti erős kilégzés\na levegőáramlás magával ragadja az alsó légutakat izgató anyagot\naz orr nyálkahártyáját izgató anyag váltja ki\nmély belégzést követő robbanásszerű kilégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek| |\n|---------|---------|\n|magyarul|latinul|\n|csontvelő||\n||lympha|\n|nyirokcsomó||\n||thymus|\nlép||\n",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek| |\n|---------|---------|\n||medulla ossium|\n|nyirok||\n||lymphodonus|\n|csecsemőmirigy||\n||lien|\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőembólia lényegét és lehetséges tüneteit!\nA betegség lényege: ...\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "A tüdő egyik artériáját egy vérrög elzárja.....\noldalszúrás\néles mellkasi fájdalom\nnehézlégzés\nköhögés\nlilás, alvadékos, véres köpet\nszapora szívverés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Töltse ki a maradó fogakkal kapcsolatos táblázatot!\n| A maradó fogak száma |  |\n|---------|---------|\n| Felnőtteknél az egy kvadránsban elhelyezkedő fogak száma |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A maradó fogak száma |  |\n|---------|---------|\n|  | - 32 db |\n| Felnőtteknél az egy kvadránsban elhelyezkedő fogak száma |  |\n|---------|---------|\n|  | - 2 metszőfog\n- 1 szemfog\n- 2 kis őrlőfog\n- 3 nagy őrlőfog |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a diabetes mellitus típusai szerint! Írja\na sorszámokat a megfelelő helyre!\n1. hátterében autoimmun folyamat feltételezhető\n2. gyakoribb az előfordulása felnőtt korban\n3. gyakoribb az előfordulása gyermekeknél\n4. inzulinrezisztencián alapul\n5. inzulinterápia nem minden esetben szükséges\n6. kizárólag inzulinterápiával tartható egyensúlyban\n1-es típusú cukorbetegség: ...\n2-es típusú cukorbetegség: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 6....\n2., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, gyógyításának\nlehetőségeit!\n\nLehetséges tünetei:\n- gyakori vizelési inger\n- a vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\n- görcsös fájdalom\n\nTerápiája:\n- bő folyadékfogyasztás\n- antibiotikum alkalmazása",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\ngörcsös fájdalom\n\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Egészítse ki a vizeletre vonatkozó alábbi mondatokat!\nA normál vizelet ... színű, ... szagú, átlátszó folyadék. A normál vizelet víztartalma .... Az elsődleges vizelet mennyisége naponta ....",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\naromás húslé\n95%\n160-180 l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül azokat, amelyekben kifejezésre jut a\nmásodlagos nemi jelleg!\n- csontozat és izomzat\n- hangmagasság\n- hallás\n- szőrzet\n- emlők\n- látás\n- hajszín\n- a fül formája\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontozat és izomzat\nhangmagasság\nszőrzet\nemlők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gáttájék, derék, hímvessző és herék fájdalma\ngyakori vizelési inger\nfájdalmas, égő vizelés\nvizelési nehézség\nvéres vizelet\nmerevedés és az ejakuláció nehezített, fájdalmas\ntelítettségi érzés a végbélben\nhidegrázás, magas láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Ismertessen az adrenalin és a noradrenalin hatásai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szívösszehúzódások számát (emelik a pulzusszámot)\nfokozzák a szívműködés erejét\nemelik a légzésszámot\nszűkítik a perifériás ereket, így emelik a vérnyomást\nlassítják a bélműködést\nmobilizálják a tárolt glikogént\nemelik a vércukorszintet\ntágítják a pupillát",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Írja le az arányos törpeség lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az agyalapi mirigy csökkent működése következtében kialakuló kórosan lassú növekedés, arányos testméretekkel....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerincvelő kötegeihez tartozó neuronokat!\n- elülső szarv: ...\n- oldalszarv: ...\n- hátsó szarv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "mozgatóneuronok\nvegetativ neuronok\nérzőneuronok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa a kóros elváltozások latin és magyar elnevezését! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. paresis\nA. homályállapot\n2. rigor\nB. remegés (akarattól független)\n3. tremor\nC. izomgyengeség\n4. nystagmus\nD. izomtónus-fokozódás\n5. tenebrositas\nE. szemtekerezgés",
+      "question_type": "matching",
+      "correct_answer": "C, D, B, E, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel a csecsnyúlvány-gyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- a fülkagyló mögötti terület nyomásérzékenysége\n- bőrpír, duzzanat\n- a fülkagyló tapadási redőjének elsimulása\n- elálló fülkagyló\n- láz\n- fülkörnyéki fájdalom\n- tejfölszerű váladékszivárgás a fülből\n- halláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Nevezze meg a szem ingerfelvevő receptorait!",
+      "question_type": "open",
+      "correct_answer": "- fényre érzékeny pálcikák\n- színre érzékeny csapok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket/tüneteket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. az ízület mozgása korlátozott\n2. „rugalmas rögzítettség\"\n3. deformitás, alakváltozás\n4. az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba\n5. az erőbehatás megszűnése után az ízületi fej visszatér az ízületi árokba\n6. duzzanat\n\na ficam jellemzői: ...\n\na rándulás jellemzői: ...\n(Helyes válaszonként 1-1 pont adható!! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4.\n1., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_VI_eumvi_210915_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészségkárosodás három alapvető\njellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "- váratlanul, hirtelen következik be\n- a sérülés, vagy betegség az életet veszélyezteti\n- magas az időfaktor",
+      "options": []
+    }
+  }
+]

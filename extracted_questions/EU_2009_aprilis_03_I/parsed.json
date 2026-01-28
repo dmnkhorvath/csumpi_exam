@@ -1,0 +1,427 @@
+[
+  {
+    "file": "EU_2009_aprilis_03_I_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív -\nmáj -\ngyomor-\ntüdő -\nlép -",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az azonos alakú, azonos működésű sejtek összességét, a\nhozzá tartozó sejtközötti állományukkal együtt\nszövetnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból a jóindulatú\ndaganatokat!",
+      "question_type": "fill_in",
+      "correct_answer": "papilloma\nlipoma\nmyoma\nosteoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Írja le az izomműködés élettanával kapcsolatos\nfogalmakat!\nKüszöbinger: \nKontrakció: ",
+      "question_type": "open",
+      "correct_answer": "minimális ingererősség, melyre az izom\nösszehúzódással válaszol.\negy izomrost összehúzódása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Ismertesse a csonthártya (periosteum) feladatát!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá a nagyvérkör ereit az alábbiak közül!",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonalis",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Ismertesse a mandulák feladatát!",
+      "question_type": "open",
+      "correct_answer": "- helyi védekezés\n- immunvédekezés a lymphocita termelés révén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt /5/ lehetőséget a szívinfarktus\nmegelőzésére!\n",
+      "question_type": "open",
+      "correct_answer": "dohányzás elhagyása\nmozgásszegény életmód megváltoztatása\nkoleszterinszegény táplálkozás\nmagasvérnyomás kezeltetése\ncukorbetegség kezeltetése\nhajszolt életmód megszüntetése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá a gátor üregben (mediastinum) elhelyezkedő\nszerveket!\n- szív\n- tüdők\n- máj\n- aortaív ágai\n- hörgők\n- nyelőcső\n- fő nyirokér\n- bolygóideg (nervus vagus)\n- csecsemőmirigy\n- pajzsmirigy",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\nnyelőcső\nfő nyirokér\nbolygóideg (nervus vagus)\naortaív ágai\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer\nalsó részének szakaszait!\nvakbél\néhbél\nszigmabél\nvégbél\npatkóbél\nharánt vastagbél\ncsípőbél",
+      "question_type": "multiple_choice",
+      "correct_answer": "végbél\nharánt vastagbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!\nÍrja a megfelelő betegség mellé jellemző tüneteinek\nsorszámát!\n1. éles fájdalom a deréktájon\n2. szemhéj, arc, kéz oedemája\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe,\nvagy a nagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\nvesekövesség: ...\nglomerulonephritis acuta: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4, 5...\n2, 3, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szervezet gázcseréjének biztosítása: az oxigén felvétele\nés továbbítása, a CO2 leadása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\nÍrja a számokat a megfelelő helyre!\n1. víz felszívódása\n2. zsírok felszívódása\n3. nincs tápanyag felszívódás\n4. ásványi anyagok felszívódása\n5. szénhidrátok felszívódása\n6. fehérjék felszívódása\n\nGyomorban: ...\nVékonybélben: ...\nVastagbélben: ...",
+      "question_type": "matching",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az\nalábbiakban megadott szempontok szerint!\nLényege:\n\nOka: Írjon kettőt /2/!\n-\n-\n-\n\nTünetek: Írjon hatot /6/!\n-\n-\n-\n-\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a májsejtek pusztulásával járó krónikus betegség\nalkohol\nfertőzés\nepeutak, epehólyag idült gyulladása\nhaspuffadás\nnyomásérzékenység a jobb bordaiv alatt\ntesttömeg csökkenés\nfakó, enyhén sárga bőr\nbőrviszketés\nhasvízkór\nbőrön csillag alakú értágulatok\ntág vénás hálózat a hasfalon\nnyelőcső varix repedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q016_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; okaira, tüneteire: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!\n- kreatinin\n- húgysav\n- bilirubin\n- urobilinogén\n- cukor\n- fehérje\n- karbamid",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nkarbamid\nurobilinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\n\nKrónikus urémia:\n- a veseállomány súlyos csökkenése következtében a vese\nműködésének teljes beszűkülése\n\nVesekövesség:\n- a vese üregrendszerében különböző oldott sók kő formájában\nkicsapódnak, innen a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját\n\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a veseállomány súlyos csökkenése következtében a vese\nműködésének teljes beszűkülése\n\na vese üregrendszerében különböző oldott sók kő formájában\nkicsapódnak, innen a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nvagy latinul!",
+      "question_type": "open",
+      "correct_answer": "- külső, hashártya által borított réteg (perimetrium)\n- középső izomréteg (myometrium)\n- belső nyálkahártya réteg (endometrium)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a\nszülés várható időpontjának kiszámítását a Naegele-\nmódszer alapján!\nIdőtartam: nap\nNaegele-módszer: az utolsó menstruáció első napjához\nhozzáadunk napot, majd visszaszámolunk\nhónapot",
+      "question_type": "fill_in",
+      "correct_answer": "280 nap\n7 napot, majd visszaszámolunk\n3 hónapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel a prosztata megnagyobbodás tünetei közül hármat/3/!",
+      "question_type": "open",
+      "correct_answer": "- vizelési nehézség (a vizeletürítés nehezen indul meg)\n- gyakori vizelési inger\n- vizeletcsepegés\n- éjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- adrenalin\n- noradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Írja le a calcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "- gátolja a Ca csontokból való felszabadulását\n- megakadályozza a vér magas Ca szintjének kialakulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Ismertesse az acromegaliát a megadott szempontok\nszerint!\nOka: \nTünetei: Írjon nyolcat /8/!\n- \n- \n- \n- \n- \n- \n- \n-",
+      "question_type": "open",
+      "correct_answer": "a növekedési hormon túltermelődése a fejlődés\nbefejezése után\na csontok végi részének növekedése\narckifejezés eldurvulása\norr megnagyobbodása\nlábujjak, kézujjak meghosszabbodása\nszexuális aktivitás csökken\nrendszertelen menstruáció\nnagy nyelv\ndurva tapintatú bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Okra: 2 pont; tünetekre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Sorolja fel az idegszövet működési egységének (neuron) fő részeit!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\ntengelyfonal\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma: \nFeladata: \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "két idegsejt találkozásánál található összeköttetés, az\ningerületátadás helye\nitt történik az ingerület átadása egyik idegsejtről\na másikra az ingerületátvivő anyagok (neurotranszmitterek)\nsegítségével",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q029_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: \n- aphasia: \n- tremor: \n- hypokinesis:",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\ncsontos labirintus\nhallócsontok\nhártyás labirintus\ndobhártya\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q031_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nfül (hallás):\nfül (egyensúlyozás):\nszem:\norr:\nnyelv:",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q032_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 3,
+      "question_text": "Sorolja fel a szürkehályog (cataracta) kialakulásának\nlehetséges okait! Írjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "- az anya terhesség alatti vírusfertőzése\n- a lencse természetes elöregedése\n- anyagcsere-betegségek\n- más szemelváltozás miatt kialakuló lencsehomály\n(szövődményes)\n- mechanikai sérülés\n- sugárzás\n- retina leválás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q033_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 3,
+      "question_text": "Nevezze meg a vérzések fajtáit!",
+      "question_type": "open",
+      "correct_answer": "artériás\nvénás\nkapilláris eredetű",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q034_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát! Soroljon fel fajtái közül négyet /4/!\n\nFogalma:\n\nFajtái:\n- vágott\n- szúrt\n- harapott\n- horzsolt\n- zúzott\n- lőtt\n- roncsolt",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_aprilis_03_I_q035_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Fogalmára: 1 pont; fajtáira: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

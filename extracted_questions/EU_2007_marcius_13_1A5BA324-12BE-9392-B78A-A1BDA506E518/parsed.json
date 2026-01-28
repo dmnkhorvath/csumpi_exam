@@ -1,0 +1,338 @@
+[
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Írja le az izomműködés élettanával kapcsolatos\nfogalmakat!",
+      "question_type": "open",
+      "correct_answer": "Minimális ingererősség, melyre az izom összehúzódással\nválaszol.\nEgy izomrost összehúzódása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes\n- porcos\n- csontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMit nevezünk behatolási kapunak?\n\nMettől-meddig tart a lappangási szakasz?",
+      "question_type": "open",
+      "correct_answer": "Azt a helyet, amelyen a kórokozó a szervezetbe jut.\nA kórokozó behatolásától a tünetek megjelenéséig.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul az emberi test fő részeit!\n\n| Emberi test | Latin megnevezés |\n|-------------|------------------|\n| fej         |                  |\n| nyak        |                  |\n| törzs       |                  |\n| mellkas     |                  |\n| has         |                  |\n| medence     |                  |",
+      "question_type": "matching",
+      "correct_answer": "| Emberi test | Latin megnevezés |\n|-------------|------------------|\n|             | caput            |\n|             | collum           |\n|             | truncus          |\n|             | thorax           |\n|             | abdomen          |\n|             | pelvis           |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Sorolja fel és jellemezze a betegségeket lefolyásuk\nszerint!",
+      "question_type": "open",
+      "correct_answer": "heveny (acut):\n- rövid ideig tart (1-2 naptól 2-4 hét)\n- heves tünetekkel jár\nfélheveny (subacut):\n- elhúzódó lefolyású\n- nem jár viharos tünetekkel\nidült (chronicus):\n- hosszantartó, évekig, évtizedekig tarthat\n- váltakozóan nyugalmi és aktív szakaszokkal jár",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá az emésztőrendszeri daganatos megbetegedésre utaló tüneteket!",
+      "question_type": "open",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nnyelési nehézségek\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Írjon három /3/ olyan okot, mely a szervezet folyadék-\nelektrolit háztartás egyensúlyának felborulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- hányás\n- hasmenés\n- nagyfokú izzadás\n- vérplazma vesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot!\n\n| emésztőrendszer részei | emésztő enzimek | tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n|  | kimozin | tejfehérje |\n|  |  |  |\n|  | tripszin |  |\n|  | amiláz, maltáz, laktáz |  |\n|  |  |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| emésztőrendszer részei | emésztő enzimek | tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n|  |  |  zsír |\n| vékonybél |  | fehérje |\n|  |  | szénhidrát |\n|  | lipáz | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul a halló- és egyensúlyozó szervnek az ábrán jelölt részeit! Válaszait írja a számok mellé!",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nhallójárat\ndobhártya\nkalapács\nüllő\nkengyel\nfélkörös ívjárat\nhallóideg\ncsiga\nEustach-kürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Csoportosítsa a szemburok rétegeit az alábbiak szerint!\nÍrja a pontozott vonalra a helyes számokat!\n\n1. érhártya\n2. ínhártya\n3. sugártest\n4. szaruhártya\n5. ideghártya\n6. szivárványhártya\n\nKülső szemburok része: ...\nKözépső szemburok része: ...\nBelső szemburok része: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4\n1, 3, 6\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q012_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(A lényegére 1 pont,a tünetekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol kereszteződik a piramis pálya nagy része?",
+      "question_type": "open",
+      "correct_answer": "a nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a tubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "- elsődleges kanyarulatos csatorna\n- Henle-kacs\n- másodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!\n- kreatinin\n- húgysav\n- bilirubin\n- urobilinogén\n- cukor\n- fehérje\n- karbamid",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nurobilinogén\nkarbamid",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegség lényegét!\nchronicus uraemia:\n- a vese állomány súlyos csökkenése következtében működésének\nteljes beszűkülése\nvesekövesség:\n- a vese üregrendszerében különböző oldott sók kő formájában\nkicsapódnak, innen a húgyvezetékbe illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a vese állomány súlyos csökkenése következtében működésének\nteljes beszűkülése\na vese üregrendszerében különböző oldott sók kő formájában\nkicsapódnak, innen a húgyvezetékbe illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának a hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- adrenalin\n- noradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Nevezzen meg az adrenalin hatásai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- fokozza a szívösszehúzódások számát, szívműködés erejét\n- emeli a légzésszámot\n- szűkíti a perifériás ereket – a vérnyomást emeli\n- lassítja a bélműködést – a perisztaltika csökken\n- a májban és az izmokban tárolódott glikogént mobilizálja – a vércukor szintet emeli\n- pupillatágulatot idéz elő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\nMely hormon szabályozza a tej kiürülését az emlőből?\nHol termelődik az ADH hormon?\nHol tárolódik az ADH hormon?\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "open",
+      "correct_answer": "prolaktin (luteotrop hormon)\noxytocin\nhypothalamusban\na hypophysis hátulsó lebenyében\ndiabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Sorolja fel magyarul a külső és a belső férfi nemi\nszerveket!\nKülső nemi szervek:\nBelső nemi szervek:",
+      "question_type": "fill_in",
+      "correct_answer": "- herezacskó\n- hímvessző\n- here\n- mellékhere\n- ondóvezeték\n- ondózsinór\n- ondóhólyag\n- dülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek elhelyezkedését a szervezetben!\nLeydig sejtek: \nCowper mirigy: \nBarlangos test: \nSárgatest:",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között\na gát állományában beágyazva\na hímvessző állományában\na petefészek kéregállományában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse az AIDS fertőzés megelőzésének lehetőségeit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- gumi óvszer (condom) használata\n- monogámia-tartós párkapcsolat\n- egészségügyben biztonságos vérvétel, vérátömlesztés\n- kábítószer fogyasztás elkerülése, steril tű használata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját elsősegély-nyújtáskor az alábbi állapotokban!\neszméletlenség: ...\nklinikai halál (újraélesztéskor): ...\nhasi sérülés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, lábakat térdben felhúzva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Sorolja fel a vérzések fajtáit latinul!",
+      "question_type": "open",
+      "correct_answer": "arterias\nvenas\ncapillaris",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel a végtagtörés lehetséges szövődményei közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "erek sérülése\nidegek sérülése\nvérömleny\nfertőzés\nshock",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Csoportosítsa a szív eredetű keringési elégtelenséget a\nhozzá tartozó tünetekkel!\nÍrja a pontozott vonalra a megfelelő számokat!\n1. hasvízkór\n2. köhögés\n3. telt nyaki vénák\n4. munka dyspnoe\n5. tüdővizenyő\n6. lábszár vizenyő\n7. „szilvalé\" szerű köpet\n8. éjszakai vizelés\nBal szívfél elégtelenség: ...\nJobb szívfél elégtelenség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4, 5, 7\n1, 3, 6, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogy nevezzük a szív középső rétegét?",
+      "question_type": "open",
+      "correct_answer": "Szívizom (myocardia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_13_1A5BA324-12BE-9392-B78A-A1BDA506E518_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 3,
+      "question_text": "Soroljon fel az idült orrnyálkahártya gyulladás okai\nközül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "orrmelléküreg gyulladás\norrsövény ferdülés\norr-garat mandula túltengés\nlevegőszennyeződés",
+      "options": []
+    }
+  }
+]

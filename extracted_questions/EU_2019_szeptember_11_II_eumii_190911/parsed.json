@@ -1,0 +1,292 @@
+[
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a szövetek típusaihoz a megadott jellemzőket/feladatokat! Írja a\nsorszámokat a megfelelő betűjelhez!\nA. hámszövet\nB. kötő- és támasztószövet\nC. izomszövet\nD. idegszövet\n1. kitölti a szervek közti tereket, összeköti a szerveket, szöveteket, a test vázát\nalkotja\n2. a szervezet információs rendszerét építi fel\n3. összehúzódásra képes\n4. a test felszínét borítja, a testüregeket béleli",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...1...., C.-...3...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szervezet túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "anafilaxiás folyamatok\nasthma bronchiale\nszénanátha\natópiás dermatitis (ekcéma)\ntranszfúziós reakciók\nújszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a Scheuermann-féle betegség lényegét, tüneteit!\nA betegség lényege:\n\nPanaszok, tünetek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...a csigolyatestek elkeskenyednek, elvesztik szilárdságukat...\na hát fájdalmas fáradékonysága\na háti szakasz fokozott görbülete\na hát merevsége\nmozgáskorlátozottság\na terhelhetőség csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!\nKéthegyű vitorlás billentyű:\n...\nHáromhegyű vitorlás billentyű:\n...\nZsebes billentyűk:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a bal pitvar és a bal kamra között...\na jobb pitvar és a jobb kamra között...\na kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Húzza alá a végartériákra vonatkozó helyes állításokat!\n- A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n- Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\n- Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n- Ha az artéria elzáródik, az általa ellátott terület elhal.\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\nHa az artéria elzáródik, az általa ellátott terület elhal.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés) lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- lázas állapot\n- pajzsmirigy túlműködés\n- szívelégtelenség\n- vérszegénység\n- egyes gyógyszerek szedése, pl. Atropin\n- élvezeti szerek fogyasztása (kávé, tea)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja a megadott csoportokhoz a helyes sorszámot!\n\n1. a mellkasi aortából indul\n2. a szív jobb kamrájából indul\n3. a tüdő szövetét nem táplálja\n4. a tüdő szövetét táplálja\n5. a gázcsere lebonyolításában nincs feladata\n6. a gázcseréhez szükséges vért szállítja\n\narteria bronchialis rendszer: ...1., 4., 5....\ntruncus pulmonalis rendszer: ...2., 3., 6....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis rendszer: ...1., 4., 5....\ntruncus pulmonalis rendszer: ...2., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\n\nHol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\n\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\n\nHogyan alakul a légzésszám a paraszimpatikus idegrendszer hatására?\n- csökken\n- emelkedik",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\n\ngarat gégei szakaszába\n\ncsökken",
+      "options": [
+        "a gégében",
+        "a garatban",
+        "garat orri szakaszába",
+        "garat gégei szakaszába",
+        "csökken",
+        "emelkedik"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nfogszuvasodás: ...\nszájpenész: ...\najaksömör/ajakherpesz: ...\ngyomorfekély: ...",
+      "question_type": "fill_in",
+      "correct_answer": "caries\nsoor\nherpes labialis\nulcus ventriculi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt tényezőt, ami befolyásolja a szervezet teljes energia-szükségletét!",
+      "question_type": "open",
+      "correct_answer": "- szellemi aktivitás\n- fizikai aktivitás\n- testtömeg\n- nem\n- életkor\n- külső hőmérséklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?\nMennyi az elsődleges vizelet napi mennyisége?\nTartalmaz-e élettani körülmények között a végleges vizelet urobilinogént?\nTartalmaz-e az elsődleges vizelet cukrot?",
+      "question_type": "fill_in",
+      "correct_answer": "...a Malpighi-testben...\n...160-180 liter...\n...igen, tartalmaz....\n...igen, tartalmaz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\nΑ.-......, В.-......, С.-......, D.-......",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogamzásgátlás módszerei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "természetes módszerek\nmechanikai módszerek\nkémiai módszerek\nméhen belüli eszközök\nhormonális készítmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Egészítse ki a menstruációs ciklussal kapcsolatos táblázatot!\n\n| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I.  | felszíne hámosodik |  |\n| II.  | megvastagodik (tüszőrepedés) |  |\n| III.  | mirigyei váladékot termelnek, szerkezete fellazul, képes a megtermékenyített petesejt befogadására |  |\n| IV.  | zsugorodik, majd lelökődik | a progeszteron hirtelen csökkenése |",
+      "question_type": "fill_in",
+      "correct_answer": "| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I. regeneráció |  | ösztrogén, FSH (hipofízis) |\n| II. proliferáció |  | ösztrogén, FSH (hipofizis) |\n| III. szekréció |  | progeszteron, LH (hipofizis) |\n| IV. menstruáció |  |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "a belső elválasztású (endokrin) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nmár alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a tetaniás állapotot a megadott szempontok alapján!\nLényege:\nOka:\nA tetániás roham tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca-szintjének csökkenése.\nA mellékpajzsmirigy csökkent működése.\na kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\nszapora szívműködés\na gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na helyes válasz sorszámát a megfelelő helyre!\n\n1. hypothalamus\n2. thalamus\n3. nyúltvelő\n4. híd\n5. hálózatos sejtrendszer (formatio reticularis)\n\nagytörzs: ...\nköztiagy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 5....\n1., 2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse az extrapiramidális pályák szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a mozgások harmonikussá tétele\n- az, automatikus és kísérő mozgások kivitelezése\n- az izomtónus szabályozása\n- az emocionális reakciókat kísérő mimikai mozgások szabályozása\n- a védekező, a támadási és a menekülési mozgások biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a szem fénytörő közegeit!\n- könnykészülék\n- sárgafolt\n- szemlencse\n- üvegtest\n- sugártest\n- csarnokvíz\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "üvegtest\ncsarnokvíz",
+      "options": [
+        "könnykészülék",
+        "sárgafolt",
+        "szemlencse",
+        "üvegtest",
+        "sugártest",
+        "csarnokvíz"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a carcinoma mammae lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- az emlőbimbó behúzódása\n- behúzódások az emlő bőrén – narancshéj tünet\n- ekcémának tűnő elváltozás az emlőbimbón\n- az emlő bőre duzzadt, kemény\n- véres váladék ürülése az emlőbimbóból\n- csomó(k) a hónaljban\n- fekélyképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Határozza meg az elsősegélynyújtás és az időfaktor fogalmát!\nElsősegélynyújtás fogalma: \nIdőfaktor fogalma: ",
+      "question_type": "open",
+      "correct_answer": "Azonnali beavatkozás, sérülés, rosszullét esetén a\nvégleges szakellátás megkezdése előtt.\nAz időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_II_eumii_190911_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül ötöt!\nfájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság",
+      "options": []
+    }
+  }
+]

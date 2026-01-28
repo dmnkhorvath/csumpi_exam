@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az agykoponya varratait a megfelelő leírással! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. koronavarrat\n2. nyílvarrat\n3. pikkelyvarrat\n4. lambdavarrat\n\nA. a nyakszirtcsont és a két falcsont között található\nB. a homlokcsont és a két falcsont között található\nC. a falcsontot és a halántékcsontot köti össze\nD. a két falcsont között található",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2...D...., 3....C...., 4.- ...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q002_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 9,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a táblázatot a megadott\nszempontok alapján!\n\n|Izomszövet típusa|Helye Írjon egy-egy példát!|Az izomműködés jellege Írjon két-két jellemzőt!|\n|---|---|\n|simaizom|||\n|harántcsíkolt izom|||\n|szívizom|||\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "|Izomszövet típusa|Helye Írjon egy-egy példát!|Az izomműködés jellege Írjon két-két jellemzőt!|\n|---|---|---|\n|simaizom|- a zsigeri szervekben\n- erek falában|- lassan húzódik össze\n- lassan fárad ki\n- kisebb erőkifejtésre képes, mint a vázizmok|\n|harántcsíkolt izom|- érzékszervekben\n- zsigerekben\n- testüregek falában|- összehúzódása és elernyedése gyors\n- hamar kifárad\n- általában jelentősebb erőkifejtésre képes|\n|szívizom|csak a szívben|- rövid összehúzódás\n- hosszabb elernyedés jellemző\n- ritmikus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertesse a celluláris és a humorális immunválaszok lényegét!\nCelluláris immunválasz: \nHumorális immunválasz:",
+      "question_type": "open",
+      "correct_answer": "Az antigén az immunrendszer sejtjeit aktiválja, amelyeket a felületükön megkötnek, így közömbösítve az antigént.\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt felelős a beültetett transzplantátum kilökődéséért?",
+      "question_type": "fill_in",
+      "correct_answer": "a T-lymphocyta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a véralvadáshoz szükséges anyagok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fibrinogén\n- fibrin\n- trombin\n- prothrombin\n- kalcium\n- trombokinázenzim",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a Bechterew-kór lényegét!",
+      "question_type": "open",
+      "correct_answer": "Elsősorban a gerincet érintő betegség. A csigolyák közötti kisízületek\ngyulladásos megbetegedése miatti degenerativ elváltozás, amely végül a gerinc\nteljes merevedéséhez vezethet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból gátorüregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- hörgők\n- aortaív ágai\n- pajzsmirigy\n- nyelőcső\n- csecsemőmirigy\n- máj\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\naortaív ágai\nnyelőcső\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Soroljon fel a tüdőasztma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- hirtelen jelentkező nehézlégzés\n- kínzó, heves köhögés\n- fulladásérzés\n- a légzési segédizmok igénybevétele\n- rövid, kapkodó belégzés\n- hosszan elnyúló, sípoló kilégzés\n- üvegszerű, tapadós köpet\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. fehérjék\nA. kollagenáz, elasztáz\n2. szénhidrátok\nB. lipáz\n3. zsírok\nC. tripszin\n4. kötőszöveti rostok\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C..., 2.- ...D..., 3. – ...B..., 4. – ...A...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának szerepét!",
+      "question_type": "open",
+      "correct_answer": "- a táplálék összekeverése a gyomornedvvel\n- a gyomortartalom továbbítása a vékonybélbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat a cukorbetegeknél előforduló alacsony\nvércukorszint (hypoglykaemia) kialakulásának okai közül!",
+      "question_type": "open",
+      "correct_answer": "a szükségesnél nagyobb mennyiségű inzulin adagolása\naz inzulin beadását követően a kellő mennyiségű szénhidrátfogyasztás\nelmaradása\nintenzív fizikai munkavégzés\nnagyobb pszichés megterhelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. érgomolyag\n2. Bowman-tok\n3. Henle-kacs\n4. másodlagos kanyarulatos csatorna\n5. glomerulus\n6. elsődleges kanyarulatos csatorna\na Malpighi-test részei: ....\na tubulus részei: ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....3., 4., 6.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Hol termelődik a tesztoszteron?",
+      "question_type": "fill_in",
+      "correct_answer": "a herék Leydig-féle sejtjeiben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a polyuria lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- fokozott folyadékbevitel\n- ödémák kiürülése\n- diuretikumok szedése\n- cukorbetegség\n- folyadék- és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi endokrin betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. gigantizmus\n2. diabetes insipidus\n3. Basedow-kór\n4. myxödéma\n5. tetania\n6. Cushing-szindróma\nAlulműködés okozta megbetegedések: ...\nTúlműködés okozta megbetegedések: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a női meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- nemi szervek fejletlensége, fejlődési rendellenessége\n- a méhkürt gyulladásos elzáródása\n- endokrin kórképek\n- anyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Sorolja fel a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- FSH - folliculusstimuláló hormon\n- LH - luteinizáló hormon\n- LTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- nyúltvelő\n- híd\n- kisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin megnevezéseivel!\n\n| magyar | latin |\n|---|---|\n| a mozgástevékenység korlátozottsága/hiánya |  |\n| kórosan csökkent mozgástevékenység |  |\n| kórosan fokozott mozgástevékenység |  |\n| szemtekerezgés |  |\n| kóros aluszékonyság |  |\n| kórosan mély alvás állapota |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar | latin |\n|---|---|\n|  | akinesis |\n|  | hypokinesis |\n|  | hyperkinesis |\n|  | nystagmus |\n|  | somnolentia |\n|  | sopor |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem fénytörő közegeit!",
+      "question_type": "open",
+      "correct_answer": "csarnokvíz\nszemlencse\nüvegtest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja a(z)",
+      "question_type": "fill_in",
+      "correct_answer": "sinuscsomó",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a myopiát és a hypermetropiát a megadott szempontok szerint!\nA myopia jelentése:\nA myopia lényege: A szem hossztengelye a fiziológiásnál nagyobb, így a\nszemben az éles kép a retina előtt keletkezik.\nKorrigálásának lehetősége:\nA hypermetropia jelentése:\nA hypermetropia lényege: A szem hossztengelye a fiziológiásnál rövidebb,\nígy a retinán életlen kép keletkezik.\nKorrigálásának lehetősége:",
+      "question_type": "open",
+      "correct_answer": "rövidlátás/közellátás\n\nszemben az éles kép a retina előtt keletkezik.\nszórólencse alkalmazása\ntávollátás/messzelátás\n\nígy a retinán életlen kép keletkezik.\ngyűjtőlencse alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az elsődleges sebellátás tilalmai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- a sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\n- a sebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_II_eumii_190214_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Egészítse ki az újraélesztéssel kapcsolatos mondatokat!\nA segélynyújtónak .... esetén mellkas-kompressziókat kell alkalmaznia.\nAmennyiben az elsősegélynyújtó tanult újraélesztést, a mellkaskompressziókat célszerű szájból .... történő lélegeztetéssel is kiegészíteni.\nMellkaskompressziót felnőttek esetén körülbelül ... cm mélységben, .../perces frekvenciával kell végezni.\nA kompresszió és lélegeztetés aránya ....",
+      "question_type": "fill_in",
+      "correct_answer": "keringésmegállás\nszájba\n5-6\n100-120\n30:2",
+      "options": []
+    }
+  }
+]

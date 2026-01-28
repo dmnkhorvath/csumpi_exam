@@ -1,0 +1,298 @@
+[
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel a hámszövetek fajtáit funkciójuk alapján!",
+      "question_type": "open",
+      "correct_answer": "fedőhám\nfelszívóhám\nérzékhám\nmirigyhám",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a daganatsejtek tulajdonságának és működésének\nsajátosságai közül!",
+      "question_type": "open",
+      "correct_answer": "- növekedésük nincs összhangban a kiindulási szövet növekedésével\n- a kiváltó tényező megszűnése után a daganat növekedése folytatódik\n- a daganatos sejtek szerkezete eltér a kiindulási szövetekétől\n- a sejtek növekedése autonóm, független\n- a daganatos szövetburjánzás céltalan, hasztalan, káros",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Hány darab csont alkotja az emberi testet?\n- 206\n- 226",
+      "question_type": "multiple_choice",
+      "correct_answer": "206",
+      "options": [
+        "206",
+        "226"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Írjon le a porckorong-elfajulás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- érzészavar\n- zsibbadás\n- fájdalom\n- izomvédekezés\n- mozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe ömlik a vena cava superior?",
+      "question_type": "multiple_choice",
+      "correct_answer": "jobb pitvar",
+      "options": [
+        "jobb kamra",
+        "jobb pitvar",
+        "bal kamra",
+        "bal pitvar"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. nagyfokú, gyors tágulásra és szűkülésre képesek\n\n2. nem képesek erőteljes összehúzódásra\n\n3. a szív irányába szállítják a vért a periféria felől\n\n4. a vért a szívből a periféria felé juttatják\n\n5. az anyagcserében közvetlenül vesznek részt\n\n6. a falukat simaizomrostok alkotják, erőteljes összehúzódásra képesek\n\nVerőerek jellemzői: ...., ....\nVisszerek jellemzői: ...., ....\nHajszálerek jellemzői: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "4., 6.\n2., 3.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az érelmeszesedés kialakulására hajlamosító tényezők, rizikófaktorok közül!",
+      "question_type": "open",
+      "correct_answer": "- dohányzás\n- helytelen táplálkozás\n- magas koleszterinszint\n- mozgásszegény életmód\n- cukorbetegség\n- hajszolt életmód, stressz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi osztja két szimmetrikus részre az orrüreget?",
+      "question_type": "fill_in",
+      "correct_answer": "...az orrsövény...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez leírásukat! Írja a betűjelek mellé a helyes válasz\nsorszámát!\n\nA. bronchitis\nB. asthma bronchiale\nC. oedema laryngis\nD. COPD\n\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének vizenyője\nkövetkeztében kialakuló életveszélyes állapot.\n3. A hörgők nyálkahártyájának gyulladásos betegsége.\n4. A tüdőn belüli légutak tartós beszűkülésével járó betegségek összefoglaló\nneve.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...1...., С.-...2...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0",
+      "points": 0,
+      "question_text": "(+1 pont)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. kalcium\n2. vas\n3. cink\n4. nátrium\n5. magnézium\n6. szelén\n\nmikroelemek: ...\n\nmakroelemek: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- görcsös hasi fájdalom\n- hányinger, hányás\n- székletürítés hiánya\n- „néma has”\n- száraz, lepedékes nyelv\n- száraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Állítsa helyes sorrendbe az anatómiai képleteket a vizeletkiválasztás\nmenetének megfelelően! Írja a sorszámokat a pontozott vonalakra!\n... .... húgyvezeték\n... .... húgycső\n... .... vese\n... .... húgyhólyag\n(Csak a helyes sorrend esetén adható pont!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "4\n1\n2\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a vesekőbetegség lényegét, kialakulásának okait!\nLényege:\nKialakulásának lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.\nvizeletpangás\na vizelet fertőződése\nkőképző anyagok felszaporodása\nhibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a női nemi szervek latin, vagy magyar megnevezését! Egészítse ki a\ntáblázatot!\n\nA női nemi szervek megnevezése\n| magyarul | latinul |\n|----------|---------|\n| petefészek |  |\n|  | labium majus |\n| csikló |  |\n|  | tuba uterina |\n| méh |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|----------|---------|\n|  | ovarium |\n| nagyajkak |  |\n|  | clitoris |\n| petevezeték |  |\n|  | uterus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hererákbetegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a here tapintatának megváltozása\ncsomók megjelenése a herében\ntompa fájdalom az alhasban, vagy az ágyékban\nfolyadékgyülem a herében\na here megnagyobbodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a glükokortikoidok (kortizol) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hatásukra fokozódnak a lebontó anyagcsere-folyamatok\n- csökkentik a csontképződést\n- csökkentik a sejt közötti tér fehérjéinek termelődését\n- szabályozzák a só-, és vízháztartást\n- szabályozzák a vérnyomást\n- gátolják az immunrendszer működését\n- gátolják a gyulladásos választ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a jellemző tünetekhez a betegségeket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. megnagyobbodott pajzsmirigy, csillogó szemek, kidülledt szem, izgatottság\n2. az arc duzzadt, kifejezéstelen, a bőr hideg és durva tapintatú, gyér pulzus\n3. fáradékonyság, a bőr fokozottan pigmentált, sötét elszíneződésű, fogyás\n4. holdvilágarc, zsírlerakódás a törzsön és a hát felső részén, vékonynak tűnő\nvégtagok\nA. mixödéma\nB. Addison-kór\nC. Basedow-kór\nD. Cushing-szindróma",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Α...., 3.-...B...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyembólia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "ütésszerű fejfájás\neszméletvesztés\nepilepsziás rohamok\nféloldali bénulás\nérzészavar\nlátás-, és beszédzavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a nagyagykéreg lebenyeit!",
+      "question_type": "fill_in",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- szürkehályog során a szem belnyomása emelkedik\n- az ideghártya leválása fájdalommal jár\n- a zöldhályog észrevétlenül kialakuló szembetegség\n- távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\n- heveny fülkürtgyulladás esetén jó hatású a hidegterápia alkalmazása\n- Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken\n- heveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\n- seborrhoea során fokozódik a faggyútermelés és megváltozik a termelt\nfaggyú összetétele is\n- a psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat\n- az övsömör oka a bakteriális fertőződés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\nheveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\nseborrhoea során fokozódik a faggyútermelés és megváltozik a termelt\nfaggyú összetétele is\na psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a belső vérzésre utaló tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel\nis egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_II_eumii_230404_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel keletkezési mechanizmusok szerint a sebek fajtái közül hatot!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nszakított seb\nharapott seb\nlőtt seb\ncsonkolt seb",
+      "options": []
+    }
+  }
+]

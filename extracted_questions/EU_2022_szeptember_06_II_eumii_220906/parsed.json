@@ -1,0 +1,292 @@
+[
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a harántcsíkolt izmot és a simaizmot a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n| Szempontok | harántcsíkolt izom | simaizom |\n|---|---|---|\n| helye |  |  |\n| irányítás |  |  |\n| összehúzódás |  |  |\n| erőkifejtés mértéke |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | harántcsíkolt izom | simaizom |\n|---|---|---|\n| helye | vázizmok | zsigeri szervek és erek fala |\n| irányítás | akaratlagos és reflexes | akarattól független |\n| összehúzódás |  | lassú, hullámszerű |\n| erőkifejtés mértéke | jelentős erőkifejtés | viszonylag nagy erőkifejtés |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a járványfolyamat mozgatóerőit!",
+      "question_type": "open",
+      "correct_answer": "- a fertőzés forrásai\n- a fertőzés terjedési módjai\n- fogékonyság, immunitás\n- természeti tényezők\n- társadalmi tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet az ízületeket összetartó tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- külső légnyomás\n- a porcfelszínek közötti tapadás\n- az ízületi tok és a szalagkészülék\n- az ízületeket körülvevő izmok feszessége\n- az ízületek körül lévő egyéb lágy részek és a bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 1,
+      "question_text": "A szív ingerképző és vezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+      "options": [
+        "sinuscsomó → pitvar-kamrai csomó → Tawara-szárak → His-köteg → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → Tawara-szárak → Purkinje-rostok → His-köteg",
+        "sinuscsomó → pitvar-kamrai csomó → His-köteg → Purkinje-rostok → Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a veleszületett csípőficamot a megadott szempontok szerint!\n\nA betegség lényege:\n...\n\nTünetei: Írjon kettőt!\n-\n-\n-\n\nKezelésének lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "A combcsont ízületi feje elhagyja az ízületi vápát és ott rögzül....\na farredők ráncainak aszimmetriája\naz alsó végtagok hosszkülönbsége\nbicegő, kacsázó járás\nizomerősítés\ngyógytorna\nszükség esetén műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a visszerekre vonatkozó helyes megállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a periféria felől a szív irányába szállítják a vért\nnem képesek erőteljes összehúzódásra\nfelületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására félhold alakú, vagy zsebes billentyűk találhatók\na szív és a mellkas szívó hatása segíti elő bennük a keringést",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kamralebegés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A legsúlyosabb ingerképzési zavar. A beteg pulzusa nem tapintható, a kamra\nnem képes továbbítani vért, a szív nem tudja a keringést fenntartani. Az EKG-n\n300-400/perc frekvenciájú szabálytalan hullámok láthatóak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségekhez a rájuk jellemző köpetformát! Írja a sorszámok\nmellé a megfelelő betűjelet!\n\n1. hörgőtágulat\n2. tüdőasztma\n3. tüdőtuberkulózis\n4. tüdőgyulladás\n5. légcsőgyulladás",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...E..., 3.-...B...., 4.-..A..., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszerre vonatkozó alábbi mondatokat!\nA levegő az ... szűrődik, felmelegszik és párásodik.\nA gégében elhelyezkedő hangszalagokat a ... áramló levegő rezegteti\nmeg. A hangszalagok között található a ...\nA légcső kb. 10-12 cm hosszú, ... felépülő, rugalmas falú\ncső. A légcső és a hörgők nyálkahártyahámját ...\nalkotja.",
+      "question_type": "fill_in",
+      "correct_answer": "orrmelléküregekben\nkifelé\nhangrés\nC-alakú porcokból\ncsillószőrös hengerhám",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Ismertesse a szájnyálkahártya fekélyes gyulladásának lényegét és lehetséges\ntüneteit!\nLényege:\nLehetséges tünetei: Írjon négyet!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...A száj nyálkahártyáján szürkésfehér, lepedékkel fedett, éles szélű fekélyek\nalakulnak ki...\n- égő érzés\n- fájdalom\n- nyálfolyás\n- ízérzékelési zavar\n- bűzös lehelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőrendszer szakaszaihoz a szerveket! Írja a\nsorszámokat a megfelelő helyre!\n\n1. csípőbél\n2. patkóbél\n3. haránt vastagbél\n4. felszálló vastagbél\n5. éhbél\n6. szigmabél\n\nAz emésztőrendszer középső szakasza: ...\nAz emésztőrendszer alsó szakasza: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi a húgyhólyag normál űrtartalma?",
+      "question_type": "fill_in",
+      "correct_answer": "kb. 200-300 ml",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a hypertonia maligna szindróma jellemzői közül!",
+      "question_type": "open",
+      "correct_answer": "nem egységes kórkép\na diasztolés vérnyomás tartósan 120-130 Hgmm fölé emelkedik\na vesében érbántalmakat okoz\ngyorsan súlyosbodó veseműködési zavart okoz\nkezelése megegyezik a hypertonia és az uraemia kezelésével",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül azokat, amelyekben kifejezésre jut a\nmásodlagos nemi jelleg!\n\n- látás\n- hajszín\n- hangmagasság\n- hallás\n- csontozat és izomzat\n- a fül formája\n- szőrzet\n- emlők\n\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "hangmagasság\nhallás\ncsontozat és izomzat\nemlők",
+      "options": [
+        "látás",
+        "hajszín",
+        "hangmagasság",
+        "hallás",
+        "csontozat és izomzat",
+        "a fül formája",
+        "szőrzet",
+        "emlők"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségekhez jellemző tüneteiket! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. Addison-kór\nB. Basedow-kór\nC. acromegalia\nD. gigantizmus\nE. nanismus\n1. a csontok végi része megvastagodott, nagy orr, hosszú ujjak\n2. arányos törpeség, öreges arcvonások\n3. fáradékonyság, a bőr fokozottan pigmentált, sötét elszíneződésű\n4. az átlagosnál jóval magasabb testmagasság, hosszú felső végtagok, az ujjak\nzsibbadása\n5. megnagyobbodott pajzsmirigy, kidülledt szem",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., B.-...5...., C.-...1...., D.-...4...., E.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a premenstruációs zavarok (PMS) lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- depresszió\n- ingerlékenység\n- csökkent koncentrálóképesség\n- fejfájás\n- emlőérzékenység\n- álmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertessen a hypothalamus jellemzői/feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- belső elválasztású mirigy\n- a közti agynak a thalamus alatti részén található, a III. agykamra falát képezi\n- a szervezet belső környezetének viszonylagos állandóságát szabályozza\n- szerepet játszik az ember érzelmi (emocionális) magatartásában\n- hormonjai: az antidiuretikus hormon és az oxitocin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek||\n|---------|---------|\n|latinul|magyarul|\n| |köztiagy|\n|perikaryon/neurocyta| |\n| |fali lebeny|\n|mesencephalon| |\n| |plazmanyúlvány|\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek||\n|---------|---------|\n|diencephalon||\n||idegsejt|\n|lobus parietalis||\n||középagy|\n|dentrit||\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a progresszív stroke (PS) lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Ismertesse az emlőgyulladást a megadott szempontok szerint!\nElőfordulása:\n...\nKialakulásának oka:\n...\nKezelésének lehetőségei: Írjon négyet!\n- \n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "Leggyakrabban gyermekágyas és szoptató anyáknál alakul ki....\nSzoptatáskor gennykeltő kórokozók jutnak be a nyirokréseken és a tejutakon az emlőbe....\ngyógyszeres kezelés\naz emlő rendszeres kiürítése\nborogatás\nlázcsillapítás\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Sorolja fel a bőr jelentőségét/feladatait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- védelem a mechanikai hatásoktól, a kórokozók bejutásától\n- hőszabályozás (hőleadás)\n- folyadék és páratartalom szabályozása (verejtékezés)\n- zsírraktározás\n- a tapintás érzékszerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket/tüneteket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. duzzanat\n2. deformitás, alakváltozás\n3. az ízület mozgása korlátozott\n4. az ízület működése megszűnik/mozgásképtelenség\n5. az ízületi fej az ízületen kívül tapintható\n6. lilás elszíneződés\n\na ficam jellemzői: ...\na rándulás jellemzői: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_II_eumii_220906_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nMellkasi sérülés esetén: ...\nBelső vérzés gyanúja: ...\nOrrvérzés esetén: ...",
+      "question_type": "fill_in",
+      "correct_answer": "félig ülő helyzet...\nsokkfektetés: hanyatt fekvő helyzetben, felpolcolt alsó végtagokkal...\na beteget nyugalomba helyezzük, majd a fejét előre hajtjuk...",
+      "options": []
+    }
+  }
+]

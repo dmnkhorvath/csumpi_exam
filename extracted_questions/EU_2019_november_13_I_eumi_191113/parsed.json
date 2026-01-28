@@ -1,0 +1,336 @@
+[
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. anterior\nA. hátulsó/háti\n2. inferior/caudalis\nB. elülső/hasi\n3. posterior/dorsalis\nC. felső/feji\n4. superior/cranialis\nD. középsíkhoz közel eső\n5. medialis\nE. alsó/farki",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...E...., 3.-...A...., 4.-...C...., 5.- ...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel az immunrendszer felépítésében részt vevő limfoid szervek\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "csecsemőmirigy\nnyirokcsomók\nlép\nmandulák\nféregnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a csontritkulást a megadott szempontok alapján!\nLényege:\n...\nTünetei: Írjon kettőt!\n-\n-\n-\nGyógyítása/megelőzése: Írjon hármat!\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a csont állományának csökkenése...\na mellkasi gerincoszlop fokozódó görbülete\nfájdalom\ncsontok törékenysége\ngyógyszeres kezelés\ndiéta\néletmódváltás\nfizikai aktivitás növelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a lép feladatait!\n- lymphocyták képzése\n- vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- méreganyagok kiválasztása",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\nvörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő kórképhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. éjszakai vizelés (nocturia)\n2. nagyvérköri pangás\n3. kisvérköri pangás\n4. köhögés\n5. boka-, lábszár ödéma; hasvízkór\n6. nehézlégzés\nBalszívfél-elégtelenség: ...\nJobbszívfél-elégtelenség: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6....\n1., 2., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Írja le a szénanátha lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az orrnyálkahártya évszakhoz kötődő, allergiás eredetű gyulladása (pollenérzékenység)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\nHol helyezkednek el a hangszalagok?\nMi a gégefedő feladata?\nHol található a belégző és kilégző központ?",
+      "question_type": "fill_in",
+      "correct_answer": "...három...\n...a pajzsporc és a kannaporcok között...\n...nyeléskor zárja a gégebemenetet...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a gégevizenyő lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "maró gázok, gőzök belégzése\nrovarcsípés\na gége sérülése, gyulladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindig ingerelhetõek",
+      "options": [
+        "mindig ingerelhetõek",
+        "csak ritmikusan ingerelhetõek",
+        "soha nem ingerelhetõek",
+        "csak egy irányban ingerelhetõek"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n1. tripszin\n2. amiláz\n3. kimozin\n4. nukleáz\n5. pepszin\ngyomornedv enzimjei: ....,....\nhasnyál enzimjei: ....,.,....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3.,5.\n1.,2.,4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írja le a szülés várható időpontjának kiszámítási módját!",
+      "question_type": "open",
+      "correct_answer": "Az utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a nyál szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- szájnyálkahártya nedvesítése\n- szájüreg öntisztulásának biztosítása\n- a falat kialakításának segítése\n- a nyelés megkönnyítése\n- baktériumok elszaporodásának megakadályozása (baktericid hatás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmakat!\nNephron: ...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya/a szervezet belső környezetének állandósága...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe torkollik a vena cava superior?",
+      "question_type": "multiple_choice",
+      "correct_answer": "jobb pitvar",
+      "options": [
+        "jobb kamra",
+        "bal kamra",
+        "jobb pitvar",
+        "bal pitvar"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a női és a férfi húgycsövet a megadott szempontok alapján!\nTöltse ki a táblázatot!\n| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza |  |  |\n| lefutása |  |  |\n| külvilágba nyílás helye |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza | 3-4 cm | 25 cm |\n| lefutása | egyenes | két görbülete van |\n| külvilágba nyílás helye | csikló és a hüvely között | a makk csúcsán |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál a húgycső felől\nfelszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-, és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\nhere: ...\nherezacskó: ...\nhímvessző: ...\ndülmirigy: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "testis\nscrotum\npenis\nprostata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse a golyvát a megadott szempontok szerint!\nLényege:\n...\nLehetséges tünetei: Írjon hármat!\n-\n-\n-\n-\nGyógyítása:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a pajzsmirigy megnagyobbodásával járó kórkép...\na pajzsmirigy látható megnagyobbodása\nfulladásérzés\nnyelési nehézség\nrekedtség\nfokozott jódbevitel\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukorszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Nevezze meg az idegrendszer két fő funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "- szomatikus, akarattól függő, cerebrospinalis idegrendszer\n- autonóm, akarattól független, vegetativ idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nFajtái: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...A kültakaró folytonosságának megszakadása, illetve hiánya....\nvágott seb\nszúrt seb\nharapott seb\nzúzott seb\nlőtt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a koponyaűri nyomásfokozódás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "agyödéma\ngyulladás\na liquor keringési zavara\ndaganat\nvérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a betegségek sorszáma\nmellé a megfelelő betűjelet!\n1. csalánkiütés\n2. ekcéma\n3. gennyes bőrgyulladás\n4. systemas lupus\nerythematosus (SLE)\n5. szemölcs\nA. pillangó alakú bőrpír az arcon, testszerte\npénzérme alakú, foltos kiütések\nB. kisebb-nagyobb kemény bőrkinövés a\ntest különböző részein\nC. a bőrből enyhén kiemelkedő halvány,\ncsoportosan megjelenő kiütések\nD. viszkető, pici hólyagok, nedvedzés,\nmajd hámlás\nE. fekély, gennyképződés, bűzös\nváladékozás",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C...., 2.-...D...., 3.-...E...., 4.-...A..., 5.-B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Nevezze meg a nagyagykéreg lebenyeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\nlátótér\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_I_eumi_191113_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  }
+]

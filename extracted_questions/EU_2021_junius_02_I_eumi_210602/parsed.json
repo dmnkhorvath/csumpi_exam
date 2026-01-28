@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a szövetek típusaihoz a megadott jellemzőket/feladatokat! Írja a\nsorszámokat a megfelelő betűjelhez!\n\nA. kötő- és támasztószövet\nB. izomszövet\nC. hámszövet\nD. idegszövet\n\n1. összehúzódásra képes\n2. a szervezet információs rendszerét építi fel\n3. a test felszínét borítja, a testüregeket béleli\n4. kitölti a szervek közti tereket, összeköti a szerveket, szöveteket, a test vázát\nalkotja",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...1...., C.-...3...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Soroljon fel az élettelen kórokok közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- mechanikai hatások\n- elektromos áram\n- sugárzó energia\n- hőártalom\n- légnyomás változása\n- meteorológiai tényezők\n- kémiai ártalmak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Ismertesse a Bechterew-kór lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ízületi gyulladások különleges formája. A gerincet és a keresztcsontot alkotó ízületeket érintő, lassan kialakuló betegség, mely a csigolyák összecsontosodásával jár. Előfordulása a férfiaknál gyakoribb, mint a nőknél.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Sorolja fel az alsó végtag csontjait magyarul!\nlábszár csontjai:\n\na láb csontjai:",
+      "question_type": "fill_in",
+      "correct_answer": "- sípcsont\n- szárkapocscsont\n- lábtőcsontok\n- lábközépcsontok\n- ujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Határozza meg az antigén (agglutinogén) fogalmát és típusait!\nFogalma:\nTípusai:",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található fehérje természetű anyagok.\n- A-antigén\n- B-antigén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá a szívbillentyűhibákra vonatkozó helyes megállapításokat!\n- a szívbillentyűhibák latin elnevezése: vitium cordis\na szívbillentyűhibák latin elnevezése: endocarditis\n- minden szívhiba veleszületett, serdülőkorra általában kinövik a gyerekek\na szívbillentyűhibák lehetnek veleszületettek és szerzettek is\na szívbillentyűk betegségeinek két nagy csoportja az elégtelenség és a\nszájadék-szűkület\n- a szívbillentyűhibákat gyakran kíséri szívburokgyulladás, páncélszív\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vitium cordis\na szívbillentyűhibák lehetnek veleszületettek és szerzettek is\na szívbillentyűk betegségeinek két nagy csoportja az elégtelenség és a\nszájadék-szűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel az érelmeszesedés rizikótényezői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- dohányzás\n- helytelen táplálkozás\n- magas koleszterinszint a vérben\n- mozgásszegény életmód\n- cukorbetegség\n- hajszolt életmód",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a légzőszervi betegségeket leírásukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. mellhártyagyulladás\nA. rohamszerűen jelentkező légszomjjal járó\nlégúti betegség\n2. COPD\nB. a tüdőn belüli légutak tartós beszűkülése\n3. hörghurut\nC. a tüdőben savós folyadék foglalja el a levegő\nhelyét\n4. tüdővizenyő\nD. a hörgők nyálkahártyájának gyulladásos\nbetegsége\n5. tüdőasztma\nE. folyadék szaporodik fel a mellhártya lemezei\nközött",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-...B...., 3.-...D...., 4.-...C...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Jellemezze a légzőrendszer védekező reflexeit!\nköhögés:\n- zárt hangrés melletti erős kilégzés\n- a levegőáramlás magával ragadja az alsó légutakat izgató anyagot\ntüsszentés:\n- az orr nyálkahártyáját izgató anyag váltja ki\n- mély belégzést követő robbanásszerű kilégzés",
+      "question_type": "open",
+      "correct_answer": "zárt hangrés melletti erős kilégzés\na levegőáramlás magával ragadja az alsó légutakat izgató anyagot\naz orr nyálkahártyáját izgató anyag váltja ki\nmély belégzést követő robbanásszerű kilégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a diabetes mellitus típusai szerint!\nÍrja a sorszámokat a megfelelő helyre!\n1. gyakoribb 40 éves kor felett\n2. gyakoribb gyermekeknél\n3. hátterében autoimmun folyamat feltételezhető\n4. gyógyszeres kezeléssel, életmódváltással is egyensúlyban tartható\n5. kizárólag inzulinterápiával tartható egyensúlyban\n\n1-es típusú cukorbetegség: ...., ...., .....\n2-es típusú cukorbetegség: ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\n- nyelv alatti mirigy: ...\n- máj: ...\n- epehólyag: ...\n- hasnyálmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "glandula sublingualis\nhepar\ncholecysta\npancreas",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse nephrosis szindróma jellemző tüneteit, gyógyításának\nlehetőségeit! Írjon kettőt-kettőt!\n\nJellemző tünetei:\n\nKezelésének, gyógyításának lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú proteinuria\n- hypalbuminaemia\n- testszerte nagyfokú ödéma\n- alapbetegség kezelése\n- gyógyszeres kezelés\n- sószegény, fehérjedús diéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Egészítse ki a menstruációs ciklussal kapcsolatos táblázatot!\n\n| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I.  | felszíne hámosodik |  |\n| II.  |  |  |\n| III.  | mirigyei váladékot termelnek, szerkezete fellazul, képes a megtermékenyített petesejt befogadására |  |\n| IV. menstruáció |  | a progeszteron hirtelen csökkenése |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I. regeneráció |  | ösztrogén, FSH (hipofízis) |\n| II. proliferáció | megvastagodik (tüszőrepedés) | ösztrogén, FSH (hipofizis) |\n| III. szekréció |  | progeszteron, LH (hipofizis) |\n| IV. menstruáció | zsugorodik, majd lelökődik |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a gonorrhoeát a megadott szempontok szerint!\nA betegség kórokozója:\nA betegség tünetei:\n- férfiaknál\n- nőknél\nLehetséges szövődményei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Baktérium (gonococcus)\ngennyes húgycsőfolyás\ngennyes-nyákos folyás\nheregyulladás\nprosztatagyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. kalcitonin\n2. glükagon\n3. tiroxin\n4. progeszteron\n5. inzulin\n\npetefészek: ......\npajzsmirigy: ......\nhasnyálmirigy: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4\n1., 3.\n2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertessen az adrenalin és a noradrenalin hatásai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a szívösszehúzódások számát (emelik a pulzusszámot)\n- fokozzák a szívműködés erejét\n- emelik a légzésszámot\n- szűkítik a perifériás ereket, így emelik a vérnyomást\n- lassítják a bélműködést\n- mobilizálják a tárolt glikogént\n- emelik a vércukorszintet\n- tágítják a pupillát",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Sorolja fel az idegsejteket nyúlványaik alapján!",
+      "question_type": "open",
+      "correct_answer": "- egynyúlványú (unipoláris)\n- kétnyúlványú (bipoláris)\n- álegynyúlványú (pszeudounipoláris)\n- soknyúlványú (multipoláris)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a koponyaűri nyomásfokozódás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- agyödéma\n- gyulladás\n- a liquor keringési zavara\n- daganat\n- vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "- könnyet termelő mirigyek\n- könnyelvezető-rendszer\n- folyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a heveny középfülgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hirtelen kialakuló, szúró, lüktető fülfájás\n- fülzúgás\n- láz\n- fejfájás\n- rossz közérzet\n- savós, gennyes váladék ürülése a fülből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Írja le a laikus újraélesztés megszakításának három feltételét!",
+      "question_type": "open",
+      "correct_answer": "- szaksegítség megérkezése, akik átveszik az újraélesztést\n- a beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése visszatér\n- a segítségnyújtó(k) kimerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- aluszékonyság: ...\n- agyzúzódás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "somnolentia\ncontusio cerebri",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_02_I_eumi_210602_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Nevezze meg a vérzés fajtáit a vérzés jellegének leírása alapján! Egészítse\nki a táblázatot!\n\n| A vérzés jellege | A vérzés fajtája |\n|---------|---------|\n| bőven folyó, sötétvörös |  |\n| pulzáló, lüktető sugárban folyó, élénkpiros |  |\n| gyöngyöző, szivárgó, sötétvörös |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| A vérzés jellege | A vérzés fajtája |\n|---------|---------|\n|  | vénás vérzés |\n|  | artériás vérzés |\n|  | hajszáleres vérzés |",
+      "options": []
+    }
+  }
+]

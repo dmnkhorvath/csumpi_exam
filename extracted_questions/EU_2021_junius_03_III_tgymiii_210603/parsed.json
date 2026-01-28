@@ -1,0 +1,347 @@
+[
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi mondatot!\nA sav-bázis szabályozás kulcstényezője a ..., mely egy pozitív töltésű ... és egy negatív töltésű ... áll.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "hidrogénatom, protonból, elektronból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel az üzleti terv elkészítésének céljai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "üzleti stratégia megfogalmazása\nerősségek, gyengeségek, lehetőségek, veszélyek feltárása (SWOT-analízis)\na hitelképesség bizonyítása a bankok felé\nrövid-, és hosszú távú fenntarthatóság felmérése\na pénzügyi tervezés alapjának biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Ismertesse a magatartás-tudomány fő célkitűzését!",
+      "question_type": "open",
+      "correct_answer": "Az emberi viselkedés törvényszerűségének és fejlesztési lehetőségeinek kutatása, különös tekintettel az ember és környezete közötti kölcsönhatásokra.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Rendezze az Öt Fázis szerint a felsorolt évszakokat! Írja a sorszámokat a\nmegfelelő helyre!\n1. tavasz\n2. nyárutó\n3. ősz\n4. nyár\n5. tél\nFA: ......\nTŰZ: ......\nFÖLD: ......\nFÉM: ......\nVÍZ: .......",
+      "question_type": "fill_in",
+      "correct_answer": "1\n4\n2\n3\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Sorolja fel az ájurvédikus gyógyítás öt leghatékonyabb méregtelenítési\neljárását (Pancsakarma-eljárások)!",
+      "question_type": "open",
+      "correct_answer": "terapikus hányás (vahan)\nhashajtás (virecsana)\norron keresztüli olajos kezelés (nasja)\nbeöntés-terápia (basti)\nérvágás (rakta móksana)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Rendezze a tibeti orvoslás szerint a nyálka fajtáihoz jellemzőiket! Írja a\nsorszámokat a megfelelő helyre!\n\n1. az érzéki beteljesülések fő lebonyolítója, teszi ezt koponyabeli székhelyéről\n2. az ízületi nedvvel azonosítható, mely az ízületek között található,\nkenegetvén, rugalmassá téve azokat\n3. helye a gyomor legfelső része, melynek elsődleges feladata az elfogyasztott\nélelem felőrlése\n4. az ízekkel foglalkozik, melynek legjellemzőbb tartózkodási helye a nyelv\n5. a mellkasban található, fő funkciója a másik négy nyálkatípus támogatása,\nvalamint a testben a nedvek áramoltatásának fenntartása\n\nfenntartó nyálka: ......\nlebontó nyálka: ......\nízlelő nyálka: ......\ngyönyört adó nyálka: ......\nösszekötő nyálka: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n3\n4\n1\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg a szekunder prevenció célját!",
+      "question_type": "open",
+      "correct_answer": "A betegségek korai, lehetőleg kezdeti szakaszban való felismerése elsősorban\nszűrővizsgálatokkal annak érdekében, hogy a hatásos kezelés mihamarabb\nmegkezdődhessen.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel a bélrendszerben lévő normálflóra jótékony hatásai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "esszenciális aminosavakat termel\nvitaminokat termel (B6, B12, K, Biotin)\nféken tartja a káros baktériumok szaporodását\nféken tartja a gombák szaporodását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Ismertesse a Do-In gyakorlatrendszert a megadott szempontok szerint!\nElőnye:\nFő hatásai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "segédeszközök, vagy más személy nélkül önállóan is végezhető\nfrissítés\nregenerálás\nenergetizálás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Írjon le a gyógynövényből készült olajok alkalmazásának indikációi közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fájdalomcsillapítás\nhámosodás serkentése\nnyálkahártya elváltozások kezelése\nfekélyek kezelése\nkozmetikai célok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg energetikai szempontból a makrobiotikus táplálékok három\nfő csoportját!",
+      "question_type": "open",
+      "correct_answer": "jin energiájú táplálékok\njang energiájú táplálékok\nharmonikus (kiegyensúlyozott) energiájú táplálékok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel az infraszauna kedvező élettani hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "az erek kitágulnak\nfokozódik az anyagcsere\nnő a szervezet ellenálló képessége\nlazulnak az izmok\nfokozódik a nyirokkeringés\nbőrpórus tisztító\nsejtregeneráló\nméregtelenítő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q014_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 1,
+      "question_text": "Húzza alá a mobilizációra jellemző sajátosságot!\n- a mozgásvezetés túllépi a passzív határt\n- többszöri, kis energiájú mozgatás, kis kockázattal\n- egyetlen, gyors, rövid amplitúdójú ízületi mozgatás\n(Csak az 1 helyes válasz aláhúzása esetén adható pont! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "többszöri, kis energiájú mozgatás, kis kockázattal",
+      "options": [
+        "a mozgásvezetés túllépi a passzív határt",
+        "többszöri, kis energiájú mozgatás, kis kockázattal",
+        "egyetlen, gyors, rövid amplitúdójú ízületi mozgatás"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Ismertesse a homeopátiára használt holisztikus gyógymód kifejezés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gyógyszer kiválasztásakor az egész embert testi-lelki egységként veszi figyelembe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q016_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 8,
+      "question_text": "Egészítse ki az antropozófus gyógyászat fő élettani rendszereire vonatkozó\ntáblázatot!\n\n| Elem | Föld | Víz | Légnemű | Hő és fény |\n|---|---|---|---|---|\n| Szervezet |  |  |  |  |\n| Lénytag |  |  |  |  |\n| Fő szerve |  |  |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Elem | Föld | Víz | Légnemű | Hő és fény |\n|---|---|---|---|---|\n| Szervezet | szilárd | folyékony | levegő | hő |\n| Lénytag | fizikai test | étertest | asztráltest | én-szervezet |\n| Fő szerve | tüdő | máj | vese | szív |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Írja le az oxidatív stressz fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A zsírok, fehérjék, nukleinsavak oxidációja nyomán létrejövő egyensúlyvesztés a szabadgyök-képződés és az antioxidáns státusz között, ami molekuláris szinten sejtkárosodáshoz vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt esetet, amikor kineziológiát alkalmaz!",
+      "question_type": "open",
+      "correct_answer": "alacsony önértékelés\nallergia, asztma\nalvásproblémák\ndepresszió\nemésztőrendszeri problémák, fekélybetegségek\nenergiahiányos állapotok kezelése, állandó fáradtság\nevészavar\nérzelmi traumák feldolgozása: válás, haláleset, hirtelen változások,\nmunkahelyváltás, elbocsátás\nfájdalomcsökkentés\nfeszültségből adódó magas vérnyomás\nfélelmek kezelése\nkapcsolati problémák\nmeddőség, impotencia, menstruációs problémák\nmozgásszervi betegségek\nstresszcsökkentés\nszorongás\ntanulási problémák\ntartásjavítás\nviselkedészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a fogászati implantátumok beültetésének lehetséges negatív\nkövetkezményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gyulladásos folyamatok kialakulása\nfájdalom szindróma kialakulása\ndegenerativ elváltozások elindítása\nidegen testként gócot jelentenek a szervezetben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Ismertesse Dr. Franz Xaver Mayr kórfolyamatokra vonatkozó feltevését!",
+      "question_type": "open",
+      "correct_answer": "Minden kórfolyamat a bélből indul ki, és ha változtatni akarunk ezen, akkor\nkímélő kúrával kell gyógyítani az emésztőrendszert.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt lehetséges szivárványhártya-elváltozást!",
+      "question_type": "open",
+      "correct_answer": "sugárnyalábok eltolódása\na hártya megszakadása\na hártya szétnyílása\na hártya befelhősödése\nvilágosabb, vagy sötét foltok\npigmentálódások\nelszíneződések\nrések\nkráterek (crypták)\nbemélyedések (lacunák)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a szájárammérő vizsgálat lényegét!",
+      "question_type": "open",
+      "correct_answer": "A szájárammérő a szájban, a fogakban levő különböző fémek közötti galvánáramhatást vizsgálja.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Írja le azokat a Head-féle reflexzónán tapasztalható eltéréseket, amelyekből arra következtet, hogy a zónához tartozó belső szerv megbetegedett!",
+      "question_type": "open",
+      "correct_answer": "fájdalom, nyomásérzékenység\nturgorváltozás (Kibler-redő)\na zónákon tapasztalható bőrhőmérséklet eltérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Ismertesse Ohashi tanai szerint az alábbi testtájakról leolvasható\njegyeket!\nOrrnyereg: ...\nOrrhegy: ...\nOrrlyukak: ...\nSzáj: ...\nOrrgyök-szemöldök: ...",
+      "question_type": "fill_in",
+      "correct_answer": "lefutása tudósít a gerinc állapotáról...\na szív állapotát jelzi...\na tüdőállapot indikátorai...\nszíne, vastagsága, alakja elsősorban az emésztőrendszer (gyomor,\nvastagbél, vékonybél) állapotáról ad információkat...\n jelzi a máj állapotát...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q025_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg a „Pearl-index\" lényegét!",
+      "question_type": "open",
+      "correct_answer": "A különböző fogamzásgátló módszerek hatékonyságát mérjük vele.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Sorolja fel a köröm kóros elváltozásainak okait! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\násványi anyagok hiánya\nvitaminhiány\ngombás fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négy lehetséges módszert, kiegészítő kezelést, amely elhízott\npáciens kezelésében alkalmazható!",
+      "question_type": "open",
+      "correct_answer": "életmódváltás\ntáplálkozás átalakítás\nakupunktúra\npszichoterápia\nortomolekuláris medicina (L-karnitin, króm-pikolinát)\nfitoterápia (étvágycsökkentő, anyagcsere-aktiváló, tisztító hatású\ngyógyteák: apróbojtorján, kecskerutafű, sédkenderfű, gyermekláncfű,\nkutyabengekéreg)\ncolon-hidroterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_III_tgymiii_210603_q028_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 6,
+      "question_text": "Írja le a szemfenék-megbetegedések esetén kiegészítő módszerként\nalkalmazott komplementer gyógymódokat!",
+      "question_type": "open",
+      "correct_answer": "Bates-Koplakov-Schneider-féle szemtorna\nakupresszúrás pontok ingerterápiája szemész-szemtréner orvos tanácsára\nfülakupunktúrás addiktológiai módszer\ngyógyhatású készítmények kúraszerű alkalmazása\nglaukóma esetén vesetisztító diéta\nszemfenék-meszesedés esetén májtisztító diéta",
+      "options": []
+    }
+  }
+]

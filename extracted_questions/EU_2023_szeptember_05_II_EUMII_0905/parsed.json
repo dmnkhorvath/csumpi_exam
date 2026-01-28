@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egy adott funkció ellátására specializálódott azonos alakú és azonos működésű\nsejtek és a köztük lévő sejt közötti állomány alkotják a szövetet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg a betegségek szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- lappangási szakasz\n- bevezető szakasz\n- kifejlődési szakasz\n- kimeneteli szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa az izmokat jellemzőjükkel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. hasizom\n2. láb izmai\n3. deltaizom\n4. felkarizom\n5. farizom\n\nA. feszítőizma a musculus triceps\nB. az állásban és a járásban van szerepe\nC. főleg széles, lapos izmokból áll, a középvonalban képezik a line albát\nD. rövid, kicsi izmokból áll\nE. a váll jellegzetes alakjának kialakításában vesz részt",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...E..., 4.-Α...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse az osteoporosist a megadott szempontok alapján!\nLényege:\n...\nElőfordulásának jellemzője:\n...\nTünetei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a csont állományának csökkenése...\ngyakori betegség, előfordulása a nőknél gyakoribb, főleg a menopauzát követő\nidőszakban....\na mellkasi gerincoszlop fokozódó görbülete\nfájdalom\ncsontok törékenysége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- A monocyták a legnagyobb fehérvérsejtek és fagocitáló képességgel\nrendelkeznek.\n- A granulocyták plazmája nem tartalmaz szemcséket.\n- A vér vegyhatása élettanilag alig változik, a pH-érték 7,04-7,25 között mozog.\n- A vérlemezkék a véralvadásban vesznek részt, élettartamuk kb. 7 nap.\n- Az „AB” vércsoportú egyén széruma nem tartalmaz agglutinogént.\n- A vörös csontvelő a vérképzés elsődleges helye.\n- A lymphocyták a vörös csontvelőben képződnek.\n- A vörösvérsejtek felszínén találhatóak a fehérjetermészetű anyagok, az\nantigének.\n- A nyirok a kisvérkör kapillárishálózatának területén képződő, gyengén savas\nvegyhatású folyadék.\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A monocyták a legnagyobb fehérvérsejtek és fagocitáló képességgel\nrendelkeznek.\nAz „AB” vércsoportú egyén széruma nem tartalmaz agglutinogént.\nA vörös csontvelő a vérképzés elsődleges helye.\nA vörösvérsejtek felszínén találhatóak a fehérjetermészetű anyagok, az\nantigének.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Egészítse ki a leukémiák sejttípus szerinti felosztására vonatkozó\ntáblázatot!\n\n| Sejttípus szerinti fajtái | Lényege* | A betegség kiindulási helye/érintettsége |\n|---|---|---|\n|  |  |  |\n|  |  |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Sejttípus szerinti fajtái | Lényege* | A betegség kiindulási helye/érintettsége |\n|---|---|---|\n| Lymphoid leukaemia | lymphocyták szaporodnak fel a csontvelőben és a vérben | a nyirokszervek |\n| Myeloid leukaemia | granulocyták szaporodnak fel a csontvelőben és a vérben | a csontvelő |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomó",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a\nmegadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. szapora, nehezített légzés\n2. barnásvörös köpet ürítése\n3. üvegszerű, tapadós köpet ürítése\n4. hosszan elnyúló, sípoló kilégzés\n5. rövid, kapkodó belégzés\n6. magas, nehezen csillapítható láz\n\ntüdőgyulladás tünetei: ...\ntüdőasztma tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 6....\n3., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer alsó szakaszának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- vakbél\n- felszálló vastagbél\n- haránt vastagbél\n- leszálló vastagbél\n- szigmabél\n- végbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Soroljon fel a cukorbetegeknél előforduló alacsony vércukorszint\nkialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a szükségesnél nagyobb mennyiségű inzulin adagolása\n- az inzulin beadását követően elmarad a kellő mennyiségű szénhidrát fogyasztása\n- intenzív fizikai munkavégzés\n- fokozott pszichés megterhelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Állítsa megfelelő sorrendbe a vesecsatorna-rendszer szakaszait a vizelet\nhaladásának megfelelően! Írja a sorszámokat a pontozott vonalakra!\n... Henle-kacs, leszálló szár\n... gyűjtőcsatorna\n... elsődleges kanyarulatos csatorna\n... Henle-kacs, felszálló szár\n... másodlagos kanyarulatos csatorna\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n5\n1\n3\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Írja le a veseelégtelenség lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A vesék nem képesek kellő mennyiségű és koncentrációjú vizeletet termelni, a\nkiválasztandó anyagok visszamaradnak a vérben és mérgezik a szervezetet....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szerveket a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Írja le a méhnyakrák lényegét és tüneteit/jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "leggyakoribb női daganatos megbetegedés, rosszindulatú daganatos elfajulás a méhnyak sejtjeiben...\neleinte semmilyen panaszt sem okoz\nfolyás\nvéres váladékozás\nközösülés után jelentkező vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertessen a hypothalamus jellemzői/feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- belső elválasztású mirigy\n- a közti agynak a thalamus alatti részén található, a III. agykamra falát képezi\n- a szervezet belső környezetének viszonylagos állandóságát szabályozza\n- szerepet játszik az ember érzelmi (emocionális) magatartásában\n- hormonjai: az antidiuretikus hormon és az oxitocin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a mellékpajzsmirigy túlműködésének lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "a vér Ca-szintjének emelkedése\nvesekőképződés\nfelritkult, törékeny csontok\ngyomorfekély kialakulása\nhasnyálmirigy-gyulladás\nszívritmuszavarok\nmagas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\nkisagyi lebeny\nnyakszirti lebeny\nalsó lebeny\nfali lebeny\nhomloklebeny\nekecsonti lebeny\nhalántéki lebeny\nrostacsonti lebeny",
+      "question_type": "fill_in",
+      "correct_answer": "nyakszirti lebeny\nfali lebeny\nhomloklebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Írja le a bőr rétegeit latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "epidermis\ncorium\nsubcutis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a myasthenia gravis lehetséges tünetei közül négyet!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- csüngő szemhéj\n- nyelészavarok\n- gyengült fejmozgások\n- a végtagok és a törzsizomzat gyengesége\n- a légzőizmok esetleges bénulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a szürke hályog kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- genetikai betegségek\n- ionizáló sugárzás\n- cukorbetegség\n- egyes gyógyszerek szedése (szteroidok)\n- szemsérülés\n- hormon-, és anyagcserezavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. vágott seb\n1. horgas, kampós eszköz\nB. csonkolt\n2. hegyes, éles eszköz\nC. szúrt\n3. éles tárgy, tompa erőhatás\nD. szakított\n4. súrlódás, esés, csúszás\nE. horzsolt\n5. gépek, sínen haladó járművek",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., B.-...5..., C.-...2...., D.-...1...., Ε.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_II_EUMII_0905_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- halálfélelem\n- szorító, erős mellkasi fájdalom\n- a fájdalom kisugárzik a bal vállba, karba\n- gyomortáji fájdalom\n- nehézlégzés\n- szédülés, gyengeség\n- szürke bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

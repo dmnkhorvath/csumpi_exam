@@ -1,0 +1,194 @@
+[
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q001_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 9,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a táblázatot a megadott szempontok alapján!\n\n| Izomszövet típusa | Hol található? | Az izomműködés jellege Írjon két-két jellemzőt! |\n|---|---|---|\n| simaizom |  |  |\n| harántcsíkolt izom |  |  |\n| szívizom |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Izomszövet típusa | Hol található? | Az izomműködés jellege Írjon két-két jellemzőt! |\n|---|---|---|\n|  | a zsigeri szervek és erek falában | - lassan húzódik össze\n- lassan fárad ki\n- kisebb erőkifejtésre képes, mint a vázizmok |\n|  | vázizmokban | - összehúzódása és elernyedése gyors\n- hamarabb kifárad\n- általában jelentősebb erőkifejtésre képes |\n|  | csak a szívben | - rövid összehúzódás\n- némileg hosszabb elernyedés jellemzi\n- ritmikus működés |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\ncoronaria keringési zavarok\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q004_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 10,
+      "question_text": "Ismertesse a légmellet a megadott szempontok szerint!\nLényege: a\nOka: Írjon kettőt!\n- mechanikus hatás, trauma\n- orvosi beavatkozás (iatrogén ártalom)\n- spontán\n- valamely más betegség következtében\nTünetei: Írjon ötöt!\n- késszúrás-szerű mellkasi fájdalom\n- kínzó fulladás, nehézlégzés\n- szapora, felületes légzés\n- sápadtság\n- cianózis\n- verítékezés\n- szapora szívműködés",
+      "question_type": "open",
+      "correct_answer": "mellhártya lemezei közé kerülő levegő miatt a mellüregben megváltozott nyomás hatására a tüdő összeesik, a légzőfelület csökken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q005_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 10,
+      "question_text": "Hasonlítsa össze a daganatok formáit!\nTöltse ki a táblázatot a megadott szempontok alapján!\n| Szempontok | Jóindulatú daganatok | Rosszindulatú daganatok |\n|---|---|---|\n| növekedés |  |  |\n| környezethez való viszony |  |  |\n| sejtjei és szerkezete |  |  |\n| áttétképzés |  |  |\n| kiújulási hajlam |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | Jóindulatú daganatok | Rosszindulatú daganatok |\n|---|---|---|\n| növekedés | lassú | gyors |\n| környezethez való viszony | élesen elhatárolódik, széttolja a környező szöveteket | átszövi a környező szöveteket, összenő velük |\n| sejtjei és szerkezete | hasonlít a kiinduló szövethez | eltér az ép szövettől |\n| áttétképzés | nem okoz áttétet | áttétet okoz |\n| kiújulási hajlam | nem újul ki | kiújul |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "patkóbél - duodenum\néhbél - jejunum\ncsípőbél - ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a fogszuvasodás lehetséges okait!\n- fluorhiányos ivóvíz\n- fehérjeszegény táplálkozás\n- szájüregi baktériumok\n- szájhigiénés hiányosság\n- nyálmirigy-gyulladás\n- a mészanyagcsere zavara\n- az immunrendszer elégtelen működése\n- alkoholfogyasztás",
+      "question_type": "multiple_choice",
+      "correct_answer": "fluorhiányos ivóvíz\nszájüregi baktériumok\nszájhigiénés hiányosság\na mészanyagcsere zavara",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q008_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 8,
+      "question_text": "Ismertesse a gennyes vesemedence-gyulladás\n(pyelonephritis acuta) okait, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Okai: Írjon hármat!\n- bakteriális fertőzés\n- aszcendáló fertőzés\n- hematogén fertőzés\n- nyirokutakon keresztül történő fertőzés\n\nTünetei: Írjon ötöt!\n- magas láz, hidegrázás\n- kínzó, gyakori vizelési inger\n- csípő, fájdalmas vizelés\n- hányinger, hányás,\n- vesetáji fájdalom\n- rossz közérzet\n- gennyes, zavaros vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Ismertesse a csecsemőmirigy tulajdonságait a megadott szempontok szerint!\n\nElhelyezkedése:\n...\n\nHormonja:\n...\n\nFeladatai:\n- \n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "elülső gátorüregben\ntimozin\nserkenti a növekedést\nserkenti a szexuális fejlődést\nantitestképzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. érhártya\nB. kötőhártya\nC. sárgafolt\nD. sugártest\nE. szemlencse\n1. csarnokvíz termelése\n2. az éleslátás helye\n3. a szem fénytörő közege\n4. az ideghártyát táplálja\n5. a szem védőkészüléke",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., Β.-...5...., C.-...2...., D.-...1...., Ε.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel az agyvérzés (apoplexia cerebri) tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a sinus tachycardia (szapora szívverés) lehetséges okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "lázas állapot\nszívizomgyulladás\nfokozott pajzsmirigyműködés\nszívelégtelenség\nvérszegénység\negyes gyógyszerek szedése pl. Atropin\nélvezeti szerek fogyasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tényezőket a megadott\nszempontok szerint! Írja a helyes válasz sorszámát a\nmegfelelő helyre!\n\n1. fokozott folyadékbevitel\n2. csökkent folyadékbevitel\n3. folyadék- és elektrolitszabályozás zavarai (pl. diabetes insipidus)\n4. a szervezet fokozott vízleadása izzadás, hányás, hasmenés\nkövetkeztében\n5. ödémák kiürülése\n6. diuretikumok adása\n\nOliguria okai:...\n\nPolyuria okai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n1., 3., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_III_eumiii_180607_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  }
+]

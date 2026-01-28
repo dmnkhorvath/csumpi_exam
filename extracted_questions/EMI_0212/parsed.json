@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EMI_0212_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel a sejt alkotórészeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "sejthártya\ncitoplazma\nsejtorganellumok\nsejtmag",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a sejtek felépítésére vonatkozó helyes megállapításokat!\n- a mitokondriumokat más néven nucleusnak is nevezzük\n- a citoplazmában található a dezoxiribonukleinsav (DNS)\n- a sejtmag tartalmazza a dezoxiribonukleinsavat (DNS)\n- a sejtmag citoplazmát és nukleinsavakat tartalmaz\n- az emberi sejtek valódi sejtmaggal rendelkező eukaryoták\n- a riboszómák feladata a fehérjeszintézis\n- a sejthártya szemipermeábilis hártya, a sejtet választja el a körülötte lévő tértől\n- a Golgi-apparátus a sejthártyán kívül helyezkedik el\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a sejtmag tartalmazza a dezoxiribonukleinsavat (DNS)\naz emberi sejtek valódi sejtmaggal rendelkező eukaryoták\na riboszómák feladata a fehérjeszintézis\na sejthártya szemipermeábilis hártya, a sejtet választja el a körülötte lévő tértől",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Írja le a latin kifejezések után a magyar megfelelőjét!\npercussio:...\nauscultatio: ...",
+      "question_type": "fill_in",
+      "correct_answer": "kopogtatás\nhallgatózás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Ismertesse a csonttuberkulózist a megadott szempontok szerint!\nOka:\n...\nTerjedése:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "tbc-baktérium\ncseppfertőzéssel terjed",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a megadott izmokat és izomcsoportokat! Írja a sorszámok mellé\na helyes válsz betűjelét!\n\n1. musculus biceps\nA. csípőizmok\n2. musculus gluteus maximus\nB. felkarizom\n3. musculus deltoideus\nC. vállövizom\n4. csuklyásizom\nD. hátizmok",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...Α...., 3.-...C...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írjon le a petyhüdt bénulás tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a mozgásfejlődés visszamaradása\n- a szellemi fejlődés visszamaradása\n- mozgászavar\n- beilleszkedési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá a végartériákra vonatkozó helyes állításokat!\n- Ha az artéria elzáródik, az általa ellátott terület elhal.\n- A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő érösszeköttetés.\n- Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n- Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Ha az artéria elzáródik, az általa ellátott terület elhal.\nAz egymással szomszédos területet ellátó artériák között nincs összeköttetés.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül hármat!",
+      "question_type": "open",
+      "correct_answer": "B₁-vitamin\nB12-vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Ismertesse az ájulást (kollapszust) a megadott szempontok alapján!\nLényege:\nEllátása:",
+      "question_type": "open",
+      "correct_answer": "A perifériás keringés spontán rendeződő zavara, mely a véreloszlás\nelégtelensége miatt alakul ki.\nA beteget lapos hátfekvésbe helyezzük, lábait felemeljük, míg a beteg visszanyeri\naz eszméletét. Célszerű orvosi vizsgálatot javasolni.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja\na sorszámokat a megfelelő helyre!\n1. a mellkasi aortából indul\n2. a szív jobb kamrájából indul\n3. a tüdő szövetét táplálja\n4. a tüdő szövetét nem táplálja\n5. a gázcseréhez szükséges vért szállítja\n6. a gázcsere lebonyolításában nincs feladata\narteria bronchialis rendszer: ...\ntruncus pulmonalis rendszer: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 6....\n2., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a tüdőgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "köpetürítéssel járó köhögés\nnehézlégzés\nláz\nszapora, nehezített légzés\nszúró mellkasi fájdalom\nszapora pulzus\nfejfájás\ngyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. zsírok\n2. szénhidrátok\n3. fehérjék\n4. kötőszöveti rostok\n\nA. kollagenáz, elasztáz\nB. lipáz\nC. tripszin\nD. amiláz\n\n1.-........, 2.-........, 3.-........, 4.-........\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "B, D, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Ismertesse a gyomorfekélyt a megadott szempontok szerint!\nLényege: ...\nJellemzői, tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "Kerek vagy ovális, éles szélű, a gyomornyálkahártya mélyébe vagy\na gyomorfal minden rétegére ráterjedő szövethiány....\n- a betegség szezonális jelleget mutat (tavasszal és ősszel gyakrabban\njelentkezik)\n- a 20-50 év közötti korosztály érintett fokozottabban\n- éles, görcsös gyomortáji fájdalom\n- a fájdalom kisugárzik a hátba\n- gyomorégés (főleg éhgyomorra, étkezés után 1-2 órával)\n- savas hányás, böfögés\n- bizonyos ételek fogyasztása után fokozódnak a panaszok (fehérbor, édesség,\nerősen fűszerezett, zsíros ételek)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elsődleges vizeletből visszaszívódó/kiválasztódó anyagok\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "víz\nNa-ion\nK-ion\nCl-ion\nkarbamid\ncukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse az AIDS-t az alábbi szempontok szerint!\nOka:\n...\nLappangási ideje:\n...\nTerjedésének lehetséges módja: Írjon négyet!",
+      "question_type": "fill_in",
+      "correct_answer": "vírus (HIV)\n3-4 hét\nvér\nondó\nhüvelyváladék\nanyatej\nfertőzött injekciós tű",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel három természetes fogamzásgátló módszert!",
+      "question_type": "open",
+      "correct_answer": "- cikluskontroll\n- naptármódszer\n- hőmérős módszer\n- megszakított közösülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Jellemezze a kalcitonin hormont a megadott szempontok szerint!\n\nTermelődési helye:\n...\n\nHatása:\n...\n\nHatásmechanizmusa:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "pajzsmirigy\na vér kalciumszintjét csökkenti\nsegíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q020_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 1,
+      "question_text": "Nevezze meg a leírt hatásmechanizmus alapján a működéseket irányító\nhormont!\n- a sejtek megnagyobbodnak, megszaporodnak\n- a csontok hosszirányban, vastagságban nőnek\n- lágy szövetek, zsigerek megnagyobbodnak",
+      "question_type": "fill_in",
+      "correct_answer": "növekedési hormon (STH – szomatotrop hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írjon le a tetániás roham lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\n- szapora szívműködés\n- a gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Írjon le a nagyagy felépítésében részt vevő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "szürkeállomány\nfehérállomány\ntörzsdúcok (fehérállomány szürkemagvai)\nféltekék üregrendszerei",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő betegséghez! Írja a betegségek mellé a helyes válasz sorszámát!\n1. aurajelenség\n2. heves fejfájás\n3. magas láz\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. fénykerülés\n6. tónusos generalizált roham\nAgyhártyagyulladás: ....\nEpilepsziás nagy roham: ....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4., 5.\n1., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a herpes vírus általi fertőzés lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "viszkető érzés az érintett területen\nhólyagok megjelenése az érintett területen\nheveny gyulladás az érintett területen\nregionális nyirokcsomó-duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szem fénytörő közegei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- csarnokvíz\n- szemlencse\n- üvegtest\n- szaruhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Írja le a mellkaskompressziók kivitelezésének lépéseit felnőtt újraélesztése\nesetén!",
+      "question_type": "open",
+      "correct_answer": "- Az összekulcsolt kezeket kéztővel a mellkas közepére a szegycsont alsó felére\nhelyezzük.\n- A mellkast legalább 5, de legfeljebb 6 cm mélyre lenyomjuk (átlagos méretű\nfelnőtt esetén).\n- Ebben a helyzetben egy pillanatig megtartjuk, majd engedjük a mellkast\nteljesen felemelkedni (ne támaszkodjunk, ne nehezedjünk a mellkasra).\n- A mellkast 100-120/perces frekvenciával, a lehető legrövidebb megszakítással\nnyomjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0212_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy\ntünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, fájdalom |\n| II. fokú égés | égési hólyag (bulla), heves fájdalom |\n| III. fokú égés | a bőr felső rétege teljesen elpusztul, a bőrfelület piszkosszürkévé válik |\n| IV. fokú égés | elszenesedés, a bőr alatti egyéb szövetek is pusztulnak |",
+      "options": []
+    }
+  }
+]

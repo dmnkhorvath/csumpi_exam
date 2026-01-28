@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 6,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a táblázatot a megadott szempontok alapján!\n\n| Izomszövet típusa | Hol található | Az izomműködés jellege |\n|---|---|---|\n| simaizom |  |  |\n| harántcsíkolt izom |  |  |\n| szívizom |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Izomszövet típusa | Hol található | Az izomműködés jellege |\n|---|---|---|\n| simaizom | a zsigeri szervek és erek falában | lassan húzódik össze, lassan fárad ki és kisebb erőkifejtésre képes, mint a vázizmok |\n| harántcsíkolt izom | vázizmokban | összehúzódása és elernyedése gyors, hamarabb kifárad, általában jelentősebb erőkifejtésre képes |\n| szívizom | csak a szívben | működésére a rövid összehúzódás és az azt követő némileg hosszabb elernyedés jellemző |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a kórlefolyás szakaszainak meghatározásaihoz tartozó helyes választ!\nA kórokozó behatolásától a tünetek megjelenéséig tartó szakasz:\n- lappangási szakasz\n- bevezető szakasz\nA betegségre jellemző speciális tünetek megjelenése, amelyek alapján felállítható a kórisme:\n- kimeneteli szakasz\n- kifejlődés szakasza\nElhúzódó lefolyású betegség (maximum 4-6 hét):\n- heveny / akut\n- félheveny / szubakut\nA betegség folyamán aktív és nyugalmi szakaszok váltakoznak:\n- heveny / akut\n- idült / krónikus\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási szakasz\nbevezető szakasz\nkifejlődés szakasza\nfélheveny / szubakut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyákat magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűk mellé a hozzájuk tartozó számot!\nA. lúdtalp\nB. csonttörés\nC. csontvelőgyulladás\nD. gerincferdülés\nΑ: ......; B: ......; C: ......; D: ......",
+      "question_type": "matching",
+      "correct_answer": "1\n2\n4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Határozza meg az agglutinogén fogalmát és nevezze meg a típusait!\nFogalma:\nTípusai:\n- \n-",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található antigén tulajdonságú anyag.\nA-agglutinogén\nB-agglutinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nKinek a szervezetében termelődhet anti-D ellenanyag?\nMi a nyirok?\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?",
+      "question_type": "open",
+      "correct_answer": "Azoknak az Rh-negatív egyéneknek a szervezetében, akiknek D-antigén\njutott a vérükbe valamilyen okból.\nA nagyvérkör kapillárishálózatának területén képződő folyadék, amely\na vérplazmából származik.\nA bal vénás szögletben a vénákba ömlik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi betegségek lényegét!\nVészes vérszegénység (anaemia perniciosa): a\nfelszívódni a gyomorban termelődő faktor hiánya miatt.\nLeukémia: kóros, éretlen fehérvérsejtek képződnek korlátlan\nmennyiségben a szervezetben, melyek funkciójukat nem tudják ellátni.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "B12-vitamin nem tud\nintrinszik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a tbc megelőzésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\nHonnan erednek a hangszalagok?\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\nMi a gégefedő feladata?\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "...három...\n...a kannaporcok elülső nyúlványairól...\n...az orri szakaszt...\n...nyeléskor zárja a gégebemenetet...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel az emésztőrendszer alsó részének szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "vakbél\nvastagbél (felszálló, haránt, leszálló)\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat a tápanyagokat, amelyek elsősorban energiaszolgáltatók!\n- fehérjék\n- víz\n- szénhidrátok\n- vitaminok\n- zsírok\n- ásványi sók\n(Csak a két /2/ helyes válasz alábúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szénhidrátok\nzsírok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Írja le a fogszuvasodás lényegét és okait!\nLényege:\nOkai:",
+      "question_type": "open",
+      "correct_answer": "A fogzománc és a dentinállomány pusztulása.\nfluorhiányos ivóvíz\nnem megfelelő szájhigiéné\na mészanyagcsere zavara",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?\nMennyi a végleges vizelet fajsúlya?\nTartalmaz-e élettanilag urobilinogént a végleges vizelet?\nTartalmaz-e élettanilag bilirubint a végleges vizelet?\nMely szerv helyezkedik el a vese felső pólusán, a középső zsíros tokba\nágyazva?",
+      "question_type": "fill_in",
+      "correct_answer": "...vesékben...\n...1020-1025...\n...tartalmaz...\n...nem tartalmaz...\n...mellékvese...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Ismertesse a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "- idegi szabályozás - a vese ereinek viselkedésére hat\n- hormonális szabályozás - az ADH és az aldoszteron végzi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Ismertesse a vesekőképződés hajlamosító tényezőit!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "vizeletpangás a húgyutak szűkülete vagy elzáródása miatt\na vizelet fertőződése\nkőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q016_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\n\nKülső nemi szervek:\n-\n-\n\nBelső nemi szervek:\n-\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Ismertesse a HIV-fertőzés megelőzésének lehetőségeit!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- gumi óvszer (kondom) használata\n- tartós párkapcsolat\n- steril tű használata\n- kábítószer-fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHová nyílik a Bartholin-mirigy kivezető csöve?\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "a hüvelybe\na petevezeték\nméhnyálkahártya\npetefészekben, a sárgatest termeli\nmyoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|   | Adrenalin, noradrenalin hatása |\n| ----------- | ----------- |\n| szívműködés |   |\n| légzésszám |   |\n| vérnyomás |   |\n| vércukorszint |   |\n| bélműködés |   |\n| pupillák |   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|   | Adrenalin, noradrenalin hatása |\n| ----------- | ----------- |\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\n...\nMely hormon szabályozza a tej kiürülését az emlőből?\n...\nHol termelődik az ADH?\n...\nHol tárolódik az ADH?\n...\nMely betegség alakul ki az ADH hiányakor?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "prolaktin (luteotrop hormon)\noxytocin\nhypothalamusban\na hipofízis hátulsó lebenyében\ndiabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- halántéki lebeny\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Írja le a koponyaűri nyomásfokozódás következményeit!",
+      "question_type": "open",
+      "correct_answer": "- az agyi térszűkítő folyamatok nyomásfokozódással járnak, mely nyomás\n- az agytörzset beszorítja az öreglyukba (beékelődés)\n- ennek következtében az ott lévő életfontosságú központok vér- és oxigénhiány miatt elpusztulnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó-szerv receptorai:...\nLátószerv receptorai:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_I_EuMI_1015_q026_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 1,
+      "question_text": "Határozza meg mellkaskompressziónál a\nmellkas lenyomási mélységet cm-ben kifejezve!",
+      "question_type": "fill_in",
+      "correct_answer": "4-5 ст",
+      "options": []
+    }
+  }
+]

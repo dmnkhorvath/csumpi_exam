@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q001_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 7,
+      "question_text": "Nevezze meg az emberi test fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- fej\n- nyak\n- törzs\n- mellkas\n- hasüreg\n- medence\n- végtagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa sejtosztódási formákhoz leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. amitózis\n2. mitózis\n3. meiózis\n\nA. felező sejtosztódás, az ivarsejtekre jellemző\nB. direkt sejtosztódás, a magban kezdődik\nC. indirekt sejtosztódás, a sejt vizet vesz fel és megduzzad",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes\n- porcos\n- csontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a sokízületi gyulladást a megadott szempontok szerint!\nA betegség kialakulásában szerepet játszó tényezők: Írjon kettőt!\n\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- immunfolyamatok\n- öröklött hajlam\n- vírusfertőzés\n- gyógyszeres kezelés\n- fizioterápia\n- gyógytorna\n- életmódváltás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Húzza alá a keringés szervrendszerére vonatkozó helyes megállapításokat!\n- a szív a két tüdőfél között, a gátorüreg jobb oldalán helyezkedik el\n- a zsebes billentyűk a nagyartériákban és a fő visszerekben helyezkednek el\n- a bal pitvar fala kb. 15-20 mm vastagságú\n- a nervus vagus hatására a szívműködés gyorsul, a koszorúerek tágulnak\n- a nervus vagus hatására a szívműködés lelassul, a koszorúerek szűkülnek\n- a sinuscsomó a szív elsődleges ingerképző központja\n- a sinuscsomó a bal kamra falában helyezkedik el, percenként 60-80 ingert\nbocsájt ki\n- az A-vércsoportú egyén vörösvértestjeinek felszínén A-antigén, a\nvérszérumában pedig anti-A antitest található\n- a vérplazma enyhén sárgás színű folyadék, ami a vér kb. 56%-át teszi ki\n- a thrombocyták a véralvadás folyamatában nagy szerepet játszanak",
+      "question_type": "multiple_choice",
+      "correct_answer": "a zsebes billentyűk a nagyartériákban és a fő visszerekben helyezkednek el\na nervus vagus hatására a szívműködés lelassul, a koszorúerek szűkülnek\na sinuscsomó a szív elsődleges ingerképző központja\na vérplazma enyhén sárgás színű folyadék, ami a vér kb. 56%-át teszi ki\na thrombocyták a véralvadás folyamatában nagy szerepet játszanak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel az érelmeszesedés (arterioszklerózis) következményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az érfal merevvé válik, ezért könnyen megrepedhet\n- trombózisok alakulhatnak ki\n- az ér lumene szűkül, majd elzáródhat\n- a szervekben vérellátási zavar alakulhat ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a betegségek\nmellé a helyes válasz sorszámát!\n\n1. rohamszerűen jelentkező légszomj\n2. véres köpet\n3. a kilégzés nehezített, sípoló\n4. fogyás, rossz közérzet\n5. kapkodó rövid belégzés után hosszan elnyújtott kilégzés\n6. köhögés, mellkasi és háti fájdalom, éjszakai izzadás\n\ntüdőasztma: ...\ntuberkulózis: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 5....\n2., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi képleteinek latin, vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\n| Az emésztőrendszer képletei |  |\n|---------|---------|\n| magyarul | latinul |\n| fültőmirigy |  |\n|  | lingua |\n| hasnyálmirigy |  |\n|  | cholecysta |\n| végbél |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emésztőrendszer képletei |  |\n|---------|---------|\n| magyarul | latinul |\n|  | glandula parotis |\n| nyelv |  |\n|  | pancreas |\n| epehólyag |  |\n|  | rectum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Nevezzen meg hatot a végbélgyulladás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- Crohn-betegség\n- colitis ulcerosa\n- hőártalom\n- vegyiártalom\n- aranyér\n- fisztulák, berepedések\n- baktériumfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a nephrosis szindróma jellemző tüneteit, gyógyításának\nlehetőségeit! Írjon kettőt-kettőt!\n\nJellemző tünetei:\n\nKezelésének, gyógyításának lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú proteinuria\n- hypalbuminaemia\n- testszerte nagyfokú ödéma\n- alapbetegség kezelése\n- gyógyszeres kezelés\n- sószegény, fehérjedús diéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. fajsúlya: 1020-1025 g/l (1001-1040)\n2. mennyisége napi 160-180 liter\n3. a glomerulusokban képződik\n4. mennyisége napi 1,5-2 liter\n5. fajsúlya: 1010 g/l\n6. a tubulusokban képződik\nElsődleges vizelet jellemzői: ...\nVégleges vizelet jellemzői: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5.\n1., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik hormon felelős a női nemi jelleg kialakulásáért?",
+      "question_type": "fill_in",
+      "correct_answer": "tüszőhormon/ösztrogén...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- baktérium\n- a vizeletürítés károsodása\n- visszaáramlás a prosztata kivezetőcsöveiben\n- immunrendszeri tényezők\n- kémiai anyagok\n- lelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez az általuk termelt hormonokat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. agyalapi mirigy elülső lebenye\nB. agyalapi mirigy hátulsó lebenye\nC. pajzsmirigy\nD. mellékpajzsmirigy\nE. mellékvese velőállománya\n1. adrenalin\n2. tiroxin\n3. antidiuretikus hormon\n4. tireotrop hormon\n5. parathormon",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., B.-...3...., C.-...2...., D.-...5...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a szimpatikus idegrendszeri hatásra\nbekövetkező változásokat!\n- a pupilla tágul\n- a pupilla szűkül\n- a szívfrekvencia csökken\n- a szívfrekvencia nő\n- a hörgők szűkülnek\n- a hörgők tágulnak\n- a perisztaltika fokozódik\n- a perisztaltika csökken\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a pupilla tágul\na pupilla szűkül\na szívfrekvencia nő\na hörgők tágulnak\na perisztaltika csökken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertessen az arcidegzsába fájdalmának jellegzetességei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a fájdalom féloldalon jelentkezik\n- a fájdalmas oldalon az arc görcsösen összehúzódik\n- a fájdalom pár másodpercig tart, naponta többször ismétlődhet\n- a rohamok napokig, hetekig tartó periódusokban lépnek fel\n- fokozatosan rövidülő, változó hosszúságú fájdalommentes időszakok lehetnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse a szemtengelyferdülés lényegét és tüneteit!\nLényege:\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...a szaruhártya és a szemlencse görbülési hibája...\nhomályos, életlen látás\nhunyorgás\nfejfájás\nfáradtság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "szőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!",
+      "question_type": "open",
+      "correct_answer": "- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_09_I_eumi_220209_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  }
+]

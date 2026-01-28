@@ -1,0 +1,319 @@
+[
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Nevezze meg latinul az emberi test részeit!\nEgészítse ki a táblázatot!\n\n| Az emberi test részei |  |\n|-----------------------|----------------|\n| magyar megnevezés | latin megnevezés |\n| fej |  |\n| nyak |  |\n| törzs |  |\n| mellkas |  |\n| has |  |\n| medence |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emberi test részei |  |\n|-----------------------|----------------|\n| magyar megnevezés | latin megnevezés |\n|  | caput |\n|  | collum, cervix |\n|  | truncus |\n|  | thorax |\n|  | abdomen |\n|  | pelvis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\n\nOka:\n\nTünetei: Írjon kettőt!\n-\n-\n-\n\nA betegség megelőzése: Írjon egyet!\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "A D-vitamin hiánya.\n\n- a csontok lágyak, görbültek\n- gerincferdülés\n- petyhüdt izomzat\n\n- D3-vitamin adása\n- helyes táplálás\n- szűrt fényben történő napoztatás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan helyet (behatolási kaput), ahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "- bőr\n- légutak\n- véráram\n- emésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes\n- porcos\n- csontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a megfelelő\nértípushoz! Írja a megadott csoportokhoz a helyes válasz\nsorszámát!\n\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\n\nanasztomózis: ......\nkollaterális érösszeköttetés: ......\nvégartéria: ......",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotóelemeit a rájuk jellemző\nfeladatokkal! Írja a betűjelek mellé a megfelelő sorszámot!\n\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma\n\n1. immunvédekezés\n2. oxigén reverzibilis megkötése\n3. hormonok szállítása\n4. véralvadás\n\nA.- ...; B.- ... ; C.- ...; D.- ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q007_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\nLényege:\nRohamot kiváltó allergének lehetnek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, amit a\nhörgők nyálkahártyájának duzzanata kísér.\nvirágpor\nszőr\ntoll\nkémiai anyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(A betegség lényegére 2 pont, az allergénekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "étel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n- külső légzés\n- nyúltvelő\n- gége",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\nnyúltvelő\nfülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer\nrészeit! Írja a megadott csoportokhoz a helyes válasz\nsorszámát!\n\n1. agyvelő\n2. gerincvelő\n3. agyidegek\n4. gerincvelői idegek\n\nközponti idegrendszer: ....\n\nkörnyéki vagy perifériás idegrendszer: ....",
+      "question_type": "fill_in",
+      "correct_answer": "1, 2\n3, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő anyaggal!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. víz\n2. zsírok\n3. alkohol\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\ngyomor: ......\nvékonybél: ......\nvastagbél: ......",
+      "question_type": "matching",
+      "correct_answer": "gyomor: ...3...\nvékonybél: ...2, 5, 6...\nvastagbél: ...1, 4...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vesemedence-gyulladás tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészség-károsodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző\ntünettel! Írja a sorszám mellé a helyes válasz betűjelét!\n1. epehólyag-gyulladás\n2. gyomorrák\n3. bélelzáródás",
+      "question_type": "matching",
+      "correct_answer": "1.- ...Α...\n2.- ...Β...\n3.- ...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Malpighi-test\n- Bartholin-mirigy\n- neurocyta\n- Bowman-tok\n- Henle-kacs\n- myelinhüvelyek\n- elsődleges kanyarulatos csatorna\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- kötőhártya",
+      "question_type": "fill_in",
+      "correct_answer": "Malpighi-test\nBowman-tok\nHenle-kacs\nelsődleges kanyarulatos csatorna\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a hererák betegséget az alábbi szempontok szerint!\nA betegség lényege:\n\nA betegség tünete: Írjon egyet!\n- a here tapintatának megváltozása\n- csomók megjelenése a here felszínén\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n- a here műtéti eltávolítása\n- kemoterápia\n- radikális nyirokhálózat-eltávolítás",
+      "question_type": "open",
+      "correct_answer": "Rosszindulatú daganatos elváltozás a herében, amely a nyirokerek és a\nkeringés útján terjed.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\n...\nMi borítja a méh falának belső rétegét?\n...\nHol termelődik a progeszteron?\n...\nHogy nevezzük a méh izomzatának jóindulatú daganatát?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték\nméhnyálkahártya\npetefészekben, a sárgatest termeli\nmyoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Húzza alá a helyes válaszokat!\n\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan esetet, amikor nincs remény\naz újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- élettel összeegyeztethetetlen sérülés\n- hosszas haldoklás után beállt halál\n- a halál biztos jeleinek megjelenése: hullafoltok, hullamerevség, bomlás\njelei\n- bizonyítottan hosszú oxigénhiányos állapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai: ...\nLátószerv receptorai: ...\nSzaglószerv receptorai: ...\nÍzlelőszerv receptorai: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n-\n-\nFeladata:\n-",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nfolyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!\n- homlokcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só- víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_I_EUMI_1116_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sebek fajtái közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  }
+]

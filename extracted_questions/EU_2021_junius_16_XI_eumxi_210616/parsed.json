@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel a hámszövetek fajtáit funkciójuk alapján!",
+      "question_type": "open",
+      "correct_answer": "- fedőhám\n- felszívóhám\n- érzékhám\n- mirigyhám",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a betegségek szakaszait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "- lappangási szakasz\n- bevezető szakasz\n- kifejlődési szakasz\n- kimeneteli szakasz\n- szövődmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában\nrésztvevő csontokat!\n- ékcsont\n- nyakszirtcsont\n- falcsont\n- homlokcsont\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "falcsont\nhomlokcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Írjon le a mozgásrendszer lehetséges sérülései közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- izmok, inak, szalagok húzódása\n- izmok, inak, szalagok szakadása\n- ízületi rándulások\n- ízületi ficamok\n- traumás csonttörések\n- a csonthártya szakadása nélküli zöldgally-törés\n- betegségek okozta kóros törések (daganat, csontritkulás miatt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való elmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Ismertesse a vér szerepét! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tápanyaggal látja el a sejteket\n- oxigént és egyéb anyagokat szállít\n- a bomlástermékeket elszállítja a sejtekből\n- részt vesz az immunvédekezésben\n- részt vesz a szervezet hőszabályozásában\n- a szervezet belső miliőjének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Csoportosítsa a szív üregeihez a jellemzőiket! Írja a helyes válasz\nsorszámát a megfelelő helyre!\n\n1. fala kb. 2 mm vastag\n2. fala kb. 15-20 mm vastag\n3. vénás vér található benne\n4. artériás vér található benne\n\njobb pitvar jellemzői: ...., ....\nbal kamra jellemzői: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "...1., 3....\n...2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a cor pulmonale (tüdő eredetű szívbetegség) négy jellemző\ntünetét!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés/dyspnoe\n- légszomj\n- cianózis\n- dobverőujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a bal tüdő?",
+      "question_type": "fill_in",
+      "correct_answer": "kettő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a vitaminokat a feladataikkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. D-vitamin\n2. A-vitamin\n3. E-vitamin\n4. K-vitamin\nA. a véralvadásban játszik szerepet\nB. a nemi mirigyek normál működéséhez szükséges\nC. hámvédő, a látóbíbor alkotásában is részt vesz\nD. a kalcium-, és a foszfátfelszívódás szabályozása",
+      "question_type": "matching",
+      "correct_answer": "D, C, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Ismertesse a veseelégtelenség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A vesék nem képesek kellő mennyiségű és koncentrációjú vizeletet termelni, a\nkiválasztandó anyagok visszamaradnak a vérben és mérgezik a szervezetet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a májzsugorodás (cirrhosis hepatis) lehetséges tünetei közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- haspuffadás, hasi fájdalom\n- nyomásérzékenység a jobb bordaiv alatt\n- fakó, enyhén sárga színű bőr\n- hasvízkór\n- csillag alakú/pókhálószerű értágulatok a bőrön\n- tág vénás hálózat a hasfalon\n- nyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Purkinje-rostok",
+        "pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a női és a férfi húgycsövet a megadott szempontok\nalapján! Töltse ki a táblázatot!\n\n| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza |  |  |\n| lefutása |  |  |\n| külvilágba nyílás helye |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza | 3-4 cm | 25 cm |\n| lefutása | egyenes | két görbülete van |\n| külvilágba nyílás helye | csikló és a hüvely között | a makk csúcsán |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a megállapításokat, jellemzőket a szervekhez! Írja a sorszámokat a megfelelő helyre!\n\n1. a húgyhólyag alatt helyezkedik el\n2. galambtojás nagyságú szerv\n3. gesztenye nagyságú és alakú szerv\n4. a spermiumok termelődésének helye\n5. a magzati életben a hasüregben fejlődik\n6. a spermiumok tárolódásának helye\n\nhere: ...\nmellékhere: ...\nprosztata: ...",
+      "question_type": "matching",
+      "correct_answer": "2., 4., 5.\n6.\n1., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogamzásgátlás módszerei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "természetes módszerek\nmechanikai módszerek\nkémiai módszerek\nméhen belüli eszközök\nhormonális készítmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák az anyagcsere-folyamatokat\n- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\n- fokozzák a szervezet oxigénfelhasználását\n- növelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- szükségesek a szellemi funkciókhoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "glükagon\ninzulin\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| latin | magyar |\n|---|---|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| aphasia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---|---|\n|  | izomgyengeség |\n|  | bénulás |\n|  | remegés (akarattól független) |\n|  | beszédzavar |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot a koponyaűri nyomásfokozódás lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "tompa, feszítő, csillapíthatatlan fejfájás\nszédülés\nhányinger nélküli hányás (sugárhányás)\nbradycardia\nhypotonia\nbradypnoe\nkettős látás, látásromlás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a sorszámok mellé a\nmegfelelő betűjelet!\n\n1. szemölcs\nA. fekély, gennyképződés, bűzös\nváladékozás\n2. gennyes bőrgyulladás\nB. kisebb-nagyobb kemény bőrkinövés a\ntest különböző részein\n3. csalánkiütés\nC. a bőrből enyhén kiemelkedő halvány,\ncsoportosan megjelenő kiütések\n4. ekcéma\nD. pillangó alakú bőrpír az arcon, testszerte\npénzérme alakú, foltos kiütések\n5. systemas lupus\nerythematosus (SLE)\nE. viszkető, pici hólyagok, nedvedzés, majd\nhámlás",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-Α., 3.-C., 4.-E..., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a szem fénytörő közegeit!\nsárgafolt\nsugártest\nkönnykészülék",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemlencse\nüvegtest\ncsarnokvíz",
+      "options": [
+        "szemlencse",
+        "sárgafolt",
+        "üvegtest",
+        "sugártest",
+        "csarnokvíz",
+        "könnykészülék"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\n...\nFajtái: Írjon négyet!\n- \n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya....\nvágott seb\nszúrt seb\nharapott seb\nzúzott seb\nlőtt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XI_eumxi_210616_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a bordatörés fajtáit és lehetséges tüneteit!\nFajtái:\n\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- egyszerű\n- sorozatos\n- ablakos\n- felületes légzés\n- fulladásérzés\n- fájdalom\n- haematoma",
+      "options": []
+    }
+  }
+]

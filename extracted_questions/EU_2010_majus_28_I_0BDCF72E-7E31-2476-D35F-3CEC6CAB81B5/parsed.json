@@ -1,0 +1,367 @@
+[
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a számokat a megfelelő betűjelhez!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: kövérkés (hyperstheniás) alkat\nD: kevert típus\n\n1. hajlamos a légzőszervi és emésztőszervi krónikus betegségekre\n2. alkati tulajdonságai kevertek\n3. teste arányos, ellenállóképessége jó\n4. keringési és cukorbetegségre hajlamos alkat\nΑ: ...; B: ...; C:...; D:...",
+      "question_type": "matching",
+      "correct_answer": "Α: ...3...; B: ...1...; C:...4...; D:...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\nmegfelelőiket!\nRegeneratio: ...\nHypertrophia: ...\nArtrophia:...\nNecrosis: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a szövetek újraképződése...\ntúltengés...\nsorvadás...\nelhalás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ olyan helyet (behatolási kaput), 3 pont\nahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "- bőr\n- nyálkahártya\n- légutak\n- vér\n- emésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy /1-1/ példát!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes összeköttetés pl.: koponya kutacsai, alkar- és\nlábszárcsontok között\n- porcos összeköttetés pl.: szeméremcsontok között, bordák és\nszegycsont között\n- csontos összeköttetés pl.: korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása\npl.:keresztcsont, koponya varratai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Ismertesse a csonthártya (periosteum) feladatát!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségek latin nevét lényegükkel!\nÍrja a betegség számát a megfelelő meghatározás mellé!\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA csigolyaívek záródásának hiánya: ...\nA csontok mésztartalmának és szerves állományának csökkenése: ...\nMeszes felrakódások keletkezése az ízületekben: ...\nA napfény ultraibolya sugarainak hiánya miatt kialakuló D-vitamin-hiány\nkövetkeztében elmarad a mészsók beépülése a csontokba: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá a nagyvérkör ereit az alábbiak közül!\n- aorta\n- arteria pulmonalis\n- vena pulmonális\n- vena cava inferior\n(Csak a két /2/ helyes válasz aláhúzása esetén adható pont!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta, vena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonális",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges\nanyagok közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "vitaminok (B1, В12, С)\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia)\nszövődményei közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- szívelégtelenség\n- coronaria keringési zavarok\n- agyi thrombosis\n- arteriosclerosis\n- agyvérzés\n- vesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdőfél?",
+      "question_type": "open",
+      "correct_answer": "három",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a megállapításokhoz tartozó helyes\nválaszokat!\n\nAz orrmandula itt található:\n- gége\n- garat\n\nA tüdő saját vérellátását biztosító erek:\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\n\nA légutak legfelső részébe került idegen anyagok eltávolítása:\n- tüsszentés\n- köhögés\n\nA paraszimpatikus idegrendszer hatása a légzésszámra:\n- csökkenti\n- emeli",
+      "question_type": "multiple_choice",
+      "correct_answer": "garat\narteria és vena bronchialis\ntüsszentés\ncsökkenti",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az\nalábbi betegségeket!\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n\n...\nA mellhártya lemezei közé került levegő következtében, a megváltozott\nnyomás hatására a tüdő összeesik.\n\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (PTX)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Nevezze meg a vastagbél szakaszait!",
+      "question_type": "open",
+      "correct_answer": "- vakbél\n- felszálló vastagbél\n- haránt vastagbél\n- leszálló vastagbél\n- szigmabél\n- végbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának\nszerepét!",
+      "question_type": "open",
+      "correct_answer": "- a táplálék összekeverése a gyomornedvvel\n- a gyomortartalom vékonybélbe juttatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély szövődményei közül\nhármat/3/!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás\ngyomorrák\nstenosis pylori",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a hólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "open",
+      "correct_answer": "a Malpighi testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi betegségeket, illetve állapotokat a\nrájuk jellemző kóros vizelettel! Írja a sorszámokat a\nmegfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA. - ...\nB. - ...\nC. - ...\nD. - ...\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "open",
+      "correct_answer": "a hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Ismertesse az AIDS fertőzés megelőzésének lehetőségeit!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- gumi óvszer (condom) használata\n- monogámia (tartós párkapcsolat)\n- munkavédelmi és higiénés szabályok betartása az egészségügyben\n- kábítószer fogyasztás elkerülése, steril tű használata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Sorolja fel a nyolc /8/ belső elválasztású (endocrin)\nmirigyet!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\n- pajzsmirigy\n- mellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\n- hasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 1,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-szintet emelik!\n- inzulin\n- glukagon\n- adrenalin\n- somatostatin",
+      "question_type": "multiple_choice",
+      "correct_answer": "glukagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperthyreosisos és a hypothyreosisos\nbeteg tüneteit! Írjon egy-egy /1-1/ jellemző tünetet a\ntáblázátba!\n\n| Hyperthyreosis | Tünetek | Hypothyreosis |\n|---|---|---|\n|  | jellemző arc és szemelváltozás |  |\n|  | bőrelváltozások |  |\n|  | testhőmérséklet |  |\n|  | székletürítés |  |\n|  | viselkedés |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Hyperthyreosis | Tünetek | Hypothyreosis |\n|---|---|---|\n| rémült tekintet, aggódó arckifejezés |  | duzzadt arc, kifejezéstelen tekintet |\n| nyirkos bőr |  | hideg bőr, durva tapintat |\n| állandó hőemelkedés |  | alacsony hőmérséklet |\n| hasmenés |  | székrekedés |\n| izgatott |  | fáradt, közömbös |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhid\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó\nalábbi kérdésekre!\n\nHol kereszteződik a piramis pálya nagy része?\n\nHol található az agyban a beszéd motoros központja?\n\nHol található a hallás kérgi központja?\n\nHol található a látás kérgi központja?",
+      "question_type": "open",
+      "correct_answer": "a nyúltvelőben\na homloklebenyben\na halántéki lebenyben\nnyakszirti lebenyben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! Írja a megadott betegségekhez a\ntünetek sorszámát!\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, „vadászkutyafekvés”\n2. magas láz\n3. heves fejfájás\n5. rángógörcs\n6. fénykerülés\n\nAgyhártyagyulladás:\nEpilepszia:",
+      "question_type": "matching",
+      "correct_answer": "...2, 3, 4, 6...\n...1, 5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 2,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nFül (hallás):...\nFül (egyensúlyozás): ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti szerv\nszőrsejtek a hártyás labirintusban",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 2,
+      "question_text": "Ismertesse az érzékszervek feladatait!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "- a környezet meghatározott ingereinek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q029_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezi el az eszméletlen beteget!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_majus_28_I_0BDCF72E-7E31-2476-D35F-3CEC6CAB81B5_q030_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 5,
+      "question_text": "Ismertesse a herpes simplex fertőzést az alábbiakban\nmegatározott szempontok szerint!\n\nOka:\n\nMegjelenése: Írjon kettőt /2/!\n- szájnyálkahártyán\n-\najakon\n-\nnemi szerveken\n\nTünetek: Írjon hármat /3/!\n- láz\n- hólyagok megjelenése az érintett területen\n- heveny gyulladás az érintett területen\n- regionális nyirokcsomó duzzanat kialakulása\n\nKiújulását elősegítő tényezők: Írjon hármat /3/!\n- fertőző betegség\n- erős napsugárzás\n- immunitáscsökkenés\n- stressz",
+      "question_type": "open",
+      "correct_answer": "Herpes simplex vírus",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel a sejt alkotórészeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "sejthártya\ncitoplazma\nsejtorganellumok\nsejtmag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\n- pikkelysömör: ...\n- tüdőgyulladás: ...\n- érelmeszesedés: ...\n- cukorbetegség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "psoriasis\npneumonia\narteriosclerosis\ndiabetes mellitus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. rachitis\n3. osteoporosis\n2. spina bifida\n4. arthrosis\n\nA. A csigolyaívek záródásának hiánya.\nB. D-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba.\nC. Az ízületi porc kopása.\nD. A csontok szervetlen és szerves állományának csökkenése.\n\n1.-... , 2.-... , 3.-... , 4.-...",
+      "question_type": "matching",
+      "correct_answer": "Β, A, D, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\nsipoly\nizomsorvadás\nmozgáskiesés\nduzzanat\nX-láb\nvérömleny\nvérmérgezés\nalakváltozás\n(Csak 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "mozgáskiesés\nduzzanat\nvérömleny\nalakváltozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg a csigolyák nyúlványait!",
+      "question_type": "open",
+      "correct_answer": "- tövisnyúlvány\n- ízületi nyúlvány\n- harántnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. ide ömlik a vena pulmonalis\n2. fala kb. 2 mm vastag\n3. vénás vér található benne\n4. artériás vér található benne\n5. fala kb. 5 mm vastag\n\njobb kamra jellemzői: ...\nbal pitvar jellemzői: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Írja le a sárga csontvelő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Vészhelyzetben képes vörös csontvelővé alakulni és a vérképzésben részt venni.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel az érelmeszesedés rizikótényezői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nhelytelen táplálkozás\nmagas koleszterinszint a vérben\nmozgásszegény életmód\ncukorbetegség\nhajszolt életmód",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Egészítse ki a légmellre vonatkozó táblázatot!\n\n|  | Légmell |\n|---|---|\n| Latin megnevezése |  |\n| Lényege |  |\n| Lehetséges tünetei: Írjon hármat!* |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | Légmell |\n|---|---|\n| Latin megnevezése | pneumothorax |\n| Lényege | a mellhártya lemezei közé levegő kerül |\n| Lehetséges tünetei: Írjon hármat!* | - mellkasi fájdalom\n- légszomj\n- erőteljes száraz köhögés\n- súlyos esetben sokk |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes megállapításokat!\n- A gyomorban szénhidrát és fehérjeemésztés zajlik.\n- A vékonybél nyálkahártyaredői felszínnövelő képletek.\n- Az éhbél és a csípőbél együtt kb. 5 m hosszú.\n- Az éhbél fájdalma jelzi az éhséget.\n- A disszimiláció a lebontási folyamatok összessége.\n- Az életkor előrehaladtával az asszimilációs folyamatok hangsúlyosabbá válnak.\n- A maradéknitrogén a zsíranyagcsere során keletkező bomlástermék.\n- A fűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vékonybél nyálkahártyaredői felszínnövelő képletek.\nAz éhbél és a csípőbél együtt kb. 5 m hosszú.\nA disszimiláció a lebontási folyamatok összessége.\nA fűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "- pajzsporc\n- gyűrűporc\n- kannaporc\n- gégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Ismertesse a vesekőbetegséget az alábbi szempontok szerint!\n\nA betegség lényege:\n\nA veseköves roham tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.\n\nerős görcsös fájdalom\na fájdalom kisugárzik a hólyagba, férfiaknál a herékbe, nőknél a nagyajkakba\nkínzó vizelési inger\nhányinger, hányás\nhaspuffadás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi az elsődleges vizelet napi mennyisége?\nHol képződik az elsődleges vizelet?\nTartalmaz-e az elsődleges vizelet cukrot?\nTartalmaz-e élettani körülmények között a végleges vizelet urobilinogént?",
+      "question_type": "fill_in",
+      "correct_answer": "...160-180 liter...\n...a Malpighi-testben...\n...igen, tartalmaz...\n...igen, tartalmaz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a kiszáradáshoz vezető lehetséges okok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú hányás\n- nagyfokú hasmenés\n- elégtelen folyadékbevitel\n- nagyfokú verejtékezés\n- fokozott vizeletürítés\n- nagy mennyiségű vérvesztés\n- nagyfokú vizenyő (ödéma) képződése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. menstruáció elmaradása\n2. bővebb hüvelyváladék\n3. hányinger, hányás\n4. pozitív terhességi teszt\n5. kedélyállapot változás\n6. fokozott nyálelválasztás\n\nA várandósság gyanújelei: ...\n\nA várandósság valószínűségi jelei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\nmellékhere: ...\nherezacskó: ...\nondóhólyag: ...\ndülmirigy:...",
+      "question_type": "fill_in",
+      "correct_answer": "epididymis\nscrotum\nvesicula seminalis\nprostata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belső elválasztású (endokrin) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- már alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Írja le az acromegalia lényegét!",
+      "question_type": "open",
+      "correct_answer": "A növekedési hormon a növekedés befejeződése után túlzottan termelődik, a testméretek már nem tudnak változni, ezért a csontok deformálódnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Egészítse ki az agyidegekkel kapcsolatos táblázat hiányzó részeit!\n| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|-----------------------------------|\n| VII. agyideg      |                                   |\n| I. agyideg       |                                   |\n| X. agyideg       |                                   |\n| IV. agyideg      |                                   |\n| VIII. agyideg     |                                   |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|-----------------------------------|\n|                    | arcideg                           |\n|                    | szaglóideg                        |\n|                    | bolygóideg                        |\n|                    | sodorideg                         |\n|                    | egyensúlyozó és hallóideg        |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\nparesis: ...\nparalízis: ...\nakinézis: ...\nhipokinézis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "az izomerő csökkenése, izomgyengeség\naz izomerő kiesése, bénulás\na mozgástevékenység korlátozottsága vagy hiánya\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. övsömör\n2. fényérzékenység okozta\nbőrreakció\n3. gennyes bőrgyulladás\n4. szemölcs\n5. orbánc\nA. élénkpiros, lángnyelvszerűen tovakúszó\nfolt\nB. fájdalmas kiütések, folyadékkal telt\nhólyagok az ideg lefutása mentén\nC. fekély, gennyképződés, bűzös\nváladékozás\nD. kisebb-nagyobb kemény bőrkinövés a test\nkülönböző részein\nE. foltos, viszkető kiütések 10 percen belül,\na hatás megszűnte után 1-2 órával\neltűnnek",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...E...., 3.-...C...., 4.-...D...., 5.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Sorolja fel azokat az emlő önvizsgálata során tapasztalt elváltozásokat, melyek észlelése esetén orvoshoz kell fordulni! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- csomó vagy göb az emlőben vagy a hónaljban\n- a mell formájának megváltozása\n- váladékozó mellbimbó\n- tartósan behúzódott mellbimbó\n- az emlő bőrének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen az elsősegélynyújtó teendői közül négyet napszúrás esetén!",
+      "question_type": "open",
+      "correct_answer": "- sötét, hűvös helyen való elhelyezés\n- magasra polcolt felsőtesttel való fektetés\n- homlokra, tarkóra vizes borogatás felhelyezése\n- folyadékpótlás (kortyonkénti itatás)\n- fejfájás csillapítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_23_IX_eumix_200723_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertesse az elsősegélynyújtó teendőit az egyik alkar I.-II. fokú (9%)\négési sérülése esetén! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a ruházat eltávolítása az égett felületről\n- az égett testrész hűtése hideg folyó vízzel (10-15 percig)\n- a sérült nyugalomba helyezése\n- az égett testfelszín steril gézzel való befedése, laza rögzítése\n- folyadékpótlás",
+      "options": []
+    }
+  }
+]

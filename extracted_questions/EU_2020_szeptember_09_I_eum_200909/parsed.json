@@ -1,0 +1,313 @@
+[
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. medialis\nA. hátulsó/háti\n2. inferior/caudalis\nB. alsó/farki\n3. anterior\nC. felső/feji\n4. superior/cranialis\nD. középsíkhoz közel eső\n5. posterior/dorsalis\nE. elülső/hasi",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-...E...., 4.-...C...., 5.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a járványfolyamat mozgatóerőit!",
+      "question_type": "open",
+      "correct_answer": "a fertőzés forrásai\na fertőzés terjedési módjai\nfogékonyság, immunitás\ntermészeti tényezők\ntársadalmi tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában\nrésztvevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "halántékcsont",
+        "homlokcsont",
+        "nyakszirtcsont",
+        "falcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontvázizom jellemzői közül hármat!",
+      "question_type": "open",
+      "correct_answer": "akaratunktól függően működik\nharántcsíkolt izomzat\ngyors, nagy erőkifejtésre képes\nviszonylag gyorsan elfárad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann-féle betegség lényegét és kezelésének\nlehetőségeit!\nA betegség lényege:\nKezelésének lehetőségei: Írjon hármat!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...a csigolyatestek elkeskenyedése, szilárdságuk elvesztése....\ngyógytorna\núszás\nfűző viselése\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi fogalmakat és mennyiségeket!\nA pulzustérfogat (verőtérfogat) fogalma:\nA pulzustérfogattal kilökött vér mennyisége:\nA perctérfogat fogalma:\nA perctérfogattal kilökött vér mennyisége:",
+      "question_type": "open",
+      "correct_answer": "Egy összehúzódás során a nagyerekbe kilökött vér mennyisége.\nNyugalomban 65-75 ml.\nEgy perc alatt továbbított vérmennyiség.\nNyugalomban kb. 4,5-5 liter/perc.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő kórképhez! Írja\na helyes válasz sorszámát a megfelelő helyre!\n\n1. kisvérköri pangás\n2. nagyvérköri pangás\n3. éjszakai vizelés (nocturia)\n4. köhögés\n5. nehézlégzés\n6. boka-, lábszár ödéma; hasvízkór\n\nBalszívfél-elégtelenség: ...., ., ....\n\nJobbszívfél-elégtelenség: ...., ., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a légzésszámot növelő tényezőket!\n- a vegetatív idegrendszer paraszimpatikus hatása\n- a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\n- a légzés akaratlagos visszatartása\n- a vér vegyhatásának savas irányba tolódása\n- a vér hőmérsékletének emelkedése\n- mély alvás állapota\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\na vér vegyhatásának savas irányba tolódása\na vér hőmérsékletének emelkedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az alábbi betegségeket!\nVálaszát írja a pontozott vonalra!\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében a megváltozott\nnyomás hatására a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (pneumothorax)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a vitaminokat feladataikkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. A-vitamin\n2. K-vitamin\n3. D-vitamin\n4. E-vitamin\n\nA. a véralvadásban játszik szerepet\nB. a nemi mirigyek normál működéséhez szükséges\nC. hámvédő, a látóbíbor alkotásában is részt vesz\nD. a kalcium-, és a foszfátfelszívódás szabályozása",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...D...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a refluxbetegség lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "gyomorégés\nnyelőcsőtáji-, mellkasi égő érzés\nsavas felböfögés\nmellkasi fájdalom\nidült köhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Ismertesse a pyelonephritis acuta lehetséges okát és tüneteit!\nKialakulásának lehetséges oka: Írjon kettőt!\n- felszálló fertőzés\n- véráram útján történő fertőzés (hematogén fertőzés)\n- a nyirokutak közvetítésével a bélcsatornából bejutott kórokozók\nLehetséges tünetei: Írjon négyet!\n- borzongás, hidegrázás, magas láz\n- vesetájéki érzékenység\n- kínzó és gyakori vizelési inger\n- rossz közérzet\n- hányinger, hányás\n- zavaros, gennyes vizelet\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "felszálló fertőzés\nvéráram útján történő fertőzés (hematogén fertőzés)\na nyirokutak közvetítésével a bélcsatornából bejutott kórokozók\nborzongás, hidegrázás, magas láz\nvesetájéki érzékenység\nkínzó és gyakori vizelési inger\nrossz közérzet\nhányinger, hányás\nzavaros, gennyes vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- menstruáció hiánya: ...\n- fájdalmas menstruáció: ...\n- herevízsérv: ...\n- méhnyakrák: ...",
+      "question_type": "fill_in",
+      "correct_answer": "amenorrhoea\ndysmenorrhoea\nhydrokele\ncarcinoma cervicis uteri",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg lényegét!\nElsődleges nemi jelleg:\n...\nMásodlagos nemi jelleg:\n...",
+      "question_type": "open",
+      "correct_answer": "a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\na nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. inzulin\n2. tiroxin\n3. progeszteron\n4. glükagon\n5. kalcitonin\n\nhasnyálmirigy: ...1., 4....\npajzsmirigy: ...2., 5....\npetefészek: ...3....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 5.\n3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Cushing-szindróma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "zsírlerakódás a törzsön, a hát felső részén\nnagy, kerek arc (holdvilágarc)\nvékonynak tűnő végtagok\naz izomtömeg és az izomerő csökkenése\nnehezen gyógyuló bőrsérülések\nkékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\nnőknél fokozott szőrképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- halántéki lebeny\n- kisagyi lebeny",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a migrén lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "általános rossz közérzet\nféloldali görcsös vagy lüktető jellegű fejfájás\nfénykerülés\nzajérzékenység\nszagtúlérzékenység\nhányinger, hányás\nlátászavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép-, és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!",
+      "question_type": "fill_in",
+      "correct_answer": "A., B., E....\nC., D....",
+      "options": [
+        "A. üllő",
+        "B. kalapács",
+        "C. csiga",
+        "D. ívjáratok",
+        "E. kengyel"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel az afta kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "vírusos, vagy bakteriális fertőzés\nstressz\nvitaminhiány\nfolsavhiány\nkialvatlanság\nelhanyagolt szájhigiéné",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Írja le az újraélesztés megszakításának három feltételét!",
+      "question_type": "open",
+      "correct_answer": "- szaksegítség megérkezése, akik átveszik az újraélesztést\n- a beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése visszatér\n- a segítségnyújtó(k) kimerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_09_I_eum_200909_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Párosítsa a koponyaalapi törések fajtáit a tüneteikhez! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. elülső árok törése\n2. középső árok törése\n3. hátulsó árok törése\n\nA. haematoma a fül mögött, a fülből\nvéres liquor ürül\nB. haematoma a tarkótájon, a hátsó\ngaratfalon véres liquor ürül\nC. „pápaszem-haematoma\", az orrból\nvéres liquor ürül\n\n1.-... , 2.-... , 3.-...",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes betűjelet!\n1. superior\nA. központi\n2. perifériás\nB. alsó\n3. posterior\nC. hasi irányú\n4. ventralis\nD. felső\n5. centrális\nE. környéki\n6. inferior\nF. hátsó\n1.:... 2.:... 3.:... 4.:... 5.:... 6.:...",
+      "question_type": "matching",
+      "correct_answer": "D, E, F, C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 2,
+      "question_text": "Ismertesse röviden az autoimmun betegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A szervezet védekező rendszere néha a szervezetet alkotó egyes szöveteket, sejtcsoportokat nem „sajátként” értékel, és ellenük immunválasszal reagál.\nEzekben az állapotokban a szervezet egyes szöveteit az immunrendszer antigénként értékeli és a szervezet saját szövetei ellen fordul. A jelenséget autoimmunitásnak, az így kialakult kóros állapotot pedig autoimmun betegségnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel az izmok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\nínhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a spondylarthritis\nankylopoetica (SPA) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek gyulladásos megbetegedése miatti\ndegeneratív elváltozás, mely végül a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbiakban megadott szempontok szerint!\nLényege:\nTünetei: Írjon kettőt /2/!\n-\nhosszkülönbség az alsó végtagok között\n-\naz érintett végtag kifelé fordul\n-\nmozgáskorlátozottság\n-\nfarredők ráncaszimmetriája\nKezelése: Írjon kettőt /2/!\n-\nterpesz pelenka használata\n-\nPavlik-kengyel alkalmazása\n-\nműtét",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q006_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; tünetekre és a kezelésre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Rendezze az erek típusaihoz jellemzőiket!\nÍrja az erek mellé jellemzőik számát/számait!\n\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\n\nAnasztomózisok:...\nKollaterális érösszeköttetések:...\nVégartériák:...",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Társítsa a sokk fajtáit azok lényeges jellemzőivel!\nÍrja a sokk fajtájának száma mellé a megfelelő betűjelet!\n\n1. Hypovolaemiás sokk a. akut értágulat vezet a vérelosztás hirtelen\nzavarához\n2. Disztributív sokk b. a szív munkájának elégtelensége miatt alakul ki\n3. Kardiogén sokk c. az érpálya akut beszűkülése miatt alakul ki\n4. Obstruktív sokk d. a keringő vérmennyiség akut csökkenése\nokozza\n\n1...  ... 2. ... ... 3...  ... 4. ... ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "d\na\nb\nc",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Az alveolusok és az arteria, illetve vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n- gége",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\n\nnyúltvelő\n\nfülkürt",
+      "options": [
+        "belső légzés",
+        "külső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Nevezze meg, hogy mely légzőrendszeri megbetegedésre utalnak az alábbi tünetek!\nÍrja a betegségek nevét a pontozott vonalakra!\nA. Szapora, nehezített légzés, gyakori szúró mellkasi fájdalom\n(oldalszegzés), gyengeség, fejfájás. Magas, nehezen csillapítható láz\nkezdetben száraz, majd produktív köhögéssel, barnás köpettel jár.\n...\nB. Hirtelen jelentkező nehézlégzés, a beteg a légzési segéd izmait\nis igénybe véve igyekszik levegőhöz jutni. Rövid, kapkodó\nbelégzés után a kilégzés hosszan elnyúló, sípoló. A köhögés\nkezdetben száraz, majd üvegszerű, tapadós (szívós nyák) köре-\ntet ürít a beteg. A pulzus szapora.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "tüdőgyulladás (pneumonia)\ntüdőasztma (asthma bronchiale)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás:\nReziduális levegő:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Maximális belégzés után a maximális kilégzett levegő mennyisége (4-4,5 l).\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Sorolja fel a fog részeit és feladatait!\nRészei:\n-\n-\n-\nFeladatai:\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "korona\nnyak\ngyökér\na harapás\na táplálék őrlése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?",
+      "question_type": "open",
+      "correct_answer": "a szűrés (filtráció)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Sorolja fel a polyuria okait! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok adása\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék- és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q018_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi szerveket!\nKülső nemi szervek:\n-\n-\nBelső nemi szervek:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele -\nmódszer alapján!\nIdőtartam:\nNaegele - módszer:",
+      "question_type": "fill_in",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7\nnapot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Jellemezze röviden a belső elválasztású mirigyeket!",
+      "question_type": "open",
+      "correct_answer": "Belső elválasztású (endokrin) mirigyek alatt azokat a mirigyeket értjük, amelyeknek kivezető csövük nincs, váladékuk a különböző hormonok, melyek a keringésbe kerülnek, és általában a mirigytől távol fejtik ki a hatásukat. Váladéktermelésüket elválasztásnak nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Ismertesse a kalcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "gátolja a Ca csontokból való felszabadulását\nmegakadályozza a vérben a magas Ca - szint kialakulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását és számát!",
+      "question_type": "open",
+      "correct_answer": "8 pár nyaki ideg\n12 pár mellkasi ideg\n5 pár ágyéki ideg\n5 pár keresztcsonti ideg\n1 pár farkcsonti ideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)\ncsontos labyrinthus\nhártyás labyrinthus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 8,
+      "question_text": "Sorolja fel a sebek fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_november_14_II_eum2_1114_q026_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 7,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges okait!\nLégzésmegállás lehetséges okai: Írjon hármat /3/!\n- légutelzáródás\n- légköri levegő összetételének megváltozása\n- légzőközpont bénulás\n- mellkasfal összenyomódás\nKeringésmegállás lehetséges okai: Írjon négyet /4/!\n- szívmegállás\n- kamraremegés\n- nagyfokú, gyors vérvesztés\n- súlyos, traumás agysérülés\n- anafilaxia\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "légutelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont bénulás\nmellkasfal összenyomódás\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  }
+]

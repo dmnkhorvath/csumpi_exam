@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejt részei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "sejtmembrán\nmitokondrium\nsejtmag\nsejtplazma\nmembrán organellumok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőjükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. fibroma\n2. myoma\n3. angioma\n4. osteoma\nA. érdaganat\nB. csontszöveti daganat\nC. izomszöveti daganat\nD. rostos kötőszöveti daganat\n1.- ...; 2.- ...; 3.- ...; 4.- ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "D; C; A; B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbi szempontok szerint!\nLényege: \nTünetei: Írjon kettőt!\n-\n-\n-\n-\nKezelése: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\nmozgáskorlátozottság\na farredők ráncaszimmetriája\nspeciális pelenkázás (terpesz nadrág)\nPavlik-kengyel alkalmazása\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Párosítsa a szívbillentyűket elhelyezkedésükkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. zsebes billentyűk\nA. a jobb pitvar és a jobb kamra\nközött\n2. háromhegyű vitorlás billentyű\nB. a kamrákból kiinduló\nnagyartériák szájadékában\n3. kéthegyű vitorlás billentyű\nC. a bal pitvar és a bal kamra\nközött",
+      "question_type": "matching",
+      "correct_answer": "1.-...B..., 2.-...A..., 3.-...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Sorolja fel az embólia fajtáit!",
+      "question_type": "open",
+      "correct_answer": "thrombembolia\nlégembólia\nzsírembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás:\nReziduális levegő:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége\n(4-4,5 l).\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a tuberkulózis (tbc) megelőzésének\nlehetőségeit!\n- elhízás elkerülése\n- rendszeres tüdőszűrés\n- higiénés szabályok betartása\n- dohányzás\n- allergizáló növények kerülése\n- védőoltás\n- fertőző források felkeresése, gondozásba vétele\n- a tbc-ben szenvedő beteg hozzátartozóinak karanténba helyezése\n\n(Csak a négy /4/ helyes válasz együttes aláhúzása esetén adható pont! Több válasz aláhúzása esetén\npontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel az idült székrekedés (obstipatio) okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\ngyenge bél- és hasfalizomzat\nmozgásszegény életmód\na székelési inger gyakori akaratlagos elnyomása\nstressz\ncsekély folyadékfogyasztás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi meghatározásokat a felsorolt\nbetegségekkel! Írja a betegségek mellé a megfelelő sorszámot!\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet\na kishörgők nyálkahártyájának duzzanata kísér.\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének\nvizenyője következtében kialakuló életveszélyes állapot.\n3. A léghólyagok és a köztük lévő sövények fala elvékonyodik, majd\nátszakad és végül közös üreggé olvad egybe.\n\ngégevizenyő: ......\ntüdőasztma: ......\ntüdőtágulat: ......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Indokolja meg röviden, miért nem bontja a zsírokat a gyomorban lévő lipáz enzim!",
+      "question_type": "open",
+      "correct_answer": "A gyomorban savas a vegyhatás, a lipáz pedig csak lúgos közegben fejti ki hatását.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Csoportosítsa a tápanyagokat funkcióik szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. szénhidrátok\n2. zsírok\n3. fehérjék\n4. víz\n\nsejtépítő: ......\nenergiaszolgáltató: ......\nsejtalkotó: ......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1, 2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Soroljon fel a vesemedence-gyulladás tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regeneratio\nnövekedés - proliferatio\nelválasztás - secretio\nlelökődés - menstruatio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nbarlangos test:...\nsárgatest:...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n| hormonja: |  |\n|---------|---------|\n| feladatai: |  |\n| helye a szervezetben: |  |\n| jellemzője: Írjon egyet! |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| hormonja: |  |\n|---------|---------|\n| | timozin |\n| feladatai: |  |\n| | a növekedést, a szexuális fejlődést serkenti |\n| | antitestképzés (nyirokszerv) |\n| helye a szervezetben: |  |\n| | a gátorüreg elülső részében helyezkedik el |\n| jellemzője: Írjon egyet! |  |\n| | kisgyermekkorig aktív, serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: \n- aphasia: \n- tremor: \n- hypokinesis: ",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tudatzavar (somnolentia, sopor, coma)\n- hemiplegia (féloldali bénulás)\n- légzészavar\n- beszédzavar\n- érzészavar\n- incontinentia\n- nyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit!\nÍrja a megadott csoportokhoz a helyes válasz betűjelét!\nA. dobüreg\nB. csontos labirintus\nC. hártyás labirintus\nD. hallócsontok (kalapács, üllő, kengyel)\nE. fülkürt (Eustach-kürt)\nközépfül részei: ...\nbelső fül részei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A, D, E\nB, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_I_EuMI_0224_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  }
+]

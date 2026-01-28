@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EMI_1007_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki az anatómiai síkokkal, irányokkal kapcsolatos táblázatot! A megfelelő oszlopba tegyen „X\"-et!\n\n|  | síkot jelöl | irányt jelöl |\n|---------|---------|---------|\n| anterior/ventralis |  |  |\n| horizontalis |  |  |\n| medialis |  |  |\n| inferior/caudalis |  |  |\n| posterior/dorsalis |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | síkot jelöl | irányt jelöl |\n|---------|---------|---------|\n| anterior/ventralis |  | X |\n| horizontalis | X |  |\n| medialis |  | X |\n| inferior/caudalis |  | X |\n| posterior/dorsalis |  | X |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a mérgezés súlyosságát és következményeit befolyásoló\ntényezők közül!",
+      "question_type": "open",
+      "correct_answer": "a bejutás helye\na felszívódás, átalakítás, ürítés sebessége\na szer koncentrációja\na méreg mennyisége\na méreg kémiai tulajdonságai",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Írja le az agykoponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyílvarrat\npikkelyvarrat\nlambdavarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q004_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 1,
+      "question_text": "A szív ingerképzési és ingerületvezetési rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindegyik helyes",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "mindegyik helyes"
+      ]
+    }
+  },
+  {
+    "file": "EMI_1007_q005_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 7,
+      "question_text": "Ismertesse a dongaláb megbetegedést a megadott szempontok szerint!\nTünetei: Írjon hármat!\n- lógó lábfej\n- befelé forduló talpak\n- magasan álló sarok\n- bizonytalan állás, járás\nGyógyításának, kezelésének lehetőségei: Írjon négyet!\n- korrekció gipszeléssel, tartó- és rögzítősínekkel\n- gyógytorna\n- masszázs\n- ortopédiai cipő alkalmazása\n- súlyos esetben műtét",
+      "question_type": "open",
+      "correct_answer": "lógó lábfej\nbefelé forduló talpak\nmagasan álló sarok\nbizonytalan állás, járás\nkorrekció gipszeléssel, tartó- és rögzítősínekkel\ngyógytorna\nmasszázs\nortopédiai cipő alkalmazása\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Húzza alá a végartériákra vonatkozó helyes állításokat!\n- Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n- A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n- Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\n- Amennyiben az artéria elzáródik, az általa ellátott terület elhal.\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\nAmennyiben az artéria elzáródik, az általa ellátott terület elhal.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a jobbszívfél-elégtelenség jellegzetes tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "a vizelet mennyisége csökken\nfokozott éjszakai vizeletürítés (nicturia)\nhasvízkór (ascites)\ntelt nyaki vénák\nboka-, lábszár ödéma\ntestsúlynövekedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- vérmérgezés: ...\n- alacsony vérnyomás: ...\n- érelmeszesedés: ...\n- mélyvénás trombózis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szepszis\nhypotonia\narteriosclerosis\nphlebothrombosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. hosszan elnyúló, sípoló kilégzés\n2. szapora, nehezített légzés\n3. üvegszerű, tapadós köpet ürítése\n4. rövid, kapkodó belégzés\n5. magas, nehezen csillapítható láz\n6. barnásvörös köpet ürítése\n\nTüdőgyulladás tünetei: ......\nTüdőasztma tünetei: .......",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6....\n1., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a légzőrendszerrel kapcsolatos helyes\nmegállapításokat!\n- a légzés idegi szabályozásának a központja a nyúltvelőben található\n- a bal tüdő három lebenyből áll\n- a bal tüdő két lebenyből áll\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám\nmegemelkedik\n- a légzés idegi szabályozásának a központja a kisagyban található\n- a légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám csökken\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a légzés idegi szabályozásának a központja a nyúltvelőben található\na vér vegyhatásának savas irányú megváltozása esetén a légzésszám\nmegemelkedik\na bal tüdő két lebenyből áll\na légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos alábbi kérdésekre!\nMi az exsiccosis?",
+      "question_type": "open",
+      "correct_answer": "...a víztartalom drasztikus csökkenése, kiszáradás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel az aranyérbetegség hajlamosító tényezői/lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- mozgásszegény életmód\n- salakszegény étrend\n- idült székrekedés\n- terhesség/várandósság\n- nehéz tárgyak emelése\n- kismedencei daganatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Egészítse ki a kiválasztás szervrendszerére vonatkozó alábbi mondatokat!\nA vizeletkiválasztó- és elvezető rendszer feladata az ... során keletkezett... egy részének eltávolítása.\nA vese ... színű, kb. ... cm hosszú, páros szerv, amely a hasüreg hátsó felső részében, közvetlenül a gerinc két oldalán a XII. háti és a ... ágyéki csigolya magasságában helyezkedik el.",
+      "question_type": "fill_in",
+      "correct_answer": "anyagcsere\nsalakanyagok\nvörös/vörösesbarna\n10-12\nII",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 1,
+      "question_text": "A szív ingerképző és vezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, pitvari rostok, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvari rostok, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, kamrai rostok, Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EMI_1007_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertessen ötöt az uraemiás beteg diétás kezelésének szempontjai, követelményei közül!",
+      "question_type": "open",
+      "correct_answer": "- az étrend csökkentett fehérjetartalmú legyen\n- az étrend legyen energiadús\n- a foszforfogyasztás csökkentése javasolt\n- mérsékelt sófogyasztás javasolt\n- káliumszegény étrend javasolt\n- a folyadékbevitelt az ürített mennyiséghez kell igazítani",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi anatómiai képleteket elhelyezkedési helyeikkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n1. sárgatest\n2. Bartholin-mirigy\n3. csikló\n4. barlangos test\n5. Leydig-sejtek\nA. a herékben, a herecsatornák között\nB. a hímvessző állományában\nC. a nagyajkak alsó harmadában, a hüvelybemenetnél\nD. a petefészekben\nE. a kisajkak találkozási pontjánál, a húgycsőnyílás felett",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...E...., 4.-...B...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a női nemi szervek gyulladásos betegségei közül!",
+      "question_type": "open",
+      "correct_answer": "szeméremtest-gyulladás (külső nemi szervek)\nhüvelygyulladás\nnyakcsatorna-gyulladás\nméhgyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- FSH (tüszőérést, ondósejtképződést serkentő hormon)\n- LH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\n- LTH (tejelválasztást serkentő hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez a betegségük esetében előforduló\nlehetséges tüneteket! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. hasnyálmirigy (endokrin rész)\n2. tobozmirigy\n3. csecsemőmirigy\n4. agyalapi mirigy\n\nA. Fertőzésekkel szemben fogékony, izomgyengeség, légzési nehézség\njelentkezik a betegnél.\nB. A testmagasság már korán jóval meghaladja az átlagost, a felső végtag\naránytalan hosszúságú.\nC. A beteg az alvás-ébrenlét ciklusának felborulására panaszkodik.\nD. Gyakori vizelés mellett, erős szomjúság érzés kínozza a beteget,\nfáradékonyság, bőrviszketés jelenik meg.\n1.-....., 2.-....., 3.-....., 4.-......",
+      "question_type": "matching",
+      "correct_answer": "D, C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Nevezze meg a hypothalamusban található központokat!",
+      "question_type": "open",
+      "correct_answer": "az anyagcsere központja\naz éhség központja\na szomjúság központja\na testhőmérséklet központja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q021_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 7,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét, tüneteit!\nLényege: \nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.\n- tudatzavar\n- bénulások\n- légzészavar\n- beszédzavar\n- incontinentia",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit latinul!",
+      "question_type": "open",
+      "correct_answer": "- chorioidea\n- iris\n- corpus ciliare",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Állítsa megfelelő sorrendbe a szem fénytörő közegeit kívülről befelé\nhaladva! Írja a sorszámokat a pontozott vonalakra!\n... .... szemlencse\n... .... szaruhártya\n... .... csarnokvíz\n... .... üvegtest\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_1007_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nTünetei: Írjon négyet!\n- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- testhőmérséklet 40 °C fölött is lehet\nElsősegélynyújtó feladatai: Írjon kettőt!\n- testhőmérséklet-csökkentés hűtéssel (hűtőborogatás)\n- folyadékpótlás (hideg víz itatása)\n- segítség hívása (mentő, orvos)",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött is lehet\ntesthőmérséklet-csökkentés hűtéssel (hűtőborogatás)\nfolyadékpótlás (hideg víz itatása)\nsegítség hívása (mentő, orvos)",
+      "options": []
+    }
+  }
+]

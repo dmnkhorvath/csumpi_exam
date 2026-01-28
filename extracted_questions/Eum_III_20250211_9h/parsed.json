@@ -1,0 +1,319 @@
+[
+  {
+    "file": "Eum_III_20250211_9h_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Csoportosítsa a leírásokat a megadott szempontok szerint! Írja a betűjeleket a megfelelő helyre!\nA. hajlamos a hízásra, pocakosodásra\nB. nincs kifejezett betegség hajlama\nC. gyengén fejlett izomzat és csontozat\nD. hajlama van a lúdtalpra, sérvre, alacsony vérnyomásra, székrekedésre\nE. széles váll, keskeny csípő, fejlett izomzat\nF. gyakoriak a gyulladások, görcsök, érelmeszesedés, koszorúér-betegségek, agyvérzés, magas vércukorszint és magas vérnyomás\nnormostheniás alkat jellemzője: ...\nastheniás alkat jellemzője: ...\nhyperstheniás alkat jellemzője: ...",
+      "question_type": "fill_in",
+      "correct_answer": "B., E.\nC., D.\nA., F.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Írjon le a daganatsejtek jellemzői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- növekedésük nincs összhangban a kiindulási szövet növekedésével\n- a daganat növekedése folytatódik a kiváltó tényező megszűnése után is\n- szerkezetük eltér a kiindulási szövetétől\n- növekedésük autonóm, független\n- a daganatos szövetburjánzás céltalan, hasztalan, káros",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a mozgásszervrendszerre vonatkozó helyes\nmegállapításokat!\n- A nagy mellizom a mell- és a hasüreget határolja.\n- Csontos összeköttetés található a csigolyák között.\n- A csontok vastagságbeli növekedését a csonthártya biztosítja.\n- A kéztő nyolc apró, szabálytalan alakú csontból áll, melyek két sorban\nhelyezkednek el.\n- A porcszövet ereket és idegeket tartalmaz, ezért sérülései igen fájdalmasak.\n- Porc borítja a csontok ízfelszíneit, illetve egyes szervekben vázalkotó\nszerepe is van.\n- A gerinc 32-33 csigolyából áll.\n- A rekeszizom legyező alakú izom, a mellkastól a felső végtag felé húzódik.",
+      "question_type": "open",
+      "correct_answer": "A csontok vastagságbeli növekedését a csonthártya biztosítja.\nA kéztő nyolc apró, szabálytalan alakú csontból áll, melyek két sorban\nhelyezkednek el.\nPorc borítja a csontok ízfelszíneit, illetve egyes szervekben vázalkotó\nszerepe is van.\nA gerinc 32-33 csigolyából áll.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Írjon le a Scheuermann-féle betegség lehetséges tünetei közül négyet!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a hát fájdalmas fáradékonysága\na háti szakasz fokozott görbülete\na hát merevsége\nmozgáskorlátozottság\na terhelhetőség csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportokra vonatkozó táblázatot!\n| antigének a vörösvértestek felszínén | antitestek a vérszérumban | vércsoport |\n|---|---|---|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| antigének a vörösvértestek felszínén | antitestek a vérszérumban | vércsoport |\n|---|---|---|\n| - | anti-A, anti-B | 0 |\n| AB | - | AB |\n| A | anti-B | A |\n| B | anti-A | B |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző-ingervezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai billentyű",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "Pitvar-kamrai billentyű"
+      ]
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi jellemzőket, tüneteket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. tüdőödéma\n2. nyugalmi dyspnoe\n3. kisvérköri pangás\n4. nagyvérköri pangás\n5. boka-, lábszár ödéma; hasvízkór\n6. a vizelet mennyisége csökken\n\nBalszívfél-elégtelenség jellemzői, tünetei: ...\n\nJobbszívfél-elégtelenség jellemzői, tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 3....4., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a légzőrendszerrel kapcsolatos helyes megállapításokat!\n- A légzőközpont az agytörzs területén található.\n- A tüsszentés reflexfolyamat, amelyet az orrnyálkahártyát izgató idegen\nanyagok, szagingerek váltanak ki.\n- A köhögés reflexes eredetű, nyitott hangrés melletti erős kilégzést jelent.\n- Nyugalomban percenként 6-8 liter levegő cserélődik ki a tüdő és a külvilág\nközött.\n- A négy vena pulmonalis a bal pitvarba ömlik és oxigéndús vért szállít.\n- Az arteria pulmonalis oxigénben gazdag, szén-dioxidban szegény vért szállít\na tüdőbe.\n- Normális körülmények között a belégzés passzív izommunka eredménye,\nmíg a kilégzés aktív folyamat.\n- Nyugalomban percenként 5-6 liter levegő cserélődik ki a tüdő és a külvilág\nközött.",
+      "question_type": "open",
+      "correct_answer": "A tüsszentés reflexfolyamat, amelyet az orrnyálkahártyát izgató idegen\nanyagok, szagingerek váltanak ki.\nNyugalomban percenként 6-8 liter levegő cserélődik ki a tüdő és a külvilág\nközött.\nA négy vena pulmonalis a bal pitvarba ömlik és oxigéndús vért szállít.\nAz arteria pulmonalis oxigénben gazdag, szén-dioxidban szegény vért szállít\na tüdőbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel a tüszős mandulagyulladás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- nyeléskor erősödő fájdalom\n- magas láz, hidegrázás\n- a garatképletek nyálkahártyája vörös\n- a mandula lepedékes\n- a nyelv bevont\n- kellemetlen szájszag",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa a vitaminokhoz legfőbb étrendi forrásaikat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. C-vitamin\tA. gabonamagvak héja, máj, hús\n2. D-vitamin\tB. csipkebogyó, zöld növények, gyümölcsök\n3. A-vitamin\tC. hús, olajos magvak, élesztő, tej\n4. B6-vitamin\tD. halmáj, tojássárgája, tej, vaj\n5. B₁-vitamin\tE. máj, tej, sárgarépa, sütőtök",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...D...., 3.-E..., 4.-C...., 5.-A....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a kiszáradáshoz vezető lehetséges okok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú hányás\n- nagyfokú hasmenés\n- elégtelen folyadékbevitel\n- nagyfokú verejtékezés\n- fokozott vizeletürítés\n- nagy mennyiségű vérvesztés\n- nagyfokú vizenyő (ödéma) képződése",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a vizeletre vonatkozó alábbi mondatokat!\nA normál vizelet általában ... színű, azonban a színét ... és az elfogyasztott folyadék\n... is megváltoztathatják. A normál vizelet mennyisége naponta\n..., vegyhatása pedig ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\negyes gyógyszerek/bizonyos gyógyszerek\nmennyisége\n1,5-2 l\nsavanyú",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg az idült vesegyulladás lefolyásának három szakaszát!",
+      "question_type": "open",
+      "correct_answer": "krónikus renális tünetek szaka\na kompenzált veseelégtelenség szaka\nveseelégtelenség (urémia)",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Csoportosítsa a menstruációs ciklus fázisait a hormonokhoz! Írja a\nsorszámokat a megfelelő helyre!\n1. szekréciós fázis\n2. proliferációs fázis\n3. menstruációs fázis\n4. regenerációs fázis\nprogeszteron: ...., ....\nösztrogén: ...., ....",
+      "question_type": "matching",
+      "correct_answer": "1., 3., 2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Írja le a herevízsérv lényegét és kialakulásának lehetséges okait felnőtt\nférfiak esetén!\nLényege: ...\nKialakulásának okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A hereburok által termelt folyadék a here és a hereburok között\nfelgyülemlik, ami miatt megnő a here mérete....\nsérülés\ngyulladás\nhegesedés\nurológiai műtét szövődménye",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Sorolja fel a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH (tüszőérést, ondósejtképződést serkentő hormon)\nLH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\nLTH (tejelválasztást serkentő hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukorszintet emelik!\n- szomatosztatin\n- inzulin\n- glükagon\n- adrenalin\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Írja le a belső elválasztású (endokrin) mirigyek működési mechanizmusát!",
+      "question_type": "open",
+      "correct_answer": "Az életműködéseket szabályozó hormonjaikat a sejt közötti térbe, illetve közvetlenül a keringésbe juttatják, így különböző szervek működésére is hatást gyakorolhatnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Rendezze az elsődleges agykérgi központokat elhelyezkedési helyeikhez!\nÍrja a sorszámokat a megfelelő helyre!\n\n1. testérzés\n2. látóközpont\n3. hallóközpont\n4. szaglás\n\nhalántéki lebeny: ...., .... \nnyakszirti lebeny: ......\nhátsó központi barázdatest: ......\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.\n2.\n1.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a neuroglia feladatai, jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az idegrendszer támasztó eleme\n- a neurontól teljesen eltérő szerkezetű és funkciójú építőelem\n- térkitöltő, elhatároló, elválasztó funkciói vannak\n- az idegfolyamatokban nem vesz részt\n- működése hasonló a többi szerv kötőszövetéhez\n- részt vesz az idegszövet anyagcseréjében",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az egyensúly-érzékelés folyamatában részt vevő anatómiai képleteket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kisagyi központ\ntömlőcske\nhártyás labirintus\nVIII. agyideg",
+      "options": [
+        "kisagyi központ",
+        "hátsó központi tekervény",
+        "thalamus",
+        "tömlőcske",
+        "fülkagyló",
+        "hártyás labirintus",
+        "I. agyideg",
+        "VIII. agyideg",
+        "VII. agyideg"
+      ]
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel a carcinoma mammae lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- az emlőbimbó behúzódása\n- behúzódások az emlő bőrén – narancshéj tünet\n- ekcémának tűnő elváltozás az emlőbimbón\n- az emlő bőre az ellenoldalihoz képest duzzadt, kemény\n- véres váladék ürülése az emlőbimbóból\n- csomó(k) a hónaljban\n- fekélyképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Párosítsa a leírásokat az elsősegélynyújtói teendőkkel!\n1. a légzés vizsgálatakor 10 másodperc alatt nem észlelünk normális légzést\n2. a sérült az ingerre valamilyen módon reagál\n3. a légzés vizsgálatakor 10 másodperc alatt legalább 2 normális légzést\nészlelünk\n4. a sérült mozdulatlanul fekszik a földön\n5. a beteg az ingerre (megszólítás, óvatos vállrázás) nem reagál, nem vonható\nkontaktusba\nA. légutak szabaddá tétele, légzésvizsgálat\nB. újraélesztés megkezdése\nC. biztonságos környezet megteremtése, majd az eszmélet vizsgálata\nD. az esetleges sérülés ellátása, mentőhívás, általános állapot folyamatos\nellenőrzése\nE. a beteg stabil oldalfektetésbe helyezése\n1.- ...____...., 2.- ... ____...., 3. ...____.... 4. - ...____...., 5.- ... ____....",
+      "question_type": "matching",
+      "correct_answer": "B, D, E, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_III_20250211_9h_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- halálfélelem\n- szorító, erős mellkasi fájdalom\n- a fájdalom kisugárzik a bal vállba, karba\n- gyomortáji fájdalom\n- nehézlégzés\n- szédülés, gyengeség\n- szürkés bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

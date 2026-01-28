@@ -1,0 +1,306 @@
+[
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Sorolja fel az immunhiányos állapotok típusait!",
+      "question_type": "open",
+      "correct_answer": "- fiziológiás, átmeneti immunhiányos állapotok\n- primer, veleszületett immundeficientiák\n- szekunder, szerzett immunhiányos állapotok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A vérplazma fehérjéinek ozmotikus nyomása:",
+      "question_type": "multiple_choice",
+      "correct_answer": "állandó",
+      "options": [
+        "csökken",
+        "állandó",
+        "nő"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Csoportosítsa az immunitás típusait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. anyai immunitás\n2. faji immunitás\n3. védőoltások által szerzett immunitás\n4. fertőző betegségek átvészelése után kialakult immunitás\n\nveleszületett immunitás: ...., .....\nszerzett immunitás: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse az arthrosis lényegét és tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Lényege: ...a porc fokozatos elvékonyodása, rugalmasságának csökkenése,\nmajd fokozatos felszívódása...\nLehetséges tünetei: Írjon ötöt!\n- az ízület rugalmasságának csökkenése\n- ízületi fájdalom\n- ízületi merevség\n- az ízület nyomásérzékenysége\n- mozgáskorlátozottság, az ízület mozgásterjedelmének beszűkülése\n- ízületi recsegés, ropogás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az autoimmunitás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Autoimmunitás során az immunrendszer a saját antigénjei ellen indít immunválaszt.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a megadott ízületekhez az ízülettípusokat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. csuklóízület\n2. vállízület\n3. keresztcsont-csípőcsontízület\n4. hüvelykujj kéztő és kézközép közötti ízület",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...Β...., 3.-...Α...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Írja be a táblázatba a szív gyulladásos betegségeinek magyar\nmegnevezését!\n\n|  |  |\n|----------|----------|\n| latinul | magyarul |\n| myocarditis |  |\n| carditis rheumatica |  |\n| pericarditis |  |\n| endocarditis |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|----------|----------|\n|  | szívizomgyulladás |\n|  | reumás szívgyulladás |\n|  | szívburokgyulladás |\n|  | szívbelhártya-gyulladás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szénanátha tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vérbő kötőhártya, könnyezés, szemviszketés\n- duzzadt orrnyálkahártya, orrdugulás\n- gyakori tüsszentés\n- nagy mennyiségű, vízszerű orrváladék-ürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Nevezze meg a leírások alapján az EKG-görbe részeit!\n- a kamra összehúzódása közben keletkezik: ...\n- pitvaringerület, a pitvar összehúzódása közben keletkezik: ...\n- nyugalmi helyzet visszaállása (refrakter stádium): ...\n- ingerületátvezetés a pitvarról a kamrára: ...",
+      "question_type": "fill_in",
+      "correct_answer": "QRS-komplexus\nP-hullám\nT-hullám\nP-Q távolság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Húzza alá a garatra vonatkozó helyes állításokat!\n- a garat a hangadás szerve\n- a garat a nyelés szerve\n- a garat latin neve: \n- a garat latin neve: \n- belső felszínét csillószőrös hengerhám borítja\n- belső felszínét nyálkahártya béleli\n- az orr-, és a szájüreg mögött helyezkedik el\n- az orr-, és a szájüreg között helyezkedik el\n- száji szakaszában találhatóak a mandulák\n- orri szakaszába nyílik az Eustach-kürt\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "pharynx\nlarynx",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmak jelentését!",
+      "question_type": "fill_in",
+      "correct_answer": "Teljes kilégzés után a tüdőben maradt levegő mennyisége\nMaximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel a májgyulladás (hepatitis) lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "hőemelkedés, láz\nétvágytalanság\nfogyás\nsárgaság\nhasüregi fájdalom\nízületi fádalom\nbőrpanaszok\nsötétebb színű vizelet\nvilágosabb színű széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa a gyomorszekréció fázisaihoz leírásukat! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. gasztrikus fázis\nA. a bélbe jutott étel visszahat a gyomorszekrécióra\núgy, hogy fenntartja azt\n\n2. intestinalis fázis\nB. az ételekkel kapcsolatos feltételes ingerek\nmegindítják a gyomornedv-szekréciót\n\n3. cephalicus fázis\nC. a tápláléknak a gyomor nyálkahártyájával való\nérintkezése indítja meg a gyomornedv-\nelválasztást idegi reflexek, valamint hormonális\nhatás révén",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-A..., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a vesét körülvevő három tokot!",
+      "question_type": "open",
+      "correct_answer": "- külső, vékony kötőszövetes tok\n- középső, zsíros tok\n- belső kötőszövetes tok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a veseműködés idegi szabályozását a megadott\nszempontok szerint! Töltse ki a táblázatot!\n\n|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| szabályozott erek |  |  |\n| szűrés a glomerulusokban |  |  |\n| vizelet mennyisége |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| szabályozott erek | a glomerulusokból elvezető arteriolák | a glomerulusokhoz vezető arteriolák |\n| szűrés a glomerulusokban | fokozódik | csökken |\n| vizelet mennyisége | nő | csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szerveket a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n1. tuba uterina\n2. testis\n3. penis\n4. labium majus\n5. uterus\n6. scrotum\nkülső nemi szervek: ...\n\nbelső nemi szervek: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6.\n1., 2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse az AIDS-t az alábbi szempontok szerint!\nLappangási idő:\nTerjedésének módja: Írjon négyet!",
+      "question_type": "fill_in",
+      "correct_answer": "...3-4 hét...\nvér\nondó\nhüvelyváladék\nanyatej\nfertőzött injekciós tű",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Milyen hatást vált ki a méhre a terhesség végén az oxitocin?",
+      "question_type": "open",
+      "correct_answer": "...erős méhösszehúzódásokat vált ki, beindítja a szülést...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Cushing-szindróma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- zsírlerakódás a törzsön, a hát felső részén\n- nagy, kerek arc (holdvilágarc)\n- vékonynak tűnő végtagok\n- az izomtömeg és az izomerő csökkenése\n- nehezen gyógyuló bőrsérülések\n- kékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\n- nőknél fokozott szőrképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Jellemezze a gerincvelőt az alábbi szempontok szerint!\n\nElhelyezkedése: ...a\nel...\n\nSzakaszai:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "csigolyák által határolt gerinccsatornában helyezkedik\nnyaki\nmellkasi/háti\nágyéki\nkeresztcsonti\nfarkcsonti",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a koponyaűri nyomásfokozódás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "agyödéma\ngyulladás\na liquor keringési zavara\ndaganat\nvérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse\nki a táblázatot!\n\n| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n| szemlencse |  |\n|  | bulbus oculi |\n| irha |  |\n|  | mamma |\n| bőr alatti kötőszövet |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n|  | lens |\n| szemgolyó |  |\n|  | corium |\n| emlő |  |\n|  | subcutis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Ismertesse az otosclerosis lényegét!",
+      "question_type": "open",
+      "correct_answer": "A belső fülben lévő labyrinthus elcsontosodásával járó betegség.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Soroljon fel a bordatörés lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- felületes, szapora légzés\n- fulladásérzés\n- légvételre fokozódó, szúró fájdalom\n- haematoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_I_eumi_220406-2_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Húzza alá az elsősegélynyújtásra vonatkozó helyes megállapításokat!\n- Orrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét hátra hajtjuk.\n- A sebellátás legfontosabb célja a további vérvesztés megakadályozása.\n- A felnőtt alapszintű újraélesztés rövidítése az AED mozaikszó.\n- Hasi sérülés esetén az eszméletlen beteget stabil oldalfekvésbe kell helyezni.\n- A keringés és a légzés eszközök nélkül is pótolhatók az újraélesztés során.\n- Belső vérzés gyanúja esetén a beteget sokk-fektetésben helyezzük el.\n- Trendelenburg helyzet során a beteget vízszintes helyzetbe hozzuk, majd a\nfejét és vállait megemeljük.\n- Lázas görcsroham kialakulása a kisgyermekkorban (6 hó - 5 éves kor között)\na legjellemzőbb.",
+      "question_type": "fill_in",
+      "correct_answer": "A sebellátás legfontosabb célja a további vérvesztés megakadályozása.\nA keringés és a légzés eszközök nélkül is pótolhatók az újraélesztés során.\nBelső vérzés gyanúja esetén a beteget sokk-fektetésben helyezzük el.\nLázas görcsroham kialakulása a kisgyermekkorban (6 hó - 5 éves kor között)\na legjellemzőbb.",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Soroljon fel a sejthártya funkciói közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- elválasztja a sejtet a körülötte lévő tértől\n- biztosítja a sejt védelmét\n- fenntartja a sejt alakját\n- részt vesz az anyagcsere folyamatokban",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa a krónikus gyulladás típusait és jellemzőit! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. alternatív jellegű gyulladás\nA. elfajulásos és elhalásos jelenségek,\nkötőszövetes átalakulás\n\n2. exsudatív jellegű gyulladás\nB. sejtdús sarjszövetképződés, sajátos\nformája a granulómás gyulladás\n\n3. idült produktív gyulladás\nC. idült tályog, a nyálkahártyák\nkrónikus hurutjai tartoznak hozzá",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α...., 2.-C., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Jellemezze a csontszövetet felépítő szilárd alkotórészeket!",
+      "question_type": "open",
+      "correct_answer": "- szerves állomány: osszein, kötőszöveti rostokból, fehérjét és szénhidrátot tartalmazó összetett molekulákból épül fel, a csont rugalmasságát adja\n- szervetlen állomány: elsősorban kalciumsók alkotják, de mintegy 20 különböző elem található benne, a csont szilárdságát adja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a sporadikus megbetegedés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A fertőző betegségek térben és időben látszólag egymástól függetlenül fordulnak elő.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a sokízületi gyulladást a megadott szempontok szerint!\nA betegség lényege: ...\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "több ízületet érintő krónikus gyulladásos betegség...\nfájdalom a kéz és a láb kisízületeiben\naz ízfelszíni porcok pusztulása és elfajulása\nízületi mozgások beszűkülése\nhőemelkedés, láz\nfáradékonyság, rossz közérzet\nbőrkiütés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vérkörökhöz a hozzájuk tartozó ereket! Írja a sorszámokat\na megfelelő helyre!\n\n1. vena cava inferor\n\n2. vena pulmonalisok\n\n3. vena cava superior\n\n4. aorta\n\n5. arteria pulmonalis\n\nkisvérkör erei: ...., .....\n\nnagyvérkör erei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség legfontosabb tüneteit!\n- telt nyaki vénák\n- tüdőödéma\n- véres köpet\n- cianózis\n- bőséges éjszakai vizeletürítés\n- látható hasfali vénatágulat\n- köhögés\n- nehézlégzés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "tüdőödéma\ncianózis\nköhögés\nnehézlégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orrmelléküregek feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belégzett levegő előmelegítése\n- a belégzett levegő párásítása\n- a belélegzett levegő mechanikus tisztítása\n- hangok képzése\n- szagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. idegrendszeri károsodás\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. súlyos anyagcserezavarok (pl. veseelégtelenség)",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Ismertesse a tüdő kettős vérellátását biztosító érrendszerek feladatát!\n- arteria bronchialis rendszer feladata: ...\n- truncus pulmonalis rendszer feladata: ...",
+      "question_type": "open",
+      "correct_answer": "a tüdő szövetét táplálja...\na gázcseréhez szükséges vért szállítja a tüdőbe...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél szakaszait latinul!",
+      "question_type": "open",
+      "correct_answer": "- duodenum\n- jejunum\n- ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. magnézium\n2. cink\n3. szelén\n4. nátrium\n5. vas\n6. kalcium\n\nmikroelemek: ....\n\nmakroelemek: ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- terhesség alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- elsődleges kanyarulatos csatorna\n- Bartholin-mirigy\n- neurocyta\n- Henle-kacs\n- myelinhüvelyek\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- Malpighi-test\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna\nMalpighi-test",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a gonorrhoeát a megadott szempontok szerint!\n\nA betegség kórokozója:\n\nA betegség tünetei:\n- férfiaknál\n- nőknél\n\nLehetséges szövődményei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Baktérium (gonococcus)\n\ngennyes húgycsőfolyás\ngennyes-nyákos folyás\n\nheregyulladás\nprosztatagyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- méh: ...\n- hüvely: ...\n- csikló: ...\n- nagyajkak: ...",
+      "question_type": "fill_in",
+      "correct_answer": "uterus\nvagina\nclitoris\nlabium majus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Ismertesse a herék feladatát!",
+      "question_type": "open",
+      "correct_answer": "- a hímivarsejtek (spermiumok) képzése, a spermatogenezis\n- a férfi nemi hormon (tesztoszteron) termelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezze meg a másodlagos férfi nemi jelleg kialakításáért felelős hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- tesztoszteron\n- androgén hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel az antidiuretikus hormon (ADH) hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\nkevesebb víz választódik ki a vizelettel\nnöveli a vizelet fajsúlyát\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású\nemeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. elülső szarv\nA. érző neuronok\n2. oldalszarv\nB. mozgató neuronok\n3. hátsó szarv\nC. vegetatív neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-C., 3.-A.......",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a mellékpajzsmirigy csökkent működésének lehetséges\nokai közül!",
+      "question_type": "open",
+      "correct_answer": "a mellékpajzsmirigy hiánya\na szerv nem megfelelő működése\na szerv szövetének pusztulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Soroljon fel a nagyagy felépítésében részt vevő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "szürkeállomány\nfehérállomány\ntörzsdúcok (fehérállomány szürkemagvai)\nféltekék üregrendszerei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- látászavar\n- nystagmus\n- akadozó beszéd\n- spasztikus bénulások\n- érzészavarok\n- incontinentia\n- nyelési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Párosítsa a bőr rétegeit jellemzőikkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. felhám\nA. többrétegű elszarusodó laphám\n2. irha\nB. kötőszöveti rostokból épül fel\n3. bőr alatti kötőszövet\nC. sok kötőszöveti rostot és zsírt tartalmaz\n\n1.-... , 2. -... , 3.-...",
+      "question_type": "matching",
+      "correct_answer": "A, B, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Ismertesse a myopiát a megadott szempontok szerint!\nLényege:\nOka:\nTünetei:\nKorrigálásának lehetősége:",
+      "question_type": "open",
+      "correct_answer": "A szemben az éles kép az ideghártya előtt keletkezik.\nA szemgolyó hossztengelyének megnyúlása.\nelmosódott látás\na távoli tárgyak homályos látása\nSzórólencséjű szemüveg/kontaktlencse alkalmazása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a légzésmegállás lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- légútelzáródás\n- légköri levegő összetételének megváltozása\n- légzőközpont-bénulás\n- mellkasfal összenyomódása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_15_IV_eumIV_200915_q028_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 5,
+      "question_text": "Soroljon fel az alacsony vércukorszint lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "émelygő éhségérzet\nfejfájás\nideges feszültség\nsápadtság, hideg verejtékezés\nfeszes pulzus\nremegés\nsúlyos esetben eszméletvesztés",
+      "options": []
+    }
+  }
+]

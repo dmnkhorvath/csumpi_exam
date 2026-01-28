@@ -1,0 +1,322 @@
+[
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel az élő kórokozók közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\negysejtű állatok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes válasz\nbetűjelét!\n1. superior\nA. elülső\n2. anterior\nB. felső\n3. posterior\nC. hátsó",
+      "question_type": "matching",
+      "correct_answer": "B, A, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogy nevezzük a szív falának középső rétegét?\nMelyik szívüregbe ömlik a szív saját gyűjtőere (sinus coronarius)?\nHogy nevezzük a szív elsődleges ingerképző központját?\nHol található a szívműködés extracardialis irányításának központja?\nMilyen billentyűk találhatók a vénákban?",
+      "question_type": "fill_in",
+      "correct_answer": "szívizom\njobb pitvar\nsinuscsomó\nagytörzsben (nyúltvelőben)\nzsebes billentyűk (semilunáris, félhold alakú)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- sipoly\n- fájdalom\n- alakváltozás\n- duzzanat\n- izomsorvadás\n- mozgáskiesés\n- X- láb\n- vérömleny\n- vérmérgezés\n- fekély\n(Csak az öt helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás\nduzzanat\nmozgáskiesés\nvérömleny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\ncoronaria keringési zavarok\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő 5 pont\nkórképhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n\nBalszívfél-elégtelenség: ... , ...\n\nJobbszívfél-elégtelenség: ..., ..., ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4\n1, 3, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": [
+        "a belégzett levegő előmelegítése",
+        "oxigéncsere",
+        "a belégzett levegő párásítása",
+        "hőháztartás fenntartása",
+        "hangok képzése",
+        "szagok érzékelése",
+        "légnyomás biztosítása"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a tüdőbetegségeket a rájuk jellemző\nköpettípusokkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet\n\nA. tüdőtályog\nB. tüdővizenyő\nC. tüdőasztma\nD. tuberkulózis",
+      "question_type": "matching",
+      "correct_answer": "1.-...A..., 2.-...D..., 3.-...B..., 4.-...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: \n- aphasia: \n- tremor: \n- hypokinesis: ",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a fog részeit!",
+      "question_type": "open",
+      "correct_answer": "korona\nnyak\ngyökér",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Jellemezze az agytályogot (abscessus cerebri) a megadott szempontok alapján!\nA betegség oka:\nTünetek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...az agy bakteriális fertőzése...\n- rossz közérzet\n- láz\n- agyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\n- góctünetek: érzéskiesés, látótérkiesés, beszédzavar\n- epilepsziás roham",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Ismertessen a cukorbetegeknél előforduló alacsony\nvércukorszint (hypoglykaemia) kialakulásának okai közül\nkettőt!",
+      "question_type": "open",
+      "correct_answer": "a szükségesnél nagyobb mennyiségű inzulin adagolása\nelmarad az inzulin beadását követően a kellő mennyiségű szénhidrát\nfogyasztása\nintenzív fizikai munkavégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. kötőszöveti rostok\nA. kollagenáz, elasztáz\nB. lipáz\nC. tripszin\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C..., 2.- ...D..., 3...B..., 4.-Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Ismertesse a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "idegi szabályozás\nhormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n\nHonnan indul ki a húgyvezeték (ureter)?\n\nHonnan indul ki a húgycső (urethra)?\n\nÉlettani körülmények között tartalmaz-e fehérjét a végleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\na vesemedencéből...\na húgyhólyagból...\nnem...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és kezelési\nlehetőségeit!\n\nLényege:\n\nKezelése: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba,\na lágyékcsatornában tapinthatóak.\n- rendszerint spontán rendeződik a növekedés során\n- hormonkezelés végezhető 5-7 éves kor között\n- hormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(A betegség lényegére 2 pont, kezelésére helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regeneratio\nnövekedés – proliferatio\nelválasztás – secretio\nlelökődés - menstruatio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Írjon le a tiroxin és trijód-tironin hormonok\nhatásai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szervezet anyagcsere-folyamatait\nemelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést\na szervezet hőközpontjának működését stimulálják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetaniás\nállapotot!\n\nLényege:\n\nOka:\n\nTünetei: Írjon hármat!\n- a kéz és láb ujjainak zsibbadása\n- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor\" (risus sardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca szintjének csökkenése.\nA mellékpajzsmirigy csökkent működése.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Nevezze meg a külső fül részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_II_eumii_1019_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó\nfeladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  }
+]

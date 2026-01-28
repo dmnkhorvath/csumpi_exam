@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ olyan helyet (behatolási kaput), 3 pont\nahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nlégutak\nvér\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a daganatok formáit jellemzőik alapján!\nÍrja be a formákhoz tartozó jellemzők számát!\n\nJellemzők:\n1. növekedése lassú\n2. áttétet (metasztázis) okozhat\n3. átszövi a környező szöveteket, összenő velük\n4. környezetétől élesen elhatárolódik\n5. eltávolítása után kiújulhat (recidivál)\n6. sejtjei és szerkezete hasonlít a kiinduló szövet sejtjeihez\n\n| Daganatok formái | Jellemzőik |\n|--------------------|------------|\n| Jóindulatú daganatok |            |\n| Rosszindulatú daganatok |            |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "| Daganatok formái | Jellemzőik |\n|--------------------|------------|\n| Jóindulatú daganatok | 1, 4, 6 |\n| Rosszindulatú daganatok | 2, 3, 5 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Nevezze meg és jellemezze a csontszövetet felépítő\nállományokat!",
+      "question_type": "open",
+      "correct_answer": "szerves állomány (kb. 30-40%) – osszein: kötőszöveti rostokból, fehérjét\nés szénhidrátot tartalmazó összetett molekulákból épül fel, a csont\nrugalmasságát adja\nszervetlen állomány (kb. 60-70%): elsősorban kalciumsók alkotják, de\nmintegy 20 különböző elem található benne, a csontok szilárdságát adja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul, majd írja le a mozgásrendszert érintő alábbi sérülések lényegét!\nRuptura: \nDistorsio: \nLuxatio: \nFractura:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "repedés, szakadás - az izmok, inak, szalagok szakadása\nrándulás - erőbehatásra az ízületi fej elhagyja az ízületi árkot, de visszatér az eredeti helyzetbe.\nficam - erőbehatásra az ízületi fej az ízületi árkon kívülre kerül, és nem tér vissza az eredeti helyzetbe.\ncsonttörés - hirtelen erőbehatásra (trauma) a csont folytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ lehetőséget a szívinfarktus\nrizikófaktorainak csökkentésére!",
+      "question_type": "open",
+      "correct_answer": "dohányzás elhagyása\nrendszeres testmozgás\nkoleszterinszegény táplálkozás\nmagas vérnyomás kezeltetése\ncukorbetegség kezeltetése\nhajszolt életmód kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHol helyezkedik el a háromhegyű vitorlás billentyű?",
+      "question_type": "open",
+      "correct_answer": "A jobb pitvar és a jobb kamra között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q007_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 8,
+      "question_text": "Párosítsa a jobb- és a balszívfél elégtelenséget\njellemzőikkel, tüneteikkel! Írja a tünetek számát\na megfelelő csoport mellé!\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n6. nehézlégzés\n7. köhögés\n8. éjszakai vizelés (nocturia)\nBal szívfél elégtelenség: ...\nJobb szívfél elégtelenség: ...",
+      "question_type": "matching",
+      "correct_answer": "2, 4, 6, 7\n1, 3, 5, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül az orrüreg feladatait!\n- belélegzett levegő előmelegítése, párásítása\n- belélegzett levegő mechanikus tisztítása\n- légúti reflexek központja\n- koponya súlyának csökkentése\n- hangok képzése\n- hangszalagok rögzítése\n- ízek érzékelése\n- szagok érzékelése",
+      "question_type": "multiple_choice",
+      "correct_answer": "belélegzett levegő előmelegítése, párásítása\nbelélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\n\nLényege:\nA hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n\nRohamot kiváltó allergének: Írjon négyet /4/!\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\n\nTünetei: Írjon négyet /4/!\n- hirtelen jelentkező nehézlégzés (nehezített kilégzés)\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\n\n- hirtelen jelentkező nehézlégzés (nehezített kilégzés)\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Lényegére: 2 pont; okra és tüneteire: 0,5-0,5 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Állítsa megfelelő sorrendbe az enzimek hatásmechanizmusának szakaszait! Írja le a megállapítások sorszámát megfelelő sorrendben!\n1. egy másik enzim regenerálja az aktív helyet\n2. lejátszódik a kívánt kémiai változás\n3. a szubsztrátum megtapad az enzim aktív helyén\n4. a keletkezett új molekula leválik az enzim felszínéről",
+      "question_type": "fill_in",
+      "correct_answer": "3, 2, 4, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Soroljon fel a féregnyúlvány-gyulladás (appendicitis) lehetséges szövődményei közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "átfúródás\nhashártyagyulladás\ntályog kialakulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Sorolja fel azokat az anyagokat, amelyeket a\nnormál vizelet NEM tartalmaz!",
+      "question_type": "open",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n...\nHonnan indul ki a húgyvezeték (ureter)?\n...\nHonnan indul ki a húgycső (urethra)?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\na vesemedencéből...\na húgyhólyagból...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\nMi a herezacskó szerepe?\nMi építi fel a hímvessző állományát?\nHol található a sárgatest?\nMi a széles méhszalag feladata?\nMennyi a spermiumok élettartama a női szervezetben?",
+      "question_type": "fill_in",
+      "correct_answer": "...a hasüregben...\n...a herék működéséhez szükséges, a test hőmérsékleténél alacsonyabb hőmérséklet biztosítása...\n...három barlangos test...\n...a petefészek kéregállományában...\n...a méhet és a petefészket rögzíti...\n...1-2 nap...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\n\nA betegség lényege:\n\nTünetei: Írjon kettőt /2/!\n\n\n\nKezelése:\n\n(Helyes válaszonként a betegség lényegére, kezelésére 1-1 pont, tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\n\nmegnövekszik a herezacskó\nnyomásérzékenység\nesetenként fájdalom\nsebészi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "- a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a szervezet só- víz háztartását és az ürített vizelet mennyiségét)\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q021_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 1,
+      "question_text": "Nevezze meg az alábbi tünetek alapján a hormonális\neredetű betegséget!\n- bő vizelés (polyuria): napi 3-20 1, alacsony sűrűségű vizelet\n- a beteg szomjazik, sok folyadékot iszik\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Nevezze meg az agyvelő és gerincvelő burkait magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "kemény agyburok - dura mater\npókhálóhártya - arachnoidea\nlágy agyhártya - pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 1,
+      "question_text": "Ismertesse röviden a sclerosis multiplex lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az idegsejt myelinhüvelyének pusztulásával járó kórkép.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q024_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 7,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések típusait! Írjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_16_III_EuMIII_1016_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 8,
+      "question_text": "Nevezze meg az égés (combustio) fokozatait és\ntüneteit/jellemzőit! Írjon a fokozat mellé egy-egy /1-1/\ntünetet/jellemzőt!\n\nI. fokú égés - bőrpír, égő fájdalom, hám érintettség\nII. fokú égés - hólyagok (bullák), égő, heves fájdalom, hám és irha egy\nrésze sérül\nIII. fokú égés - fájdalom hiánya, irha teljes mélysége sérül\nIV. fokú égés - teljes elszenesedés, bőr alatti szövetállomány is sérül\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "I. fokú égés - bőrpír, égő fájdalom, hám érintettség\nII. fokú égés - hólyagok (bullák), égő, heves fájdalom, hám és irha egy\nrésze sérül\nIII. fokú égés - fájdalom hiánya, irha teljes mélysége sérül\nIV. fokú égés - teljes elszenesedés, bőr alatti szövetállomány is sérül",
+      "options": []
+    }
+  }
+]

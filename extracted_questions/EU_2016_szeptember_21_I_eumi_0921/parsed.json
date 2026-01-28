@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt hormonokat\ntermelődésük helye szerint!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n\n1. progeszteron\n2. inzulin\n3. glükagon\n4. tiroxin\n5. kalcitonin\n\nhasnyálmirigy: ......\npajzsmirigy: ......\npetefészek: ......",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3\n4, 5\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőjükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. fibroma\nA. érdaganat\n2. myoma\nB. csontszöveti daganat\n3. angioma\nC. izomszöveti daganat\n4. osteoma\nD. rostos kötőszöveti daganat",
+      "question_type": "matching",
+      "correct_answer": "D; 2.- ...C...; 3.- ...A...; 4.- ...B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul, majd írja le a mozgásrendszert\nérintő alábbi sérülések lényegét!\nDistorsio:\nLuxatio:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "rándulás - erőbehatásra az ízületi fej elhagyja az ízületi\nárkot, de visszatér az eredeti helyzetbe\nficam - erőbehatásra az ízületi fej az ízületi árkon kívülre\nkerül, és nem tér vissza az eredeti helyzetbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a tünetek mellé a betegség sorszámát!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ......\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ......\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ......\nLógó lábfej, befelé néző talp: ......\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ......",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Soroljon fel a jobbszívfél-elégtelenség\n(cardialis decompensatio) tünetei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "cianózis (szederjesség)\nkardiális ödéma (boka- lábszárduzzanat, hasvízkór)\ntelt nyaki vénák\nnappali vizelet mennyisége csökken (oliguria)\néjszakai vizelés (nocturia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért\nfelelős fehérjéket!",
+      "question_type": "open",
+      "correct_answer": "fibrinogén\nprotrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\nkisvérkör erei: ...\nnagyvérkör erei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4\n2, 3, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\n\nHonnan erednek a hangszalagok?\n\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\n\nMi a gégefedő feladata?\n\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "...három...\n...a kannaporcok elülső nyúlványairól...\n...az orri szakaszt...\n...nyeléskor zárja a gégebemenetet...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdőödéma\nC. gége alatti nyálkahártya duzzanata\nD. tüszős mandulagyulladás",
+      "question_type": "matching",
+      "correct_answer": "A.- ...2...; B. ...3...; C.- ...4...; D.- ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá azokat a tüneteket, amelyek emésztőrendszeri\ndaganatos megbetegedésre utalhatnak!\n- indokolatlan fogyás\n- láz\n- székelési ritmus megváltozása\n- ízületi fájdalmak\n- nyelési nehézségek\n- gyakori fejfájás\n- véres széklet\n- ,,málnanyelv” tünet\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nnyelési nehézségek\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás)\nkiváltó okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegentest\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyeketa normál vizelet NEM tartalmaz!\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- fehérje\n- víz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "terhességi vesebaj (toxaemia)\nglomerulonephritis acuta\nnehézfémsó mérgezés\ngombamérgezés\nvércsoport- összeférhetetlenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nés latinul!",
+      "question_type": "open",
+      "correct_answer": "külső hashártya által borított réteg - perimetrium\nközépső izomréteg - myometrium\nbelső nyálkahártyaréteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Csoportosítsa a várandósság jeleit! Írjon egy-egy\npéldát mindegyik csoporthoz!\n\n| gyanújelek | A várandósság jelei | biztos jelek |\n|---------|---------|---------|\n|  | valószínűségi jelek |  |\n|  |  |  |\n|  |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| gyanújelek | A várandósság jelei | biztos jelek |\n|---------|---------|---------|\n| hányinger | valószínűségi jelek | magzatmozgás |\n| szagoktól | menstruáció elmaradása | magzati |\n| undorodás | livid hüvely | szívhangok |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\n\nMely hormon szabályozza a tej kiürülését az emlőből?\n\nHol termelődik az ADH?\n\nHol tárolódik az ADH?\n\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "fill_in",
+      "correct_answer": "...a prolaktin (luteotrop hormon)......az oxytocin......a hypothalamusban......a hipofízis hátulsó lebenyében......diabetes insipidus...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Basedow-kór (hyperthyreosis) tünetei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívműködés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\nnyirkos tenyér és talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó\nneuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó köteg\n2. oldalköteg\n3. elülső-oldalsó köteg\n\nA. vegetatív neuronok\nB. mozgató neuronok\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C..., 2.-...A..., 3.-...B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nItt történik az ingerület átadása egyik idegsejtről a másikra, az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Nevezze meg az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\nTünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrszín\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám/felhám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészség-\nkárosodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_I_eumi_0921_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket és a tünetek észlelésekor az elsősegélynyújtó teendőit!\nTünetek: Írjon négyet!\n- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavartság\nTeendők: Írjon kettőt!\n- sokk-fektetés (hanyatt fekvő helyzet, 20º - os szögben felpolcolt alsó végtagokkal)\n- folyadékpótlás\n- mentőhívás",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság\nsokk-fektetés (hanyatt fekvő helyzet, 20º - os szögben felpolcolt alsó végtagokkal)\nfolyadékpótlás\nmentőhívás",
+      "options": []
+    }
+  }
+]

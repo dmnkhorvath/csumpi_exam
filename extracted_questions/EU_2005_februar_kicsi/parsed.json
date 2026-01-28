@@ -1,0 +1,321 @@
+[
+  {
+    "file": "EU_2005_februar_kicsi_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ streptococcus utóbetegséget!\n- glomerulonephritis acuta\n- rheumás láz\n- szívbelhártya gyulladás\n- szívizom gyulladás\n- szívburok gyulladás\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel az ízületek alkotórészei közül négyet /4/!\n- ízületi árok\n- ízületi tok\n- ízületi porc\n- ízületi tok\n- ízületi szalagok\n- ízületi nedv\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\n- Hol helyezkedik el a háromhegyű vitorlás billentyű?\nA jobb pitvar és a jobb kamra között.\n- Mi a billentyűk feladata?\nA vér egyirányú áramlásának biztosítása.\n- Milyen izmokból áll a vérerek középső rétege?\nSimaizmokból.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q004_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 7,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\npikkelysömör: ...\ntüdőgyulladás: ...\nmagasvérnyomás: ...\nérelmeszesedés: ...\nszürkehályog: ...\ncukorbetegség: ...\ngümőkór: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "psoriasis\npneumonia\nhypertonia\narteriosclerosis\ncataracta\ndiabetes mellitus\ntuberculosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogy nevezzük a szív középső rétegét?\n-\nszívizom\n\nMelyik szívüregbe ömlik a szív saját gyűjtőere (sinus coronarius)?\n-\njobb pitvar\n\nHogy nevezzük a szív elsődleges ingerképző központját?\n-\nsinus csomó",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Sorolja fel a thrombosis kialakulásában szerepet játszó\ntényezőket! (Írjon hármat /3/!)\n- az érbelhártya sérülése\n- a keringés lelassulása\n- a vér összetételének megváltozása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincoszlopot alkotó csigolyák fajtáit!\n- nyakcsigolyák\n- hátcsigolyák\n- ágyékcsigolyák\n- keresztcsonti csigolyák\n- farkcsigolyák",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q008_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el általában az eszméletlen beteget!",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk\njellemző kóros légzéshanggal!\n1. szörcsölő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű\n\nA. tüdőasztma\nB. tüdőödéma\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata",
+      "question_type": "matching",
+      "correct_answer": "1.- ...B...; 2.- ...C...; 3.- ...A...; 4.- ...D...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Írjon három /3/ olyan okot, mely a szervezet folyadék-\nelektrolit háztartás egyensúlyának felborulásához vezethet!\n- hányás\n- hasmenés\n- nagyfokú izzadás\n- vérplazma vesztés",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!\n- patkóbél\n- éhbél\n- csípőbél",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\n(Írja a számokat a megfelelő helyre!)\n1. Víz felszívódása\n2. Zsírok felszívódása\n3. Nincs tápanyag felszívódás\n4. Ásványi anyagok felszívódása\n5. Szénhidrátok felszívódása\n6. Fehérjék felszívódása",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül, azokat a helyeket, testrészeket, ahol a vese eredetű oedema megjelenik!\n- boka\n- szem körül\n- arc\n- keresztcsont\n- tüdő",
+      "question_type": "multiple_choice",
+      "correct_answer": "boka\nszem körül\narc",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Sorolja fel a tubulus részeit!\n- elsődleges kanyarulatos csatorna\n- Henle kacs\n- másodlagos kanyarulatos csatorna",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?\nMi a feladata a vesecsatornáknak (tubulusok)?\nTartalmaz-e az elsődleges vizelet cukrot?\nTartalmaz-e az elsődleges vizelet nagymolekulájú fehérjét?\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "open",
+      "correct_answer": "a szűrés (filtráció)\nvisszaszívás, kiválasztás\ntartalmaz\nnem tartalmaz\na gerincvelő alsó szakaszán",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse a mellrákot (tumor mammae) az alábbiak szerint!\nLényege: a mell állományának rosszindulatú daganatos elfajulása\n\nTünetei: (Írjon négyet /4/!)\n- tapintható csomó a mellben\n- narancshéj behúzódás\n- befordult bimbó\n- váladékozás\n\nMegelőzése: szűrővizsgálattal",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezzen meg kettő /2/ olyan hormont, mely a\nmásodlagos férfi nemi jelleg kialakításáért felelős!\n- tesztoszteron\n- androgén",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxytocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a somatotropnak (növekedési hormonnak)?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a thyroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben",
+      "options": [
+        "a hypophysis hátsó lebenyében",
+        "a hypophysis elülső lebenyében",
+        "a csontok hosszirányú növekedésének serkentése",
+        "a csontok hosszirányú növekedésének gátlása",
+        "a pajzsmirigyben",
+        "mellékvesékben"
+      ]
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket aszerint, hogy\nendokrin mirigy alulműködés vagy túlműködés okozza! Írja a sorszámot a megfelelő csoporthoz!\n1. Gigantizmus\n2. Diabetes insipidus\n3. Basedow kór\n4. Myxoedema\n\nAlulműködés okozza: ...\nTúlműködés okozza: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4\n1, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Sorolja fel a gerincvelő szerkezetét kívülről befelé haladva!\nKívül: helyezkedik el az idegrostokból álló fehérállomány\nBelül: helyezkedik el az idegsejtekből álló szürkeállomány",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: izomerő kiesése, bénulás\n- aphasia: beszédzavar\n- tremor: remegés, akarattól független mozgás\n- hypokinesis: kórosan csökkent mozgástevékenység\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg a halló- és egyensúlyozó szervnek az ábrán\njelölt részeit! (Válaszait írja a számok mellé!)\n\n1. ...fülkagyló...\n2. ...hallójárat...\n3. ...dobhártya...\n4. ...kalapács...\n5. ...üllő...\n6. ...kengyel...\n7. ...félkörös ívjárat...\n8. ...hallóideg...\n9. ...csiga...\n10. ... Eustach-kürt...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Sorolja fel az orr melléküregeit magyarul!\n- arcüreg\n- homloküreg\n- ékcsonti üreg\n- rostacsont üregei",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel a végtagtörés lehetséges szövődményei közül hármat /3/!\n- erek sérülése\n- idegek sérülése\n- vérömleny\n- fertőzés\n- shock",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 5,
+      "question_text": "Ismertesse, hogy tömeges baleset esetén telefonhíváskor, milyen információkat kell közölnie! Írjon ötöt /5/!\n- a bejelentő adatai\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e műszaki mentés",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2005_februar_kicsi_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi az érhártya feladata?\n- az ideghártya táplálása\nHol található a pupilla?\n- a szivárványhártya közepén\nHol termelődik a csarnokvíz?\n- a szem középső burkában, a sugártest termeli\nHol találhatók a látás receptorai?\n- az ideghártyán\nMi a szemlencse feladata?\n- a szem alkalmazkodó képességének biztosítása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

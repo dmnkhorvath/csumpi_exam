@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző és ingerületvezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindegyik felsorolt",
+      "options": [
+        "sinuscsomó",
+        "pitvari rostok",
+        "AV csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "mindegyik felsorolt"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Csoportosítsa az immunitás típusait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. természetes, különböző fertőzések átvészelése\n2. természetes, anyai immunglobulinok\n3. mesterséges, védőoltással kész ellenanyag bevitele\n4. mesterséges, védőoltással antigének bevitele\n\npasszív immunitás: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi kórtani fogalmak lényegét!\nExsudatio:\nTranssudatio:",
+      "question_type": "open",
+      "correct_answer": "...gyulladás következtében az erek áteresztőképessége (permeabilitása) nő, így fehérjék, vérplazma és sejtek jutnak át az érfalon a szövetek közé...\n...gyulladás miatt a kisvénákban uralkodó nyomás nő, folyadék lép ki az érből, ami vizenyőt, izzadmányképződést okoz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a csontvázrendszer funkciói, feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a szervezet szilárd vázát alkotja\n- életfontosságú szerveket véd\n- meghatározza a test alakját és méreteit\n- üregeiben található a vörös csontvelő, amely a vérképzés szerve\n- ásványi anyagokat raktároz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a petyhüdt bénulást a megadott szempontok alapján!\nLényege: ...\nTünetei: Írjon hármat!\n-\n-\n-\n-\nGyógyításának lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "az izmok működésének teljes, vagy részleges hiánya...\na mozgásfejlődés visszamaradása\na szellemi fejlődés visszamaradása\nmozgászavar\nbeilleszkedési zavar\naz alapbetegség kezelése\ngyógytorna\nfizioterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a nagyvérkör a szív bal kamrájából az aortával indul\n- a vér pH-értéke: 7,34-7,42 között mozog\n- a vér pH-értéke: 6,34-6,42 között mozog\n- a vörösvértestek élettartama körülbelül 220 nap\n- a vörösvértestek élettartama körülbelül 120 nap\n- a visszerek a vért a szívből a periféria felé juttatják\n- a vitorlás billentyűk a nagyartériákban és a fő visszerekben helyezkednek el\n- a pulzusszám normál értéke nyugalmi állapotban felnőttnél 60-80/perc\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\n- a kisvérkör a szív jobb pitvarából indul\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a nagyvérkör a szív bal kamrájából az aortával indul\na vér pH-értéke: 7,34-7,42 között mozog\na vörösvértestek élettartama körülbelül 120 nap\na visszerek a vért a szívből a periféria felé juttatják\na pulzusszám normál értéke nyugalmi állapotban felnőttnél 60-80/perc\na vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot, melyek a vérben lúgos\nvegyhatást (alkalosis) idéznek elő!",
+      "question_type": "open",
+      "correct_answer": "- nagyfokú hányás\n- nagyfokú hasmenés\n- légzészavarok (fokozott szén-dioxid leadás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a mélyvénás trombózis kezelésének lehetőségei közül!",
+      "question_type": "open",
+      "correct_answer": "- a végtag pihentetése\n- a végtag megemelése\n- alvadásgátló adása\n- rugalmas pólya alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk jellemző kóros légzési\nhanggal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. tüdővizenyő\nA. sípoló\n2. tüdőasztma\nB. szörcsögő\n3. a gége alatti nyálkahártya duzzanata\nC. horkoló\n4. eszméletlenség\nD. stridoros, húzó jellegű",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...Α...., 3.-...D...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a légzésszámot befolyásoló tényezők közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- életkor\n- fizikai aktivitás\n- akut fájdalom\n- izgalom/szorongás\n- dohányzás\n- testhelyzet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Írjon le a szájnyálkahártya fekélyes gyulladásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- szuvas fogak\n- rosszul illeszkedő fogkoronák\n- fogínygyulladás\n- szájápolás hiányosságai\n- nyálkahártya-sérülés felülfertőződése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi szakaszainak latin vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\nAz emésztőrendszer szakaszai\n| magyarul | latinul |\n|---|---|\n| szájüreg |  |\n|  | rectum |\n| éhbél |  |\n|  | caecum |\n| leszálló vastagbél |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n|  | cavum oris |\n| végbél |  |\n|  | jejunum |\n| vakbél |  |\n|  | colon descendens |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Hol található a vizeletürítés reflexközpontja?",
+      "question_type": "fill_in",
+      "correct_answer": "a gerincvelő alsó szakaszán",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a heveny veseelégtelenség lehetséges okait! Írja a sorszámokat a megfelelő helyre!\n\n1. sokk\n2. terhességi vesebaj\n3. daganatos kompresszió az uréterben\n4. vesekő az uréterben\n5. mérgezés\n6. kiszáradás\n\nVese eredetű lehetséges ok: ...., .....\nA vese előtti lehetséges ok: ...., .....\nVese utáni lehetséges ok: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5.\n1., 6.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a férfi belső nemi szerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": [
+        "here",
+        "mellékhere",
+        "ondóvezeték",
+        "ondózsinór",
+        "ondóhólyag",
+        "dülmirigy"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Ismertesse az endometriózis lényegét, lehetséges következményét!\nLényege: ...\nLehetséges következménye: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A méhben jelenlévő nyálkahártya, az endometrium a méhen kívül\nmáshol is megjelenik a szervezetben....\nmeddőség...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a szervezetben!\n- pajzsmirigy: ...\n- tobozmirigy: ...\n- hipofízis: ...\n- csecsemőmirigy: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a nyak elülső részén, a pajzsporc alatt...\na koponya belsejében...\na középső koponyagödörben, a töröknyeregben...\na gátorüregben, a szegycsont mögött...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az acromegalia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a csontok végi részének megvastagodása\n- megnagyobbodott orr\n- megvastagodott ajak és fül\n- megerősödött állkapocs és szemöldökiv\n- előreugró áll\n- nagy, durva nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertessen a neuroglia feladatai, jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az idegrendszer támasztó eleme\n- a neurontól teljesen eltérő szerkezetű és funkciójú építőelem\n- térkitöltő, elhatároló, elválasztó funkciói vannak\n- az idegfolyamatokban nem vesz részt\n- működése hasonló a többi szerv kötőszövetéhez\n- részt vesz az idegszövet anyagcseréjében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q020_4pt.png",
+    "success": false,
+    "error": "[Errno 9] Bad file descriptor",
+    "error_type": "api_error"
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. vakfolt\nB. sárgafolt\nC. érhártya\nD. sugártest\nE. üvegtest\n\n1. az éleslátás helye\n2. csarnokvíz termelése\n3. itt lép ki a retinából a látóideg\n4. a szem állandó alakjának biztosítása\n5. az ideghártyát táplálja",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...1...., С.-...5...., D.-...2...., E.-4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel az orrsövényferdülés lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- az egyik orrnyílás tágabb\n- akadályozott orrlégzés\n- légzés a szájon át\n- horkolás\n- orrvérzésre való hajlam",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá az elsősegélynyújtás témaköréhez tartozó helyes megállapításokat!\n- A keringés és a légzés csak eszközök segítségével pótolhatók az újraélesztés során.\n- Klinikai halál esetén a betegnek nincs légzése és/vagy keringése.\n- Pneumothorax előfordulása esetén a sérültet félig ülő helyzetben kell elhelyezni.\n- Hasi sérülés esetén az eszméletlen beteget stabil oldalfekvésbe kell helyezni.\n- Trendelenburg helyzet során a beteget vízszintes helyzetbe hozzuk, majd a fejét és vállait megemeljük.\n- Orrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét előre hajtjuk.\n- A felnőtt alapszintű újraélesztés rövidítése az AED mozaikszó.\n- Lázas görcsroham kialakulása a kisgyermekkorban (6 hó - 5 éves kor között) a legjellemzőbb.\n- A lázas görcsroham kialakulása csak a csecsemőkorban jellemző.",
+      "question_type": "open",
+      "correct_answer": "Klinikai halál esetén a betegnek nincs légzése és/vagy keringése.\nPneumothorax előfordulása esetén a sérültet félig ülő helyzetben kell elhelyezni.\nOrrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét előre hajtjuk.\nLázas görcsroham kialakulása a kisgyermekkorban (6 hó - 5 éves kor között) a legjellemzőbb.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_06_eumiv_230406_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Egészítse ki a metszett sebre vonatkozó mondatok hiányzó részeit!\nA metszett sebet valamilyen ... okozza, a sebet pedig az ... jellemzik. A vérzés mennyisége ..., a fertőzésveszély\n... , a fájdalom mértéke pedig ....",
+      "question_type": "fill_in",
+      "correct_answer": "éles tárgy\nép sebszélek\nbőséges\nritka\nkicsi",
+      "options": []
+    }
+  }
+]

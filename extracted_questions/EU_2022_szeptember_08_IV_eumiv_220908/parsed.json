@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- hámszövet\n- idegszövet\n- izomszövet\n- kötő-, és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladástípusokat a képződött izzadmány jellege szerint!",
+      "question_type": "fill_in",
+      "correct_answer": "- savós (serosus) gyulladás\n- gennyes (suppurativ) gyulladás\n- eves-üszkös gyulladás\n- vérzéses gyulladás\n- fibrines gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa az arckoponya csontjait a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. járomcsont\n2. szájpadcsont\n3. ekecsont\n4. rostacsont\n5. könnycsont\n6. állkapocs\n\nPáros csontok: ...., ...., .....\n\nPáratlan csontok: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a Bechterew-kór lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ízületi gyulladások különleges formája. A gerincet és a keresztcsontot alkotó\nízületeket érintő, lassan kialakuló betegség, mely a csigolyák\nösszecsontosodásával jár. Előfordulása a férfiaknál gyakoribb, mint a nőknél.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- A vér különleges szövet, mivel a sejtközötti állománya folyékony.\n- A monocyták a legkisebb fehérvérsejtek és fagocitáló képességgel\nrendelkeznek.\n- A granulocyták plazmája szemcsézett.\n- A vérlemezkék élettartama kb. 14 nap.\n- Az „AB\" vércsoportú egyén széruma anti-A és anti-B agglutinogént\ntartalmaz.\n- A sárga csontvelő a vérképzés elsődleges helye.\n- A vörösvérsejtek hemoglobint tartalmaznak.\n- A vérplazmában található fehérjetermészetű anyagok, az antigének.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vér különleges szövet, mivel a sejtközötti állománya folyékony.\nA vérlemezkék élettartama kb. 14 nap.\nA vörösvérsejtek hemoglobint tartalmaznak.\nA vérplazmában található fehérjetermészetű anyagok, az antigének.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a felületes vénák gyulladásának lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- bőrpír a gyulladt véna felett\n- meleg tapintat\n- megkeményedett és tapintható véna\n- nyomásérzékenység\n- fájdalom\n- hőemelkedés, láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a gégegyulladás jellemző tüneteit és kezelésének lehetőségeit!\nJellemző tünetei:\n- nehézlégzés\n- rekedtség\n- hangadási képtelenség\nGyógyításának, kezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés\n- rekedtség\n- hangadási képtelenség\n- bőséges folyadékfogyasztás\n- a levegő párásítása\n- a nyálkahártyát ingerlő hatások kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. szénhidrátok\n2. zsírok\n3. kötőszöveti rostok\n4. fehérjék\n\nA. tripszin\nB. lipáz\nC. kollagenáz, elasztáz\nD. amiláz\n\n1.-......, 2.-......, 3.-......, 4.-......\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-...C...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a székrekedés lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\nmozgásszegény életmód\na székelési inger gyakori akaratlagos elnyomása\nstressz\ncsekély folyadékfogyasztás\npajzsmirigy-alulműködés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Ismertesse a normál vizelet jellemzőit!\n- színe: ...\n- fajsúlya: ...\n- napi mennyisége: ...\n- vegyhatása: ...\n- szaga: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\n1020-1025 g/l (1001-1040 g/l)\n1,5-2 l\nsavanyú\naromás húslé szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Írja le a pangásos vesebetegség lényegét és kialakulásának okait!\nLényege: ...\nKialakulásának okai:\n1. ...\n2. ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Pangásos vese akkor keletkezik, ha a vesevénában valamilyen okból a nyomás fokozódik....\ncardialis decompensatio...\na vénás vér elfolyása akadályozott...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Egészítse ki a fogamzással kapcsolatos mondatokat!\n\nA... az ovulációt követően a ... jut, ahol találkozik\na spermiumokkal.\n\nA megtermékenyült petesejt első osztódása a ... történik meg.\n\nAz utód megnevezése a terhesség első 8 hetében ..., majd a 2. hónaptól\n....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "érett petesejt\nméhkürtbe\npetevezetékben\nembrió\nmagzat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH (tüszőérést, ondósejtképződést serkentő hormon)\nLH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\nLTH (tejelválasztást serkentő hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar, vagy latin megnevezését! Egészítse ki\na táblázatot!\n\n| Kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | acroposthitis |\n| rejtettheréjűség |  |\n|  | menorrhagia |\n| méhnyakcsatorna-gyulladás |  |\n|  | prolapsus |",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| fitymagyulladás |  |\n|  | cryptorchismus |\n| erős vérzés |  |\n|  | cervicitis |\n| méhelőreesés |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. nagy, kerek arc (holdvilágarc)\n2. zsírlerakódás a törzsön, a hát felső részén\n3. testszerte vizenyő\n4. kékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\n5. fáradtság, lustaság, közömbösség\n6. durva, hideg tapintatú bőr\nA mixödéma tünetei: ....\n\nA Cushing-szindróma tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Sorolja fel a gerincvelő fehérállományát felépítő pályarendszereket!",
+      "question_type": "open",
+      "correct_answer": "- hosszú felszálló érző pályarendszer (afferens)\n- hosszú leszálló motoros pályarendszer (efferens)\n- belső, saját pályarendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a szimpatikus idegrendszeri hatásra\nbekövetkező változásokat!\n- a vércukorszint emelkedik\n- a vércukorszint csökken\n- a vázizomzat tónusa fokozódik\n- a vázizomzat tónusa ellazul\n- a vérnyomás csökken\n- a vérnyomás emelkedik\n- a légzésszám nő\n- a légzésszám csökken\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vércukorszint emelkedik\na vázizomzat tónusa fokozódik\na vérnyomás emelkedik\na légzésszám nő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le a sclerosis multiplex lényegét!",
+      "question_type": "open",
+      "correct_answer": "A központi idegrendszert érintő gyulladásos autoimmun betegség, az idegsejtek\nmyelinhüvelyének pusztulásával járó kórkép. Az egyik leggyakoribb szervi\nidegbetegség az epilepszia mellett. Az első tünetek 20-40 éves kor körül\njelentkeznek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Ismertesse az árpát a megadott szempontok szerint!\nLényege: ...\nKialakulásának oka: ...\nTünetei:\n-\n-\nGyógyításának/kezelésének lehetőségei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a szemhéj mirigyeinek gyulladása...\nbakteriális fertőzés...\na szemhéjon megjelenő érzékeny, fájdalmas csomó\nszemhéjduzzanat\nmeleg borogatás\nantibiotikum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg a külső fül részeit!",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. metszett seb\n2. horzsolt seb\n3. zúzott seb\n4. szakított seb\nA. súrlódás, esés, csúszás\nB. éles tárgy\nC. horgas, kampós eszköz\nD. tompa tárgy",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A..., 3.-...D...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_08_IV_eumiv_220908_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel a koponyaűri vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "rövid ideig tartó eszméletvesztést követő feltisztulás, később ismét\neszméletvesztés\nfejfájás\nszédülés\nhányás\nfokozódó zavartság\negyenlőtlen pupillák (a vérzés oldalán az agynyomás-fokozódásával\npárhuzamosan a pupilla tágul)",
+      "options": []
+    }
+  }
+]

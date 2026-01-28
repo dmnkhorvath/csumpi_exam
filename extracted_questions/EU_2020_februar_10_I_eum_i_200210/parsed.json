@@ -1,0 +1,334 @@
+[
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel! Írja a sorszámokat a megfelelő\nbetűjelhez!\nA. normostheniás (atléta-) alkat\nB. astheniás (leptoszom) alkat\nC. hyperstheniás (piknikus) alkat\nD. kevert alkat\n1. gyengén fejlett izomzat és csontozat, hajlam lúdtalpra, sérvre, alacsony\nvérnyomásra, székrekedésre\n2. széles váll, keskeny csípő, fejlett izomzat, nincs betegséghajlam\n3. hízásra való hajlam, gyakoriak a gyulladások, görcsök, érelmeszesedés,\nkoszorúér-betegségek, agyvérzés, magas vércukorszint és vérnyomás\n4. a főbb alkati típusok tulajdonságai keverednek\nΑ.-......, В.-......, C.- ......., D.- .......",
+      "question_type": "matching",
+      "correct_answer": "2, 1, 3, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szervezet túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "anafilaxiás folyamatok\nasthma bronchiale\nszénanátha\natopic dermatitis (ekcéma)\ntranszfúziós reakciók\nújszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a csontvázrendszer funkciói, feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a szervezet szilárd vázát alkotja\n- életfontosságú szerveket véd\n- meghatározza a test alakját és méreteit\n- üregeiben található a vörös csontvelő, amely a vérképzés szerve\n- ásványi anyagokat raktároz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a mozgásrendszer alábbi sérüléseit!\n- ruptura: ...\n- distorsio: ...\n- luxatio: ...\n- fractura: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szakadás\nízületi rándulás\nízületi ficam\ncsonttörés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vérkörökhöz a hozzájuk tartozó ereket! Írja a sorszámokat\na megfelelő helyre!\n\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalisok\n5. vena cava inferior\n\nkisvérkör erei: ...\nnagyvérkör erei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Ismertesse a lép helyét és feladatát!\nHelye:\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "...a rekesz alatt, a hasüreg bal oldalán található....\nlymphocytaképzés\na vér raktározása\na vörösvértestek lebontása\na vérlemezkék lebontása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a megadott szempontok\nalapján!\n\nLényege:\nA hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n\nTünetei: Írjon négyet!\n\n- hirtelen jelentkező nehézlégzés\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós) nyák ürül\n- szapora pulzus\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n\n- hirtelen jelentkező nehézlégzés\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós) nyák ürül\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. kötőszöveti rostok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...B...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső szakaszának részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": [
+        "végbél",
+        "csípőbél",
+        "szájüreg",
+        "gyomor",
+        "patkóbél",
+        "vastagbél",
+        "nyelőcső",
+        "éhbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat az epekövesség kialakulására hajlamosító tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "epepangás\nhelytelen táplálkozás\nfertőzések\naz életkor előrehaladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "- emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr-, és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a férfi belső nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- petefészek: ......\n- petevezeték: ......\n- hüvely: ........(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ovarium\ntuba uterina\nvagina",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Mi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csontok hosszirányú növekedésének serkentése",
+      "options": [
+        "a csontok hosszirányú növekedésének serkentése",
+        "a csontok hosszirányú növekedésének gátlása"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "szimpatikus idegrendszer\nparaszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. gigantizmus\n2. diabetes insipidus\n3. Basedow-kór\n4. myxoedema\n\nAz endokrin mirigy alulműködése okozza: ....\nAz endokrin mirigy túlműködése okozza: ....(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n....1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex kezelési lehetőségei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszeres kezelés\nszövődmények megelőzése\nmozgásterápia\naktív és passzív tornáztatás\ntáplálkozásreform\nkáros szokások elhagyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- ívjáratok\n- hallócsontok\n- fülkürt\n- hallóideg\n- kengyel\n- csiga\n- dobhártya\n- fülkagyló\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nfülkürt\nhallóideg\ncsiga",
+      "options": [
+        "dobüreg",
+        "ívjáratok",
+        "hallócsontok",
+        "fülkürt",
+        "hallóideg",
+        "kengyel",
+        "csiga",
+        "dobhártya",
+        "fülkagyló"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a szemtengelyferdülés lényegét és tüneteit!\nLényege:\n...\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A szaruhártya és a szemlencse görbülési hibája...\nhomályos, életlen látás\nhunyorgás\nfejfájás\nfáradtság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fájdalom\n- duzzanat\n- alakváltozás\n- vérömleny (haematoma)\n- funkciókiesés (functio laesa)\n- rendellenes mozgathatóság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_10_I_eum_i_200210_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Egészítse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| metszett |  | ritka/kicsi |  |\n| zúzott |  |  |  |\n| horzsolt |  |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| metszett | bőséges |  | kicsi |\n| zúzott | kicsi | nagy | nagy |\n| horzsolt | kicsi | nagy | nagy |",
+      "options": []
+    }
+  }
+]

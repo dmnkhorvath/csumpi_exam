@@ -1,0 +1,287 @@
+[
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel az immunrendszer felépítésében részt vevő limfoid szervek\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "csecsemőmirigy\nnyirokcsomók\nlép\nmandulák\nféregnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Ismertesse az elsődleges teendőket fertőző betegség előfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "- a fertőzés forrásának ártalmatlanná tétele\n- a terjedés megakadályozása\n- a fertőzésnek kitett személyek ellenálló képességének fokozása\n- jelentési kötelezettség esetén a fertőző betegség bejelentése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! İrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nyakszirtcsont\n2. könnycsont\n3. homlokcsont\n4. felső állcsont\n5. ékcsont\n6. járomcsont\n\nAz arckoponya csontjai: ...., ...., ......\n\nAz agykoponya csontjai: ...., ...., ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 6.\n1., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a szív falának rétegeit!",
+      "question_type": "fill_in",
+      "correct_answer": "szívbelhártya\nszívizom\nszívburok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse az arthrosist a megadott szempontok alapján!\nLényege: ...a porc\nKialakulásának lehetséges okai: Írjon kettőt!\n-\n-\n-\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fokozatos elvékonyodása, rugalmasságának csökkenése,\nmajd fokozatos felszívódása...\ngenetikai eredet\nsérülés\ngyulladásos ízületi betegségek\nmozgásterápia\nfizioterápia\ndiéta\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a lép feladatait!\n- lymphocyták képzése\n- vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- méreganyagok kiválasztása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\nvörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó táblázat hiányzó részeit!\nA légzőrendszer részei\n| magyarul | latinul |\n|---------|---------|\n|  | pharynx |\n| gége |  |\n|  | trachea |\n| tüdő |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---------|---------|\n| garat |  |\n|  | larynx |\n| légcső |  |\n|  | pulmo |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Írja le az extrasystole lényegét!",
+      "question_type": "open",
+      "correct_answer": "Rendkívüli összehúzódás, a sinuscsomóban képzett inger helyett a szív a\nmyocardium más helyén képzett inger hatására húzódik össze.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel! Írja a betűjelek mellé a helyes\nválasz sorszámát!\n\nA. tüszős mandulagyulladás\nB. gége alatti nyálkahártya duzzanat\nC. tüdővizenyő\nD. tüdőasztma\n\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési hang",
+      "question_type": "matching",
+      "correct_answer": "Α.-...1...., Β.-...4...., C.-...3...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszához tartozó anatómiai képleteket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "felszálló vastagbél\nszigmabél\nharánt vastagbél\nvégbél",
+      "options": [
+        "felszálló vastagbél",
+        "patkóbél",
+        "szigmabél",
+        "éhbél",
+        "csípőbél",
+        "haránt vastagbél",
+        "gyomor",
+        "végbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel a garatgyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- rossz közérzet\n- fáradtság\n- fejfájás\n- láz\n- égő, kaparó kellemetlen érzés a torokban/garatban\n- torokfájás\n- orrnyálkahártya-duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi a vizelet fajsúlya?",
+      "question_type": "fill_in",
+      "correct_answer": "1020-1025 g/l (1001-1040 g/l)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. érgomolyag\n2. Bowman-tok\n3. Henle-kacs\n4. másodlagos kanyarulatos csatorna\n5. glomerulus\n6. elsődleges kanyarulatos csatorna\n\nMalpighi-test része: ...1., 2., 5....\ntubulus része: ...3., 4., 6.....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a külső női nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "nagyajkak\nkisajkak\ncsikló",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a premenstruációs zavarok (PMS) lehetséges tünetei\nközül!",
+      "question_type": "open",
+      "correct_answer": "depresszió\ningerlékenység\ncsökkent koncentrálóképesség\nfejfájás\nemlőérzékenység\nálmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n\n- a csontok hosszirányú növekedésének gátlása\n- a csontok hosszirányú növekedésének serkentése\n\nHol termelődik a tiroxin?\n\n- a pajzsmirigyben\n- mellékvesékben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n\n- a testnövekedést fokozza\n- a testnövekedést gátolja\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csontok hosszirányú növekedésének serkentése\n\na pajzsmirigyben\n\na testnövekedést gátolja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a mellékpajzsmirigy túlműködésének lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- a vér Ca-szintjének emelkedése\n- vesekőképződés\n- felritkult, törékeny csontok\n- gyomorfekély kialakulása\n- hasnyálmirigy-gyulladás\n- szívritmuszavarok\n- magas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon négy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- látászavar\n- akadozó beszéd\n- spasticus bénulás\n- mozgászavar\n- incontinentia\n- nystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. csalánkiütés\n2. ekcéma\n3. gennyes bőrgyulladás\n4. orbánc\n5. szemölcs\n6. övsömör\nA. fájdalmas kiütések, folyadékkal telt\nhólyagok az ideg lefutása mentén\nB. élénkpiros, lángnyelvszerűen tovakúszó\nfolt\nC. fekély, gennyképződés, bűzös\nváladékozás\nD. viszkető, pici hólyagok, nedvedzés, majd\nhámlás\nE. a bőrből enyhén kiemelkedő halvány,\ncsoportosan megjelenő kiütések\nF. kisebb-nagyobb kemény bőrkinövés a test\nkülönböző részein\n1.- ..., 2.-..., 3.-..., 4.-..., 5.- ..., 6.- ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "E, D, C, B, F, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\n\nHallószerv receptora: ...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszaglóhám-sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy olyan okot, ami eszméletzavarhoz vezethet!",
+      "question_type": "open",
+      "correct_answer": "- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere-folyamatok zavarai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_16_VI_eumvi_200716_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódóan a földön fekvő\nsérült vizsgálatára vonatkozó mondatokat!\nA segélynyújtónak legelőször gondoskodnia kell a ... környezet\nmegteremtéséről.... Ez után az első lépés ... az ...\nvizsgálata. Amennyiben a sérült nem reagál, nem vonható kontaktusba, akkor\nazonnal ... kell... hívnunk. A következő teendő ...a ...\nfelszabadítása/szabaddá tétele..., a fej hátrahajtásával, vagy az áll\nelőreemelésével.",
+      "question_type": "fill_in",
+      "correct_answer": "biztonságos\neszmélet/reakciókészség\nsegítséget\nlégutak",
+      "options": []
+    }
+  }
+]

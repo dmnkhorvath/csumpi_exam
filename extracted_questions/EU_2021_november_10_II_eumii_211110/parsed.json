@@ -1,0 +1,312 @@
+[
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az alkati típusokra vonatkozó helyes\nmegállapításokat!",
+      "question_type": "open",
+      "correct_answer": "A piknikus alkat hízásra, pocakosodásra hajlamos, zömök, kerekded\ntestalkatú.\nA piknikus alkatúak hajlamosak az alacsony vérnyomásra és a székrekedésre.\nAz astheniás alkat hajlamos a lúdtalp, a sérv kialakulására és az alacsony\nvérnyomásra.\nA normostheniás alkatot a keskeny csípő és a fejlett izomzat jellemzi.\nA hyperstheniás alkatú embereknél gyakoriak a gyulladásos betegségek, az\nérelmeszesedés és az agyvérzés.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Sorolja fel magyarul a szervezet megváltozott működésének lehetséges típusait!",
+      "question_type": "open",
+      "correct_answer": "fokozott működés\ncsökkent működés\nműködés hiánya\nrendellenes működés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Írja le az arckoponya csontjainak magyar, vagy latin megfelelőjét! Egészítse\nki a táblázatot!\n\n| Arckoponya csontjai |  |\n|---------|---------|\n| magyarul | latinul |\n| felső állcsont | maxilla |\n| járomcsont |  |\n| rostacsont | os ethmoidale |\n| orrcsont |  |\n| állkapocs | mandibula |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Arckoponya csontjai |  |\n|---------|---------|\n|  |  |\n|  | os zygomaticum |\n|  |  |\n|  | os nasale |\n|  |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse az izomsorvadás lényegét, kezelésének lehetőségeit!\nLényege:\n\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Nem idegrendszeri eredetű izomelfajulásos betegség, amelyre jellemző az izmok fokozatos, megállíthatatlan sorvadása.\ngyógytorna\nfizioterápia\naz izmok kifárasztásának kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a vér egyes alkotórészeihez a rájuk jellemző funkciót! Írja a\nbetűjelek mellé a helyes válasz sorszámát!\nA. vérlemezkék\nB. vörösvérsejt (hemoglobin)\nC. B-lymphocyták\nD. vérplazma\nE. monocyták\n1. hormonok szállítása\n2. fagocitózis\n3. oxigén megkötése\n4. immunglobulinok termelése\n5. véralvadás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...5...., В.-...3...., С.-...4...., D.-...1...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a szekunder (másodlagos) hypertonia lehetséges okai\nközül!",
+      "question_type": "open",
+      "correct_answer": "- veseartéria szűkülete\n- vesemedence-gyulladás\n- pajzsmirigy-túlműködés\n- arterioszklerózis\n- központi idegrendszer betegségei\n- terhességi toxikózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja a sorszámokat a megfelelő helyre!\n1. a tüdő szövetét nem táplálja\n2. a tüdő szövetét táplálja\n3. a gázcseréhez szükséges vért szállítja\n4. a szív jobb kamrájából indul\n5. a mellkasi aortából indul\n6. a gázcsere lebonyolításában nincs feladata\ntruncus pulmonalis rendszer: ...\narteria bronchialis rendszer: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4....\n2., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőtágulást a megadott szempontok szerint!\nOka:\nLehetséges tünetei: Írjon négyet!\nLehetséges szövődménye/következménye:",
+      "question_type": "open",
+      "correct_answer": "...tartósan erőltetett légzés, pl. asztma, bronchitis miatt....\nköhögés\nnehézlégzés\ncianózis\nszapora légzés\nlevegő visszamaradása a tüdőben kilégzés során\n...tüdőeredetű keringési elégtelenség/nagyvérköri pangás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg az emberi bélférgességet okozó féregfajták osztályait!",
+      "question_type": "open",
+      "correct_answer": "- fonalférgek\n- orsóférgek\n- szalagférgek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes megállapításokat!\n- A vékonybél a tápcsatorna leghosszabb szakasza.\n- A gyomorban szénhidrát- és fehérjeemésztés zajlik.\n- Fűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.\n- A disszimiláció a lebontási folyamatok összessége.\n- Az életkor előrehaladtával az asszimilációs folyamatok hangsúlyosabbá válnak.\n- A patkóbél mintegy 30 cm hosszú bélszakasz.\n- A maradéknitrogén a zsíranyagcsere során keletkező bomlástermék.\n- A máj közvetlenül a rekesz alatt, nagyobb részében a bal oldalon helyezkedik el.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "A vékonybél a tápcsatorna leghosszabb szakasza.\nA gyomorban szénhidrát- és fehérjeemésztés zajlik.\nFűszeres ételek fogyasztása fokozza a gyomorperisztaltikát.\nA disszimiláció a lebontási folyamatok összessége.\nA patkóbél mintegy 30 cm hosszú bélszakasz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Ismertesse a húgysavanyagcsere-zavar (köszvény) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A húgysavanyagcsere zavara következtében húgysavkristályok keletkeznek és az ízületekben felhalmozódva gyulladásos rohamokat okoznak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Egészítse ki a veseműködés idegi szabályozására vonatkozó mondatok\nhiányzó részeit!\n\nAz idegi szabályozás a vese ... viselkedésére hat. Gyengébb idegi\ningerek hatására a glomerulusokból elvezető arteriolák ..., ezért a\nglomerulusban ... a vérnyomás, ... a szűrés, a vizelet\nmennyisége pedig ... fog.\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ereinek\nszűkülnek\nemelkedik\nfokozódik\nnőni/növekedni",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a terhességi vesebaj jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- a terhesség második felében jelentős testsúlynövekedés\n- nagyfokú ödémaképződés\n- hipertónia\n- proteinuria\n- eclampsiás görcsroham",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa a férfi nemi szervekhez jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. here\nA. feladata a spermiumok tárolása és\nelvezetése\n2. ondóvezeték\nB. gesztenye nagyságú és alakú, a\nhúgyhólyag alatt helyezkedik el\n3. dülmirigy\nC. erős izomzatú vastagfalú cső, amely a\nmellékherétől a húgyhólyag alapjáig ér\n4. mellékhere\nD. a hímivarsejteket és a tesztoszteront\ntermeli\n5. ondóhólyag\nE. páros szerv, rövid kivezetőcsöve az\nondóvezetékbe nyílik",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...Β...., 4.-...Α...., 5.-...Ε....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a méhnyakrák jellemzőit, gyógyításának lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "Tünetei/jellemzői: Írjon hármat!\n- eleinte semmilyen panaszt sem okoz\n- folyás\n- véres váladékozás\n- közösülés után jelentkező vérzés\nGyógyításának lehetőségei: Írjon kettőt!\n- műtét\n- kemoterápia\n- besugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a glükagon hatásai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az inzulinnal ellentétes hatású, növeli a vércukorszintet\n- mozgósítja a májban tárolt glükogént\n- elősegíti a glükogén lebontását\n- fokozza a zsír lebontását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. gigantismus\n2. nanismus\n3. Addison-kór\n4. Cushing-szindróma\n5. phaeochromocytoma\n6. myxoedema\nAz endokrin mirigy alulműködése okozza: ...\nAz endokrin mirigy túlműködése okozza: ....(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerincvelő működését jellemző reflexcsoportokat!",
+      "question_type": "open",
+      "correct_answer": "- izomeredetű, saját (proprioceptív) reflexek\n- bőreredetű, külső (exteroceptív) reflexek\n- zsigeri (vegetativ) reflexek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyi vérellátási zavarok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- transient ischaemic attack (TIA)\n- prolongált ischaemiás neurológiai deficit (PRIND)\n- progresszív stroke (PS)\n- agyi érelmeszesedés\n- subarachnoidealis vérzés\n- agytrombózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Írja le a bőr rétegeit latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "- epidermis\n- corium\n- subcutis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a heveny kötőhártya-gyulladás tüneteit! Írjon hatot!",
+      "question_type": "open",
+      "correct_answer": "- szúró érzet\n- viszketés\n- könnyezés, váladékozás\n- kipirosodás\n- homályos látás\n- fényérzékenység\n- idegentest érzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+      "options": [
+        "sinuscsomó → pitvar-kamrai csomó → Tawara-szárak → His-köteg → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+        "pitvar-kamrai csomó → sinuscsomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → His-köteg → Purkinje-rostok → Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Állítsa sorrendbe a sebellátás menetét! Írja a sorszámokat a pontozott\nvonalakra!\n... .... a sebszélek fertőtlenítése\n... .... a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\n... .... a seb steril fedése, a kötés rögzítése\n... .... a seb környékének megtisztítása\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_10_II_eumii_211110_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel a koponyaűri vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- rövid ideig tartó eszméletvesztést követő feltisztulás, később ismét eszméletvesztés\n- fejfájás\n- szédülés\n- hányás\n- fokozódó zavartság\n- egyenlőtlen pupillák (a vérzés oldalán az agynyomás-fokozódásával párhuzamosan a pupilla tágul)",
+      "options": []
+    }
+  }
+]

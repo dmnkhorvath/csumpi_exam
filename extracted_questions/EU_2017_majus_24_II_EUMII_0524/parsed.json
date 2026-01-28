@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Ismertessen a fertőző betegségek létrejöttét befolyásoló tényezők közül hármat!",
+      "question_type": "open",
+      "correct_answer": "a szervezet immunrendszerének csökkent működése\na kórokozó virulenciája\na kórokozók száma\na kórokozó behatolási kapuja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Sorolja fel az ízületek alkotórészeit!",
+      "question_type": "open",
+      "correct_answer": "- ízületi fej\n- ízületi árok\n- ízületi tok\n- ízületi porc\n- ízületi szalagok\n- ízületi nedv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit! Írjon egy-egy\npéldát mindegyik csoporthoz!\n\nGyanújelek:\n- émelygés\n- hányinger, hányás\n- kedélyállapot-változás\n- fokozott étvágy\n\nValószínűségi jelek:\n- menstruáció elmaradása\n- bővebb hüvelyváladék\n- livid hüvely\n- pozitív terhességi teszt\n\nBiztos jelek:\n- magzatmozgás\n- magzati szívhangok",
+      "question_type": "open",
+      "correct_answer": "Gyanújelek:\n- émelygés\n- hányinger, hányás\n- kedélyállapot-változás\n- fokozott étvágy\n\nValószínűségi jelek:\n- menstruáció elmaradása\n- bővebb hüvelyváladék\n- livid hüvely\n- pozitív terhességi teszt\n\nBiztos jelek:\n- magzatmozgás\n- magzati szívhangok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál\na húgycső felől felszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q005_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 9,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n|  | kimozin | tejfehérje |\n|  |  | zsír |\n|  | tripszin |  |\n|  | amiláz, maltáz, laktáz |  |\n|  |  | zsír |",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n|  |  |  |\n|  | lipáz |  |\n| vékonybél |  | fehérje |\n|  |  | szénhidrát |\n|  | lipáz |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Ismertesse az agyhártyagyulladás (meningitis) lehetséges okait, tüneteit!\nOkai: Írjon kettőt!\n- baktériumok okozta fertőzés\n- vírusok okozta fertőzés\n- gombák okozta fertőzés\n- paraziták okozta fertőzés\nTünetei: Írjon négyet!\n- heves fejfájás, fény- és zajérzékenység\n- magas láz\n- zavart tudat\n- aluszékonyság\n- hányás\n- „vadászkutyafekvés\"",
+      "question_type": "open",
+      "correct_answer": "baktériumok okozta fertőzés\nvírusok okozta fertőzés\ngombák okozta fertőzés\nparaziták okozta fertőzés\nheves fejfájás, fény- és zajérzékenység\nmagas láz\nzavart tudat\naluszékonyság\nhányás\n„vadászkutyafekvés\"",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Sorolja fel a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a tünetek mellé a betegség sorszámát!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ... ....\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ... ....\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ... ....\nLógó lábfej, befelé néző talp: ... ....\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ... ....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Írja le az oxitocin hormon termelődésének helyét és\nszerepét!\n\nTermelődés helye:\n- az agyalapi mirigy (hypophysis) hátsó lebenye\n\nSzerepe:\n- erős méhösszehúzódásokat vált ki (szülést beindítja)\n- az emlőkből a tej kiürülését segíti (szülés után)",
+      "question_type": "open",
+      "correct_answer": "az agyalapi mirigy (hypophysis) hátsó lebenye\nerős méhösszehúzódásokat vált ki (szülést beindítja)\naz emlőkből a tej kiürülését segíti (szülés után)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hát és a has izmai közül kettőt-kettőt!\n\nhátizmok:\n- csuklyás izom\n- széles hátizom\n- mély hátizmok\n- tarkóizmok\n\nhasizmok:\n- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "question_type": "open",
+      "correct_answer": "csuklyás izom\nszéles hátizom\nmély hátizmok\ntarkóizmok\negyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit!\nÍrja a helyes válasz betűjelét a megfelelő helyre!\nA. dobüreg\nB. csontos labirintus\nC. hártyás labirintus\nD. hallócsontok (kalapács, üllő, kengyel)\nE. fülkürt (Eustach-kürt)\nközépfül részei: ...\nbelső fül részei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A., D., E....\nB., C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- a vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- méreganyagok kiválasztása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\na vörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása\nC-vitamin tárolása",
+      "options": [
+        "lymphocyták képzése",
+        "a vörösvérsejtek lebontása",
+        "vérlemezkék lebontása",
+        "glükogén raktározása",
+        "maltáz termelése",
+        "vér raktározása",
+        "C-vitamin tárolása",
+        "méreganyagok kiválasztása"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q013_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a pupilla?\nHol termelődik a csarnokvíz?\nHol találhatók a látás receptorai?\nMi a szemlencse feladata?",
+      "question_type": "open",
+      "correct_answer": "a szivárványhártya közepén...\na szem középső burkában a sugártest termeli...\naz ideghártyán...\na szem alkalmazkodóképességének biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan okot, amely\neszméletvesztéshez vezethet!",
+      "question_type": "open",
+      "correct_answer": "fizikai kórokok\nvérkeringési zavar\ngyulladás\ndaganat\nanyagcsere folyamatok zavarai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészség-károsodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés, vagy a betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Ismertesse a kalcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "gátolja a Ca felszabadulását a csontokból\nmegakadályozza a vérben a magas Ca-szint kialakulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes állításokat!\n- az óriásnövés közvetlen oka a növekedési hormon csökkent termelődése\n- a diabetes insipidus tünetei a bő vizelés és a szomjúság\n- a strúma a mellékvese megnagyobbodásával járó kórkép\n- az akromegália a csontvégek meghosszabbodását jelenti\n- a myxoedema a pajzsmirigy fokozott működése (hypothyreosis) miatt\nalakul ki\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\n- a cukorbetegség (diabetes mellitus) oka inzulinhiány\n- a hyperglykaemias kómánál a lehelet aceton szagú\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a diabetes insipidus tünetei a bő vizelés és a szomjúság\naz akromegália a csontvégek meghosszabbodását jelenti\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan esetet, amikor nincs remény\naz újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- élettel összeegyeztethetetlen sérülés\n- hosszas haldoklás után beállt halál\n- a halál biztos jeleinek megjelenése\n- bizonyítottan hosszú oxigénhiányos állapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\nkisvérkör erei: ...., ....\nnagyvérkör erei: ...., ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a jellegzetes köpeteket a megfelelő\nbetegségekhez! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α...., 2.-.D., 3.-B..., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Ismertesse az elsődleges vizelet jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- mennyisége: kb. napi 180 liter\n- fajsúlya: 1010\n- a vérplazma fehérjementes szűrlete",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_II_EUMII_0524_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Nevezze meg az agyvelő burkait magyarul!",
+      "question_type": "open",
+      "correct_answer": "kemény agyburok\npókhálóhártya\nlágy agyhártya",
+      "options": []
+    }
+  }
+]

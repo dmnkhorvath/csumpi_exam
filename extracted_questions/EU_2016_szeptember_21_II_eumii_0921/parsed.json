@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A hasonló alakú, azonos funkciójú, közös eredetű sejtek összességét, a hozzá tartozó sejtközötti állománnyal együtt szövetnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Sorolja fel magyarul a férfi belső nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a tünetek mellé a betegség sorszámát!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ...\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ...\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ...\nLógó lábfej, befelé néző talp: ...\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ...",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék\n- \n- \n- \n- \n- ionok\n- nitrogéntartalmú anyagok\n- hormonok\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "zsírok, lipoidok\nszénhidrátok\nvéralvadási faktorok\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki a táblázatot!\n\n| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|-----------------------------------|\n| STH           |                                   |\n| ADH           |                                   |\n| FSH           | nő                                  |\n|               | férfi                               |\n| tiroxin       |                                   |",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|-----------------------------------|\n| STH           | - a test növekedésének szabályozása - fokozza a fehérjeszintézist |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban - érösszehúzó - emeli a vérnyomást |\n| FSH           | nő - megindítja a tüszőérést - a petefészekre hat |\n|               | férfi - fokozza a spermatogenezist - a herékben megindítja az ondósejtek képződését |\n| tiroxin       | - fokozza az anyagcserét - szabályozza a szöveti oxidációt |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hypovolaemiás sokk lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nnagyfokú hányás\nhasmenés\nszomjazás\négési sérülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérellátását\nbiztosító ereket!",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer\nvédekezését mozgósítják, antigénnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel a tbc megelőzésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\ntágulnak",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a megadott szempontok alapján!\nMennyisége: \nFajsúlya: \nÖsszetétele: Írjon négyet!\n- víz\n- ásványi anyagok\n- cukor\n- aminosavak\n- festékanyagok",
+      "question_type": "fill_in",
+      "correct_answer": "napi 180 l\n1010 g/l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz az előidéző okokat!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel\noliguria: ...\npolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Soroljon fel a hasnyálmirigy hormonjai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a felső ugróízület (bokaízület) alkotásában\nrészt vevő csontokat!",
+      "question_type": "open",
+      "correct_answer": "sípcsont\nszárkapocscsont\nugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő anyaggal!\nÍrja a sorszámokat a megfelelő helyre!\n1. víz\n2. zsírok\n3. alkohol\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\ngyomor: ......\nvékonybél: ......\nvastagbél: ......",
+      "question_type": "matching",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa a daganatok formáit jellemzőik alapján!\nÍrja be a táblázatba a megadott csoportokhoz a helyes válasz\nsorszámát!\n\nJellemzők:\n1. növekedése lassú\n2. áttétet (metasztázis) képezhet\n3. átszövi a környező\nszöveteket, összenő velük\n4. környezetétől élesen elhatárolódik\n5. eltávolítása után kiújulhat (recidivál)\n6. sejtjei és szerkezete hasonlít a\nkiinduló szövet sejtjeihez\n\n| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok |  |\n| Rosszindulatú daganatok |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok | 1, 4, 6 |\n| Rosszindulatú daganatok | 2, 3, 5 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nméhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\nHipofízis: \nCsecsemőmirigy: \nHasnyálmirigy: \n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "a koponyaalapon az ékcsont árkában\na gátorüregben a szegycsont mögött\na patkóbél homorulatában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve  pont\nmagyar megfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n|  | bénulás |\n|  | remegés (akarattól független)|\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n| paralysis |  |\n| tremor |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a szemmel kapcsolatos alábbi\nkérdésekre!\n\nMi az érhártya feladata?\n\nHol található a pupilla?\n\nHol termelődik a csarnokvíz?\n\nHol találhatók a látás receptorai?\n\nMi a szemlencse feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "... az ideghártya táplálása...\n...a szivárványhártya közepén...\n...a szem középső burkában (a sugártest termeli)...\n...az ideghártyán...\n...a szem alkalmazkodóképességének biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Határozza meg a reflexív fogalmát és részeit!\nFogalma:\n\nRészei:\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya.\nreceptor\nérző neuron (afferens szár)\nreflexközpont\nmozgató neuron (efferens szár)\neffektor (válasz), végkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_21_II_eumii_0921_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nféloldali végtagbénulás, arcbénulás\nbeszédzavar\nzavart tudat\nhirtelen eszméletvesztés",
+      "options": []
+    }
+  }
+]

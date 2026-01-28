@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Töltse ki a betegségek lefolyására vonatkozó táblázatot!\n\nA betegségek csoportosítása lefolyás szerint\n| magyarul | latin szakkifejezéssel |\n|---------|---------|\n|   |   |\n|   |   |\n|   |   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latin szakkifejezéssel |\n|---------|---------|\n| heveny | akut |\n| félheveny | szubakut/subacut |\n| idült | krónikus/chronicus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejthártya funkciói közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- elválasztja a sejtet a körülötte lévő tértől\n- biztosítja a sejt védelmét\n- fenntartja a sejt alakját\n- részt vesz az anyagcsere folyamatokban\n- szerepe van az ingerületvezetésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe ömlik a vena cava superior?",
+      "question_type": "multiple_choice",
+      "correct_answer": "jobb pitvar",
+      "options": [
+        "jobb kamra",
+        "bal kamra",
+        "jobb pitvar",
+        "bal pitvar"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse a veleszületett csípőficamot a megadott szempontok szerint!\nA betegség lényege:\nTünetei: Írjon kettőt!\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...A combcsont ízületi feje elhagyja az ízületi vápát és ott rögzül....\n- a farredők ráncainak aszimmetriája\n- az alsó végtagok hosszkülönbsége\n- bicegő, kacsázó járás\n- izomerősítés\n- gyógytorna\n- szükség esetén műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Ismertesse a csöves csont szerkezetét!",
+      "question_type": "open",
+      "correct_answer": "- kívül csonthártya borítja\n- tömör szerkezetű csontállomány (kompakt állomány)\n- lemezes szerkezetű szivacsos állomány (spongiosa állomány)\n- belsejében velőüreg, benne csontvelő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző funkciókkal! Írja a\nbetűjelek mellé a helyes válasz sorszámát!\nA. fehérvérsejt\nB. vörösvérsejt (hemoglobin)\nC. vérlemezkék\nD. vérplazma\n1. véralvadás\n2. hormonok szállítása\n3. immunvédekezés\n4. oxigén megkötése",
+      "question_type": "matching",
+      "correct_answer": "3, 4, 1, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a jobbszívfél-elégtelenség jellegzetes tüneteit!\n- telt nyaki vénák\n- kisvérköri pangás\n- nyugalmi dyspnoe\n- cianózis\n- a vizelet mennyisége csökken\n- a vizelet mennyisége emelkedik\n- boka,- lábszárödéma, hasvízkór\n- köhögés\n- tüdőödéma\n- éjszakai vizelés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\nkisvérköri pangás\na vizelet mennyisége csökken\nboka,- lábszárödéma, hasvízkór\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az alábbi betegségeket!\nVálaszát írja a pontozott vonalra!\n\nA mellhártya lemezei közé került levegő következtében a megváltozott\nnyomás hatására - a tüdő összeesik.\n...\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "légmell (pneumothorax)\ncor pulmonale",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A vérplazma ozmotikus nyomását elsősorban a(z) ... biztosítja.",
+      "question_type": "fill_in",
+      "correct_answer": "Na+ ionok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a légzés megfigyelésénél feljegyezendő szempontokat!",
+      "question_type": "open",
+      "correct_answer": "- a légzés száma\n- a légzés mélysége\n- a légzés ritmusa\n- a légzés hangja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Ismertesse a tüdő kettős vérellátását biztosító érrendszerek feladatát!\n- arteria bronchialis rendszer feladata: ...\n- truncus pulmonalis rendszer feladata: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a tüdő szövetét táplálja... a gázcseréhez szükséges vért szállítja a tüdőbe...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a vörösvérsejtek fokozott szétesése miatt kialakuló sárgaság\nlehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- helytelen vércsoportú transzfúzió adása\n- mérgezések\n- baktériumfertőzések\n- anyai-magzati vér Rh-inkompatibilitása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet játszó tényezők közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- egyes gyógyszerek\n- fertőzés (Helicobacter pylori)\n- étrendi hibák (koffein, fűszerek, rendszertelen étkezés)\n- fokozott sav-, és pepszintermelés\n- dohányzás\n- örökletes tényezők\n- életmódbeli tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megfelelő szervhez! Írja a sorszámokat a\nmegfelelő helyre!\n1. nők esetében 3-4 cm hosszú\n2. kb. 30 cm hosszú\n3. latin neve ureter\n4. latin neve urethra\n5. átfúrja a gátat\n6. a húgyhólyag falát ferdén fúrja át\nhúgyvezeték: ...\nhúgycső: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a heveny vesegyulladás okát, lehetséges tüneteit!",
+      "question_type": "open",
+      "correct_answer": "autoimmun folyamatok – bakteriális fertőzés\nutóbetegsége...\náltalános tünetek: gyengeség, fejfájás, étvágytalanság\ntompa deréktáji fájdalom\nszem körüli-, boka-, csuklóödéma\nhőemelkedés, láz\nvizeletben fehérje és vér megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh falának rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső, hashártya által borított réteg\n- középső izomréteg\n- belső nyálkahártyaréteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Ismertessen a prosztatagyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gáttájék, derék, hímvessző és herék fájdalma\ngyakori vizelési inger\nfájdalmas, égő vizelés\nvizelési nehézség\nvéres vizelet\nmerevedés és az ejakuláció nehezített, fájdalmas\ntelítettségi érzés a végbélben\nhidegrázás, magas láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel a pajzsmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "tiroxin\ntrijód-tironin\nkalcitonin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse az arányos törpeséget a megadott szempontok szerint!\nLényege:\n\nLehetséges tünetei:",
+      "question_type": "open",
+      "correct_answer": "...Az agyalapi mirigy csökkent működése következtében kialakuló kórosan\nlassú növekedés, arányos testméretekkel...\n\nminden testrész, szerv arányosan kisebb a normálisnál\nöreges arcvonások\nmásodlagos nemi jelleg hiánya, elmaradt pubertás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. VII. agyideg\nA. egyensúlyozó és hallóideg\n2. VIII. agyideg\nB. bolygóideg\n3. IX. agyideg\nC. arcideg\n4. X. agyideg\nD. nyelv-garat ideg\n5. XI. agyideg\nE. nyelv alatti ideg\n6. XII. agyideg\nF. járulékos ideg\n\n1.-......, 2.-......, 3.-......, 4.-......, 5.-......, 6.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "C, A, D, B, F, E",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Nevezze meg az éberségi zavarokat!",
+      "question_type": "open",
+      "correct_answer": "kábultság\nsomnolentia/kóros aluszékonyság\nsopor/mély alvás\nkóma/eszméletlenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Írja le magyarul a szemgolyó burkainak részeit a megadottak szerint!\nA szem középső burkának részei:\n\nA szem belső burkának részei:",
+      "question_type": "fill_in",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest\nideghártya\npigmentréteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q023_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 7,
+      "question_text": "Ismertesse a keszonbetegség lényegét és lehetséges tüneteit!\nLényege:\n...\nformájában a fülben és más szervekben érelzáródást okozhat....\nLehetséges tünetei: Írjon ötöt!\n-\n-\n-\n-\n-\n-\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A vérpályában és a szövetekben nitrogén felszabadul fel, amely buborékok\nbedugult fül érzése\nenyhe fájdalom\nfülzúgás/fülcsengés\nhalláscsökkenés, siketség\nigen heves, forgó jellegű szédülés\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nkritikus lehűlés: ...\négés: ...\nmérgezés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "hypothermia\ncombustio\nintoxicatio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_07_IV_eumiv_210607_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Határozza meg az időfaktor és a magas időfaktor lényegét!",
+      "question_type": "open",
+      "correct_answer": "Időfaktor lényege: Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.\nMagas időfaktor lényege: Magas az időfaktor, ha igen rövid idő alatt, igen\nsokat romlik a balesetes állapota.",
+      "options": []
+    }
+  }
+]

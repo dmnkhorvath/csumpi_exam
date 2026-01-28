@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\nmegfelelőiket!\nRegeneráció: ...\nHypertrophia: ...\nAtrophia:... \nNecrosis: ...\nHypoplasia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a szövetek újraképződése\ntúltengés\nsorvadás\nelhalás\ncsökkent értékű fejlődés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Rendelje a betegségek lefolyásának formáihoz azok\njellemzőit! Írja a csoportok mellé a hozzájuk tartozó jellemzők\nszámát!\n\nA betegség lefolyásának jellemzői:\n1. rövid ideig tart (1-2 naptól 2-4 hétig)\n2. hosszantartó (évekig, évtizedekig)\n3. elhúzódó lefolyású (max. 4-6 hét)\n4. heves tünetekkel jár\n5. nem jár viharos tünetekkel\n6. nyugalmi és aktív szakaszok\nváltakoznak\n\nA betegség lefolyásának formái:\nHeveny/acut...\nFélheveny/subacut ...\nIdült/chronicus ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4\n3, 5\n2, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a medencecsontot alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a spondylarthritis ankylopoetica (SPA) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek gyulladásos megbetegedése miatti degeneratív elváltozás, mely végül a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi\nbillentyűk!\n\nKéthegyű vitorlás billentyű:\n...\n\nHáromhegyű vitorlás billentyű:\n...\n\nZsebes billentyűk:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a bal pitvar és a bal kamra között ...\na jobb pitvar és a jobb kamra között ...\na kamrákból kiinduló nagyartériák szájadékában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes válaszokat!\na vérnyomás értéke megegyezik az arteria brachialisban uralkodó nyomással\na systolés nyomás normál értékei: 130-140 Hgmm\na dyastolés nyomás normál értékei: 75-90 Hgmm\na pulzust a vena radialison számoljuk\na pulzus száma megegyezik a szívösszehúzódások számával\na nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na vénák oxigén dús vért szállítanak\na vér pH értéke: 7,34 – 7,42 között mozog\na vörösvértestek élettartama 220 nap\n(Csak a hat /6/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke megegyezik az arteria brachialisban uralkodó nyomással\na systolés nyomás normál értékei: 130-140 Hgmm\na dyastolés nyomás normál értékei: 75-90 Hgmm\na pulzus száma megegyezik a szívösszehúzódások számával\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na vér pH értéke: 7,34 – 7,42 között mozog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérkeringését\nbiztosító ereket!",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q008_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a felsorolt betegségeket tüneteikkel!\nÍrja a betegségek betűjele mellé a megfelelő tünet számát!\nA. tüdőtályog\nB. tüdővizenyő\nC. tüdőasztma\nD. tuberkulózis\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet\nΑ: ...... ; Β: ...... ; C: ...... ; D: ...... ;",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel az emésztőrendszer alsó részének szakaszait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "vakbél\nvastagbél (felszálló, haránt, leszálló)\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel!\nÍrja a sorszám mellé a megfelelő betűjelet!\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. kötőszöveti rostok\nA. kollagenáz, elasztáz\nB. lipáz\nC. tripszin\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C...; 2.- ...D...; 3. ...B...; 4...Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperglykaemiás és a hypoglykaemiás coma tüneteit! Töltse ki a táblázatot!\n\n| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|----------------------------------------|--------|-----------------------|\n|                                        | vércukorszint |                        |\n|                                        | arcszín |                        |\n|                                        | bőr |                        |\n|                                        | légzés típusa |                        |\n|                                        | lehelet |                        |",
+      "question_type": "fill_in",
+      "correct_answer": "| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|----------------------------------------|--------|-----------------------|\n| magas                                    |  | alacsony                     |\n| piros                                    |  | sápadt                     |\n| száraz, meleg                                    |  | verítékes, hűvös                     |\n| szapora, igen mély be-és kilégzések sorozata (Kussmaul-típusú)                                    |  | normál légzés                     |\n| acetonszagú                                    |  | normális                     |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat!\nÍrja a megfelelő csoporthoz az előidéző ok számát!\n\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel\n\nOliguria: ...\n\nPolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Ismertesse az elsődleges vizelet jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- mennyisége: kb. napi 180 liter\n- fajsúlya: 1010\n- a vérplazma fehérjementes szűrlete",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vesemedence-gyulladás tünetei\nközül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a férfi nemi működéssel kapcsolatos alábbi kérdésekre!\nHol termelődik a tesztoszteron?\n...\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\nMely férfi nemi szervben tárolódnak a spermiumok?\n...\nHol helyezkedik el a prosztata?\n...\nHol fejlődnek a herék a magzati életben?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a herék Leydig-féle sejtjeiben\na herecsatornák falának hámjában\na mellékherékben\na húgyhólyag alatt\na hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Soroljon fel a méhnyakrák diagnosztizálására alkalmas módszerek közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "kolposzkópos vizsgálat\nszövettani vizsgálat\nbimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Jellemezze röviden a belső elválasztású mirigyeket!",
+      "question_type": "open",
+      "correct_answer": "Azok a mirigyek, amelyeknek kivezető csövük nincs, váladékuk a különböző\nhormonok, melyek a keringésbe kerülnek, és általában a mirigytől távol fejtik\nki a hatásukat.\nVáladéktermelésüket elválasztásnak nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Sorolja fel a Basedow-kór (hyperthyreosis) tüneteit!\nÍrjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "- kidülledt szemek\n- szapora szívverés\n- jó étvágy melletti fogyás\n- hasmenés\n- magas vérnyomás\n- állandó hőemelkedés\n- izgatottság\n- nyirkos tenyér-talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományában található képleteket feladatukkal!\nÍrja a számok mellé a helyes válasz betűjelét!\n1. Asszociációs rostok\n2. Commissuralis rostok\n3. Projekciós rendszer\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, ill. a leszálló\nrendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n1...; 2...; 3...",
+      "question_type": "matching",
+      "correct_answer": "1...B...; 2...C...; 3... A...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó-szerv receptorai:...\nLátószerv receptora:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_oktober_15_II_EuMII_1015_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 8,
+      "question_text": "Sorolja fel a sebek fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  }
+]

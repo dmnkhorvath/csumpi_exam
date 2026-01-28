@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi táblázatot!\n| tudományterület | vizsgálódási terület |\n|---------|---------|\n| makroszkópos anatómia |  |\n| mikroszkópos anatómia |  |\n| élettan |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| tudományterület | vizsgálódási terület |\n|---------|---------|\n|  | szabad szemmel látható képletek |\n|  | szabad szemmel nem látható képletek |\n|  | egészséges szervezet működése |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá a sejtek felépítésére vonatkozó helyes megállapításokat!\n- a mitokondriumokat más néven nucleusnak is nevezzük\n- a sejtmag citoplazmát és nukleinsavakat tartalmaz\n- a sejtmag belsejében található a dezoxiribonukleinsav (DNS)\n- a Golgi-apparátus a sejthártyán kívül helyezkedik el\n- a sejtorganellumok a citoplazmában találhatók\n- az emberi sejtek valódi sejtmaggal rendelkező eukaryoták\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a sejtmag belsejében található a dezoxiribonukleinsav (DNS)\na sejtorganellumok a citoplazmában találhatók\naz emberi sejtek valódi sejtmaggal rendelkező eukaryoták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Ismertesse a fertőző betegségek megelőzésének alapvető tényezőit!",
+      "question_type": "open",
+      "correct_answer": "- közegészségügyi munka\n- higiénés viszonyok javítása\n- a szervezet ellenálló képességének növelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. lúdtalp\nB. csonttörés\nC. angolkór\nD. gerincferdülés\n\n1. nyugalomba helyezés, rögzítés\n2. cipőbe helyezett betét, lábboltozat erősítése\n3. izomerő növelése, fűző viselése\n4. D-vitamin adása",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., В.-...1...., С.-...4...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul a szív saját ereit (szívizmot ellátó erek)!",
+      "question_type": "open",
+      "correct_answer": "arteria coronaria dextra\narteria coronaria sinistra\nsinus coronarius",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formához! Írja a sorszámokat a megfelelő helyre!\n\n1. súlyos anyagcserezavarok\n2. veseelégtelenség\n3. krónikus obstruktív légúti betegség\n4. centrális keringési elégtelenség\n\ndyspnoe: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Ismertesse a vegetatív idegrendszer légzőrendszerre gyakorolt hatásait!\nszimpatikus hatás:\n- \n- \nparaszimpatikus hatás:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a bronchusok tágulnak\na légzés fokozódik\na bronchusok szűkülnek\na légzésszám csökken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a belégző és kilégző központ?\n\nA garat mely szakaszába nyílik a fülkürt?\n\nMi a gégefedő feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "a nyúltvelőben\naz orri szakaszba\nnyeléskor zárja a gégebemenetet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer enzimeit és azok funkcióját! Egészítse ki\na táblázatot!\n\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg |  | szénhidrát |\n| gyomor | pepszin |  |\n| gyomor |  | zsír |\n| vékonybél | tripszin |  |\n| vékonybél |  | szénhidrát |\n| vékonybél | lipáz |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  | ptialin, maltáz |  |\n|  |  | fehérje |\n|  | lipáz |  |\n|  |  | fehérje |\n|  | amiláz |  |\n|  |  | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges kiváltó okai közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- összenövés\n- daganat\n- idegentest\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés\n- epekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. vesemedence-gyulladás\nB. glomerulonephritis\nC. sárgaság\nD. cukorbetegség\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\nΑ.-...____...., Β.-...____...., С.-...____...., D.-...____....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...1...., С.-...4...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel három természetes fogamzásgátló módszert!",
+      "question_type": "open",
+      "correct_answer": "- cikluskontroll\n- naptármódszer\n- hőmérős módszer\n- megszakított közösülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\n...\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\nHol helyezkedik el a prosztata?\n...\nHol termelődik a tesztoszteron?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a hasüregben\na herecsatornák falának hámjában\na húgyhólyag alatt\na herék Leydig-féle sejtjeiben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a női nemi szervek gyulladásos betegségei közül!",
+      "question_type": "open",
+      "correct_answer": "- szeméremtest (külső nemi szervek) gyulladása\n- hüvelygyulladás\n- nyakcsatorna-gyulladás\n- méhgyulladás\n- petefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukorszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt belső elválasztású mirigyet!",
+      "question_type": "open",
+      "correct_answer": "hypothalamus\nagyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nnemi mirigyek\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa a koponyaalap sérüléseihez tüneteiket!\n1. liquor-, és vércsurgás a fülből\n2. vérömleny a tarkón\n3. vérömleny a fül mögött\n4. liquor-, és vércsurgás a garatban\nközépső scala törése: ...1., 3....\nhátsó scala törése: ...2., 4....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse az extrapiramidális pályák szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a mozgások harmonikussá tétele\n- az automatikus és kísérő mozgások kivitelezése\n- az izomtónus szabályozása\n- az emocionális reakciókat kísérő mimikai mozgások szabályozása\n- a védekező, a támadási és a menekülési mozgások biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- szemcsatorna\n- könnykészülék\n- látótér\n- pupilla-váz\n- a szem védőkészülékei\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása estén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\nkönnykészülék\na szem védőkészülékei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Határozza meg az időfaktor fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a balesetes\nállapota.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Ismertesse az orrnyálkahártya-gyulladás okát és lehetséges tüneteit!\nOka: ...\nLehetséges tünetei: Írjon ötöt!\n- duzzadt orrnyálkahártya\n- orrfolyás\n- garatba csurgó váladékozás\n- gátolt orrlégzés\n- köhögés\n- hőemelkedés\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "virusfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\n...\nFajtái: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya....\nvágott seb\nszúrt seb\nharapott seb\nzúzott seb\nlőtt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VII_eumvii_200722_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nMellkasi sérülés esetén: ...\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...",
+      "question_type": "fill_in",
+      "correct_answer": "félig ülő helyzet...\nstabil oldalfektetés...\nkemény alapon hanyatt fektetve...",
+      "options": []
+    }
+  }
+]

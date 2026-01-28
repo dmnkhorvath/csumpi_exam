@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul a betegségek szakaszait!",
+      "question_type": "open",
+      "correct_answer": "- lappangási szakasz\n- bevezető szakasz\n- kifejlődési szakasz\n- kimeneteli szakasz\n- szövődmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Ismertesse az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azok a testidegen anyagok, amelyek a szervezetbe jutva immunválaszt\nváltanak ki, és ennek eredményeként specifikus ellenanyagok, illetve\nimmunsejtek képződnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. torticollis\n2. discopathia\n3. spina bifida\n4. scoliosis\n5. Scheuermann-féle betegség\n\nA. a gerincoszlop oldalirányú görbülete\nB. a csigolyatestek elkeskenyedése, szilárdságuk elvesztése\nC. az egyik oldali fejbiccentő izom zsugorodása okozta rendellenesség\nD. a csigolyák közötti porcok elfajulása, deformálódása\nE. a csigolyaívek záródásának hiánya\n\n1.-......, 2.-......, 3.-......, 4.-......, 5.-......",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-.D., 3.-E., 4.-A, 5.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat latinul!",
+      "question_type": "open",
+      "correct_answer": "- os ilium\n- os ischii\n- os pubis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a sinusbradycardia lehetséges okait!\n- idős kor\n- vérszegénység\n- csökkent pajzsmirigyműködés\n- agynyomás fokozódása\n- kávé, tea fogyasztása\n- láz\n- hányinger, hányás\n- vírusfertőzések\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "idős kor\ncsökkent pajzsmirigyműködés\nagynyomás fokozódása\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a keringés szervrendszerére vonatkozó kérdésekre!\nA szív melyik üregéből indul ki a kisvérkör?",
+      "question_type": "fill_in",
+      "correct_answer": "...a jobb kamrából...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertesse a légzés mechanizmusát kilégzéskor!",
+      "question_type": "open",
+      "correct_answer": "- a rekesz és bordaközi izmok elernyednek\n- a mellkas saját rugalmasságánál fogva eredeti állapotába tér vissza\n- a mellüreg összehúzódik, a mellüregi szívóhatás csökken\n- a levegő kipréselődik a tüdőből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a\nmegadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. gyakori, szúró mellkasi fájdalom\n2. hirtelen jelentkező nehézlégzés\n3. üvegszerű, tapadós köpet ürítése\n4. szapora, nehezített légzés\n5. barnásvörös köpet ürítése\n6. rövid, kapkodó belégzés után hosszan elnyúló kilégzés\n\ntüdőgyulladás tünetei: ...., ...., .....\n\ntüdőasztma tünetei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az epekövesség lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- erős jobb bordaív alatt a hátba és a jobb lapockába kisugárzó fájdalom\n- haspuffadás\n- émelygés\n- hányinger, hányás\n- székrekedés\n- sárgaság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Nevezze meg a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "- idegi szabályozás\n- hormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Párosítsa a vitaminokat feladataikkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. A-vitamin\nA. a nemi mirigyek normál működéséhez szükséges\n2. K-vitamin\nB. a C-vitamin hatását támogatja\n3. B6-vitamin\nC. hámvédő, és a látóbíbor alkotásában vesz részt\n4. E-vitamin\nD. fehérjék lebontása\n5. P-vitamin\nE. a normál véralvadáshoz szükséges",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...E...., 3.-D, 4A, 5.-..B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztásra vonatkozó helyes\nmegállapításokat!\n- Az ADH a mellékvesében termelődik.\n- Az ADH hormon a vesecsatornák utolsó szakaszának vízáteresztő képességét\nbiztosítja.\n- Az ADH hormon a vesecsatornák első szakaszának vízáteresztő képességét\nbiztosítja.\n- Emelkedett ADH termelés esetén a naponta ürített vizelet mennyisége\nelérheti a 8-12 litert is.\n- Csökkent ADH termelés esetén a naponta ürített vizelet mennyisége elérheti\na 8-12 litert is.\n- Az ADH a hypothalamusban termelődik.\n- Csökkent ADH-termelés esetén nő a permeábilitás.\n- Az aldoszteron fokozza a Na-ion és a víz visszaszívását, így csökken az ürített\nvizelet mennyisége.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az ADH hormon a vesecsatornák utolsó szakaszának vízáteresztő képességét\nbiztosítja.\nAz ADH hormon a vesecsatornák első szakaszának vízáteresztő képességét\nbiztosítja.\nAz ADH a hypothalamusban termelődik.\nAz aldoszteron fokozza a Na-ion és a víz visszaszívását, így csökken az ürített\nvizelet mennyisége.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Ismertesse a veseműködés elégtelenségének lényegét!",
+      "question_type": "open",
+      "correct_answer": "A vesék nem képesek kellő mennyiségű és koncentrációjú vizeletet termelni, a\nkiválasztandó anyagok visszamaradnak a vérben és mérgezik a szervezetet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Egészítse ki a menstruációs ciklussal kapcsolatos táblázat hiányzó részeit!\n| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---------|---------|---------|\n| I.  |  |  |\n| II.  |  |  |\n| III.  |  |  |\n| IV.  |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---------|---------|---------|\n| I. regeneráció | felszíne hámosodik |  |\n| II. proliferáció | megvastagodik (tüszőrepedés) |  |\n| III. szekréció |  | progeszteron, LH (hipofizis) |\n| IV. menstruáció | zsugorodik, majd lelökődik |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Chlamydia-fertőzés lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vizeléskor égő érzés\nnőknél vízszerű folyás\nférfiaknál nyákos húgycsőfolyás\nalhasi fájdalom\nízületi panaszok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozzák az anyagcsere-folyamatokat\nserkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\nfokozzák a szervezet oxigénfelhasználását\nnövelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Írja a sorszámokat\na megfelelő helyre!\n1. kalcitonin\n2. adrenalin\n3. luteinizáló hormon\n4. adrenokortikotrop hormon\n5. noradrenalin\n\nhipofízis elülső lebenye: ...., .... \npajzsmirigy: .....\nmellékvese velőállománya: ...., ....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.\n1.\n2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a tudat alábbi világossági zavarainak jellemzőit!\ndelírium: ...\ntenebrositas: ...",
+      "question_type": "open",
+      "correct_answer": "a külvilággal való kapcsolat meglazul vagy megszűnik, tájékozatlanság, tömeges érzékcsalódások jelentkezhetnek...\na gondolkodás homályos, zavart, a külvilággal megszakad a kapcsolat, az észrevevések és az emlékképek összekeverednek, intenzív érzelem-megnyilvánulások, erőszakos cselekmények jelentkezhetnek ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Sorolja fel az idegsejteket nyúlványaik alapján!",
+      "question_type": "open",
+      "correct_answer": "- egynyúlványú (unipoláris)\n- kétnyúlványú (bipoláris)\n- álegynyúlványú (pszeudounipoláris)\n- soknyúlványú (multipoláris)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q020_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 7,
+      "question_text": "Ismertesse az emlő önvizsgálatának menetét! Írja le a vizsgálat lépéseit!",
+      "question_type": "open",
+      "correct_answer": "tükör előtt állva az emlők megtekintése szemből és oldalnézetből is\nfelemelt karral és csípőre tett kézzel az emlők alakváltozásának megfigyelése\naz egyik kezet a magasban tartva, a másik kézzel zárt ujjakkal, körkörös\nmozdulatokkal a mell egész felületének áttapintása\naz áttapintás megismétlése a másik mellen is\na vizsgálat elvégzése fekvő helyzetben is\naz emlő és a hónalj közötti terület, a hónalj megtapintása úgy, hogy a kar\nelőbb a fej fölött, majd a törzs mellett van\naz emlőbimbók óvatos megnyomása a váladékozás ellenőrzésére",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Írja le a basalioma lényegét!",
+      "question_type": "open",
+      "correct_answer": "Változatos alakú rosszindulatú bőrdaganat, a bőrhám legalsó rétegét alkotó\nbazális sejtek kóros szaporulata.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Egészítse ki az elsősegélynyújtással kapcsolatos alábbi mondatokat!\nA lenyelt, gyomorba került marószer esetén ... a beteg hánytatása.\n... eltávolítása esetén a Heimlich-féle műfogás alkalmazható.\nOrrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét ... hajtjuk.\nVágott seb esetén a vérzés mennyisége ..., a fájdalom mértéke pedig ....",
+      "question_type": "fill_in",
+      "correct_answer": "tilos\nLégúti idegentest\nelőre\nbőséges\nkicsi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_09_VI_eumvi_220609_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet az elsősegélynyújtó teendői közül napszúrás\nelőfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "sötét, hűvös helyen való elhelyezés\nmagasra polcolt felsőtesttel való fektetés\nhomlokra, tarkóra vizes borogatás felhelyezése\nfolyadékpótlás (kortyonkénti itatás)\nfejfájás csillapítása",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek magyar, vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Anatómiai képletek |  |\n|---|---|\n| magyarul | latinul |\n|  |  |\n|  |  |\n|  |  |\n| csontvelő |  |\n|  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---|---|\n| magyarul | latinul |\n| szívizom | myocardium |\n| felső űrös/felső üres visszér | vena cava superior |\n| vér | sanguis |\n|  | medulla ossium |\n| gyomor | gaster/ventriculus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szervezet túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "anafilaxiás folyamatok\nasthma bronchiale\nszénanátha\natópiás dermatitis (ekcéma)\ntranszfúziós reakciók\nújszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann-féle betegség lényegét és kezelésének lehetőségeit!\n\nA betegség lényege:\n...a csigolyatestek\n\nKezelésének lehetőségei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "elkeskenyedése, szilárdságuk elvesztése....\ngyógytorna\núszás\nfűző viselése\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. szájpadcsont\n2. állkapocs\n3. homlokcsont\n4. falcsont\n5. járomcsont\n6. halántékcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kamralebegés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A legsúlyosabb ingerképzési zavar. A beteg pulzusa nem tapintható, a kamra\nnem képes továbbítani vért, a szív nem tudja a keringést fenntartani. Az EKG-n\n300-400/perc frekvenciájú szabálytalan hullámok láthatóak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a lépre vonatkozó helyes megállapításokat!\n- kemény, lila színű, páros szerv\n- kékesvörös színű, puha, páratlan szerv\n- szöveti szerkezete két állományra különíthető el\n- fehér pulpáját a vér alakos elemei alkotják\n- fő feladata a méreganyagok kiválasztása\n- fő feladata a lymphocyták képzése\n- lebontja a vörösvérsejteket és a vérlemezkéket is\n- maltázt termel\n- a rekesz alatt a hasüreg jobb oldalán helyezkedik el\n- a rekesz alatt a hasüreg bal oldalán helyezkedik el\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "kékesvörös színű, puha, páratlan szerv\nszöveti szerkezete két állományra különíthető el\nlebontja a vörösvérsejteket és a vérlemezkéket is\na rekesz alatt a hasüreg bal oldalán helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. idegrendszeri károsodás\n2. súlyos anyagcserezavarok (pl. veseelégtelenség)\n3. súlyos légzőszervi betegségek (pl. tüdőödéma)",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C..., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Ismertesse a vegetatív idegrendszer szimpatikus hatását a légzőrendszerre!",
+      "question_type": "open",
+      "correct_answer": "- a bronchusok tágulnak\n- a légzés fokozódik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot az elhízás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "fokozott energiabevitel\ntestmozgás hiánya\ngenetikai tényezők\npszichés okok\ncukorbetegség\nCushing-szindróma\npajzsmirigy-elégtelenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer alsó szakaszának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- vakbél\n- felszálló vastagbél\n- haránt vastagbél\n- leszálló vastagbél\n- szigmabél\n- végbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?\n\nMely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba ágyazva?\n\nMennyi az egészséges ember vizeletének fajsúlya?\n\nTartalmaz-e a végleges vizelet élettanilag bilirubint?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben\na mellékvese\n1020-1025 g/l (1001-1040 g/l)\nnem tartalmaz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a heveny veseelégtelenség lehetséges okait a megadottak\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. terhességi vesebaj\n2. heveny szív eredetű keringési elégtelenség (infarktus)\n3. glomerulonephritis acuta\n4. sokk\n5. gyulladásos ödéma\n6. daganatos kompresszió\n\nA vese előtti lehetséges ok: ...., .... \nVese eredetű lehetséges ok: ...., .... \nVese utáni lehetséges ok: ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n1., 3.\n5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!\n- penis\n- herezacskó\n- petefészek\n- petevezeték\n- prosztata\n- méh\n- here\n- ondóhólyag\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "petefészek\npetevezeték\nhere\nondóhólyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a melatonin hatása közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- szabályozza az alvás és ébrenlét ciklusát\n- befolyásolja a bőr színét\n- gátolja a nemi mirigyek működését\n- gátolja a pajzsmirigy működését\n- hat a víz-, és elektrolit-háztartásra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertessen a mellékpajzsmirigy túlműködésének lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a vér Ca-szintjének emelkedése\n- vesekőképződés\n- felritkult, törékeny csontok\n- gyomorfekély kialakulása\n- hasnyálmirigy-gyulladás\n- szívritmuszavarok\n- magas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh falának rétegeit latinul!",
+      "question_type": "open",
+      "correct_answer": "- perimetrium\n- myometrium\n- endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa a kóros elváltozások latin és magyar elnevezését! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. nystagmus\nA. remegés (akarattól független)\n2. tenebrositas\nB. szemtekerezgés\n3. tremor\nC. izomgyengeség\n4. paresis\nD. izomtónus-fokozódás\n5. rigor\nE. homályállapot",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-E..., 3.-Α., 4.-C...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a harmadlagos agykérgi központok közül!",
+      "question_type": "open",
+      "correct_answer": "- beszédértő központ\n- beszéd motoros központja\n- az írás, olvasás központja\n- a jövő agykérgi területe\n- a múlt kérgi területe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertessen az emlőgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- emlőfájdalom\n- duzzadtság\n- körülirt megkeményedés\n- piros, meleg tapintatú bőr\n- láz\n- hidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Mi az üvegtest feladata?\n- a szem állandó alakjának biztosítása\n- az ideghártya táplálása\n\nHol helyezkedik el az egyensúlyozó készülék?\n- a hátsó koponyagödörben\n- a belső fülben\n\nMilyen színű a dobhártya?\n- világosbarna színű\n- szürkésfehér színű\n\nMi építi fel az irhát?\n- kötőszöveti rostok\n- kötőszöveti rost és zsír",
+      "question_type": "multiple_choice",
+      "correct_answer": "- a szem állandó alakjának biztosítása\n- a belső fülben\n- szürkésfehér színű\n- kötőszöveti rostok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hőguta tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- a testhőmérséklet 40 °C fölött is lehet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_19_VII_eumvii_211119_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nBelső vérzés gyanúja: ...\nOrrvérzés esetén: ...\nMellkasi sérülés esetén: ...",
+      "question_type": "fill_in",
+      "correct_answer": "sokkfektetés: hanyatt fekvő helyzetben, 20°-os szögben\nfelpolcolt alsó végtagokkal...\na beteget nyugalomba helyezzük, majd a fejét előre\nhajtjuk...\nfélig ülő helyzet...",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EMII_1007_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az elhalás formáihoz a leggyakoribb előfordulási helyüket! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. alvadásos\n2. nedves üszök\n3. száraz üszök\n4. zsírmekrózis\n5. felfekvés\n\nA. a kéz- és lábujjakon, orron és a fülön\nB. a bőrön és, az epehólyagban is lehet\nC. az emlőben, a bőr alatt, és a hasnyálmirigy körüli zsírszövetben\nD. a garatban és a mandulákon\nE. a szívben, vesében, lépben, tüdőben",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-...D..., 3.-A., 4.-C...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Nevezze meg az immunválasz összetevőit!",
+      "question_type": "open",
+      "correct_answer": "- antigén felismerése\n- a megfelelő immunsejtek aktiválása\n- végrehajtó (effektor) funkció",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a támasztószövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- csontszövet\n- porcszövet\n- gerinchúrszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a ferde nyakat a megadott szempontok szerint!\nLényege:\n...\nKialakulásának lehetséges okai: Írjon kettőt!\n-\n-\n-\nGyógyításának/kezelésének lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "az egyik oldali fejbiccentő izom zsugorodása...\nfejlődési rendellenesség\nizomsérülés\nnyaki gerincferdülés\nmozgásterápia\nfizikoterápia\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingervezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, pitvari rostok, kamrai rostok, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, kamrai rostok, Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EMII_1007_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Sorolja fel az alsó végtag csontjait magyarul a megadott szempontok\nszerint!\n\nA lábszár csontjai:\n- \n- \n\nA láb csontjai:\n- \n- \n- \n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "sípcsont\nszárkapocscsont\nlábtőcsontok\nlábközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a vérplazma összetevői közül ötöt! Folytassa a felsorolást!\n90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék\n- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "zsírok, lipoidok\nszénhidrátok\nvéralvadási faktorok\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá az angina pectoris jellemző tüneteit!\n- hideg, verítékes bőr\n- száraz, meleg bőr\n- jobb bordaív alatti görcsös, a jobb lapocka tájára sugárzó fájdalom\n- torokfájdalom\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik a bal karba, vállb, a hát közepébe\n- halálfélelem\n- túlzott nyugalom\n- szapora, elnyomható pulzus\n- bénulások",
+      "question_type": "open",
+      "correct_answer": "hideg, verítékes bőr\nszegycsont mögötti fájdalom (szorító, nyomásérzés)\na fájdalom kisugárzik a bal karba, vállb, a hát közepébe\nhalálfélelem\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orrmelléküregek feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belégzett levegő előmelegítése\n- a belégzett levegő párásítása\n- a belélegzett levegő mechanikus tisztítása\n- hangok képzése\n- a koponya súlyának a csökkentése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a betegségek\nmellé a helyes válasz sorszámát!\n1. kapkodó rövid belégzés\n2. véres köpet\n3. köhögés, mellkasi és háti fájdalom, éjszakai izzadás\n4. fogyás, rossz közérzet\n5. rohamszerűen jelentkező légszomj\n6. a kilégzés nehezített, sípoló, hosszan elnyúló\ntüdőasztma: ...\ntuberkulózis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5., 6....\n2., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi képleteinek latin vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\n| Az emésztőrendszer képletei |\n|---------|---------|\n| magyarul | latinul |\n| garat |  |\n| éhbél |  |\n| nyelőcső |  |\n| felszálló vastagbél |  |\n| csípőbél |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emésztőrendszer képletei |\n|---------|---------|\n| magyarul | latinul |\n|  | pharynx |\n|  | jejunum |\n|  | oesophagus |\n|  | colon ascendens |\n|  | ileum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Állítsa időrendi sorrendbe a hányás folyamatának részeit! Írja le a\nbetűjeleket a megfelelő sorrendben!\nA. zárt pylorus mellett a gyomor erős perisztaltikus mozgást végez\nB. a fundus és cardia elernyed\nC. hányinger, émelygés\nD. az erős hasprés a gyomortartalmat a nyelőcsövön keresztül a külvilágba\njuttatja\nE. mély belégzés után a gégebemenet záródik",
+      "question_type": "fill_in",
+      "correct_answer": "C., A., E., B., D.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Sorolja fel a vizeletelvezető rendszer részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "vesepiramisok gyűjtőcsatornái\nvesekelyhek\nvesemedence\nhúgyvezeték\nhúgyhólyag\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi adja a sperma folyékony részének jelentős hányadát?",
+      "question_type": "open",
+      "correct_answer": "a prosztatában termelődő lúgos váladék",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse a fitymaszűkületet a megadott szempontok szerint!\nLényege:",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá a neuroendokrin rendszerre vonatkozó helyes megállapításokat!\n- A belső elválasztású mirigyek biztosítják a szervezet hormonális egyensúlyát.\n- Az agyalapi mirigy szabályozza a szervezet belső környezetének viszonylagos állandóságát.\n- Mirigyeknek nevezzük a testünk váladéktermelő szerveit.\n- A növekedési hormont (STH) a hypothalamus termeli.\n- A hypothalamus belső elválasztású mirigy.\n- A hypothalamus a középső koponyagödörben, a töröknyeregben helyezkedik el.\n- Az endokrin mirigyek a különböző szervek működésére is hatást gyakorolhatnak.\n- Az exokrin mirigyek közvetlenül a sejtközötti térbe juttatják váladékukat.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "A belső elválasztású mirigyek biztosítják a szervezet hormonális egyensúlyát.\nMirigyeknek nevezzük a testünk váladéktermelő szerveit.\nA hypothalamus belső elválasztású mirigy.\nAz endokrin mirigyek a különböző szervek működésére is hatást gyakorolhatnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az antidiuretikus hormon (ADH) hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\nkevesebb víz választódik ki a vizelettel\nnöveli a vizelet fajsúlyát\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású\nemeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó kérdésekre!\nHol kereszteződik a piramispálya nagy része?",
+      "question_type": "fill_in",
+      "correct_answer": "a nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.",
+      "points": 1,
+      "question_text": "A szív ingerképzési és ingerületvezetési rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+      "options": [
+        "sinuscsomó → pitvar-kamrai csomó → Tawara-szárak → His-köteg → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → His-köteg → Tawara-szárak → Purkinje-rostok",
+        "sinuscsomó → pitvar-kamrai csomó → Tawara-szárak → Purkinje-rostok → His-köteg",
+        "sinuscsomó → pitvar-kamrai csomó → Purkinje-rostok → His-köteg → Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EMII_1007_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi megállapításokat a megadott szempontok szerint!\nÍrja a sorszámokat a megfelelő helyre!\n1. a szaruhártya óraüvegszerű alakú, átlátszó hártya\n2. az ideghártya elülső része tartalmazza a fényfelvevő receptorokat\n3. az emlőt főleg zsírszövet és kötőszövet építi fel\n4. az emlőkben nincs izomszövet\n5. a szőrszálak az irhában helyezkednek el\n6. a faggyúmirigyek a bőr alatti kötőszövetbe vannak beágyazva\nIgaz megállapítás: ...\nHamis megállapítás: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.\n2., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg a leírások alapján a szem fénytörő közegeit magyarul!\nAz elülső és hátulsó szemcsarnokot tölti ki:\n...\nBikonvex, átlátszó, víztiszta, rugalmas test, amit tok vesz körül:\n...\nCsaknem gömb alakú, kocsonyás állományú átlátszó test:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "csarnokvíz\nszemlencse\nüvegtest",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_1007_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Határozza meg az időfaktor és a magas időfaktor lényegét!\nIdőfaktor lényege: Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.\nMagas időfaktor lényege: Magas az időfaktor, ha igen rövid idő alatt, igen sokat\nromlik a balesetes állapota.\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a balesetes állapota. Magas az időfaktor, ha igen rövid idő alatt, igen sokat romlik a balesetes állapota.",
+      "options": []
+    }
+  }
+]

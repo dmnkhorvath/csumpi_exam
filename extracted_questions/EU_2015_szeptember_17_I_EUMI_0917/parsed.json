@@ -1,0 +1,345 @@
+[
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A hasonló alakú, azonos funkciójú, közös eredetű sejtek összességét, a hozzá tartozó sejtközötti állománnyal együtt szövetnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a számokat a megfelelő betűjelhez!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n\n1. gyenge ellenálló képesség, légzőszervi és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési - és cukorbetegségre való hajlam\n\nA: ...; Β: ...; C: ...; D: ...",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q003_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 1,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer védekezését mozgósítják, antigénnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Sorolja fel a fertőzés terjedésének lehetőségeit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "közvetlen érintkezés (kontakt fertőzés)\ncseppfertőzés\ntárgyak és talaj közvetítése\nélelmiszer és ivóvíz közvetítése\nízeltlábúak közvetítése\nméhlepényen keresztüli fertőződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Ismertesse a hasizmok feladatait!",
+      "question_type": "open",
+      "correct_answer": "összehúzódás: törzs előre hajlítása, alsó végtagok emelése\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a tünetek mellé a hozzájuk tartozó betegség sorszámát\na pontozott vonalra!\n\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\n\nTünetek:\nAlsó végtagok hosszkülönbsége, később bicegő, kacsázó járás: ...\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ...\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ...\nLógó lábfej, befelé néző talp: ...\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ...",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvérsejtek képzése?\n...\nHol történik a vörösvértestek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben\na vörös csontvelőben\na lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportra vonatkozó táblázatot!\n| Vörösvértestben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---------|---------|---------|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvértestben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---------|---------|---------|\n| - | anti-A, anti-B | 0 |\n| AB | - | AB |\n| A | anti-B | A |\n| B | anti-A | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Válassza ki a felsorolt tünetek közül a hipertóniás krízis tüneteit! Húzza alá a helyes válaszokat!\n- hirtelen 90/50 Hgmm alá zuhan a vérnyomás\n- a vérnyomás hirtelen nagyfokú emelkedése\n- fejfájás\n- ízületi fájdalmak\n- látászavar\n- hányás\n- éhségérzet\n- bénulások\n- hasmenés\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás hirtelen nagyfokú emelkedése\nfejfájás\nlátászavar\nhányás\nbénulások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n- külső légzés\n- nyúltvelő\n- gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "- külső légzés\n- nyúltvelő\n- fülkürt",
+      "options": [
+        "belső légzés",
+        "külső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot! Írja be a magyar, illetve a latin megfelelőt!\n\nA légzőrendszer részei\n| Magyar megnevezés | Latin megnevezés |\n|--------------------|-------------------|\n| orr                | nasus               |\n| garat              |                    |\n| gége               | larynx              |\n| légcső             | trachea             |\n| tüdő               | pulmo               |",
+      "question_type": "fill_in",
+      "correct_answer": "| Magyar megnevezés | Latin megnevezés |\n|--------------------|-------------------|\n|                    | pharynx               |\n| gége               |                    |\n| légcső             |                    |\n| tüdő               |                    |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Határozza meg a tüdőtágulat (emphysema pulmonum) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A léghólyagok és a közöttük lévő sövények fala elvékonyodik, majd átszakad és egy közös üreggé egybeolvad.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának\nszerepét!",
+      "question_type": "open",
+      "correct_answer": "a táplálék összekeverése a gyomornedvvel\na gyomortartalom vékonybélbe juttatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegséggel! Írja a sorszám mellé a pontozott vonalra a\nbetegség betűjelét!\n1. C-vitamin\n2. A-vitamin\n3. K-vitamin",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHol képződik az elsődleges vizelet?\n\nMennyi az elsődleges vizelet napi mennyisége?\n\nTartalmaz-e élettani körülmények között a végleges vizelet urobilinogént?\n\nTartalmaz-e az elsődleges vizelet cukrot?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben\n180 liter\nigen, tartalmaz\nigen, tartalmaz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző kóros vizelettípussal! Írja a sorszámokat a megfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA- ......, B - ......, C - ......, D - ......",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Ismertesse a méh (uterus) részeit!",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak (cervix)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel a prosztatamegnagyobbodás tünetei közül hármat/3/!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Írja le a meddőség/sterilitás fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egészséges házaséletet élő és fogamzásgátlást nem alkalmazó nő/férfi esetében, ha 1-2 év alatt sem jön létre a megtermékenyülés, meddőségről/sterilitásról beszélünk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi, belső elválasztású mirigyek\nelhelyezkedését!\n\nHipofízis:\nCsecsemőmirigy:\nHasnyálmirigy:",
+      "question_type": "fill_in",
+      "correct_answer": "a koponya alapon az ékcsont árkában helyezkedik el\na gátor üregben a szegycsont mögött helyezkedik el\na patkóbél homorulatában helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 1,
+      "question_text": "Nevezze meg a leírt hatásmechanizmus alapján a működéseket irányító hormont!\n\nHatására felnőttkorig:\n- a sejtek megnagyobbodnak, megszaporodnak\n- a csontok hosszirányban, vastagságban nőnek\n- lágy szövetek, zsigerek megnagyobbodnak\n\nHatása felnőttkorban is: segíti a fehérjeszintézist, új sejtek keletkezését.\n\nA hormon neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "növekedési hormon (STH – szomatotrop hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n\nMilyen bőr tünete van az Addison-kóros betegnek?\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)......az arc duzzadt, kifejezéstelen......a bőr fokozottan pigmentált (sötét elszíneződésű)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Ismertesse a gerincvelő szerkezetét!\nKívül: \nBelül:",
+      "question_type": "fill_in",
+      "correct_answer": "idegrostokból álló fehérállomány\nidegsejtekből álló szürkeállomány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 8,
+      "question_text": "Jellemezze az agytályogot (abscessus cerebri) a megadott szempontok alapján!\nA betegség oka:\n- az agy bakteriális fertőzése\nKialakulásának lehetősége:\n- a középfül vagy az orr-melléküregek gyulladásainak közvetlen átterjedése\n- koponya-, és agytraumák\n- metasztatázis talaján\nTünetek: Írjon négyet /4/!\n- rossz közérzet\n- láz\n- agyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\n- góctünetek: érzéskiesés, látótérkiesés, beszédzavar\n- epilepsziás roham\nGyógyítás: Írjon kettőt /2/!\n- kórházi (idegsebészeti) ellátás\n- gyógyszeres kezelés\n- műtéti megoldás\n(Az okra, kialakulásra és a gyógyításra: 1-1 pont, a tünetekre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "az agy bakteriális fertőzése\na középfül vagy az orr-melléküregek gyulladásainak közvetlen átterjedése\nkoponya-, és agytraumák\nmetasztatázis talaján\nrossz közérzet\nláz\nagyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\ngóctünetek: érzéskiesés, látótérkiesés, beszédzavar\nepilepsziás roham\nkórházi (idegsebészeti) ellátás\ngyógyszeres kezelés\nműtéti megoldás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)\ncsontos labyrinthus\nhártyás labyrinthus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 6,
+      "question_text": "Nevezze meg az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\n-\n\nTünetei: Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_szeptember_17_I_EUMI_0917_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Fogalmazza meg az elsősegélyt igénylő egészség-\nkárosodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  }
+]

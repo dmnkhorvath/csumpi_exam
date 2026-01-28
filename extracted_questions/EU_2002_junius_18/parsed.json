@@ -1,0 +1,380 @@
+[
+  {
+    "file": "EU_2002_junius_18_q001_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 1,
+      "question_text": "Határozza meg az egészség fogalmát a WHO definíciója (Egészségügyi Világszervezet) szerint!\nAz egészség a teljes testi, szellemi és szociális jólét állapota.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Sorolja fel a betegség kórlefolyásának szakaszait!\n- lappangási szakasz\n- bevezető szakasz\n- kifejlődési szakasz\n- kimeneteli szakasz",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt csontokat aszerint, hogy az agykoponya vagy az arckoponya részei!\nÍrja a csoportokhoz a megfelelő sorszámot!\n1. nyakszirtcsont\n2. homlokcsont\n3. rostacsont\n4. orrcsont\n5. könnycsont\n6. ékcsont\n7. járomcsont\n8. halántékcsont\nAgykoponya: ...\nArckoponya: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 2, 6, 8\n3, 4, 5, 7",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a csontritkulást (osteoporosist) a megadott\nszempontok alapján!\nA. Lényege: a csont szerves állománya és mésztartalma csökken,\nezért rugalmasságából és szilárdságából veszít.\nB. Mely korosztálynál gyakori a betegség előfordulása?\n...a változás korát elhagyó nőknél...\nC. Tünetei közül soroljon fel kettőt /2/!\n- gerincoszlop fokozódó görbülete\n- fájdalom\n- csonttörékenység",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(\"A\" részre: 2 pont; \"B\" részre: 1 pont; \"C\" részre: 2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Sorolja fel a bordák fajtáit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHányadik bordaközben érzékelhető a szívdobbanás?\n... bordaközben...\nMilyen vér található a bal kamrában?\n... vér...\nMilyen vér található a jobb kamrában?\n... vér...",
+      "question_type": "fill_in",
+      "correct_answer": "5. bordaközben\nartériás vér\nvénás vér",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Írja le a szív működésének ciklusát!\n- összehúzódás (systole)\n- elernyedés (diastole)\n- szünet (pausa)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Jelölje a megadott számokkal az ábrán a szív ingerképző\nés ingervezető rendszerének részeit!\n(Írja a nyíl mellé a megfelelő számot!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Sorolja fel a gyulladás helyi tüneteit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Mennyi ideig élnek a vörösvértestek?\n- Mi a szerepe a fehérvérsejteknek az emberi szervezetben?\n- Melyik alakos elem vesz részt a véralvadás folyamatában?\n- Melyik csontvelőben képződnek a vörösvértestek?",
+      "question_type": "fill_in",
+      "correct_answer": "120 napig\nimmunvédekezés\na vérlemezke\na vörös csontvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Húzza alá a négy /4/ fő vércsoportot!",
+      "question_type": "multiple_choice",
+      "correct_answer": "",
+      "options": [
+        "A",
+        "anti A",
+        "anti B",
+        "AB",
+        "O",
+        "Rh negatív",
+        "Rh pozitív",
+        "B"
+      ]
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel az érelmeszesedés rizikófaktorai közül\nnégyet /4/!\n- hajszolt, nyugtalan életmód\n- dohányzás\n- vér koleszterinszintje magas\n- cukorbetegség\n- magas vérnyomás\n- mozgásszegény életmód\n- helytelen táplálkozás",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Írja le, melyek az orr legfontosabb feladatai!\n(Írjon hármat /3/!)\n- a belélegzett levegő előmelegítése\n- a belélegzett levegő párásítása,\n- a belélegzett levegő mechanikus tisztítása\n- a hangok képzése\na szagok érzékelése",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Ismertesse röviden a légmell (pneumothorax) lényegét!\nA mellhártya lemezei közé levegő kerül és a megváltozott\nnyomás hatására a tüdő összeesik.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt /5/ a vastagbél rosszindulatú\ndaganatos betegségeinek tünetei közül!\n- általános tünetek: gyengeség, fogyás, vérszegénység\n- székelési ritmus megváltozik (pl.: székrekedés, hasmenés\nváltozása)\n- állandó székelési inger\n- nyálkás, friss, piros vérrel bevont széklet\n- ceruzaszéklet\n- haspuffadás",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megadott\nszempontokhoz! (Írja a számokat a megfelelő helyre!)\n1. a bőr száraz, meleg, piros\n2. éhségérzet\n3. Kussmaul-típusú légzés (mély, sóhajtásszerű, kissé emelkedett\nszámú légzés)\n4. acetonszagú lehelet\n5. normál légzés\n6. pulzus szapora; vérnyomás alig mérhető\n7. bőr sápadt, verítékes, hideg\n8. pulzus szapora; feszes, vérnyomás normális\nmagas vércukorszint (hyperglykaemia) tünetei: ...\nalacsony vércukorszint (hypoglykaemia) tünetei: ...\n(Helyes válaszonként 0,5 - 0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 3, 4, 6 ...\n2, 5, 7, 8 ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse az emésztőrendszer feladatait!\n(Írjon négyet /4/!)\n- a tápanyagok felvétele\n- a tápanyagok építőkövekre bontása\n- a lebontott tápanyag felszívása\n- a salakanyagok eltávolítása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Sorolja fel a vizeletkiválasztó és elvezető rendszer részeit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le röviden az alábbi betegségek jellegzetes fájdalmait! (Írja a helyét, kisugárzását!)\n- Epeköves roham:\nJellegzetes jobb oldali, a hátba kisugárzó fájdalom.\n- Heveny hasnyálmirigy gyulladás:\nErős gyomortáji fájdalom a bal bordaív alatt, a hátba kisugárzik.\n- Veseköves roham:\nÉles fájdalom a deréktájon, mely kisugárzik a comb belső oldalába a herékbe, illetve a nagyajkakba.\n- Szívinfarktus:\nSzorító mellkasi fájdalom kisugárzik a bal vállba, bal kar-ba, gyomorba, gyomortáji fájdalom.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Húzza alá a helyes válaszokat az alábbi állítások\nközül!\n\nHol található a Graaf tüsző?\n- petefészekben\n- mandulákban\n\nHogy nevezzük a sárgatest hormonját?\n- ösztrogén\n- progeszteron\n\nMely hormon irányítja a tüszőérést?\n- FSH (folliculusstimuláló hormon)\n- LH (luteinizáló hormon)\n\nMi az ovulatio?\n- az érett petesejt kiszabadulása a petefészekből\n- a méhnyálkahártya leválása a méh faláról",
+      "question_type": "multiple_choice",
+      "correct_answer": "petefészekben\nprogeszteron\nFSH (folliculusstimuláló hormon)\naz érett petesejt kiszabadulása a petefészekből",
+      "options": [
+        "petefészekben",
+        "mandulákban",
+        "ösztrogén",
+        "progeszteron",
+        "FSH (folliculusstimuláló hormon)",
+        "LH (luteinizáló hormon)",
+        "az érett petesejt kiszabadulása a petefészekből",
+        "a méhnyálkahártya leválása a méh faláról"
+      ]
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az ábra alapján a belső női nemi szerveket!\n(Válaszát írja a megfelelő szám mellé a pontozott vonalra!)\n1... méh ürege...\n2... petevezeték...\n3... petefészek...\n4... méhtest...\n5... külső méhszáj...\n6... hüvely...\n(Helyes válaszonként 0,5 - 0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1... méh ürege...\n2... petevezeték...\n3... petefészek...\n4... méhtest...\n5... külső méhszáj...\n6... hüvely...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden, hogy mi az idegrendszer feladata!\n- a szervek működésének irányítása\n- a működés összehangolása\n- a környezethez való alkalmazkodás biztosítása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol helyezkedik el az emberi szervezetben az agyalapi mirigy?\n- a koponyaalapon az ékcsont árkában\nMelyik mirigyet hívjuk a belső elválasztású szervek\n\"karmesterének\", irányítójának?\n- az agyalapi mirigyet\nMelyik szervben termelődik az inzulin?\n- hasnyálmirigyben (ẞ sejtekben)\nHogyan hat a méh izomzatára az oxytocin hormon?\n- erős méhösszehúzódásokat vált ki",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Nevezze meg, mely szervekben találhatóak az alább\nfelsorolt szervrészek!\n\nsugártest: - \nfélkörös ívjáratok: - \nCorti szerv: - \nízlelő bimbó: - \nverejtékmirigy: - \n\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szem\nfül\nfül\nnyelv\nbőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Írjon le a heveny középfülgyulladásra utaló tünetek\nközül ötöt/5/!\n- hirtelen fellépő, szúró, lüktető fájdalom a fülben\n- fülzúgás\n- láz\n- fejfájás\n- rossz közérzet\n- bő, savós, gennyes váladék ürülése a hallójáratból",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHány °C alá csökken a testhőmérséklet kritikus lehűlésnél?\n...\nHány °C fölé emelkedhet a testhőmérséklet höguta idején?\n...\nHányas szabálynak nevezzük az égés kiterjedésének becslését?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "35 °C alá\n40 °C fölé\n9-es szabály",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q028_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 6,
+      "question_text": "Ismertesse a napszúrást az alábbiakban megadott\nszempontok szerint!\n\nA. Mi a napszúrás lényege?\n- steril agyhártya gyulladás\n\nB. Soroljon fel négy /4/ jellemző tünetet!\n- fejfájás\nszédülés\nhányinger\nlátászavar\n- fénykerülés\nhőemelkedés, láz\n\nC. Ismertesse az elsősegélynyújtó feladatát! (Írjon hármat /3/!)\n- a sérültet sötét, hűvös helyen lefektetjük\na sérült homlokára vizes borogatást helyezünk\n- fájdalomcsillapítás\norvosi ellenőrzés\n- folyadékpótlás",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q029_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(\"A\" részre: 1 pont; \"B\" részre: 2 pont; \"C\" részre: 3 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_junius_18_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Fogalmazza meg, mi a különbség a produktív és az\nimproduktív köhögés között!\nA produktív köhögés köpetürítéssel járó, az improduktiv\nköhögés köpetürítéssel nem járó, un. száraz köhögés.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

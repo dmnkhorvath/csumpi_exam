@@ -1,0 +1,218 @@
+[
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Írja az alábbi latin kifejezések mellé a magyar\nmegfelelőjüket!\n- regeneratio: ...\n- hypertrophia: ...\n- atrophia:... \n- degeneratio: ...\n- necrosis: ...\n- hypoplasia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szövet-újraképződés...\ntúltengés...\nsorvadás...\nelfajulás...\nelhalás...\ncsökkent értékű fejlődés...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat jellemzőikkel!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. kevert alkati típus\nB. piknikus (hyperstheniás) alkat\nC. részarányos (normostheniás) alkat\nD. sovány (astheniás) alkat\n1. alacsony, zömök test, keringési és cukorbetegségre való hajlam\n2. arányos test, jó ellenálló képesség\n3. gyenge ellenálló képesség, légzőszervi- és emésztőszervi betegségekre\nvaló hajlam\n4. ilyen típusú a legtöbb ember\nΑ.- ...., B.- ...., C.- ...., D.- ....",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...4...., B.- ...1...., C.- ...2...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejt alkotórészei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "sejtmembrán\nmitokondrium\nsejtmag\nsejtplazma\nmembrán organellumok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Nevezze meg és jellemezze a csontszövetet felépítő\nállományokat!",
+      "question_type": "open",
+      "correct_answer": "- szerves állomány – osszein: kötőszöveti rostokból, fehérjét és\nszénhidrátot tartalmazó összetett molekulákból épül fel, a csont\nrugalmasságát adja\n- szervetlen állomány: elsősorban kalciumsók alkotják, de mintegy 20\nkülönböző elem található benne, a csontok szilárdságát adja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Sorolja fel a felső végtag csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "felkarcsont\norsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző\nfeladatokkal! Írja a betűjelek mellé a helyes válasz\nsorszámát!\n\nA. fehérvérsejt\nB. vérlemezkék\nC. vérplazma\nD. vörösvérsejt (hemoglobin)\n\n",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.- ...4...., C.- ...1...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q007_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 8,
+      "question_text": "Nevezze meg az AB0-vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n\n| Vörösvértest (Agglutinogén) | Vércsoport típusa | Szérum (Agglutinin) |\n|-----------------------------|-------------------|-------------------|\n| -                           |                   |                   |\n| A                           |                   |                   |\n| B                           |                   |                   |\n| AB                          |                   |                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvértest (Agglutinogén) | Vércsoport típusa | Szérum (Agglutinin) |\n|-----------------------------|-------------------|-------------------|\n|                             | 0                 | anti-A és anti-B  |\n|                             | A                 | anti-B            |\n|                             | B                 | anti-A            |\n|                             | AB                | -                 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!\n- a belégzett levegő előmelegítése\n- oxigéncsere\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- külső légzés lebonyolítása\n- hangok képzése\n- szagok érzékelése\n- légnyomás biztosítása\n- a belégzett levegő mechanikus tisztítása\n(Csak az 5 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pont nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése\na belégzett levegő mechanikus tisztítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a rájuk jellemző köpetekkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. tuberkulózis\n2. tüdőasztma\n3. tüdőtályog\n4. tüdővizenyő\n\nA. üvegszerű, tapadós köpet\nB. gennyes köpet\nC. élénkpiros színű, véres köpet\nD. bőséges, szilvalészerű köpet\n\n1.-......, 2.-......, 3.-......, 4.-......",
+      "question_type": "matching",
+      "correct_answer": "C, A, B, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  | bénulás |\n| tremor |  |\n| rigor |  |\n|  | beszédzavar |",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n|  | remegés (akarattól független) |\n|  | fokozott izomtónus |\n| aphasia |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q011_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 8,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia\nchronica) tünetei közül nyolcat!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés vagy\nszékrekedés)\nfémes szájíz\nszáraz, vastagon lepedékes nyelv\nvizeletszagú lehelet\nmagas vérnyomás\nlesoványodás\nsúlyos vérszegénység, bőr- és nyálkahártyavérzések\nbőrviszketés, sárgás, szürkés bőrszín, száraz bőr\nvizenyő\nsavós hártyák gyulladásának tünetei\nlégzőszervi tünetek (Kussmaul-típusú légzés)\nidegrendszeri tünetek (fokozott reflexek, izomgörcsök, fejfájás, zavartság)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q012_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 8,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n|  | kimozin |  |\n| vékonybél |  |  |\n|  | amiláz |  |\n|  | lipáz |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n|  |  | tejfehérje |\n| vékonybél | tripszin | fehérje |\n|  |  | szénhidrát |\n|  |  | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q013_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\nkülső nemi szervek:\n-\n-\nbelső nemi szervek:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Ismertesse a tetaniát a megadott szempontok alapján!\nLényege:\nA vérszérum Ca-szintjének csökkenése következtében kialakuló spontán\nizomgörcsök, izomrángások.\nOka:\nA mellékpajzsmirigy csökkent működése.\nTünetei: Írjon négyet!\n- a kéz és láb ujjainak zsibbadása\n- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor\" (risus\nsardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca-szintjének csökkenése következtében kialakuló spontán\nizomgörcsök, izomrángások.\nA mellékpajzsmirigy csökkent működése.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi az érhártya feladata?\nHol található a pupilla?\nHol és mi termeli a csarnokvízet?\nHol találhatók a látás receptorai?\nMi a szemlencse feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "...az ideghártya táplálása...\n...a szivárványhártya közepén...\n...a szem középső burkában a sugártest termeli...\n...az ideghártyán...\n...a szem alkalmazkodóképességének biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\nÍrjon hatot!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- mozgászavar\n- bénulások\n- beszédzavar\n- zavart tudat\n- eszméletvesztés\n- látászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_07_IV_eumiv_180607_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám/felhám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  }
+]

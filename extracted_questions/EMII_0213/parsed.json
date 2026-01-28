@@ -1,0 +1,346 @@
+[
+  {
+    "file": "EMII_0213_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\n- pikkelysömör: ...\n- érelmeszesedés: ...\n- tüdőgyulladás: ...\n- cukorbetegség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "psoriasis\narteriosclerosis\npneumonia\ndiabetes mellitus",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Határozza meg a szervezet egészséges és normális állapotának fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az egészséges vagy normális állapot egy viszonylagos egyensúlyi állapot, amelyben a szervezet – egyéni eltérés és tűrőképesség alapján – alkalmazkodik környezete változásaihoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Írjon le a Bechterew-kór lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "erős háti és ágyéki gerincfájdalom\ngerincmozgások beszűkülése\nfokozott háti görbület csontos rögzülése\nétvágytalanság\nfáradékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a mozgásszervrendszerre vonatkozó helyes\nmegállapításokat!\n- A csontok vastagságbeli növekedését a növekedési porckorong biztosítja.\n- A nyakszirtcsont, a homlokcsont és az ékcsont az arckoponyacsontokhoz\ntartoznak.\n- Az emberi szervezetben 206 csont található.\n- A gerinc 30-31 csigolyából áll.\n- A rostacsont, ekecsont az arckoponya csontjaihoz tartozik.\n- A medencecsont három csontból csontosodott össze.\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az emberi szervezetben 206 csont található.\nA rostacsont, ekecsont az arckoponya csontjaihoz tartozik.\nA medencecsont három csontból csontosodott össze.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Sorolja fel az izmok járulékos részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\nínhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Határozza meg az antigén (agglutinogén) fogalmát és típusait!\nFogalma:\nTípusai:",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található fehérje természetű anyagok.\nA-antigén\nB-antigén",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az atrioventricularis blokk lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerület átterjedése a pitvarról a kamrákba részben vagy teljesen gátolt, ami átmeneti és tartós is lehet....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Írja be a táblázatba a szív gyulladásos betegségeinek magyar megnevezését!\n\nA szív gyulladásos betegségei\n| latinul | magyarul |\n|---|---|\n| myocarditis |  |\n| pericarditis |  |\n| carditis rheumatica |  |\n| endocarditis |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latinul | magyarul |\n|---|---|\n|  | szívizomgyulladás |\n|  | szívburokgyulladás |\n|  | reumás szívgyulladás |\n|  | szívbelhártya-gyulladás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszerre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a hörgőcskék végén találhatóak a vízhólyagok, melyek szőlőfürtszerűen\nrendeződnek el\n2. a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek\n3. a légzőközpont az agytörzs területén található\n4. a levegő a szájüregben szűrődik, felmelegszik és párásodik is\n5. a légzést akaratlagosan is tudjuk szabályozni\n6. a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja\n\nIgaz állítás: ....\nHamis állítás: ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a gégevizenyőt a megadott szempontok szerint!\nLényege:\nOkai: Írjon hármat!\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetnek a vizenyője.\n- maró gázok, gőzök\n- rovarcsípés\n- allergizáló tényezők\n- gége sérülése, gyulladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket és a jellegzetes bőrelváltozásokat! Írja a betűjelek\nmellé a helyes válasz sorszámát!\nA. májzsugorodás\nB. idült veseelégtelenség\nC. epekő, májgyulladás\nD. akut hasnyálmirigy-gyulladás\n1. a has bőrén, a köldök környékén kékes, szederjes elszíneződés\n2. sárgaság\n3. fakó, enyhén sárga színű bőr, csillag alakú/pókhálószerű értágulatok a bőrön\n4. bőrviszketés, sárgás-szürkés bőrszín, száraz bőr\nΑ.-......, В.-......, C.-......, D.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., В.-...4...., C.-...2...., D.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszának részeit!\n- éhbél\n- csípőbél\n- végbél\n- patkóbél\n- felszálló vastagbél\n- haránt vastagbél\n- gyomor\n- szigmabél",
+      "question_type": "multiple_choice",
+      "correct_answer": "végbél\nfelszálló vastagbél\nharánt vastagbél\nszigmabél",
+      "options": [
+        "éhbél",
+        "csípőbél",
+        "végbél",
+        "patkóbél",
+        "felszálló vastagbél",
+        "haránt vastagbél",
+        "gyomor",
+        "szigmabél"
+      ]
+    }
+  },
+  {
+    "file": "EMII_0213_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNephron: ...\nElsődleges vizelet: ...\nHomeosztázis: ...\nClearence-vizsgálat: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya/a szervezet belső környezetének állandósága...\na vese munkájáról, szűrűképességéről tájékoztató vizsgálat...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Írja le a normál vizelet összetételét!",
+      "question_type": "open",
+      "correct_answer": "95% víz\nszerves anyagok\nszervetlen anyagok\nfestékanyagok\nnem állandóan jelenlévő anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését és feladatát!\nRészei:\n- méhfenék\n- méhtest\n- méhnyak\n\nElhelyezkedése:\n...a kismedence közepén, a hólyag és a végbél között található...\n\nFeladata:\n- a megtermékenyített petesejt befogadása (beágyazódás)\n- az embrió/magzat fejlődésének biztosítása",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\n\n...a kismedence közepén, a hólyag és a végbél között található...\n\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel a meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "genetikus tényezők\nhormonális tényezők\nanyagcsere-betegségek\nkörnyezeti tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukorszintet emelik!",
+      "question_type": "multiple_choice",
+      "correct_answer": "adrenalin\nglükagon",
+      "options": [
+        "adrenalin",
+        "inzulin",
+        "szomatosztatin",
+        "glükagon"
+      ]
+    }
+  },
+  {
+    "file": "EMII_0213_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!\n\nLényege:\nA mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló\nbetegség.\n\nLehetséges tünetei: Írjon hármat!\n- gyógyszeresen nem befolyásolható magas vérnyomás\n- csökkent vér K-szint\n- izomfájdalom\n- izomgyengeség\n\nGyógyításának lehetőségei:\n- műtét\n- gyógyszeres kezelés",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.\ngyógyszeresen nem befolyásolható magas vérnyomás\ncsökkent vér K-szint\nizomfájdalom\nizomgyengeség\nműtét\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyrázkódás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- eszméletvesztés\n- fejfájás\n- hányinger\n- általános gyengeség\n- tág pupilla\n- bradycardia\n- felületes légzés\n- átmeneti emlékezetkiesés (retrográd amnézia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző és vezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EMII_0213_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gerincvelői reflexeket a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. hasbőrreflex\n2. hólyagreflex\n3. cremasterreflex\n4. izomvédekezési reflex\n5. hashártyai reflex\n\nVegetatív reflex: ...., ...., .....\nBőreredetű reflex: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5.\n1., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan betegséget/állapotot, amely lábszárfekély\nkialakulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "keringési zavar\ncukorbetegség\nbeidegzési zavarok\negyes bőrbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertesse a szem akkomodációjának folyamatát!",
+      "question_type": "open",
+      "correct_answer": "Az 5 méternél közelebbi tárgyról érkező széttartó fénysugarakat a szem a lencse\ndomborúságának változtatásával gyűjti össze, korrigálja, így azok mindig az\nideghártya sárgafoltjára vetülnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Nevezze meg a vérzés fajtáit a vérzés jellegének leírása alapján! Egészítse ki a táblázatot!",
+      "question_type": "fill_in",
+      "correct_answer": "artériás vérzés\nvénás vérzés\nhajszáleres vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMII_0213_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 5,
+      "question_text": "Párosítsa a leírásokat az elsősegélynyújtói teendőkkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. a beteg az ingerre (megszólítás, óvatos vállrázás) nem reagál, nem vonható\nkontaktusba\n2. a légzés vizsgálatakor 10 másodperc alatt nem észlelünk normális légzést\n3. a légzés vizsgálatakor 10 másodperc alatt legalább 2 normális légzést\nészlelünk\n4. a sérült az ingerre valamilyen módon reagál\n5. a sérült mozdulatlanul fekszik a földön\n\nA. biztonságos környezet megteremtése, majd az eszmélet vizsgálata\nB. újraélesztés megkezdése\nC. légutak szabaddá tétele, légzésvizsgálat\nD. az esetleges sérülés ellátása, mentőhívás, általános állapot folyamatos\nellenőrzése\nE. a beteg stabil oldalfektetésbe helyezése",
+      "question_type": "matching",
+      "correct_answer": "1.-...C....,\n2.-... Β...., 3.-...Ε...., 4.-...D....,\n5.-... Α....",
+      "options": []
+    }
+  }
+]

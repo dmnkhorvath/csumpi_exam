@@ -1,0 +1,206 @@
+[
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Nevezze meg latinul az emberi test részeit!\nEgészítse ki a táblázatot!\n\nAz emberi test részei\n| magyar megnevezés | latin megnevezés |\n|---|---|\n| fej |  |\n| nyak |  |\n| törzs |  |\n| mellkas |  |\n| has |  |\n| medence |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar megnevezés | latin megnevezés |\n|---|---|\n|  | caput |\n|  | collum, cervix |\n|  | truncus |\n|  | thorax |\n|  | abdomen |\n|  | pelvis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Sorolja fel a betegségek lefolyásának lehetséges módjait!\nÍrjon egy-egy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "heveny (acut): rövid ideig tart (1-2 naptól 2-4 hét), heves tünetekkel jár\nfélheveny (subacut): elhúzódó lefolyású, nem jár viharos tünetekkel\nidült (chronicus): hosszantartó, évekig, évtizedekig tarthat, változóan\nnyugalmi és aktív szakaszokkal jár",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás helyi tüneteinek létrejöttét!\nTöltse ki a táblázatot!\n\n| a gyulladás helyi tünete | az elváltozás oka |\n|---------|---------|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| a gyulladás helyi tünete | az elváltozás oka |\n|---------|---------|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik, ezáltal hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt feladata a szervezetben az ellenanyagok (immunglobulinok) termelése?\nMelyik sejtet nevezzük nagy falósejtnek?\nMelyik sejt felelős a beültetett transzplantátum kilökődéséért?\nMennyi a normális hematokrit érték?\nHol található a hemoglobin?",
+      "question_type": "fill_in",
+      "correct_answer": "...B-lymphocyta...\n...a monocytát...\n...a T-lymphocyta...\n...0,36-0,46 L/L...\n...a vörösvérsejtben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Soroljon fel a hát és a has izmai közül hármat-hármat\nmagyarul!\n\nhátizmok:\n- csuklyás izom\n- széles hátizom\n- mély hátizmok\n- tarkóizmok\n\nhasizmok:\n- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "question_type": "open",
+      "correct_answer": "csuklyás izom\nszéles hátizom\nmély hátizmok\negyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyilvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q007_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 9,
+      "question_text": "Ismertesse a Scheuermann-féle betegséget az alábbi\nszempontok szerint!\n\nA betegség megjelenésére jellemző életkor:\n\nA betegség lényege: Írjon kettőt!\n- a csigolyatestek elvesztik szilárdságukat\n- a csigolyatestek elkeskenyednek\n- a csigolyák ék alakúvá deformálódnak\n\nA betegség tünetei: Írjon négyet!\n- fáradékonyság\n- hátfájdalom\n- háti szakasz fokozott görbülete\n- háti szakasz merevsége\n- csökkent terhelhetőség\n\nA betegség terápiája: Írjon kettőt!\n- gyógytorna\n- úszás\n- fűző viselése",
+      "question_type": "open",
+      "correct_answer": "serdülőkor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q008_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 8,
+      "question_text": "Egészítse ki a vércsoportokra vonatkozó táblázatot!\n\n| Vércsoport neve | A szérumban található agglutinin | Vörösvérsejtben található agglutinogén |\n|---|---|---|\n| 0 |  |  |\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport neve | A szérumban található agglutinin | Vörösvérsejtben található agglutinogén |\n|---|---|---|\n| 0 | *anti-A és anti-B* | - |\n| A | *anti-B* | *A* |\n| B | *anti-A* | *B* |\n| AB | - | *A és B* |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\n\nMely hormon segíti elő a tej kiürülését az emlőből?\n\nHol termelődik az ADH?\n\nHol tárolódik az ADH?\n\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "fill_in",
+      "correct_answer": "...LTH (luteotrop hormon/prolactin)......az oxytocin......a hypothalamusban......a hipofizis hátulsó lebenyében......diabetes insipidus...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q010_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 8,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül nyolcat!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztatamegnagyobbodás\ntünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q012_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 8,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a megadott szempontok szerint!\nÍrja a tünetek sorszámát a megfelelő helyre!\n1. szapora, nehezített légzés\n2. gyakori, szúró mellkasi fájdalom\n3. hirtelen jelentkező nehézlégzés\n4. magas, nehezen csillapítható láz\n5. rövid, kapkodó belégzés\n6. hosszan elnyúló, sípoló kilégzés\n7. barnásvörös köpet\n8. üvegszerű, tapadós köpet\nTüdőgyulladás: ...\nTüdőasztma: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4., 7....\n3., 5., 6., 8....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a heveny vesegyulladás\n(glomerulonephritis acuta) tüneteit!\nvizenyő\nfehérjevizelés\ntestsúlycsökkenés\nbilirubin vizelés\nvéres vizelet\nmagas vérnyomás\nbő vizelés\nkiszáradás",
+      "question_type": "multiple_choice",
+      "correct_answer": "vizenyő\nfehérjevizelés\nvéres vizelet\nmagas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q014_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 8,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül\nnyolcat!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nnyelési zavar\nnystagmus (szemtekerezgés)\nszédülés\nvizelettartási zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon három jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "csontátépülés következtében a belső fülben a kengyel talpa rögzül\naz ovális ablakhoz\nnőknél gyakoribb, mint a férfiaknál\ntünete a kínzó fülzúgás\nvezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q016_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 7,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket és a tünetek\nészlelésekor az elsősegélynyújtó teendőit!",
+      "question_type": "open",
+      "correct_answer": "Tünetek: Írjon ötöt!\nsápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság\nTeendők: Írjon kettőt!\nsokkfektetés (hanyatt fekvő helyzet, felpolcolt alsó végtagokkal)\ngyakori állapotellenőrzés\nfolyamatos kommunikáció, nyugtatás\neszméletvesztés esetén légútbiztosítás\nmentőhívás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_I_eumi_180606_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nszékletürítés hiánya\n„néma has”\nbeesett arc\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  }
+]

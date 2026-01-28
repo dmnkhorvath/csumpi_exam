@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a test síkjaihoz leírásukat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. horizontális sík\nA. a homlokkal párhuzamos\n2. medián sík\nB. a testen középvonalban, elölről hátrafelé halad\n3. frontális sík\nC. a homloksíkra merőleges\n4. saggitalis sík\nD. a középsíkkal párhuzamos",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B...., 3.-...A...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg az áramütés emberi szervezetre gyakorolt lehetséges hatásait\na megadott szempontok alapján!",
+      "question_type": "open",
+      "correct_answer": "Helyi hatása:\n- égési sérülés\nÁltalános hatása:\n- eszméletvesztés\n- izomgörcsök\n- szívritmuszavar\n- légzésbénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Bechterew-kór lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- erős háti- és ágyéki gerincfájdalom\n- a fájdalom kisugározhat a combokba\n- gerincmozgások beszűkülése\n- fokozott háti görbület kialakulása és csontos rögzülése\n- fáradékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a mozgás szervrendszerre vonatkozó helyes\nmegállapításokat!\n- A gerinc 32-33 csigolyából áll.\n- Csontos összeköttetés található a csigolyák között.\n- A csontok vastagságbeli növekedését a csonthártya biztosítja.\n- A kéztő nyolc apró, szabálytalan alakú csontból áll, melyek két sorban\nhelyezkednek el.\n- A porcszövet ereket és idegeket tartalmaz, ezért sérülései igen fájdalmasak.\n- Porc borítja a csontok ízfelszíneit, illetve egyes szervekben vázalkotó szerepe\nis van.\n- A nagy mellizom a mell- és a hasüreget határolja.\n- A rekeszizom legyező alakú izom, a mellkastól a felső végtag felé húzódik.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A gerinc 32-33 csigolyából áll.\nCsontos összeköttetés található a csigolyák között.\nA csontok vastagságbeli növekedését a csonthártya biztosítja.\nA kéztő nyolc apró, szabálytalan alakú csontból áll, melyek két sorban\nhelyezkednek el.\nPorc borítja a csontok ízfelszíneit, illetve egyes szervekben vázalkotó szerepe\nis van.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Ismertesse a lép helyét és feladatát!\nHelye:\n\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "...a rekesz alatt, a hasüreg bal oldalán található....\n- lymphocytaképzés\n- a vér raktározása\n- a vörösvértestek lebontása\n- a vérlemezkék lebontása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer képleteire vonatkozó táblázat hiányzó részeit!\n\nA légzőrendszer képletei\n| magyarul | latinul |\n|---|---|\n| garat |  |\n| gége |  |\n| rostacsont üregei |  |\n| ékcsonti üreg |  |\n| gátorüreg |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n|  | pharynx |\n|  | larynx |\n|  | cellulae ethmoidales |\n|  | sinus sphenoidalis |\n|  | mediastinum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt okokat, tényezőket a megadott szempontok szerint!\nÍrja a sorszámokat a megfelelő helyre!\n\n1. vérszegénység\n2. hányinger, hányás\n3. agynyomás-fokozódás\n4. pajzsmirigy-túlműködés\n5. csökkent pajzsmirigyműködés\n6. élvezeti szerek (kávé, tea, nikotin) túlzott fogyasztása\n\na sinusbradycardia lehetséges okai: ...\n\na sinustachycardia lehetséges okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5.\n1., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a tüdőtuberkulózist a megadott szempontok szerint!\nKórokozója:\n...\nA betegség terjedési módja:\n...\nA betegség terjedését elősegítő tényezők: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "Mycobacterium tuberculosis/Koch-bacilus\ncseppfertőzés\nrossz szociális körülmények\nnem megfelelő higiénés viszonyok\nmennyiségileg és/vagy minőségileg elégtelen táplálkozás\na szervezet védekező/ellenálló képességének romlása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg a hashártya képleteit!",
+      "question_type": "open",
+      "correct_answer": "- kiscseplesz.\n- nagycseplesz\n- bélfodor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Ismertesse a Crohn-betegség lényegét és lehetséges szövődményeit!\n\nLényege:\n...Nem specifikus gyulladásos bélbetegség, amely a tápcsatorna bármely\nszakaszát érintheti, de főleg a vékonybélben jelentkezik. A bélfal valamennyi\nrétege érintett a gyulladás folyamatában....\n\nLehetséges szövődményei: Írjon kettőt!\n- tályogképződés\n- sipoly\n- a bél perforációja",
+      "question_type": "open",
+      "correct_answer": "Nem specifikus gyulladásos bélbetegség, amely a tápcsatorna bármely\nszakaszát érintheti, de főleg a vékonybélben jelentkezik. A bélfal valamennyi\nrétege érintett a gyulladás folyamatában.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Párosítsa a vese mikroszkópos részeihez jellemzőiket! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. elsődleges kanyarulatos\ncsatorna\n2. Malpighi-test\n3. Henle-kacs\n4. juxtaglomerularis\napparátus\n5. Bowman-tok\n\nA. kehelyként veszi körül a hajszálér-\ngomolyagot\nB. sejtjei érzékelik a vas efferensben uralkodó\nnyomást\nC. benne zajlik a szűrés, a filtráció\nD. az elsődleges kanyarulatos csatorna\nfolytatása, a kéregállományban kezdődik\nE. a Malpighi-test vizeleti pólusából indul ki",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-...C...., 3.-...D...., 4.-...Β...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, amelyeket csak kóros körülmények között\ntartalmaz a vizelet!",
+      "question_type": "open",
+      "correct_answer": "- fehérje\n- vér\n- genny\n- cukor\n- aceton\n- bilirubin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Egészítse ki a férfi nemi szervekkel kapcsolatos mondatokat!\nA...herezacskó ... az embrionális fejlődés során két lebenyből forr össze.\nA hímvessző megnyúlt ...henger... alakú szerv, a végén található a húgycső\n...külső nyílása....\nAz ...ondózsinór... kisujjnyi vastagságú köteg, amely a herezacskóban és a\n...lágyékcsatornában... található.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Ismertessen hármat a hüvelygyulladás gyógyításának, kezelésének lehetőségei közül!",
+      "question_type": "open",
+      "correct_answer": "- helyi kezelés: kúp, hüvelytabletta\n- ülőfürdő\n- antibiotikum\n- fontos a partner kezelése is",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Egészítse ki a Langerhans-szigetek sejtjeivel és hormonjaival kapcsolatos\ntáblázat hiányzó részeit!\n\n| Langerhans-szigetek |  |\n|---------|---------|\n| sejtjei | hormonjai |\n| α-sejtek |  |\n| β-sejtek |  |\n|  | A hormonok hatása* |\n|  | Írjon kettőt-kettőt! |\n|  | - az inzulinnal ellentétes hatású, növeli a vércukorszintet |\n|  | - mozgósítja a májban tárolt glükogént |\n|  | - elősegíti a glükogén lebontását |\n|  | - szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét |\n|  | - a sejtekbe juttatja a cukrot |\n|  | - csökkenti a vércukorszintet |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Langerhans-szigetek |  |\n|---------|---------|\n| sejtjei | hormonjai |\n|  | glükagon |\n|  | inzulín |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gigantizmus lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az átlagot meghaladó testmagasság\n- a felső végtag aránytalan hosszúsága\n- végtagfájdalmak, az ujjak zsibbadása\n- durva, ügyetlen mozgás és kézmozdulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg az idegrendszer egyes területeit a megadott jellemzők alapján!\nAkaratunktól független működésű, a belső szervek működését irányítja, anatómiailag és működés tekintetében két részre osztható:\n...\nKözponti része az agytörzsben és a gerincvelő szakrális részében található, az agytörzsi részt főképp a X. agyideg magva, kisebb részt a III., VII. és IX. agyideg magvai képviselik:\n...\nKözponti része a gerincvelő háti és ágyéki szakaszán van, környéki részét képezi a gerinc két oldalán húzódó határlánc:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vegetativ idegrendszer\nparaszimpatikus idegrendszer\nszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epilepszia lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- agyi gyulladásos folyamatok, fertőzések\n- agydaganatok\n- agyi vérzések\n- koponyasérülések\n- fejlődési rendellenességek\n- sorvadásos megbetegedések (tüneti epilepszia)\n- önálló kórkép/genuin epilepszia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Csoportosítsa a felsorolt ízeket - az ízérzékelésnek megfelelően - a nyelv\nterületeihez! Írja a sorszámokat a megfelelő helyre!\n\n1. keserű\n2. savanyú\n3. édes\n4. sós\n\na nyelv hegye: ... ....\na nyelv oldalsó szélei: ...., .... \na nyelvgyök: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2., 4\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse a heveny fülkürtgyulladást a megadott szempontok szerint!\nKialakulásának oka: Írjon egyet!\n- \n- akadályozott orrlégzés\nTünetei: Írjon kettőt!\n- \n- \n- vezetéses halláscsökkenés\nKezelésének/gyógyításának lehetőségei: Írjon kettőt!\n- \n- gyógyszeres kezelés\n- gondos orrtoalett",
+      "question_type": "open",
+      "correct_answer": "orr-, és garatgyulladás\nteltségérzés a fülben\nfülzúgás\nmelegterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írja le a tömeges baleset fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Tömeges balesetnek minősül az az esemény, amely során közel azonos helyen, időben és okból több sérültet, beteget kell ellátni, függetlenül azok állapotának súlyosságától.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá a hőhatásokkal kapcsolatos helyes megállapításokat!\n- A hőszabályozó központjuk labilitásának következtében a csecsemők érzékenyebbek a hőmérsékleti viszonyok változására.\n- Az idősek kevésbé érzékenyek a hőmérsékleti viszonyok változására.\n- A hőguta legjellemzőbb tünete a forró, kipirult és verejtékes bőr.\n- Az égés minden esetben lokális ártalom.\n- Égést okozhat a testfelülettel érintkező forró gőz, víz vagy egyéb magas hőfokú folyékony anyag, láng, izzó fém.\n- Az égési felület nagyságának meghatározásakor a felnőtt sérült saját egy tenyérnyi felületét 2%-nak kell tekinteni.\n- Az égés nem lokális ártalom, hanem az egész szervezetet érintő elváltozás.\n- Az égési sérülés súlyosságát az égés foka és kiterjedése, valamint a beteg életkora és általános állapota határozza meg.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A hőszabályozó központjuk labilitásának következtében a csecsemők érzékenyebbek a hőmérsékleti viszonyok változására.\nÉgést okozhat a testfelülettel érintkező forró gőz, víz vagy egyéb magas hőfokú folyékony anyag, láng, izzó fém.\nAz égés nem lokális ártalom, hanem az egész szervezetet érintő elváltozás.\nAz égési sérülés súlyosságát az égés foka és kiterjedése, valamint a beteg életkora és általános állapota határozza meg.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_08_II_eumii_0208-230214_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nLégúti idegentest eltávolítása esetén a ... alkalmazható.\nHarapott seb esetén a vérzés mennyisége ..., a ...\nfoka pedig igen nagy.",
+      "question_type": "fill_in",
+      "correct_answer": "Heimlich-féle műfogás\nváltozó\nfertőzésveszély",
+      "options": []
+    }
+  }
+]

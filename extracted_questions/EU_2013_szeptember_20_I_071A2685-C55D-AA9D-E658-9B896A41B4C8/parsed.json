@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Ismertesse az immunitás formáit!\nEgészítse ki az alábbi ábrát!",
+      "question_type": "fill_in",
+      "correct_answer": "Veleszületett\nSzerzett\nFaji\nAnyai\nBetegség\nImmunizálás\nAktív\nPasszív",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Rendelje a gyulladás helyi tüneteinek latin kifejezése\nmellé azok magyar megfelelőjét! Írja a betűjelek mellé a\nhozzájuk tartozó számot!\nA. rubor\nB. tumor\nC. calor\nD. dolor\nE. functio laesa\n1. működés károsodás\n2. melegség\n3. fájdalom\n4. vöröses elszineződés\n5. duzzanat\nA: ......; B: ......; C: ......; D: ......; Ε: ......",
+      "question_type": "matching",
+      "correct_answer": "A: ...4...; B: ...5...; C: ...2...; D: ...3...; Ε: ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel az izmok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\nínhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Határozza meg az izomműködés élettanával kapcsolatos alábbi fogalmakat!\nKüszöbinger:\n...\nKontrakció:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "az a minimális ingererősség, melyre az izom összehúzódással válaszol...\negy izomrost összehúzódása inger hatására...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Sorolja fel a csonttörések tüneteit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- fájdalom\n- alakváltozás, duzzanat\n- mozgáskiesés\n- vérömleny\n- krepitáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző\nfeladatokkal!\nÍrja a betűk mellé a megfelelő sorszámot!\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma",
+      "question_type": "matching",
+      "correct_answer": "Α: ...2...; B: ...1... ; C: ...4..; D: ...3...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a leírt jellemzők alapján a betegségeket!\nA B12-vitamin nem tud felszívódni a gyomorban termelődő intrinszik\nfaktor hiánya miatt.\n...\nA kóros (éretlen) fehérvérsejtek korlátlan mennyiségben képződnek, de\nfunkciójukat nem tudják ellátni.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vészes vérszegénység\nleukémia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel az embólia fajtáit!",
+      "question_type": "open",
+      "correct_answer": "thromboembolia\nlégembólia\nzsírembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a TBC megelőzésének lehetőségeit!\n- elhízás elkerülése\n- rendszeres tüdőszűrés\n- higiénés szabályok betartása\n- dohányzás\n- allergizáló növények kerülése\n- védőoltás\n- fertőző források felkeresése, gondozásba vétele\n- a TBC-ben szenvedő beteg hozzátartozóinak karanténba helyezése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül az orr feladatait!\n- belélegzett levegő előmelegítése, párásítása\n- belélegzett levegő mechanikus tisztítása\n- légúti reflexek központja\n- koponya súlyának csökkentése\n- hangok képzése\n- hangszalagok rögzítése\n- ízek érzékelése\n- szagok érzékelése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "belélegzett levegő előmelegítése, párásítása\nbelélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi meghatározásokat a felsorolt\nbetegségekkel!\nÍrja a betegségek mellé a megfelelő sorszámot!\n\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet\na kishörgők nyálkahártyájának duzzanata kísér.\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének a\nvizenyője következtében kialakuló életveszélyes állapot.\n3. A léghólyagok és a köztük lévő sövények fala elvékonyodik, majd\nátszakad és végül közös üreggé olvad egybe.\n\nGégevizenyő: ......\nTüdőasztma: ......\nTüdőtágulat: .......",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely tápanyagok bontása kezdődik a szájüregben?\nMely tápanyagok bontása kezdődik a gyomorban?\nHol tárolódik az epe?\nMi az epe feladata?",
+      "question_type": "open",
+      "correct_answer": "szénhidrátok\nfehérjék\naz epehólyagban\na zsírcseppek emulgeálása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Sorolja fel a vérhas (dysenteria) tüneteit és kiváltó okait!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos, gennyes széklet\nláz\nhasi görcsös fájdalom (tenesmus)\ngörcsös hasmenés\nshigella baktérium\namőba fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Ismertesse az elsődleges vizelet jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- mennyisége napi kb. 180 liter\n- fajsúlya: 1010\n- a vérplazma fehérjementes szűrlete",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Ismertesse a vesekőbetegséget (nephrolithiasis) a\nmegadott szempontok alapján!\n\nLényege:\nA vese üregrendszerében oldott sók kő formájában kicsapódnak, a\nhúgyvezetékbe, hólyagba jutva akadályozhatják, vagy elzárhatják a vizelet\nútját.\n\nHajlamosító tényezők:\n- vizeletpangás\n- húgyutak szűkülete\n- vizelet fertőződése\n- kőképző anyagok felszaporodása a vizeletben",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében oldott sók kő formájában kicsapódnak, a\nhúgyvezetékbe, hólyagba jutva akadályozhatják, vagy elzárhatják a vizelet\nútját.\n\nvizeletpangás\nhúgyutak szűkülete\nvizelet fertőződése\nkőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Helyes válasz esetén a lényegére 2 pont, a hajlamosító tényezőkre 1-1 pont adható!)„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Csoportosítsa és ismertesse a várandósság jeleit!\nÍrjon egy-egy /1-1/ példát mindegyik csoporthoz!\nGyanújelek:\n- émelygés\n- hányinger, hányás\n- hangulatváltozás\n- szagokra érzékenyebbé válás\n- fokozott étvágy\nValószínűségi jelek:\n- menstruáció elmaradása\n- bővebb hüvelyváladék\n- a mellbimbó és a szeméremajkak sötét elszíneződése\n- pozitív terhességi teszt\nBiztos jelek:\n- magzatmozgás\n- magzati szívhangok",
+      "question_type": "open",
+      "correct_answer": "émelygés\nhányinger, hányás\nhangulatváltozás\nszagokra érzékenyebbé válás\nfokozott étvágy\nmenstruáció elmaradása\nbővebb hüvelyváladék\na mellbimbó és a szeméremajkak sötét elszíneződése\npozitív terhességi teszt\nmagzatmozgás\nmagzati szívhangok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Határozza meg a meddőség/sterilitás fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egészséges házaséletet élő és fogamzásgátlást nem alkalmazó\nnő/férfi esetében, ha 1-2 év alatt sem jön létre a megtermékenyülés,\nmeddőségről/sterilitásról beszélünk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n\ninzulin\nglükagon\nadrenalin\nszomatosztatin\n\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q020_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 7,
+      "question_text": "Sorolja fel a Basedow-kór (hyperthyreosis) tüneteit!\nÍrjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívverés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\na bőr meleg, nyirkos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Nevezze meg az idegrendszer részeit!\n- központi idegrendszer - \n- környéki vagy perifériás idegrendszer - \n(Helyes válaszonként-0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "gerincvelő, agyvelő\nagyidegek, gerincvelői idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a sclerosis multiplex (SM) tüneteit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulások\nmozgászavarok\nincontinentia\nérzészavar\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\n\nKözépfül részei:\n-\n-\n-\n\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach - kürt)\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Nevezze meg a felsorolt tünetek alapján az érzékszervek betegségeit! Válaszát írja a pontozott vonalra!\nA/ Tünetek:\n- a szem belső nyomása kórosan emelkedett\n- látásélesség romlása\n- látótérkiesés\n- fejfájás\nBetegség:\n...\nB/ Tünetek:\n- forgó jellegű szédülés\n- hányinger, hányás\n- spontán nystagmus\n- nagyfokú halláscsökkenés\nBetegség:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "zöldhályog/glaucoma\nbelsőfül-gyulladás (vagy Meniére-betegség)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az elsősegélynyújtás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Végleges szakellátás előtti egészségügyi beavatkozás, melynek célja az élet\nmentése, és a további egészségkárosodás megakadályozása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések\ntípusait! Írjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_szeptember_20_I_071A2685-C55D-AA9D-E658-9B896A41B4C8_q027_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 8,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket, és az\nelsősegélynyújtó teendőit!\nTünetek: Írjon ötöt/5/!\n- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavarodottság\nTeendők:\n- shockfekvés\n- folyadékpótlás\n- OMSZ- hívása",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavarodottság\nshockfekvés\nfolyadékpótlás\nOMSZ- hívása",
+      "options": []
+    }
+  }
+]

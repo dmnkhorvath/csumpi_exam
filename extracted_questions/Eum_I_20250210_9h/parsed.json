@@ -1,0 +1,290 @@
+[
+  {
+    "file": "Eum_I_20250210_9h_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg a hámszövetek fajtáit a felépítő sejtek alakja és a sejtrétegek\nszáma alapján!\n\nA felépítő sejtek alakja alapján:\n\nA sejtrétegek száma alapján:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- laphám\n- köbhám\n- hengerhám\n- egyrétegű hám\n- többrétegű hám",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg a betegség fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A betegség (morbus) olyan állapot, amikor az életfolyamatok a normálistól tartósan és jelentősen eltérnek, az egyén és környezete közötti egyensúly felbomlik.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontvázizom jellemzői közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- akaratunktól függően működik\n- harántcsíkolt izomzat\n- gyors, nagy erőkifejtésre képes\n- viszonylag gyorsan elfárad",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse a veleszületett csípőficam tüneteit, kezelésének lehetőségeit!\nÍrjon kettőt-kettőt!\nTünetei:\n\nKezelésének lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "- hosszkülönbség az alsó végtagok között\n- a farredők ráncaszimmetriája\n- bicegő, kacsázó járás\n- izomerősítés\n- gyógytorna\n- műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a vér útját a kisvérkörben a keringés irányának\nmegfelelően! Írja a sorszámokat a pontozott vonalakra!\n... bal pitvar\n... arteria pulmonalis\n... jobb kamra\n... tüdő\n... vena pulmonalis\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n2\n1\n3\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Nevezze meg az angina pectoris fájdalmának és kisugárzásának jellemző\nhelyeit!\n\nA fájdalom jelentkezésének helye:\n...\n\nA fájdalom kisugárzásának helyei: Írjon hármat!",
+      "question_type": "fill_in",
+      "correct_answer": "a szegycsont mögött...\n- bal kar\n- gyomorgödör\n- a nyak alsó része\n- a hát közepe",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás: ...\nReziduális levegő: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l)....\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l)....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk jellemző kóros légzési\nhanggal! Írja a betűjelek mellé a helyes válasz sorszámát!\nA. eszméletlenség\nB. tüdővizenyő\nC. tüdőasztma\nD. a gége alatti nyálkahártya duzzanata\n1. szörcsögő\n2. sípoló\n3. horkoló\n4. stridoros, húzó jellegű",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...1...., С.-...2...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges kiváltó okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- összenövés\n- daganat\n- idegentest\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés\n- epekő",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vizelet a húgycsövön keresztül jut cseppenként a húgyhólyagba.\n- A húgyhólyag normál űrtartalma 200-300 ml.\n- A húgyhólyag fenekén, egy háromszög alakú területen, a nyálkahártya\nfelszíne sima.\n- A húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\n- A húgyvezeték kb. 5 mm vastagságú és 10 cm hosszú cső.\n- A húgyhólyag kimeneti nyílását erős, gyűrű alakú, akaratunktól függő\nzáróizom fogja körül.\n- A női húgycső mintegy 3-4 cm hosszú.\n- A férfi húgycső hossza kb. 15 cm.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A húgyhólyag normál űrtartalma 200-300 ml.\nA húgyhólyag fenekén, egy háromszög alakú területen, a nyálkahártya\nfelszíne sima.\nA húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\nA női húgycső mintegy 3-4 cm hosszú.\nA férfi húgycső hossza kb. 15 cm.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok szedése\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék- és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi borítja a méh falának belső rétegét?\n...\nHol termelődik a progeszteron?\n...\nHogyan nevezzük a méh izomzatának jóindulatú daganatát?\n...\nMely szerv biztosítja a petesejt továbbítását a méh felé?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "méhnyálkahártya\na petefészekben\nmióma\na petevezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a gonorrhoeát a megadott szempontok szerint!\nA betegség kórokozója: ...\nA betegség tünetei:\n- férfiaknál\n- nőknél\nLehetséges szövődményei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Baktérium (gonococcus)\nférfiaknál gennyes húgycsőfolyás\nnőknél gennyes-nyákos folyás\nheregyulladás\nprosztatagyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a neuroendokrin rendszerrel kapcsolatos szakkifejezések latin vagy\nmagyar megnevezését! Egészítse ki a táblázatot!\n\n| Szakkifejezések | |\n| ----------- | ----------- |\n| magyarul | latinul |\n| agyalapi mirigy elülső lebenye |  |\n|  | |\n| mellékvese |  |\n| csecsemőmirigy |  |\n|  | |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések | |\n| ----------- | ----------- |\n| magyarul | latinul |\n|  | adenohypophysis |\n| pajzsmirigy | glandula thyreoidea |\n|  | glandula suprarenalis |\n|  | thymus |\n| töröknyereg | sella turcica |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a Basedow-kór lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- megnagyobbodott pajzsmirigy\n- nagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\n- szapora szívműködés\n- szívdobogásérzés\n- jó étvágy mellett testsúlycsökkenés\n- élénk bélmozgás, hasmenés\n- nyirkos tenyér és talp\n- állandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. oldalszarv\nA. mozgató neuronok\n2. hátsó szarv\nB. vegetatív neuronok\n3. elülső szarv\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-C...., 3.-Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na sorszámokat a megfelelő helyre!\n1. hypothalamus\n2. nyúltvelő\n3. hálózatos sejtrendszer (formatio reticularis)\n4. híd\n5. thalamus\nAgytörzs: ...\nKöztiagy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemcsatorna\n- könnykészülék\n- látótér\n- pupilla-váz\n- a szem védőkészülékei\n- szemgolyó\n- szemtengely\n- szemmozgató izmok",
+      "question_type": "fill_in",
+      "correct_answer": "könnykészülék\nszemgolyó\nszemmozgató izmok",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a gynaecomastia lényegét és lehetséges okait!\nLényege: ...\nKialakulásának lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A férfi emlőmirigyek túlzott fejlődése, a mell kóros megnövekedése....\nhormonális eltérés\ngyógyszer mellékhatása\nelhízás\nprosztataproblémák",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Egészítse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott |  | ritka/kicsi |  |\n| horzsolt | kicsi |  |  |\n| metszett |  | ritka/kicsi | kicsi |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott | bőséges |  | kicsi |\n| horzsolt |  | nagy | nagy |\n| metszett | bőséges |  |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a felső ugróízület (bokaízület) alkotásában részt\nvevő csontokat!",
+      "question_type": "open",
+      "correct_answer": "- sípcsont\n- szárkapocscsont\n- ugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_I_20250210_9h_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Jellemezze a bélbolyhokat a megadott szempontok szerint!\nFeladata: ...\nElhelyezkedése: ...\nSzövettani szerkezete: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a tápanyag felszívása\nvékonybél nyálkahártyáján\negyrétegű mikrobolyhos hengerhám",
+      "options": []
+    }
+  }
+]

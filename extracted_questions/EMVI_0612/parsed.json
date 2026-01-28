@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EMVI_0612_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Határozza meg az alábbi kifejezések lényegét!\nElsődleges kórok:\n...\nMásodlagos kórok:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a betegség kialakulásáért közvetlenül felelős kórok\naz elsődleges kórok hatását befolyásoló (gátló, vagy segítő) tényező",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az élő kórokok közül!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\nprotozoonok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg az áramütés emberi szervezetre gyakorolt lehetséges\náltalános hatásai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- eszméletvesztés\n- izomgörcsök\n- szívritmuszavar\n- légzésbénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\nA. A csontok szervetlen és szerves állományának csökkenése.\nB. A csigolyaívek záródásának hiánya.\nC. D-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba.\nD. Az ízületi porc kopása.",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...C...., 3.-...B...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Írjon az ízületekben létrejövő mozgások közül ötöt latin szakkifejezéssel!",
+      "question_type": "open",
+      "correct_answer": "flexio\nextensio\nadductio\nabductio\nrotatio/rotáció\ncircumductio",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással.\nA kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik.\nA vér pH-értéke: 7,34–7,42 között mozog.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Párosítsa az anémia formáit kialakulásuk okaival! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. hiányanémia\n2. hemolitikus anémia\n3. aplasztikus anémia\n\nA. a csontvelő csökkent vörösvértest termelése miatt alakul ki\nB. a hemoglobin vagy a vörösvértest felépítéséhez szükséges anyagok hiánya\nmiatt alakul ki\nC. a vörösvértest fokozott szétesése miatt alakul ki\n\n1.-......, 2.-......, 3.-......",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMi a szívbillentyűk feladata?",
+      "question_type": "open",
+      "correct_answer": "a vér megfelelő irányú áramlásának biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Egészítse ki a légmellre vonatkozó táblázatot!\n\n|  | Légmell |\n|---|---|\n| Latin megnevezése |  |\n| Lényege |  |\n| Lehetséges tünetei:\nÍrjon hármat!* |  |\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "|  | Légmell |\n|---|---|\n| Latin megnevezése | pneumothorax |\n| Lényege | a mellhártya lemezei közé levegő kerül |\n| Lehetséges tünetei:\nÍrjon hármat!* | - éles mellkasi fájdalom\n- légszomj/nehézlégzés/légzési elégtelenség\n- szapora, felületes légzés |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orrmelléküregek feladatait!\n- a belégzett levegő hűtése\n- hangok képzése\n- a belégzett levegő előmelegítése\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- a koponya súlyának csökkentése\n- oxigéncsere\n- légnyomás biztosítása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "hangok képzése\na belégzett levegő előmelegítése\na belégzett levegő párásítása\na koponya súlyának csökkentése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nFehérjék: ...\nSzénhidrátok: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az alábbiakban megadott\nszempontok szerint!\n\nLényege:\n\nJellemző tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A májsejtek pusztulásával járó krónikus betegség.\n\n- hasi fájdalom\n- fogyás\n- sárgaság\n- hasvízkór\n- pókhálószerű értágulatok a mellkas bőrén\n- nyelőcsőben vénatágulatok\n- étvágytalanság\n- tenyér és talp élénkvörös\n- vérzékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHonnan indul ki a húgycső (urethra)?\n...\nHol keletkezik az elsődleges vizelet?\n...\nHonnan indul ki a húgyvezeték (ureter)?\n...\nÉlettani körülmények között tartalmaz-e epefestéket a végleges vizelet?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a húgyhólyagból...\na Malpighi-testben...\na vesemedencéből...\nnem...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan anyagot, amelyeket csak kóros körülmények között\ntartalmaz a vizelet!",
+      "question_type": "open",
+      "correct_answer": "- fehérje\n- vér\n- genny\n- cukor\n- aceton\n- bilirubin",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nemi szerveket a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. ovarium\n2. labium minus\n3. epidymis\n4. prostata\n5. scrotum\n6. clitoris\n\nBelső nemi szervek: ...., ...., ....,.....\nKülső nemi szervek: ...., ...., ....,.....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.\n2., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hüvelygyulladás kezelésének lehetőségei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- kúp,\n- hüvelytabletta\n- ülőfürdő\n- antibiotikum\n- fontos a partner kezelése is",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a hypothalamus jellemzői/feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- belső elválasztású mirigy\n- a közti agynak a thalamus alatti részén található, a III. agykamra falát képezi\n- a szervezet belső környezetének viszonylagos állandóságát szabályozza\n- szerepet játszik az ember érzelmi (emocionális) magatartásában\n- hormonjai: az antidiuretikus hormon és az oxitocin",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Ismertesse a Basedow-kórt a megadott szempontok szerint!\nGyakorisága: ...\nGyógyításának, kezelésének, lehetőségei:\n-\n-\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Előfordulása a nőknél négyszer gyakoribb, mint a férfiaknál...\ngyógyszeres terápia\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon négy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg a koponyaűri nyomásfokozódás lényegét, lehetséges\nkövetkezményét!",
+      "question_type": "open",
+      "correct_answer": "Az agyi térszűkítő folyamatok nyomásfokozódással járnak, amely nyomás az\nagytörzset beszoríthatja az öreglyukba (beékelődés). A fokozódó nyomás\nkövetkeztében az agytörzsben lévő életfontosságú központok a vér- és oxigénhiány\nmiatt elpusztulnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- Meniére-betegség esetén a belső fül folyadéktereiben a nyomás\nmegemelkedik\n- a zöldhályog hirtelen kialakuló szembetegség\n- myopia során a szemgolyó hossztengelye az átlagosnál rövidebb\n- heveny fülkürtgyulladás esetén jó hatású a melegterápia alkalmazása\n- az ideghártya leválása nem jár fájdalommal\n- az övsömör bármely életkorban előfordulhat, oka vírusfertőzés\n- psoriasis során fokozódik a faggyútermelés\n- a basalioma rosszindulatú festékes bőrdaganat\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "Meniére-betegség esetén a belső fül folyadéktereiben a nyomás\nmegemelkedik\nheveny fülkürtgyulladás esetén jó hatású a melegterápia alkalmazása\naz ideghártya leválása nem jár fájdalommal\naz övsömör bármely életkorban előfordulhat, oka vírusfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi hormonok termelődési helyét! Egészítse ki a\ntáblázatot!\n\n| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n| tiroxin      |                   |\n| timozin      |                   |\n| parathormon  |                   |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n|             | pajzsmirigy |\n|             | csecsemőmirigy |\n|             | mellékpajzsmirigy |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertesse a bordatörést a megadott szempontok szerint!\nLehetséges tünetei: Írjon hármat!\n- felületes, szapora légzés\n- fulladásérzés\n- légvételre fokozódó, szúró fájdalom\n- haematoma\nElsősegélynyújtó teendői: Írjon kettőt!\n- a sérült félig ülő helyzetbe való elhelyezése\n- mentőhívás\n- az ablakos törés leragasztása",
+      "question_type": "open",
+      "correct_answer": "felületes, szapora légzés\nfulladásérzés\nlégvételre fokozódó, szúró fájdalom\nhaematoma\na sérült félig ülő helyzetbe való elhelyezése\nmentőhívás\naz ablakos törés leragasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVI_0612_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi sérülésekhez/állapotokhoz a megfelelő fektetési/elhelyezési módot! Írja a sorszámok mellé a helyes válasz betűjelét!\nerősen vérző arckoponya sérült",
+      "question_type": "matching",
+      "correct_answer": "A",
+      "options": []
+    }
+  }
+]

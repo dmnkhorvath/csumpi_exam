@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_junius_05_II_eumii_230605_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek magyar, vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Anatómiai képletek |  |\n|---|---|\n| magyarul | latinul |\n| vér |  |\n|  | medulla ossium |\n| szívizom |  |\n|  | septum cordis |\n| gyomor |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---|---|\n| magyarul | latinul |\n|  | sanguis |\n| csontvelő |  |\n|  | myocardium |\n| szívsövény |  |\n|  | gaster/ventriculus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg a fertőző betegségek előfordulási módjainak lényegét!\nSporadikus: ...\nEpidémiás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A fertőző betegségek térben és időben látszólag egymástól függetlenül fordulnak elő....\nEgy fertőző betegség bizonyos területen rövid időn belül jóval nagyobb számban fordul elő, mint általában....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontdaganatok lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "napszaktól függetlenül jelentkező fájdalom\nfényes, feszülő bőr érrajzolattal\nmozgatási zavar\ntartósan meglévő duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa az anatómiai képleteket a csontok összeköttetési formái\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. térdízület\n2. medencecsont (újszülött korban)\n3. háti csigolya\n4. koponya varratai\n5. medencecsont (felnőtt korban)\n6. keresztcsont\n\nkötőszövetes összeköttetés: ...., .... \nporcos összeköttetés: ...., .... \ncsontos összeköttetés: ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3.\n5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges felépítésű harántcsíkolt izom, mely sejtekből épül fel\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: küszöb feletti\ningerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\n- a refrakter stádiuma hosszabb, mint a vázizmoké\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a jobbszívfél-elégtelenség jellegzetes tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a vizelet mennyisége csökken\n- fokozott éjszakai vizeletürítés (nicturia)\n- hasvízkór\n- telt nyaki vénák\n- boka-, lábszár ödéma\n- testsúlynövekedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a légzőrendszerrel kapcsolatos helyes\nmegállapításokat!\n- a bal tüdő három lebenyből áll\n- a bal tüdő két lebenyből áll\n- a légzés idegi szabályozásának a központja a kisagyban található\n- a légzés idegi szabályozásának a központja a nyúltvelőben található\n- a légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám\nmegemelkedik\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám csökken\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n- a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja\n- a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a bal tüdő két lebenyből áll\na légzés idegi szabályozásának a központja a nyúltvelőben található\na légcső és a hörgők nyálkahártyahámját csillőszőrös hengerhám alkotja\na vér vegyhatásának savas irányú megváltozása esetén a légzésszám\nmegemelkedik\na vér vegyhatásának savas irányú megváltozása esetén a légzésszám csökken\na hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertesse a hörghurut kialakulásának okát és kezelésének lehetőségeit!\nKialakulásának oka: Írjon egyet!\n\n\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n\n\n\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "fertőzés\nirritáció\nantibiotikum\nköhögéscsillapító\nnyákoldó szerek\nlázcsillapítás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt tényezőt, ami befolyásolja a szervezet teljes energia-\nszükségletét!",
+      "question_type": "open",
+      "correct_answer": "- szellemi aktivitás\n- fizikai aktivitás\n- testtömeg\n- nem\n- életkor\n- külső hőmérséklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nyelvgyulladás kialakulásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vészes vérszegénység\nvashiányos vérszegénység\nB-vitamin hiánya\nC-vitamin hiánya\nfogbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa a szervekhez jellemzőjüket, leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. vese\n2. húgycső\n3. húgyhólyag\n4. húgyvezeték\n\nA. kb. 10-12 cm hosszú, tömör tapintatú, három tok veszi körül\nB. a nyálkahártya redőzöttsége a szerv nagyfokú befogadóképességét teszi\nlehetővé\nC. lúdtoll vastagságú, kb. 30 cm hosszú, nyálkahártyával bélelt, izmosfalú cső\nD. a húgyhólyagból a külvilágba vezeti a vizeletet\n\n1.-...    ...., 2.-...    ...., 3.-...    ...., 4.-...    ....",
+      "question_type": "matching",
+      "correct_answer": "A, D, B, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a nephrosis szindróma jellemző tüneteit, gyógyításának\nlehetőségeit! Írjon kettőt-kettőt!\nJellemző tünetei:\n-\n-\n-\nKezelésének, gyógyításának lehetőségei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "nagyfokú proteinuria\nhypalbuminaemia\ntestszerte nagyfokú ödéma\nalapbetegség kezelése\ngyógyszeres kezelés\nsószegény, fehérjedús diéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Egészítse ki a férfi nemi szervekkel kapcsolatos mondatokat!\nAz ... páros szerv, a húgyhólyag alatt és mögött, a végbél előtt\nhelyezkedik el. Mirigyei ... váladékot termelnek, üregrendszerében\npedig a ... tárolódik.\nA ... feladata a hímivarsejtek képzése, a ... és a\n... termelése.",
+      "question_type": "fill_in",
+      "correct_answer": "ondóhólyag\nlúgos\nsperma\nherék\nspermatogenezis\nférfi nemi hormon/tesztoszteron",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a női nemi szervek gyulladásos betegségei közül!",
+      "question_type": "open",
+      "correct_answer": "- szeméremtest-gyulladás (külső nemi szervek)\n- hüvelygyulladás\n- nyakcsatorna-gyulladás\n- méhgyulladás\n- petefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. durva, hideg tapintatú bőr\n2. kékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\n3. testszerte vizenyő\n4. nőknél fokozott szőrnövekedés\n5. nagy, kerek arc (holdvilágarc)\n6. gyér pulzus, alacsony testhőmérséklet, fázékonyság\n\nA Cushing-szindróma tünetei: ...\nA mixödéma tünetei: ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Ismertessen a glükagon hatásai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az inzulinnal ellentétes hatású, növeli a vércukorszintet\n- mozgósítja a májban tárolt glükogént\n- elősegíti a glükogén lebontását\n- fokozza a zsír lebontását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Nevezze meg a reflexív részeit!",
+      "question_type": "open",
+      "correct_answer": "- receptor\n- érző neuron (afferens szár)\n- reflexközpont\n- mozgató neuron (efferens szár)\n- effektor (válasz), végkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- agnózia: ...\n- afázia: ...\n- hiperkinézis: ...\n- paresztézia: ...",
+      "question_type": "open",
+      "correct_answer": "az érzékelt tárgyak, vagy lények fel nem ismerése, a felismerés, a\nmegismerés zavara...\nbeszédzavar, a beteg nem tudja gondolatait szóban, vagy írásban\nkifejezni...\nkórosan fokozott mozgástevékenység...\nálérzékelés, fonák érzés, az érzékszervek érzékelési zavara...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel az ájulás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "szédülés\némelygés, gyomortáji nyomás\nlátótérben fekete pontok, foltok megjelenése\na bőr sápadt, hűvös tapintatú\na nyálkahártyák sápadtak\nverejtékezés\nalacsony vérnyomás\ngyér, alig tapintható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "szőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- myopia során a szemgolyó hossztengelye az átlagosnál hosszabb\n- a szürkehályog a szemlencse betegsége\n- a zöldhályog lassan, észrevétlenül alakul ki\n- az ideghártya leválása nagy fájdalommal jár\n- idült zajártalom huzamos ideig tartó, 80-85 dB feletti zajterhelés esetén\njelentkezik\n- heveny középfülgyulladás gyermekeknél ritkán, a felnőtteknél pedig gyakran\nalakul ki\n- Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken\n- a csalánkiütés gyakori bőrbetegség, fő tünete a viszketés és a csoportosan\nmegjelenő halvány kiütés\n- az orbánc bármely életkorban előfordulhat, oka vírusfertőzés\n- a basalioma rosszindulatú festékes bőrdaganat",
+      "question_type": "multiple_choice",
+      "correct_answer": "myopia során a szemgolyó hossztengelye az átlagosnál hosszabb\na szürkehályog a szemlencse betegsége\na zöldhályog lassan, észrevétlenül alakul ki\naz ideghártya leválása nagy fájdalommal jár\nidült zajártalom huzamos ideig tartó, 80-85 dB feletti zajterhelés esetén\njelentkezik\na csalánkiütés gyakori bőrbetegség, fő tünete a viszketés és a csoportosan\nmegjelenő halvány kiütés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_05_II_eumii_230605_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a fektetési/elhelyezési módokhoz az állapotokat, kórképeket!\n1. félig ülő helyzet\n2. stabil oldalfektetés\n3. Trendelenburg helyzet\n4. megemelt fejjel és felhúzott\nlábakkal való fekvés\nA. eszméletlen beteg\nB. mellkasi sérülés\nC. hasi sérülés\nD. sokkos állapotú beteg",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A...., 3.-...D...., 4.-...C....",
+      "options": []
+    }
+  }
+]

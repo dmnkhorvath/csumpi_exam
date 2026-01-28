@@ -1,0 +1,333 @@
+[
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Csoportosítsa a daganatok formáit jellemzőik alapján!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\nJellemzők:\n1. növekedése lassú\n2. áttétet (metasztázis) képezhet\n3. átszövi a környező\nszöveteket, összenő velük\n4. környezetétől élesen elhatárolódik\n5. eltávolítása után kiújulhat (recidivál)\n6. sejtjei és szerkezete hasonlít a\nkiinduló szövet sejtjeihez\n\n| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok |  |\n| Rosszindulatú daganatok |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok | 1, 4, 6 |\n| Rosszindulatú daganatok | 2, 3, 5 |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 2,
+      "question_text": "Soroljon fel a trombózis kialakulásában szerepet játszó\ntényezők közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lelassulása\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy példát!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes összeköttetés: pl. koponya varratai\n- porcos összeköttetés: pl. medencecsont csontjai között\n- csontos összeköttetés: pl. (korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása) keresztcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a spondylarthritis\nankylopoetica (SPA) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek gyulladásos megbetegedése miatti\ndegeneratív elváltozás, mely végül a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez.\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekező rendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő 5 pont\nkórképhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n\nBalszívfél-elégtelenség: ... , ...\n\nJobbszívfél-elégtelenség: ... , ... , ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4\n1, 3, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nszagok érzékelése",
+      "options": [
+        "a belégzett levegő előmelegítése",
+        "oxigéncsere",
+        "a belégzett levegő párásítása",
+        "hőháztartás fenntartása",
+        "hangok képzése",
+        "szagok érzékelése"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\n\nLényege:\nRohamot kiváltó allergének lehetnek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, amit a\nkishörgők nyálkahártyájának duzzanata kísér.\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "info",
+      "points": 0,
+      "question_text": "(A betegség lényegére 2 pont, az allergénekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?\nTartalmaz-e élettani körülmények között a végleges vizelet\nurobilinogént?\nTartalmaz-e az elsődleges vizelet cukrot?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben\nigen, tartalmaz\nigen, tartalmaz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel a polyuria lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok adása\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék- és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNefron:... \nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a gyomorfekély (ulcus ventriculi)\nlehetséges szövődményei közül!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás\npylorusszűkület\nmalignizáció (rosszindulatú elfajulás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a bélelzáródás tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nbélsárhányás\nszékletürítés hiánya\n„néma has\"\nbeesett arc\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertessen a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- potencia- és ejakulációs zavarok kísérik\n- fizikai teljesítőképesség csökken\n- jellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három, nemi érintkezés útján terjedő\nbetegséget!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (syphilis)\nherpes genitalis\nAIDS",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szervezet anyagcsere-folyamatait\nemelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést\na szervezet hőközpontjának működését stimulálják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes állításokat!\n- az óriásnövés közvetlen oka a növekedési hormon csökkent termelődése\n- a diabetes insipidus tünetei a bő vizelés és a szomjúság\n- a strúma a mellékvese megnagyobbodásával járó kórkép\n- az acromegalia a csontvégek meghosszabbodását jelenti\n- a mixödéma a pajzsmirigy fokozott működése (hypothyreosis) miatt alakul ki\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\n- a cukorbetegség (diabetes mellitus) oka inzulinhiány\n- a hyperglykaemiás kómánál a lehelet aceton szagú\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a diabetes insipidus tünetei a bő vizelés és a szomjúság\naz acromegalia a csontvégek meghosszabbodását jelenti\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemiás kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "fill_in",
+      "correct_answer": "- nyaki idegek\n- mellkasi idegek\n- ágyéki idegek\n- keresztcsonti idegek\n- farkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Oka: a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit\nTünetei: Írjon kettőt!\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(A betegség okára 2 pont, a tünetekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q024_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 1,
+      "question_text": "Írja le az üvegtest feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szem állandó alakjának biztosítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi az érhártya feladata?\nHol található a pupilla?\nHol termelődik a csarnokvíz?\nHol találhatók a látás receptorai?\nMi a szemlencse feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "az ideghártya táplálása...\na szivárványhártya közepén...\na szem középső burkában a sugártest termeli...\naz ideghártyán...\na szem alkalmazkodóképességének biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket és a tünetek\nészlelésekor az elsősegélynyújtó teendőit!\nTünetek: Írjon hármat!\n- \n- \n- \n- \n- \n- \nTeendők: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság\nsokk-fektetés (hanyatt fekvő helyzet, 20°-os szögben felpolcolt alsó\nvégtagokkal)\nfolyadékpótlás\nmentőhívás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_I_EuMI_0525_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hőguta tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött van",
+      "options": []
+    }
+  }
+]

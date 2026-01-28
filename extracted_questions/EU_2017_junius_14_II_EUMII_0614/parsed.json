@@ -1,0 +1,289 @@
+[
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nmegállapításokat!\n- a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya aránya azonosságot mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\n- a felső végtag izomtömege megnövekedett\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\na zsigerek a hasüreg irányába rendeződtek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Csoportosítsa a daganatok formáit jellemzőik alapján!\nÍrja be a táblázatba a helyes válaszok sorszámait!\n\nJellemzők:\n1. növekedése lassú\n4. környezetétől élesen elhatárolódik\n2. áttétet (metasztázis) képezhet 5. eltávolítása után kiújulhat (recidivál)\n3. átszövi a környező\nszöveteket, összenő velük\n6. sejtjei és szerkezete hasonlít a\nkiinduló szövet sejtjeihez\n\n| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok |  |\n| Rosszindulatú daganatok |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Daganatok formái | Jellemzőik |\n|---|---|\n| Jóindulatú daganatok | 1., 4., 6. |\n| Rosszindulatú daganatok | 2., 3., 5. |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a normál vizelet alkotóelemei közül!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot az elsősegélynyújtó feladatai közül segítségnyújtás során!",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül\nhármat!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q006_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 1,
+      "question_text": "Határozza meg mellkaskompressziónál a\nmellkas lenyomási mélységet cm-ben kifejezve!",
+      "question_type": "fill_in",
+      "correct_answer": "4-5 cm",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemtengely\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q008_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 1,
+      "question_text": "Ismertesse az üvegtest feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szem állandó alakjának biztosítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szürkehályog (cataracta) kialakulásának\nlehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "veleszületett (az anya terhesség alatti vírusfertőzése okozza)\nanyagcsere-betegségek miatt kialakuló\nszövődményes (más szemelváltozás következtében)\nsérülés\nsugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q010_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 8,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\nkülső nemi szervek:\n-\n-\nbelső nemi szervek:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: ...\n- aphasia: ...\n- tremor: ...\n- hypokinesis: ...\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás...\nbeszédzavar...\nremegés, akarattól független mozgás...\nkórosan csökkent mozgástevékenység...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három nemi érintkezés útján terjedő betegséget!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (syphilis)\nherpes genitalis\nAIDS",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a gennyes vesemedence-gyulladás\n(pyelonephritis acuta) okát, tüneteit!\nOkai: Írjon kettőt!\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "bakteriális fertőzés\naszcendáló fertőzés\nhematogén fertőzés\nmagas láz, hidegrázás\nkínzó, gyakori vizelési inger\nhányinger, hányás\nvesetáji fájdalom\nrossz közérzet\ngennyes, zavaros vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a\nrájuk jellemző kóros légzési formával! Írja a betegségek\nsorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\ndyspnoe: ...., ....\nKussmaul-légzés: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 1., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szívinfarktus rizikófaktorai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nmozgásszegény életmód\nhelytelen táplálkozás\nmagas koleszterinszint\nmagas vérnyomás\nhajszolt életmód (stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szervezet gázcseréjének biztosítása, az oxigén felvétele és a szén-dioxid leadása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az Addison-kór tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "fáradtság\ngyengeség\nfogyás\nétvágytalanság\ngyakori hányás\nfokozott pigmentáció\nhasmenés\nalacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Párosítsa a sokk fajtáit azok jellemzőivel!\nÍrja a sorszámok mellé a megfelelő betűjelet!\n\n1. hypovolaemiás sokk\na. akut értágulat vezet a vérelosztás hirtelen\nzavarához\n2. disztributív sokk\nb. a szív munkájának elégtelensége miatt alakul\nki\n3. kardiogén sokk\nc. az érpálya akut beszűkülése miatt alakul ki\n4. obstruktív sokk\nd. a keringő vérmennyiség akut csökkenése\nokozza\n\n1.-...  .... 2.-...  .... 3.-...  ... 4.-...  ....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "d\na\nb\nc",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- sipoly\n- fájdalom\n- alakváltozás\n- duzzanat\n- izomsorvadás\n- mozgáskiesés\n- X- láb\n- vérömleny\n- vérmérgezés\n- fekély\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nduzzanat\nmozgáskiesés\nvérömleny",
+      "options": [
+        "sipoly",
+        "fájdalom",
+        "alakváltozás",
+        "duzzanat",
+        "izomsorvadás",
+        "mozgáskiesés",
+        "X- láb",
+        "vérömleny",
+        "vérmérgezés",
+        "fekély"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q021_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 10,
+      "question_text": "Hasonlítsa össze a hyperglykaemiás és a hypoglykaemiás\ncoma tüneteit! Töltse ki a táblázatot!\n\n| hyperglykaemiás kóma (diabeteses coma) | tünet | hypoglykaemiás kóma |\n|---|---|---|\n|  | vércukorszint |  |\n|  | arcszín |  |\n|  | bőr |  |\n|  | légzés típusa |  |\n|  | lehelet |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| hyperglykaemiás kóma (diabeteses coma) | tünet | hypoglykaemiás kóma |\n|---|---|---|\n| magas | vércukorszint | alacsony |\n| piros | arcszín | sápadt |\n| száraz, meleg | bőr | verítékes, hűvös |\n| szapora, igen mély be-és kilégzések sorozata (Kussmaul-típusú) | légzés típusa | normál légzés |\n| acetonszagú | lehelet | normális |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_II_EUMII_0614_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\n...\nMely hormon szabályozza a tej kiürülését az emlőből?\n...\nHol termelődik az ADH?\n...\nHol tárolódik az ADH?\n...\nMely betegség alakul ki az ADH hiányakor?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a prolaktin (luteotrop hormon)\naz oxytocin\na hypothalamusban\na hipofízis hátulsó lebenyében\ndiabetes insipidus",
+      "options": []
+    }
+  }
+]

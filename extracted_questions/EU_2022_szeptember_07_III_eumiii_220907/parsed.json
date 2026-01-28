@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Csoportosítsa a leírásokat a megadott szempontok szerint! Írja a\nbetűjeleket a megfelelő helyre!\n\nA. széles váll, keskeny csípő, fejlett izomzat\nB. hajlama van a lúdtalpra, sérvre, alacsony vérnyomásra, székrekedésre\nC. nincs kifejezett betegség hajlama\nD. gyengén fejlett izomzat és csontozat\nE. gyakoriak a gyulladások, görcsök, érelmeszesedés, koszorúér-betegségek,\nagyvérzés, magas vércukorszint és magas vérnyomás\nF. hajlamos a hízásra, pocakosodásra\n\nastheniás alkat jellemzője: ...\nnormostheniás alkat jellemzője: ...\nhyperstheniás alkat jellemzője: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "B., D.\nA., C.\nE., F.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertesse az aktív és a passzív immunizálás lényegét!\nAktív immunizálás: ...az immunizáció létrehozása érdekében\nelölt kórokozókat (antigént) juttatnak a szervezetbe védőoltások révén, amivel a\ntermészetes fertőzést próbálják utánozni, így serkentik a szervezet saját\nvédekezőképességét, amivel a fertőzések kivédhetővé válnak....\nPasszív immunizálás: ...már kész ellenanyagot (antitestet) juttatnak a\nszervezetbe a védőoltással, így hozzák létre az immunitást.",
+      "question_type": "open",
+      "correct_answer": "gyengített, vagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Írjon le a porckorong-elfajulás kezelésének lehetőségei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- mozgásterápia\n- fizioterápia\n- gyógyszeres kezelés\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek magyar, vagy latin megnevezését! Egészítse ki\na táblázatot!\n\n| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n|  | scapula |\n| csontvelő |  |\n|  | os ilium |\n| térdízület |  |\n|  | tendo |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n| lapockacsont |  |\n|  | medulla ossium |\n| csípőcsont |  |\n|  | articulatio genus |\n| ín |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- A nagyvérkör a szív jobb kamrájából az aortával indul.\n- Az arteria pulmonalis oxigénben szegény, szén-dioxidban gazdag vért szállít\na tüdőbe.\n- A bal szívfélben található a háromhegyű billentyű.\n- Élettanilag a vér alvadási ideje szobahőmérsékleten 3-5 perc.\n- A vörös csontvelő a vérképzés elsődleges helye.\n- A vér vegyhatása élettanilag alig változik, a pH-érték 5,34-5,45 közötti\ntartományban mozog.\n- Pulzustérfogatnak nevezzük az egy kamrai összehúzódás alkalmával kilökött\nvérmennyiséget.\n- A szív bal pitvarának falában található az elsődleges ingerképző központ.",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az arteria pulmonalis oxigénben szegény, szén-dioxidban gazdag vért szállít\na tüdőbe.\nA bal szívfélben található a háromhegyű billentyű.\nA vörös csontvelő a vérképzés elsődleges helye.\nPulzustérfogatnak nevezzük az egy kamrai összehúzódás alkalmával kilökött\nvérmennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a tüdővizenyő lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- súlyos dyspnoe\n- köhögés, és szörcsögő légzés\n- szapora, alig tapintható pulzus\n- hideg verítékezés\n- cianózis\n- „szilvalészerű” köpetürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Párosítsa a légzőszervi betegségeket leírásukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. COPD\nA. a hörgők nyálkahártyájának gyulladásos\nbetegsége\n2. mellhártyagyulladás\nB. a tüdő egyik artériájának elzáródása\n3. tüdőembólia\nC. a tüdőn belüli légutak tartós beszűkülése\n4. tüdőasztma\nD. folyadék szaporodik fel a mellhártya lemezei\nközött\n5. hörghurut\nE. rohamszerűen jelentkező légszomjjal járó\nlégúti betegség",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...B...., 4.-...E...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA vér vegyhatásának savas irányba tolódásakor a légzésszám:\n- emelkedik - csökken\nA légzőközpont helye:\n- kisagy - nyúltvelő\nNyugodt légvételkor a tüdőbe áramló levegő körülbelüli mennyisége:\n- 500 ml - 300 ml\nCsillószőrök borítják az:\n- orrüreg nyálkahártyáját - orrmelléküregek nyálkahártyáját\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "emelkedik\nnyúltvelő\n500 ml\norrüreg nyálkahártyáját",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél szakaszait latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "- duodenum\n- jejunum\n- ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az akut hasi katasztrófához vezető kórképek közül!",
+      "question_type": "open",
+      "correct_answer": "- gyomorperforáció\n- bélelzáródás\n- akut hasnyálmirigy-gyulladás\n- léprepedés\n- méhen kívüli terhesség\n- kizáródott sérv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. nagyfokú ödémaképződés\n2. krónikus veseelégtelenség\n3. a szervezet fokozott vízleadása izzadás, hányás, hasmenés következtében\n4. diuretikumok adása\n5. cukorbetegség\n6. diabetes insipidus\n\nCsökkent vizeletelválasztás (oliguria) okai: ...., .... \nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...., ...., ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n2., 4., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Egészítse ki a női nemi szervekkel kapcsolatos mondatokat!\nA... mandula alakú és nagyságú páros szerv, amely két hormont\ntermel: a ... és az ...\nA... ceruzavastagságú, kb. ... cm hosszú, nyálkahártyával\nbélelt izmos falú cső, amelyben a petesejt a méh ürege felé halad.\nA hüvelybemenet közelében lévő ... nyákot termelnek.",
+      "question_type": "fill_in",
+      "correct_answer": "petefészek\nprogeszteront\nösztrogént\npetevezeték\n12\nBartholin-mirigyek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertesse az AIDS-t az alábbi szempontok szerint!\n\nOka:\n...\n\nLappangási idő:\n...\n\nLegveszélyeztetettebb rizikócsoportok: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "vírus (HIV)\n3-4 hét\na partnerüket gyakran váltogató heteroszexuálisok\na homo-, és biszexuális férfiak\naz intravénás kábítószer-élvezők és szexuális partnereik\nprostituáltak és klienseik, valamint azok partnerei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Határozza meg az alábbi hormonok termelődési helyét! Egészítse ki a\ntáblázatot!\n\n| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n| tiroxin      |                   |\n| glükagon     |                   |\n| timozin      |                   |\n| parathormon  |                   |\n| adrenalin    |                   |",
+      "question_type": "fill_in",
+      "correct_answer": "| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n| tiroxin      | pajzsmirigy |\n| glükagon     | hasnyálmirigy |\n| timozin      | csecsemőmirigy |\n| parathormon  | mellékpajzsmirigy |\n| adrenalin    | mellékvese-velőállomány |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Írja le az oxitocin hatását!",
+      "question_type": "open",
+      "correct_answer": "- erős méhösszehúzódásokat vált ki\n- beindítja a szülést\n- elősegíti a tej kiürülését az emlő mirigyeiből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- alsó lebeny\n- fali lebeny\n- nyakszirti lebeny\n- homloklebeny\n- ékcsonti lebeny\n- halántéki lebeny\n- rostacsonti lebeny\n- kisagyi lebeny\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fali lebeny\nnyakszirti lebeny\nhomloklebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Ismertesse az isiászt a megadott szempontok szerint!\nLehetséges okai:\n- \n- \nJellemző tünetei:\n- \n- \n- \n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "porckorongsérv\ngerinccsatorna-szűkület\nfájdalom, ami végigfut a comb hátsó oldalán, a lábszáron és a külbokán, végül\na nagyujjba sugárzik\nbénulások\nérzéskiesések",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le a normál szem látását jellemző két fogalom jelentését!\n\nKözelpont:\n...\n\nTávolpont:\n...",
+      "question_type": "open",
+      "correct_answer": "Az a legközelebbi pont, amelyről maximális akkomodációval éles kép keletkezik\naz ideghártyán....\n\nAz a legtávolabbi pont, ahonnan még a beeső sugarak az ideghártyán éles\nképet hoznak létre....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Nevezze meg a belsőfül-gyulladás formáit és lehetséges tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Formái:\n- diffúz-szétterjedt\n- körülirt-helyi\n\nLehetséges tünetei: Írjon hármat!\n- forgó jellegű szédülés\n- hányinger, hányás\n- nagyfokú halláscsökkenés\n- siketség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a légzés- és keringésmegállás lehetséges okai közül hármat-hármat!\n\nLégzésmegállás lehetséges okai:\n- \n- \n- \n- \n\nKeringésmegállás lehetséges okai:\n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_07_III_eumiii_220907_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a sérülésekhez jellemző tüneteiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. agyrázkódás\n2. koponyaűri vérzés\n3. agyzúzódás\n4. koponyaalapi törés (a középső árok törése)\nA. az agyállományban vérzés, szövetpusztulás jön létre, tartós\neszméletlenséggel jár\nB. szédülés, hányinger, hányás, haematoma a fül mögött, a fülből véres liquor\nürül\nC. rövid ideig tartó eszméletvesztés, majd az eszméletre térés után átmeneti\npanaszmentesség észlelhető; később fejfájás, szédülés, hányás, fokozódó\nzavartság után ismét lehet eszméletvesztés, a pupillák egyenlőtlenek\nD. rövid ideig tartó eszméletvesztés, szédülés, fejfájás, hányás, emlékezetzavar",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-Α...., 4.-...B....",
+      "options": []
+    }
+  }
+]

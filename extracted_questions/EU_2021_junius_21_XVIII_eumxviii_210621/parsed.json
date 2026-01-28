@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. medialis\nA. hátulsó/háti\n2. inferior/caudalis\nB. alsó/farki\n3. anterior\nC. felső/feji\n4. superior/cranialis\nD. középsíkhoz közel eső\n5. posterior/dorsalis\nE. elülső/hasi",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-...E...., 4.-...C...., 5.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Soroljon fel az elhalás lehetséges formái közül hatot!",
+      "question_type": "open",
+      "correct_answer": "alvadásos\nlágyulásos\nszáraz üszök\nnedves üszök\nfelfekvés\nzsírnekrózis\ninfarktus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór lényegét, kialakulásának lehetséges okait!\nLényege:\nLehetséges okai: Írjon négyet!\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "...a mészsók csontokba való beépülésének hiánya...\nD-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a medenceövet alkotó csontokat magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!\nZsebes billentyűk:\n...\nKéthegyű vitorlás billentyű:\n..\nHáromhegyű vitorlás billentyű:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben...\na bal pitvar és a bal kamra között...\na jobb pitvar és a jobb kamra között...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi felsorolásból a csecsemőmirigyre vonatkozó helyes\nmegállapításokat!\n- Két állománya a fehér és a vörös pulpa.\n- A mellüregben, közvetlenül a szegycsont mögött helyezkedik el.\n- Két lebenyből álló mirigy.\n- Három lebenyől álló mirigy.\n- Legnagyobb fejlettségét időskorban éri el.\n- Pubertás idején sorvadásnak indul.\n- Latin elnevezése: lympha.\n- Latin elnevezése: thymus.\n- Itt zajlik a T-lymphocyták érésének és fejlődésének legfontosabb szakasza.\n- A kiöregedett, károsodott vörösvértestek elsősorban itt esnek szét.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A mellüregben, közvetlenül a szegycsont mögött helyezkedik el.\nKét lebenyből álló mirigy.\nPubertás idején sorvadásnak indul.\nLatin elnevezése: thymus.\nItt zajlik a T-lymphocyták érésének és fejlődésének legfontosabb szakasza.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja\na sorszámokat a megfelelő helyre!\n\n1. a mellkasi aortából indul\n2. a szív jobb kamrájából indul\n3. a tüdő szövetét nem táplálja\n4. a tüdő szövetét táplálja\n5. a gázcsere lebonyolításában nincs feladata\n6. a gázcseréhez szükséges vért szállítja\n\narteria bronchialis rendszer: ...\ntruncus pulmonalis rendszer: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a légmell lényegét és lehetséges tüneteit!\nLényege: ...a mellhártya lemezei közé levegő kerül, a megnövekedett nyomás\nhatására a tüdő összeesik, a légzőfelület csökken....\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "a mellhártya lemezei közé levegő kerül, a megnövekedett nyomás\nhatására a tüdő összeesik, a légzőfelület csökken....\nszúró mellkasi fájdalom\nlégzészavar/légzési elégtelenség\nlégszomj\nerőteljes, száraz köhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. A-vitamin\n2. B₁-vitamin\n3. B12-vitamin\n4. K-vitamin\n5. C-vitamin\n\nA. vészes vérszegénység\nB. skorbut\nC. beriberi\nD. farkasvakság\nE. véralvadási zavar\n\n1.-......, 2.-......, 3.-......, 4.-......, 5.-.......",
+      "question_type": "matching",
+      "correct_answer": "D, C, A, E, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\n- nyál: ...\n- nyelőcső: ...\n- gyomor: ...\n- fültőmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "saliva\noesophagus\nventriculus/gaster\nglandula parotis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a vesekőbetegség lényegét, kialakulásának okait!\nLényege:\nA vese üregrendszerében az oldott sók és a vizeletben található kristályok\nKialakulásának lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.\nvizeletpangás\na vizelet fertőződése\nkőképző anyagok felszaporodása\nhibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a páratlan szerveket!\n- herezacskó\n- petefészek\n- petevezeték\n- prosztata\n- méh\n- here\n- ondóhólyag\n- penis\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "herezacskó\nprosztata\nméh\npenis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a Chlamydia-fertőzés lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- vizeléskor égő érzés\n- nőknél vízszerű folyás\n- férfiaknál nyákos húgycsőfolyás\n- alhasi fájdalom\n- ízületi panaszok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Nevezze meg a nemi mirigyek működését szabályozó gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- FSH (tüszőérést, ondósejtképződést serkentő hormon)\n- LH (sárgatestképződést serkentő hormon, Leydig-féle sejtekre ható hormon)\n- LTH (tejelválasztást serkentő hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel magyarul ötöt a neuron részei közül!",
+      "question_type": "open",
+      "correct_answer": "idegsejt/sejttest\nplazmanyúlvány\nidegnyúlvány\nvégfácska\nsejtmag\nmagvacskák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Írjon le az acromegalia lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- a csontok végi részének megvastagodása\n- megnagyobbodott orr\n- megvastagodott ajak és fül\n- megerősödött állkapocs és szemöldökiv\n- előreugró áll\n- nagy, durva nyelv\n- meghosszabbodott láb- és kézujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a motoros zavarok tünetegyütteseit a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n\n|  | spasztikus | petyhüdt |\n|---|---|---|\n| idegrendszer károsodása |  |  |\n| izomerő |  |  |\n| kóros reflexek |  |  |\n| kontraktúra |  |  |\n| izomsorvadás |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | spasztikus | petyhüdt |\n|---|---|---|\n| idegrendszer károsodása | központi | környéki |\n| izomerő | csökkent, vagy hiányzik | csökkent, vagy hiányzik |\n| kóros reflexek | vannak | nincsenek |\n| kontraktúra | van | nincs |\n| izomsorvadás | nincs | van |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse a bőr jelentőségét/feladatait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- védelem a mechanikai hatásoktól, a kórokozók bejutásától\n- hőszabályozás (hőleadás)\n- folyadék és páratartalom szabályozása (verejtékezés)\n- zsírraktározás\n- a tapintás érzékszerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kancsalság lényegét!",
+      "question_type": "open",
+      "correct_answer": "A két szem összehangolt, párhuzamos működésének sérülése következtében a\nszemtengelyek keresztezik egymást, így az ideghártya különböző pontjaira vetül\na kép, ami homályos látást eredményez.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a koponyaűri vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- rövid ideig tartó eszméletvesztést követő feltisztulás, később ismét eszméletvesztés\n- fejfájás\n- szédülés\n- hányás\n- fokozódó zavartság\n- egyenlőtlen pupillák (a vérzés oldalán az agynyomás-fokozódásával párhuzamosan a pupilla tágul)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVIII_eumxviii_210621_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy\ntünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, fájdalom |\n| II. fokú égés | égési hólyag (bulla), heves fájdalom |\n| III. fokú égés | a bőr felső rétege teljesen elpusztul, a bőrfelület piszkosszürkévé válik |\n| IV. fokú égés | elszenesedés, a bőr alatti egyéb szövetek is pusztulnak |",
+      "options": []
+    }
+  }
+]

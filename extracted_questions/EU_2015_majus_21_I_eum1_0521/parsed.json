@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes betűjelet!\n\n1. superior\n2. periferias\n3. posterior\n4. ventralis\n5. centralis\n6. inferior",
+      "question_type": "matching",
+      "correct_answer": "D,E,F,C,A,B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q002_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 8,
+      "question_text": "Ismertesse az immunitás formáit!\nTöltse ki az alábbi ábrát!",
+      "question_type": "fill_in",
+      "correct_answer": "Immunitás\nformái\nVeleszületett\nFaji\nAnyai\nSzerzett\nTermészetes\n(betegség)\nMesterséges\n(immunizálás)\nAktív\nPasszív",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a daganat lényegét!",
+      "question_type": "open",
+      "correct_answer": "Meghatározott biológiai szövet kóros szövetburjánzása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Nevezze meg és jellemezze a csontszövetet felépítő\nállományokat!",
+      "question_type": "open",
+      "correct_answer": "szerves állomány (kb. 30-40%) – osszein: kötőszöveti rostokból,\nfehérjét és szénhidrátot tartalmazó összetett molekulákból épül fel, a\ncsont rugalmasságát adja\nszervetlen állomány (kb. 60-70%): elsősorban kalciumsók alkotják, de\nmintegy 20 különböző elem található benne, a csontok szilárdságát\nadja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűk mellé a hozzájuk tartozó számot!\nA. lúdtalp\n1. cipőbe helyezett betét, lábboltozat erősítése\nB. csonttörés\n2. nyugalomba helyezés, rögzítés\nC. csontvelőgyulladás 3. izomerő növelése, fűző viselése\nD. gerincferdülés\n4. célzott antibiotikus kezelés\nA: ...;Β: ...;C: ...;D: ...",
+      "question_type": "matching",
+      "correct_answer": "1\n2\n4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvérsejtek képzése?\n...\nHol történik a vörösvértestek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben\na vörös csontvelőben\na lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért felelős fehérjéket!",
+      "question_type": "open",
+      "correct_answer": "fibrinogén\nprotrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá a beteg jellemző tüneteit/panaszait angina\npectoris esetén!\n- torokfájdalom\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik: hátba, bal karba, vállba\n- jobb bordaív alatti görcsös, a jobb lapocka tájára sugárzó fájdalom\n- halálfélelem\n- túlzott nyugalom\n- hideg, verítékes bőr\n- száraz, meleg bőr\n- szapora, elnyomható pulzus\n- bénulások\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "open",
+      "correct_answer": "szegycsont mögötti fájdalom (szorító, nyomásérzés)\na fájdalom kisugárzik: hátba, bal karba, vállba\nhalálfélelem\nhideg, verítékes bőr\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) tünetei közül\nötöt /5/!\n- magas, nehezen csillapítható láz vagy teljes láztalanság\n- szapora, nehezített légzés\n- mellkasi és hátfájdalom\n- fejfájás\n- szapora pulzus\n- köhögés (improduktív, produktív)\n- gyengeség, levertség\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz vagy teljes láztalanság\nszapora, nehezített légzés\nmellkasi és hátfájdalom\nfejfájás\nszapora pulzus\nköhögés (improduktív, produktív)\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az epe?\nHol tárolódik az epe?\nMi az epe feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "...a májban...\n...az epehólyagban...\n...a zsírcseppek emulgeálása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Írja le, hol kezdődik az alábbi tápanyagok bontása!\nSzénhidrátok: ...\nFehérjék: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szájüreg\ngyomor\nvékonybél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos széklet\nfájdalmas székletürítés\ngörcsös hasi fájdalom\nétvágytalanság\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?\n...\nMennyi a végleges vizelet fajsúlya?\n...\nTartalmaz-e élettanilag urobilinogént a végleges vizelet?\n...\nTartalmaz-e élettanilag bilirubint a végleges vizelet?\n...\nMely szerv helyezkedik el a vese középső zsíros tokjába beágyazva?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben\n1020-1025\ntartalmaz\nnem tartalmaz\nmellékvese",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a férfi nemi működéssel\nkapcsolatos alábbi kérdésekre!\n\nHol termelődik a tesztoszteron?\n\nHol termelődnek a spermiumok a herék szerkezetén belül?\n\nMely férfi nemi szervben tárolódnak a spermiumok?\n\nHol helyezkedik el a prosztata?\n\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "fill_in",
+      "correct_answer": "...a herék Leydig-féle sejtjeiben...\n...a herecsatornák falának hámjában...\n...a mellékherékben...\n...a húgyhólyag alatt...\n...a hasüregben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\nA betegség lényege:\nTünetei: Írjon kettőt /2/!\n-\n-\n-\nKezelése:\n-",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\nmegnövekszik a herezacskó\nnyomásérzékenység\nesetenként fájdalom\nsebészi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Jellemezze röviden a belső elválasztású mirigyeket!",
+      "question_type": "open",
+      "correct_answer": "Belső elválasztású (endokrin) mirigyek alatt azokat a mirigyeket értjük, amelyeknek kivezető csövük nincs, váladékuk a különböző hormonok, melyek a keringésbe kerülnek, és általában a mirigytől távol fejtik ki a hatásukat. Váladéktermelésüket elválasztásnak nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q020_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 1,
+      "question_text": "Nevezze meg az alábbi tünetek alapján a hormonális eredetű betegséget!\n- bő vizelés (polyuria): napi 3-20 1, alacsony sűrűségű vizelet\n- a beteg szomjazik, sok folyadékot iszik\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só-víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatása miatt nevezik vazopresszinnek is (emeli a\nvérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Határozza meg a reflexív fogalmát és részeit!\nFogalma:\nRészei:",
+      "question_type": "open",
+      "correct_answer": "Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya a reflexív.\n- receptor\n- érző neuron (afferens)\n- reflexközpont\n- mozgató neuron (efferens)\n- effektor (válasz) -végkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 1,
+      "question_text": "Ismertesse röviden a sclerosis multiplex lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az idegsejt myelinhüvelyének pusztulásával járó kórkép.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Írja le a koponyaűri nyomásfokozódás következményeit!",
+      "question_type": "open",
+      "correct_answer": "- az agyi térszűkítő folyamatok nyomásfokozódással járnak, mely nyomás\naz agytörzset beszorítja az öreglyukba (beékelődés)\n- ennek következtében az ott lévő életfontosságú központok vér -és\noxigénhiány miatt elpusztulnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Határozza meg az árpa és jégárpa betegségek lényegét!\nÁrpa: a pillavázban elhelyezkedő mirigyek kivezető nyílásának\nelzáródása okozta gyulladásos duzzanat\nJégárpa: a gyulladásos góc kemény csomó formájában betokozódik\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a pillavázban elhelyezkedő mirigyek kivezető nyílásának\nelzáródása okozta gyulladásos duzzanat\na gyulladásos góc kemény csomó formájában betokozódik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_I_eum1_0521_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi\nállapotokban!\n\nEszméletlenség: ...\n\nKlinikai halál (újraélesztéskor): ...\n\nHasi sérülés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, lábakat térdben felhúzva",
+      "options": []
+    }
+  }
+]

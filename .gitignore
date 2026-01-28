@@ -1,0 +1,26 @@
+# JSON files in root
+/*.json
+
+# Manifest files in subfolders
+**/manifest.json
+
+# Extracted question images
+extracted_questions/**/*.png
+extracted_questions/**/*.jpg
+extracted_questions/**/*.jpeg
+
+# Test subset
+test_subset/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/

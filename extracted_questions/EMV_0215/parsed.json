@@ -1,0 +1,323 @@
+[
+  {
+    "file": "EMV_0215_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a fogalmakat a meghatározásokkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. sorvadás (atrófia)\nA. a szövetek sejtjei számukban gyarapodnak\n2. túlburjánzás (hyperplasia)\nB. a kifejlett szerv tömegének csökkenése\n3. túltengés (hypertrophia)\nC. a szervezet körülírt részének pusztulása\n4. elhalás (nekrózis)\nD. a szövetek sejtjei megnövekednek\n1.-......, 2.-......, 3.-......, 4.-......",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A...., 3.-...D...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá a daganatokra vonatkozó helyes megállapításokat!\n- A benignus daganatok gyakran metasztázist okoznak.\n- Azokat a tényezőket, amelyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.\n- A daganatok terjedhetnek a nyirokerek és a liquorkeringés útján is.\n- A malignus daganat gyakran okoz testsúlynövekedést.\n- A daganatos szövetburjánzás nem minden esetben káros.\n- A daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Azokat a tényezőket, amelyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.\nA daganatok terjedhetnek a nyirokerek és a liquorkeringés útján is.\nA daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való\nelmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Soroljon fel magyarul az alsó végtag csontjai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont\n- combcsont\n- sípcsont\n- szárkapocscsont\n- lábtőcsontok\n- lábközépcsontok\n- ujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan tényezőt, mely a vérrögösödés kialakulásában szerepet játszhat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása (pl. vénás pangás)\n- nagy hasi műtétek utáni állapotok\n- szülés utáni állapotok\n- az erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\n- a vér összetételének megváltozása\n- alvadási fehérjék kóros szintje",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írjon le a szívbillentyűhibák (vitium cordis) típusai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "bal vénás szájadék szűkülete\nkéthegyű szívbillentyű elégtelensége\naortabillentyű - elégtelensége\naortaszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a szív falának rétegeit!",
+      "question_type": "fill_in",
+      "correct_answer": "- szívbelhártya\n- szívizom\n- szívburok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel! Írja a betűjelek mellé a helyes válasz\nsorszámát!\n\nA. bronchitis\n1. szörcsögő légzési hang, éjszakai\nrohamszerű nehézlégzés\nB. pneumonia\n2. hőemelkedés, láz, improduktív, majd\nproduktív köhögés\nC. asthma bronchiale\n3. légszomj, üveges, nyákos köpet, sípoló\nlégzési hang\nD. oedema laryngis\n4. köhögés, barnásvörös köpetürítés, láz,\nmellkasi fájdalom\nE. oedema pulmonum\n5. rekedtség, fokozódó fulladásérzés,\nsípoló belégzés",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...4...., С.-...3...., D.-...5...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA garatot a dobüreggel köti össze:\ngége\nfülkürt\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\nkülső légzés\n- belső légzés\nA légzőközpont helye:\nkisagy\n- nyúltvelő\nCsillószőrök borítják az:\norrüreg nyálkahártyáját - orrmelléküregek nyálkahártyáját\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fülkürt\nkülső légzés\nnyúltvelő\norrüreg nyálkahártyáját",
+      "options": [
+        "gége",
+        "fülkürt",
+        "külső légzés",
+        "belső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "orrüreg nyálkahártyáját",
+        "orrmelléküregek nyálkahártyáját"
+      ]
+    }
+  },
+  {
+    "file": "EMV_0215_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet játszó tényezők közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- egyes gyógyszerek\n- fertőzés (Helicobacter pylori)\n- étrendi hibák (koffein, fűszerek, rendszertelen étkezés)\n- fokozott sav- és pepszintermelés\n- dohányzás\n- örökletes tényezők\n- életmódbeli tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írjon le a vízben oldódó vitaminok közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "B-vitamin-csoport\nC-vitamin\nP-vitamin",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg a fog részeit magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "korona\nnyak\ngyökér",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a hypertonia maligna szindróma jellemzői közül!",
+      "question_type": "open",
+      "correct_answer": "- nem egységes kórkép\n- a diasztolés vérnyomás tartósan 120-130 Hgmm fölé emelkedik\n- a vesében érbántalmakat okoz\n- gyorsan súlyosbodó veseműködési zavart okoz\n- kezelése megegyezik a hypertonia és az uraemia kezelésével",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a vizeletürítés mechanizmusát! Írja a további sorszámokat a pontozott vonalakra!\n...1.... üres állapotban a hólyagizomzat ernyedt állapotban, a záróizom tónusos összehúzódásban van\n...5.... hólyagizomzat összehúzódása, a húgycső-záróizom ellazulása\n...3.... a hólyagfal afferens idegvégződéseiben vizelési inger kiváltódása\n...2.... a hólyag telítődik, a hólyagfal feszül, a nyomás emelkedik\n...4.... impulzusok futnak be a reflexközpontba és továbbhaladnak a paraszimpatikus efferens száron\n...6.... a vizelet kiürülése\n(Csak a helyes sorrend esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2, 5, 3, 1, 4, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMilyen hosszú a női húgycső?\nMilyen hosszú a férfi húgycső?",
+      "question_type": "open",
+      "correct_answer": "...3-4 cm...\n...kb. 25 cm...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n| férfiklimax |  |\n| méhnyakrák |  |\n| mellékhere-gyulladás |  |\n| szeméremtest-gyulladás |  |\n| phimosis |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n|  | andropauza |\n|  | carcinoma cervicis uteri |\n|  | epididymitis |\n|  | vulvitis |\n|  | fitymaszűkület |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a szervekhez! Írja a sorszámokat a megfelelő helyre!\n1. a magzati életben a hasüregben fejlődik\n2. áthalad rajta a húgycső\n3. a húgyhólyag alatt helyezkedik el\n4. galambtojás nagyságú szerv\n5. a spermiumok termelődésének helye\n6. gesztenye nagyságú és alakú szerv\nhere: ...\nprosztata: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.....\n2., 3., 6.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi fogalmak lényegét!\nFeedback mechanizmus: ...\nfokozott hormonelválasztást vált ki a megfelelő endokrin mirigyben....\nNegatív feedback mechanizmus: ...\ncsökkenti, vagy leállítja az endokrin mirigyben a hormon további\nelválasztását....",
+      "question_type": "open",
+      "correct_answer": "visszacsatolás, a vérben a hormonszint csökkenése\na vérben a hormonszint emelkedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belső elválasztású (endokrin) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez.\n- már alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg az agytörzset alkotó agyrészeket!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nközépagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertessen a mozgás idegrendszeri szabályozásának jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a motoros aktivitás részben akaratlagos, részben akarattól független\n- az akaratlagos mozgásokat a magasabb központok (felső agytörzs, agykéreg) irányítják\n- az automatikus mozgásokat az alacsonyabb központok (gerincvelő, alsó agytörzs) irányítják\n- a mozgás központi idegrendszeri szabályozása szenzomotoros működés – érzéssel kezdődik, mozgással végződik\n- a sztereotip mozgások koordinációját az extrapiramidális rendszer biztosítja\n- a mozgásban részt vevő izmok működését a kisagy koordinálja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Írja le az árpa lényegét, lehetséges tüneteit és gyógyításának lehetőségeit!\nLényege: ...\nTünetei:\n-\n-\nGyógyításának/kezelésének lehetősége: Írjon egyet!",
+      "question_type": "open",
+      "correct_answer": "a szemhéj mirigyeinek gyulladása...\na szemhéjon megjelenő érzékeny, fájdalmas csomó\nszemhéjduzzanat\nmeleg borogatás\nantibiotikum",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg, mit jelent a szem adaptációja!",
+      "question_type": "open",
+      "correct_answer": "...Az ideghártyának és a pupillának a megváltozott fényviszonyokhoz való alkalmazkodása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a bőr jelentőségét/feladatait! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "védelem a mechanikai hatásoktól, a kórokozók bejutásától\nhőszabályozás (hőleadás)\nfolyadék és páratartalom szabályozása (verejtékezés)\nzsírraktározás\na tapintás érzékszerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Írja le a laikus újraélesztés megszakításának három feltételét!",
+      "question_type": "open",
+      "correct_answer": "szaksegítség megérkezése, akik átveszik az újraélesztést\na beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése visszatér\na segítségnyújtó(k) kimerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0215_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 6,
+      "question_text": "Soroljon fel az alacsony vércukorszint lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "émelygő éhségérzet\nfejfájás\nideges feszültség\nsápadtság, hideg verejtékezés\nfeszes pulzus\nremegés\nsúlyos esetben eszméletvesztés",
+      "options": []
+    }
+  }
+]

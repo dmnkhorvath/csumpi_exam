@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel az ízületek alkotórészei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "ízületi fej\nízületi árok\nízületi tok\nízületi porc\nízületi szalagok\nízületi nedv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. progeszteron\n2. inzulin\n3. glükagon\n4. tiroxin\n5. kalcitonin\nHasnyálmirigy: ...\nPajzsmirigy: ...\nPetefészek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3\n4, 5\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel az izmok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\nínhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi felsorolásból a vörös csontvelő\nfeladatait!\n\n- hézagpótló szerep\n- vörösvérsejtek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "vörösvérsejtek képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a betegségek sorszámát!\n\nBetegségek:\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nBetegségek jellemzői:\n- A kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódással járó\nbetegsége: ...\n- Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívbelhártya-gyulladást is okozhat:\n...\n- A gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n...",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írja le a mozgásrendszert érintő alábbi sérülések\nlényegét!\nDistorsio: \nLuxatio: \nFractura:",
+      "question_type": "open",
+      "correct_answer": "erőbehatásra az ízületi fej elhagyja az ízületi árkot, de\nvisszatér az eredeti helyzetbe\nerőbehatásra az ízületi fej az ízületi árkon kívülre kerül, és\nnem tér vissza az eredeti helyzetbe\nhirtelen erőbehatásra a csont folytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\ncoronaria keringési zavarok\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\nHogyan hat a Ca hiánya az izomműködésre az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "...megnő a véralvadási idő...\n...izomgörcsök lépnek fel...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. levertség, fáradékonyság\n4. üvegszerű, tapadós köpet\nTüdőasztma: ... , ...\nTuberkulózis: ... , ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4\n2, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel a tbc megelőzésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége: napi\nFajsúlya:\nÖsszetétele: Írjon négyet!\n-\nvíz\n-\n-\ncukor\n-\n-",
+      "question_type": "open",
+      "correct_answer": "180 l\n1010 g/l\násványi anyagok\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az idült veseelégtelenség lehetséges\ntünetei közül!",
+      "question_type": "open",
+      "correct_answer": "étvágytalanság\nfémes szájíz\némelygés\nhányás\nhasmenés vagy székrekedés\nszáraz, vastagon lepedékes nyelv\nvizeletszagú lehelet\nmagas vérnyomás (hypertensio)\nlesoványodás\nsúlyos vérszegénység, bőr- és nyálkahártya vérzések\nbőrviszketés, sárgás, szürkés bőrszín, száraz bőr\nvizenyő\nsavós hártyák gyulladásának tünetei\nlégzőszervi tünetek (Kussmaul-típusú légzés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegséggel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. C-vitamin\n2. A-vitamin\n3. K-vitamin\n4. B₁-vitamin\n5. B12-vitamin\n6. D-vitamin\n\nA. angolkór\nB. skorbut\nC. farkasvakság\nD. vészes vérszegénység\nE. beriberi\nF. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "B, C, F, E, D, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a szerves tápanyagok csoportjából hármat!",
+      "question_type": "open",
+      "correct_answer": "fehérjék\nszénhidrátok\nzsírok\nvitaminok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a férfi nemi működéssel\nkapcsolatos alábbi kérdésekre!\nHol termelődik a tesztoszteron?\n...\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\nMely férfi nemi szervben tárolódnak a spermiumok?\n...\nHol helyezkedik el a prosztata?\n...\nHol fejlődnek a herék a magzati életben?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a herék Leydig-féle sejtjeiben\na herecsatornák falának hámjában\na mellékherékben\na húgyhólyag alatt\na hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül\nnégyet!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a szomatosztatin hatása?\nHol termelődik az aldoszteron?\nMi az androgének feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "...a testnövekedést gátolja...\n...a mellékvese kéregállományában...\n...a másodlagos férfi nemi jelleg kialakítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve  pont\nmagyar megfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n| atrophia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  | bénulás |\n|  | remegés (akarattól független) |\n|  | izomtónus-fokozódás |\n|  | beszédzavar |\n|  | izomsorvadás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Írja le, milyen típusú neuronokat tartalmaznak a\ngerincvelő egyes szarvai (kötegei)!\n\nHátsó szarv: ...\nOldalsó szarv: ...\nElülső szarv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "érző neuronok...\nvegetatív neuronok...\nmozgató neuronok...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai:...\nLátószerv receptorai:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n\nFeladata:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- könnyet termelő mirigyek\n- könnyelvezető rendszer\n- folyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó\nfeladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "helyzet felmérése\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_I_EuMI_0615_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan esetet, amikor nincs remény\naz újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "élettel összeegyeztethetetlen sérülés\nhosszas haldoklás után beállt halál\na halál biztos jeleinek megjelenése: hullafoltok, hullamerevség, bomlás jelei\nbizonyítottan hosszú oxigénhiányos állapot",
+      "options": []
+    }
+  }
+]

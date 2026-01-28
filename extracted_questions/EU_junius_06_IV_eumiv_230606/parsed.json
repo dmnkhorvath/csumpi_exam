@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa a magyar kifejezéseket latin megfelelőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\n\nA. elülső/hasi\nB. alsó/farki\nC. hátulsó/háti\nD. felső/feji\nE. középsíkhoz közel eső\n\n1. superior/cranialis\n2. anterior/ventralis\n3. medialis\n4. inferior/caudalis\n5. posterior/dorsalis\n\nA.-......, B.-......, C.-......, D.-......, E.-......",
+      "question_type": "matching",
+      "correct_answer": "2, 4, 5, 1, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Sorolja fel a hőártalom okozta elváltozásokat!",
+      "question_type": "open",
+      "correct_answer": "égés\nhőpangás\nhőguta\nfagyás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór kialakulásának lehetséges okait és megelőzésének\nlehetőségét!\nLehetséges okai: Írjon négyet!\n\nMegelőzése:",
+      "question_type": "open",
+      "correct_answer": "- D-vitamin-hiány\n- vesebetegségek\n- májbetegségek\n- örökletes betegségek\n- egyes gyógyszerek\n...Magyarországon újszülöttkortól 3 éves korig kötelező a D-vitamin adása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet az ízületeket összetartó tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- külső légnyomás\n- a porcfelszínek közötti tapadás\n- az ízületi tok és a szalagkészülék\n- az ízületeket körülvevő izmok feszessége\n- az ízületek körül lévő egyéb lágy részek és a bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a szívbillentyűket a megadott szempontok szerint! Töltse ki a táblázatot!\n\n| Szempont | Vitorlás billentyű | Zsebes billentyű |\n|---|---|---|\n| Elhelyezkedése |  |  |\n| Felépítése/részei |  |  |\n| A vér áramlása a billentyű nyitott helyzetében (Honnan, hová?) |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempont | Vitorlás billentyű | Zsebes billentyű |\n|---|---|---|\n| Elhelyezkedése | a pitvarok és a kamrák között | a kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben |\n| Felépítése/részei | vitorla, szemölcsizom, ínhúr | hártyás lemezből álló három zsebszerű tasak |\n| A vér áramlása a billentyű nyitott helyzetében (Honnan, hová?) | pitvarokból a kamrákba | kamrákból a nagyerekbe (aorta, truncus pulmonalis) |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írja le az extrasystole lényegét!",
+      "question_type": "open",
+      "correct_answer": "Rendkívüli összehúzódás, a sinuscsomóban képzett inger helyett a szív a myocardium más helyén képzett inger hatására húzódik össze.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertessen a tüdőtágulás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- köhögés\n- nehézlégzés\n- cianózis\n- szapora légzés\n- levegő visszamaradása a tüdőben kilégzés során",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a légzőrendszerrel kapcsolatos helyes megállapításokat!\n- Az arteria pulmonalis oxigénben gazdag, szén-dioxidban szegény vért szállít a tüdőbe.\n- A négy vena pulmonalis a bal pitvarba ömlik és oxigéndús vért szállít.\n- A légzőközpont az agytörzs területén található.\n- A tüsszentés reflexfolyamat, amelyet az orrnyálkahártyát izgató idegen anyagok, szagingerek váltanak ki.\n- A köhögés reflexes eredetű, nyitott hangrés melletti erős kilégzést jelent.\n- Nyugalomban, percenként 6-8 liter levegő cserélődik ki a tüdő és a külvilág között.\n- Nyugalomban, percenként 5-6 liter levegő cserélődik ki a tüdő és a külvilág között.\n- Normális körülmények között a belégzés passzív izommunka eredménye, míg a kilégzés aktív folyamat.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A négy vena pulmonalis a bal pitvarba ömlik és oxigéndús vért szállít.\nA légzőközpont az agytörzs területén található.\nA tüsszentés reflexfolyamat, amelyet az orrnyálkahártyát izgató idegen anyagok, szagingerek váltanak ki.\nNyugalomban, percenként 6-8 liter levegő cserélődik ki a tüdő és a külvilág között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a diabetes mellitus típusai szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. az inzulinterápia nem minden esetben szükséges\n2. kizárólag inzulinterápiával tartható egyensúlyban\n3. hátterében autoimmun folyamat feltételezhető\n4. gyakoribb az előfordulása felnőtt korban\n5. gyakoribb gyermekeknél\n6. inzulinrezisztencián alapul\n\n1-es típusú cukorbetegség: ...\n2-es típusú cukorbetegség: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\nMennyi a húgyhólyag normál űrtartalma?\nÉlettani körülmények között tartalmaz-e epefestéket a végleges vizelet?\nMilyen folyamat megy végbe a Malpighi-testben?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben\nkb. 200 - 300 ml\nnem\nszűrés/filtráció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertessen ötöt az uraemiás beteg diétás kezelésének szempontjai, követelményei közül!",
+      "question_type": "open",
+      "correct_answer": "- az étrend csökkentett fehérjetartalmú legyen\n- az étrend legyen energiadús\n- a foszforfogyasztás csökkentése javasolt\n- mérsékelt sófogyasztás javasolt\n- káliumszegény étrend javasolt\n- a folyadékbevitelt az ürített mennyiséghez kell igazítani",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel az andropauza jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- fizikai és szellemi teljesítőképesség csökken\n- pszichés változások\n- androgén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi anatómiai képleteket elhelyezkedési helyeikkel! Írja a\nbetűjeleket a megfelelő sorszámhoz!\n1. sárgatest\n2. barlangos test\n3. Leydig-sejtek\n4. Bartholin-mirigy\n5. csikló\n\nA. a hímvessző állományában\nB. a herékben, a herecsatornák között\nC. a nagyajkak alsó harmadában, a hüvelybemenetnél\nD. a kisajkak találkozási pontjánál, a húgycsőnyílás felett\nE. a petefészekben",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-...A...., 3.-...B...., 4.-...C...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az enyhe kialakulású mellékpajzsmirigy-alulműködés\nlehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "száraz, repedezett bőr\ntörékeny, hulló szőrzet\na fogak zománchibája\nerős fugszuvasodás\na kéz és láb ujjainak zsibbadása\nszürkehályog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Határozza meg az alábbi hormonok termelődési helyét! Egészítse ki a\ntáblázatot!\n\n| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n| szomatosztatin |  |\n| ösztrogén |  |\n| noradrenalin |  |\n| melatonin |  |\n| calcitonin |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Hormon neve | Termelődési helye |\n|-------------|-------------------|\n| szomatosztatin | hasnyálmirigy |\n| ösztrogén | petefészek |\n| noradrenalin | mellékvese-velőállomány |\n| melatonin | tobozmirigy |\n| calcitonin | pajzsmirigy |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Csoportosítsa a környéki és a központi idegrendszer részeit! Írja a sorszámokat a megfelelő helyre!\n\n1. gerincvelő\n2. gerincvelői idegek\n3. agyvelő\n4. agyidegek\n\nkörnyéki, vagy perifériás idegrendszer: ...\nközponti idegrendszer: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le a tudat összerendezettségi zavarainak lényegét!",
+      "question_type": "open",
+      "correct_answer": "laza tudatállapot: ...legsúlyosabb formája az amentia, a teljes tudatszétesés, a\npszichés funkciók széttöredezettek, a beteg gondolkodását és viselkedését a\nkülvilág ingerei percről percre változtatják...\n\ntudatbeszűkülés: ...csupán egy fontos problémára koncentrálódik a figyelem, az\nérzelemvilág és a viselkedés, további lényeges elemeket nem vesz figyelembe...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a középfül részeit!\n- dobhártya\n- dobüreg\n- ívjáratok\n- üllő\n- kalapács\n- hallóideg receptorai\n- fülkürt\n- kengyel\n- csiga\n- Corti-szerv\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "dobüreg\nüllő\nkalapács\nfülkürt\nkengyel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse az övsömör okát és lehetséges tüneteit!\nOka: ...\nLehetséges tünetei: Írjon négyet!\n- bőrérzékenység az ideg lefutása mentén\n- fájdalmas bőrkiütések (folyadékkal telt hólyagok)\n- viszketés\n- hidegrázás\n- láz",
+      "question_type": "open",
+      "correct_answer": "vírusfertőzés (Herpes zoster)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések típusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszermérgezés\n- alkoholmérgezés\n- gázmérgezés\n- marószermérgezés\n- gombamérgezés\n- növényvédőszer-mérgezés\n- ételmérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_IV_eumiv_230606_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Írja le, hogy eszméletlen beteg légzésvizsgálatakor mely esetben ítélhetjük a\nbeteg légzését normálisnak!",
+      "question_type": "open",
+      "correct_answer": "Amennyiben légútbiztosítást követően a beteg arca fölé hajolva, a mellkasát\nhármas érzékeléssel (érzem – hallom – látom) 10 másodpercig figyelve, legalább\nkettő minőségi légvétel történik.",
+      "options": []
+    }
+  }
+]

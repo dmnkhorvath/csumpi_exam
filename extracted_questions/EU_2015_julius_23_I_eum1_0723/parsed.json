@@ -1,0 +1,329 @@
+[
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nSzív: ...\nMáj:...\nGyomor: ...\nTüdő: ...\nLép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi szövetek típusaihoz a megadott\njellemzőket! Írja a számokat a megfelelő betűjelhez!\n\nA: hámszövet\nB: kötő- és támasztószövet\nC: izomszövet\nD: idegszövet\n\n1. feladata a sejtek, szövetek összekapcsolása, szerepe van a szervezet\npasszív tartásában\n2. a szervezet információs rendszerét építi fel\n3. összehúzódásra képes\n4. a test felszínét borítja, a testüregeket béleli",
+      "question_type": "matching",
+      "correct_answer": "Α: ...4...; B: ...1...; C: ...3...; D: ...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Ismertesse, hogy a daganat sejtjei mely tulajdonságokban térnek el az ép szövet sejtjeitől!",
+      "question_type": "open",
+      "correct_answer": "autonóm növekedési hajlam\neltérő mikroszkópos szerkezet\nkóros anyagcsere",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!\n- homlokcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és ideg ellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a hozzájuk tartozó számokat!\n\nBetegségek:\n1. sokízületi gyulladás\n2. SPA (spondylitis ankylopoetica)\n3. reumás láz\n\nBetegségek jellemzői:\n- A kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódásával járó\nbetegség: ......\n- Hetekkel egy lezajlott mandulagyulladás után jelentkezik a\nnagyízületek fájdalmas gyulladása, később szívbelhártya-gyulladást is\nokozhat: ......\n- A gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n........",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt /5/ lehetőséget a szívinfarktus\nrizikófaktorainak csökkentésére!",
+      "question_type": "open",
+      "correct_answer": "dohányzás elhagyása\nrendszeres testmozgás\nkoleszterinszegény táplálkozás\nmagas vérnyomás kezeltetése\ncukorbetegség kezeltetése\nhajszolt életmód kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Rendezze az alábbi megállapításokat a megfelelő\ncsoporthoz!\nÍrja a csoportok mellé a helyes megállapítás számát/számait!\n\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\n\nAnasztomózis:...\nKollaterális érösszeköttetés:...\nVégartéria:...",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vérrögösödés (trombózis) keletkezésében szerepet játszó tényezők közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lassulása (pl. vénás pangás során)\nnagy hasi műtétek és szülés utáni állapotok\naz erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "A légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés",
+      "options": [
+        "tüsszentés",
+        "köhögés"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi meghatározásokat a felsorolt betegségekkel! Írja a betegségek mellé a megfelelő sorszámot!\n\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a kishörgők nyálkahártyájának duzzanata kísér.\n\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének vizenyője következtében kialakuló életveszélyes állapot.\n\n3. A léghólyagok és a köztük lévő sövények fala elvékonyodik, majd átszakad és végül közös üreggé olvad egybe.\n\nGégevizenyő: ...\nTüdőasztma: ...\nTüdőtágulat: ...",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a tüneteket, amelyek emésztőrendszeri\ndaganatos megbetegedésre utalhatnak!\n- indokolatlan fogyás\n- láz\n- székelési ritmus megváltozása\n- ízületi fájdalmak\n- nyelési nehézségek\n- gyakori fejfájás\n- véres széklet\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nízületi fájdalmak\nnyelési nehézségek\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Sorolja fel a fog részeit és feladatait!\nRészei:\n\n\n\nFeladatai:\n\n\n",
+      "question_type": "open",
+      "correct_answer": "korona\nnyak\ngyökér\na harapás\na táplálék őrlése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ alkotóelemet, amelyet a normál\nvizelet tartalmaz!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Sorolja fel a vese tubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Sorolja fel a polyuria okait! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok adása\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék- és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleget!\nElsődleges nemi jelleg:\n...a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg...\nMásodlagos nemi jelleg:\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése\n...stb.)...",
+      "question_type": "open",
+      "correct_answer": "a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg\na nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése\n...stb.)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regenerációs fázis\nnövekedés - proliferációs fázis\nelválasztás - szekréciós fázis\nlelökődés - menstruációs fázis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Nevezze meg a nemi érintkezés útján terjedő betegségeket! Írjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (syphilis)\nherpes genitalis\nAIDS",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Hol tárolódik az oxitocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n\ninzulin\nglükagon\nadrenalin\nszomatosztatin\n\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetaniás állapotot!\n\nLényege:\n\nOka:\n\nTünetei: Írjon négyet /4/!\n- a kéz és láb ujjainak zsibbadása\n- a kéz őzfejtartása (hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban is görcs alakul ki: „ördögi vigyor\" (risus sardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet\n\nGyógyítása, ellátása:\n\n(A lényegre, okára, gyógyításra, ellátásra helyes válaszonként 1 -1 pont, a tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca szintjének csökkenése.\nA mellékpajzsmirigy csökkent működése. Leggyakrabban strúma műtét után\nfordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\nCa adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "terminális idegvégződés\nintercalaris idegvégződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a vegetatív\nidegrendszer megfelelő hatásaival!\nÍrja a sorszámokat a megfelelő helyre!\n1. koszorúserek szűkülnek\n2. légzésszám fokozódik\n3. nyálelválasztás fokozódik\n4. vércukorszint emelkedik\n5. pupilla tágul\n6. a szív teljesítménye csökken\n\nSzimpatikus hatás: ...\nParaszimpatikus hatás: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4, 5\n1, 3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon két /2/ jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "csontátépülés következtében a belső fülben a kengyel talpa rögzül\naz ovális ablakhoz\nnőknél gyakoribb, mint férfiaknál\nkínzó fülzúgást és vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_I_eum1_0723_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 6,
+      "question_text": "Ismertesse az elsősegélynyújtó feladatait a segítségnyújtás során! Írjon hatot /6/!\nhelyzet felmérése\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\nsérült elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nsegítségkérés (mentők, tűzoltók stb.)\na sérült felügyeletének biztosítása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

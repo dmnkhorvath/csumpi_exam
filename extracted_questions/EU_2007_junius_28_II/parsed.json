@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2007_junius_28_II_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Ismertesse az elsősegélynyújtó feladatait a segítségnyújtás során! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- helyzet felmérése,\n- tájékozódás a történtekről\n- újabb balesetveszély elhárítása\n- sérült elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- segítségkérés (mentők, tűzoltók stb.),\n- sérülttel maradni",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát és írjon a fajtái közül négyet /4/!\n\nFogalma:\n\nFajtái:\n- vágott\n- szúrt\n- harapott\n- horzsolt\n- zúzott\n- lőtt\n- roncsolt",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása illetve hiánya.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q003_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Fogalmára: 1 pont; fajtáira: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi szövetek típusaihoz a jellemzőiket!\nÍrja a számokat a megfelelő betűjelhez!\nA: hámszövet\nB: kötő-támasztószövet\nC: izomszövet\nD: idegszövet\n1. feladatuk a sejtek, szövetek összekapcsolása, szerepük van a\nszervezet passzív tartásában\n2. a szervezet információs rendszerét építik fel\n3. összehúzódásra képes\n4. a test felszínét borítja, testüregeket béleli",
+      "question_type": "matching",
+      "correct_answer": "A: 4, B: 1, C: 3, D: 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\nmegfelelőiket!\nregeneratio: a szövetek újraképződése\nhypertrophia: túltengés\nartrophia: sorvadás\nnecrosis: elhalás\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Nevezze meg, mely szervben találhatók az alábbi anatómiai képletek!\nBartholin mirigy: ...\nBowmann-tok: ...\nHis-köteg: ...\nLangerhans sziget: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "női nemi szerv\nvese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy / 1-1/ példát!\n\n- Kötőszövetes összeköttetés pl.: koponya varratai\n- Porcos összeköttetés pl.: medencecsont csontjai között\n- Csontos összeköttetés pl.: korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása-keresztcsont\n\n(A megnevezésre 1-1 pont, a példákra 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Nevezze meg az agykoponyának és az arckoponyának\naz ábrán jelölt csontjait magyarul! Válaszát írja a számok mellé a pontozott vonalakra!",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Hol termelődnek a lymphocyták?",
+      "question_type": "open",
+      "correct_answer": "a nyirokrendszerben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Ismertesse a szívizomelhalást (myocardiális infarctus)\na megadott szempontok szerint!\nA. lényege és oka:\nTünetei:\nB. a fájdalom helye:\nC. a fájdalom jellege:\nD. a fájdalom kisugárzása:",
+      "question_type": "open",
+      "correct_answer": "coronaria ág (végartéria) elzáródása\nthrombus miatt\na szegycsont mögött\nszorító, markoló érzés\n- nyak bal oldala\n- bal váll, bal kar\n- lapockák közé\n- gyomorgödörbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Az „A\" pontra: 2 pont; a „B\" pontra: 0,5 pont; a „C\" pontra: 0,5 pont; a „D\" pontra: 2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül\nkettőt /2/!\n\n- nátha\n- garatgyulladás\n- mandulagyulladás\n- gégegyulladás\n- légcsőgyulladás\n- hörghurut",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a gégét (larynx) alkotó porcokat!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Húzza alá a gátor üregben (mediastinum) elhelyezkedő szerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\nnyelőcső\naortaív ágai\nbolygóideg (nervus vagus)\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül hármat /3/!\n- gyakori vizelési inger\n- pár csepp vizelet, égő-csípő érzéssel kísért vizelés\n- gyakori görcsös fájdalom\n- vizeletben vér jelenik meg\n- vizeletben genny jelenik meg",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az erythropoetin?\nMennyi a végleges vizelet fajsúlya?\nTartalmaz-e élettanilag a végleges vizelet urobilinogént?\nTartalmaz-e élettanilag a végleges vizelet bilirubint?\nMely szerv helyezkedik el a vese középső zsíros tokjába beágyazva?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben\n1020-1025\ntartalmaz\nnem tartalmaz\nmellékvese",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Soroljon fel kettőt /2/ a mechanikus ileus (bélelzáródás)\nkiváltó okai közül!",
+      "question_type": "open",
+      "correct_answer": "- gyulladás\n- összenövés\n- daganat\n- idegen test\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés\n- epekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Csoportosítsa a vizelet mennyiségének zavarait\naz alábbiak szerint!\nÍrja a számokat a megfelelő elnevezéshez!\noliguria: ...1, 3, 4, 6...\npolyuria: ...2, 5, 7, 8...\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. oedémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. oedema képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a vastagbél szakaszait!",
+      "question_type": "fill_in",
+      "correct_answer": "- vakbél\n- felszálló vastagbél\n- haránt vastagbél\n- leszálló vastagbél\n- szigmabél\n- végbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső hám\n- irha\n- bőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Párosítsa a szem részeit feladataikkal!\nÍrja a betűk mellé a megfelelő számot!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest\n1. szem fénytörő közege\n2. szem védőkészüléke\n3. éleslátás helye\n4. ideghártya táplálása\n5. csarnokvíz termelése\nA: ......; B: ......; C: ......; D: ......; E: ......",
+      "question_type": "matching",
+      "correct_answer": "2\n3\n1\n4\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a mellrákot (tumor mammae) az alábbiak\nszerint!\nLényege: a mell állományának\nTünetei: Írjon kettőt /2/!\n-\n-\n-\n-\nMegelőzése:",
+      "question_type": "open",
+      "correct_answer": "a mell állományának rosszindulatú daganatos elfajulása\ntapintható csomó a mellben\nnarancshéj behúzódás\nbefordult bimbó\nváladékozás\nszűrővizsgálattal",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 1,
+      "question_text": "Határozza meg röviden az alábbi betegség lényegét!\nSclerosis multiplex:",
+      "question_type": "open",
+      "correct_answer": "Az idegsejt tengelyfonalát körülvevő szigetelő hüvely fokozatos leépülése.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábrán a számokkal jelölt belső elvá- \nlasztású mirigyeket magyarul!\n(Válaszát írja a számok mellé a pontozott vonalra!)\n\n1. tobozmirigy\n2. ...agyfüggelék...\n3. ...mellékpajzsmirigy...\n4. ...pajzsmirigy...\n5. ...csecsemőmirigy...\n6. ...mellékvese...\n7. ...hasnyálmirigy...\n8. ...petefészek...\n9. ...here...",
+      "question_type": "fill_in",
+      "correct_answer": "2. ...agyfüggelék...\n3. ...mellékpajzsmirigy...\n4. ...pajzsmirigy...\n5. ...csecsemőmirigy...\n6. ...mellékvese...\n7. ...hasnyálmirigy...\n8. ...petefészek...\n9. ...here...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_junius_28_II_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\n\nMely hormon szabályozza a tej kiürülését az emlőből?\n\nHol termelődik az ADH hormon?\n\nHol tárolódik az ADH hormon?\n\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "open",
+      "correct_answer": "prolaktin (luteotrop hormon)\noxytocin\nhypothalamusban\na hypophysis hátulsó lebenyében\ndiabetes insipidus",
+      "options": []
+    }
+  }
+]

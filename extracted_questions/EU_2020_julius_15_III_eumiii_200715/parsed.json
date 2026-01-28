@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. homlokirányú, vagy frontális sík\n2. vízszintes, vagy horizontális sík\n3. közép, vagy medián sík\n\nA. a homlok síkjával párhuzamosan fut\nB. a testet jobb és bal testfélre osztja\nC. a homloksíkra merőleges",
+      "question_type": "matching",
+      "correct_answer": "1.-...A....., 2.-...C...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a fertőzés terjedési módjaira három-három példát!\nközvetlen érintkezés: ...\nközvetett terjedés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "kézfogás, csók, szexuális érintkezés, állatharapás...\ncseppfertőzés, víz közvetítésével, élelmiszerek által, a talaj közvetítésével, tárgyak közvetítésével, intrauterin fertőzések...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Ismertesse a csonthártya feladatait!",
+      "question_type": "open",
+      "correct_answer": "- védi a csontot a külső hatásoktól\n- biztosítja a csont idegi-, és vérellátását\n- biztosítja a csont vastagságbeli növekedését, csonttörés esetén a gyógyulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel az agykoponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- koronavarrat\n- nyílvarrat\n- pikkelyvarrat\n- lambdavarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul az izmok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "nyálkatömlő\n- ínhüvely\n- izompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nKiknek a szervezetében termelődhet anti-D ellenanyag?",
+      "question_type": "open",
+      "correct_answer": "...Azoknak az Rh-negatív egyéneknek a szervezetében, akiknek D-antigén jutott\na vérükbe valamilyen okból....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá a jobbszívfél-elégtelenség jellegzetes tüneteit!\n- telt nyaki vénák\n- kisvérköri pangás\n- nyugalmi dyspnoe\n- cianózis\n- boka,- lábszárödéma, hasvízkór\n- köhögés\n- tüdőödéma\n- a vizelet mennyisége emelkedik\n- a vizelet mennyisége csökken\n- éjszakai vizelés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\nboka,- lábszárödéma, hasvízkór\na vizelet mennyisége csökken\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja\na megadott csoportokhoz a helyes sorszámot!\n1. a szív jobb kamrájából indul\n2. a mellkasi aortából indul\n3. a tüdő szövetét nem táplálja\n4. a tüdő szövetét táplálja\n5. a gázcseréhez szükséges vért szállítja\n6. a gázcsere lebonyolításában nincs feladata\narteria bronchialis rendszer: ...\ntruncus pulmonalis rendszer: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 6....\n1., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz\nszapora, nehezített légzés\nmellkasi fájdalom\nhátfájdalom\nfejfájás\nszapora pulzus\nköhögés\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely tápanyagok bontása kezdődik a szájüregben?\n\nMely tápanyagok bontása kezdődik a gyomorban?\n\nHol termelődik az epe?\n\nHol sűrűsödik be a májepe?\n",
+      "question_type": "fill_in",
+      "correct_answer": "szénhidrátok\nfehérjék\na májban\naz epehólyagban",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- hasmenés: ...\n- székrekedés: ...\n- féregnyúlvány-gyulladás: ...\n- vérhas: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diarrhea\nobstipatio\nappendicitis\ndysenteria",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Malpighi-test\n- Bartholin-mirigy\n- neurocyta\n- Bowman-tok\n- Henle-kacs\n- myelinhüvelyek\n- elsődleges kanyarulatos csatorna\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- kötőhártya\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Malpighi-test\nBowman-tok\nHenle-kacs\nelsődleges kanyarulatos csatorna\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertesse a vesék feladatát, szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sók kiválasztása\n- a vízben oldható hasznosíthatatlan anyagok kiválasztása\n- a só-, és vízháztartás szabályozása\n- a homeosztázis fenntartása\n- hormontermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Egészítse ki a menstruációs ciklussal kapcsolatos táblázat hiányzó részeit!\n| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I. regeneráció |  |  |\n| II. proliferáció |  |  |\n| III. szekréció | mirigyei váladékot termelnek, szerkezete fellazul, képes a megtermékenyített petesejt befogadására |  |\n| IV. menstruáció |  | a progeszteron hirtelen csökkenése |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A menstruációs ciklus fázisa | A nyálkahártya változása | Hormonhatás |\n|---|---|---|\n| I. regeneráció | felszíne hámosodik | ösztrogén, FSH (hipofizis) |\n| II. proliferáció | megvastagodik (tüszőrepedés) | ösztrogén, FSH (hipofizis) |\n| III. szekréció |  | progeszteron, LH (hipofizis) |\n| IV. menstruáció | zsugorodik, majd lelökődik |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "baktérium\na vizeletürítés károsodása\nvisszaáramlás a prosztata kivezetőcsöveiben\nimmunrendszeri tényezők\nkémiai anyagok\nlelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a\nszervezetben!\n- hipofízis: ...\n- csecsemőmirigy: ...\n- pajzsmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na gátorüregben, a szegycsont mögött...\na nyak elülső részén, a pajzsporc alatt...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák az anyagcsere-folyamatokat\n- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\n- fokozzák a szervezet oxigénfelhasználását\n- növelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- szükségesek a szellemi funkciókhoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a koponyaalap sérüléseihez! Írja a\nsorszámokat a megfelelő helyre!\n1. liquor és vércsorgás a fülből\n2. vérömleny a tarkón\n3. liquor és vércsorgás az orrból\n4. pápaszem-haematoma\n5. vérömleny a fül mögött\n6. liquor és vércsorgás a garatban\n\nelülső scala törése: ...., ....\nközépső scala törése: ...., ....\nhátsó scala törése: ...., ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.\n1., 5.\n2., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel\nis egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Párosítsa a bőr rétegeit jellemzőikkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. irha\nA. többrétegű elszarusodó laphám\n2. bőr alatti kötőszövet\nB. kötőszöveti rostokból épül fel\n3. felhám\nC. sok kötőszöveti rostot és zsírt\ntartalmaz",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Írja le a glaukóma (zöldhályog) megbetegedés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látóideg megbetegedése a szemben megemelkedett csarnokvíznyomás következtében.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_15_III_eumiii_200715_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Írja a latin kifejezések mellé a magyar megfelelőket!\n- contusio cerebri: ...\n- kollapszus: ...",
+      "question_type": "fill_in",
+      "correct_answer": "agyzúzódás\nájulás",
+      "options": []
+    }
+  }
+]

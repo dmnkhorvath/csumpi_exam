@@ -1,0 +1,334 @@
+[
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján a\nkórlefolyás szakaszait!\n\nMegjelennek az általános tünetek, amelyek még nem jellemzőek a\nbetegségre:\n...\n\nKórokozó behatolásától a tünetek megjelenéséig tartó szakasz:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "bevezető szakasz\nlappangási szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok feladataival! Írja a fehérvérsejt típusának sorszáma mellé feladata betűjelét!\n\n1. T-lymphocyta\na. fagocitózis\n2. B-lymphocyta\nb. sejtes immunválasz\n3. granulocyta és monocyta\nc. humorális immunválasz",
+      "question_type": "matching",
+      "correct_answer": "1.: ...b...\n2.: ...c...\n3.: ...α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a daganatok formáit jellemzőik alapján!\nÍrja be a formákhoz tartozó jellemzők számát!\n\nJellemzők:\n1. növekedése lassú\n4. környezetétől élesen elhatárolódik\n2. áttétet (metasztázist) okozhat 5. eltávolítása után kiújulhat (recidivál)\n3. átszövi a környező 6. sejtjei és szerkezete hasonlít a\nszöveteket, összenő velük kiinduló szövet sejtjeihez\n\n| Daganatok formái | Jellemzőik |\n|--------------------|------------|\n| Jóindulatú daganatok |            |\n| Rosszindulatú daganatok |            |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "matching",
+      "correct_answer": "| Daganatok formái | Jellemzőik |\n|--------------------|------------|\n| Jóindulatú daganatok | 1, 4, 6 |\n| Rosszindulatú daganatok | 2, 3, 5 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- sipoly\n- fájdalom\n- alakváltozás, duzzanat\n- izomsorvadás\n- mozgáskiesés\n- X- láb\n- vérömleny\n- vérmérgezés\n(Csak a négy/4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás, duzzanat\nmozgáskiesés\nvérömleny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Sorolja fel a szabad felső végtag csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "felkarcsont\norsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá a vörös csontvelő feladatait!\n- hézagpótló szerep\n- vörösvértestek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvértestek képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Határozza meg az agglutinogén fogalmát, és nevezze meg a típusait!\nFogalma:\nTípusai:",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található antigén tulajdonságú anyag.\nA agglutinogén\nB agglutinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Ismertesse a szívizom élettani sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "különleges harántcsíkolt izom, mely egyesíti a vázizom és simaizom\nszerkezetét és jó tulajdonságait\nakaratunktól független, ritmusos összehúzódás jellemzi\nműködésében a „minden vagy semmi törvénye” érvényesül: a szívizom\nküszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti\ningerre nem reagál\nműködését a refrakter stádium jellemzi: az a periódus, amelyben a\nszívizom összehúzódás utáni elernyedt állapotban van, de még nem\ningerelhető\nvalamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket illetve állapotokat a rájuk jellemző kóros légzési formával! Írja a betegségek sorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\nDyspnoe: ... , ...\nKussmaul-légzés: ..., ...",
+      "question_type": "fill_in",
+      "correct_answer": "3, 4\n1, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer alsó részének szakaszait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vakbél\nszigmabél\nvégbél\nharánt vastagbél",
+      "options": [
+        "vakbél",
+        "éhbél",
+        "szigmabél",
+        "végbél",
+        "patkóbél",
+        "haránt vastagbél",
+        "csípőbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Soroljon fel a féregnyúlvány - gyulladás (appendicitis)\nlehetséges szövődményei közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "átfúródás\nhashártyagyulladás\ntályog kialakulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat a tápanyagokat amelyek elsősorban energiaszolgáltatók!\n- fehérjék\n- víz\n- szénhidrátok\n- vitaminok\n- zsírok\n- ásványi sók\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szénhidrátok\nzsírok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Húzza alá azokat az anyagokat, amelyeket a normál\nvizelet tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz\n(Csak a hat /6/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Jellemezze röviden az idült veseelégtelenséget (uraemia\nchronica) az alábbiakban megadott szempontok szerint!\n\nLényege:\nA veseműködés beszűkülése a vese állományának súlyos\ncsökkenése (pusztulása) következtében.\n\nTünetek: Soroljon fel hatot /6/!\n- étvágytalanság\n- fémes szájíz\n- émelygés\n- hányás\n- hasmenés vagy székrekedés\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás (hypertensio)\n- lesoványodás\n- súlyos vérszegénység, bőr- és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- savós hártyák gyulladásának tünetei\n- légzőszervi tünetek (Kussmaul-típusú acidoticus légzés)\n- idegrendszeri tünetek (fokozott reflexek, izomgörcsök, fejfájás,\nzavartság)",
+      "question_type": "open",
+      "correct_answer": "A veseműködés beszűkülése a vese állományának súlyos\ncsökkenése (pusztulása) következtében.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q016_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "csonttörések (spontán törések)\n(Lényegére: 1 pont, tüneteire: 0,5-0,5 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "csonttörések (spontán törések)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg\njellemzőit!\n\nElsődleges nemi jelleg:\n...a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "question_type": "open",
+      "correct_answer": "...a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg...\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\n\nMi a szerepe a sárgatesthormonnak?",
+      "question_type": "open",
+      "correct_answer": "a méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Határozza meg a meddőség/sterilitás fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egészséges házaséletet élő és fogamzásgátlást nem alkalmazó nő/férfi\nesetében, ha 1-2 év alatt sem jön létre a megtermékenyülés,\nmeddőségről/sterilitásról beszélünk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Hol tárolódik az oxitocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMely hormont termeli a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q021_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 1,
+      "question_text": "Nevezze meg a leírt hatásmechanizmus alapján a\nműködéseket irányító hormont!\n\nHatására felnőttkorig:\n- a sejtek megnagyobbodnak, megszaporodnak\n- a csontok hosszirányban, vastagságban nőnek\n- lágy szövetek, zsigerek megnagyobbodnak\n\nHatása felnőttkorban is: segíti a fehérjeszintézist, új sejtek keletkezését.\n\nA hormon neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "növekedési hormon (STH – szomatotrop hormon)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\n- az óriásnövés közvetlen oka a növekedési hormon túltermelődése\n- a diabetes insipidus tünetei a bő vizelés és a szomjúság\n- a strúma a mellékvese megnagyobbodásával járó kórkép\n- az akromegália a csontvégek meghosszabbodását jelenti\n- a myxoedema a pajzsmirigy csökkent működése (hypothyreosis) miatt\nalakul ki\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\n- a cukorbetegség (diabetes mellitus) oka inzulinhiány\n- a hyperglykaemias kómánál a lehelet aceton szagú\n(Csak a hat /6/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az óriásnövés közvetlen oka a növekedési hormon túltermelődése\na diabetes insipidus tünetei a bő vizelés és a szomjúság\naz akromegália a csontvégek meghosszabbodását jelenti\na myxoedema a pajzsmirigy csökkent működése (hypothyreosis) miatt\nalakul ki\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Nevezze meg az idegrendszer részeit!\n- központi idegrendszer - \n- környéki vagy perifériás idegrendszer - \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "gerincvelő, agyvelő\n agyidegek, gerincvelői idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! Írja a megadott betegségekhez a\ntünetek sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, \"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham:: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemtengely\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Ismertesse a herpes simplex fertőzést az alábbiakban\nmeghatározott szempontok szerint!\nTünetek: Írjon hármat /3/!\n- viszkető érzés\n- hólyagok megjelenése az érintett területen\n- heveny gyulladás az érintett területen\n- regionális nyirokcsomó duzzanat kialakulása\nKiújulását elősegítő tényezők: Írjon hármat /3/!\n- fertőző betegség\n- erős napsugárzás\n- immunitás csökkenése\n- stressz\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "viszkető érzés\nhólyagok megjelenése az érintett területen\nheveny gyulladás az érintett területen\nregionális nyirokcsomó duzzanat kialakulása\nfertőző betegség\nerős napsugárzás\nimmunitás csökkenése\nstressz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_februar_19_I_eum_1_0219_q027_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 7,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\n\nLényege:\n- a hőközpont funkciózavara\n\nTünetei: Soroljon fel négy /4/ jellemző tünetet!\n- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- testhőmérséklet 40 °C fölött van\n\nElsősegélynyújtó feladata: Írjon kettőt /2/!\n- testhőmérséklet csökkentés hűtéssel\n- folyadékpótlás\n- orvosi segítség hívása",
+      "question_type": "open",
+      "correct_answer": "a hőközpont funkciózavara\nfejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött van\ntesthőmérséklet csökkentés hűtéssel\nfolyadékpótlás\norvosi segítség hívása",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\n- szív: ...\n- máj: ...\n- gyomor:...\n- tüdő: ...\n- lép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster/ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szervezet túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- anafilaxiás folyamatok\n- asthma bronchiale\n- szénanátha\n- atópiás dermatitis (ekcéma)\n- transzfúziós reakciók\n- újszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa a csontok folytonos összeköttetéseit a megadott szempontok\nszerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. térdízület\n2. keresztcsont\n3. koponya varratai\n4. csigolyák között\n\nkötőszövetes összeköttetés: ...., ....\nporcos összeköttetés: ......\ncsontos összeköttetés: .......",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n4.\n2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór lényegét, kialakulásának lehetséges okait!\nLényege:\nLehetséges okai: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...a mészsók csontokba való beépülésének hiánya...\nD-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá a nagyvérkör ereit!\n- aorta\n- vena cava superior\n- arteria pulmonalis\n- vena pulmonalis\n- vena cava inferior\n- truncus pulmonalis",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava superior\nvena cava inferior",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés) lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- lázas állapot\n- pajzsmirigy túlműködés\n- szívelégtelenség\n- vérszegénység\n- egyes gyógyszerek szedése, pl. Atropin\n- élvezeti szerek fogyasztása (kávé, tea)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Írja le a szénanátha lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az orrnyálkahártya évszakhoz kötődő, allergiás eredetű gyulladása (pollenérzékenység)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\nHol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\nHogyan alakul a légzésszám a paraszimpatikus idegrendszer hatására?\n- csökken\n- emelkedik",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\ngarat orri szakaszába\ncsökken",
+      "options": [
+        "a gégében",
+        "a garatban",
+        "garat orri szakaszába",
+        "garat gégei szakaszába",
+        "csökken",
+        "emelkedik"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi meghatározásokat a felsorolt betegségekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének vizenyője\nkövetkeztében kialakuló életveszélyes állapot.\n\n3. A tüdőn belüli légutak tartós beszűkülésével járó betegségek összefoglaló\nneve.\n\nA. gégevizenyő\nB. tüdőasztma\nC. krónikus obstruktív légúti betegség (COPD)",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...Α...., 3.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epe összetevői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epesavak\nepesavak sói\nkoleszterin\nlecitin\nszervetlen sók\nnyákanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a diabetes mellitus típusai szerint! Írja a sorszámokat a megfelelő helyre!\n1. gyakoribb gyermekeknél\n2. gyakoribb 40 éves kor felett\n3. gyógyszeres kezeléssel, életmódváltással is egyensúlyban tartható\n4. kizárólag inzulinterápiával tartható egyensúlyban\n5. hátterében autoimmun folyamat feltételezhető\n1-es típusú cukorbetegség: ...\n2-es típusú cukorbetegség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "open",
+      "correct_answer": "a gerincvelő alsó szakaszán",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, gyógyításának\nlehetőségeit!\n\nLehetséges tünetei:\n- gyakori vizelési inger\n- a vizeléssel járó kellemetlen égő-csípő érzés (dysuria)\n- görcsös fájdalom\n\nTerápiája:\n- bő folyadékfogyasztás\n- antibiotikum alkalmazása",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-csípő érzés (dysuria)\ngörcsös fájdalom\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!",
+      "question_type": "open",
+      "correct_answer": "ondóhólyag\nhere\npetevezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Írja le a szülés várható időpontjának kiszámítási módját!",
+      "question_type": "open",
+      "correct_answer": "...Az utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a\nszervezetben!\nhipofízis: ...\ntobozmirigy: ...\ncsecsemőmirigy: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na koponya belsejében...\na gátorüregben, a szegycsont mögött...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertesse a tetaniás állapotot a megadott szempontok alapján!\nLényege:\nOka:\nA tetániás roham tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca-szintjének csökkenése.\nA mellékpajzsmirigy csökkent működése.\na kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\nszapora szívműködés\na gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Nevezze meg az agyidegeket a számuk alapján magyarul!\n- I. agyideg -\n- II. agyideg -\n- III. agyideg -\n- IV. agyideg -\n- V. agyideg -",
+      "question_type": "fill_in",
+      "correct_answer": "szaglóideg\nlátóideg\nszemmozgató ideg\nsodorideg\nháromosztatú ideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa a koponyaalap sérüléseihez tüneteiket!\n1. vérömleny a tarkón\n2. pápaszem-haematoma\n3. liquor-, és vércsurgás az orrból\n4. liquor-, és vércsurgás a garatban\n\nelülső scala törése: ...., .....\nhátsó scala törése: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "az ingerek felvétele\naz ingerek ingerületté alakítása\naz ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q023_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 7,
+      "question_text": "Ismertesse a szürke hályog lényegét és kialakulásának lehetséges okait!\n\nLényege:\n...A szemlencse betegsége, a szemlencse állományának részleges, vagy teljes elszürkülése következtében, csökken a szem belsejébe jutó fénymennyisége....\n\nKialakulásának lehetséges okai: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "A szemlencse betegsége, a szemlencse állományának részleges, vagy teljes elszürkülése következtében, csökken a szem belsejébe jutó fénymennyisége.\ngenetikai betegségek\nionizáló sugárzás\ncukorbetegség\ngyógyszerek\nszemsérülés\nhormon-, és anyagcserezavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Határozza meg az időfaktor és a magas időfaktor lényegét!\nIdőfaktor lényege: \nMagas időfaktor lényege: \n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.\nMagas az időfaktor, ha igen rövid idő alatt, igen sokat\nromlik a balesetes állapota.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_22_VIII_eumviii_200722_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "halálfélelem\nszorító, erős mellkasi fájdalom\na fájdalom kisugárzik a bal vállba, karba\ngyomortáji fájdalom\nnehézlégzés\nszédülés, gyengeség\nszürkés bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

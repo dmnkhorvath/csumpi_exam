@@ -1,0 +1,297 @@
+[
+  {
+    "file": "EMVII_0613_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n| gyulladás |  |\n|  | decubitus |\n|  | degenaratio |\n| tályog |  |\n|  | hypertrophia |",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n|  | inflammatio |\n| felfekvés |  |\n| elfajulás |  |\n|  | abscessus |\n| túltengés |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Ismertesse a fertőző betegségek lefolyásával kapcsolatos fogalmak\njelentését!\nprodroma: ...\nrekonvaleszcens szak: ...\ninkubáció: ...\nmanifesztáció: ...\nszanáció: ...",
+      "question_type": "fill_in",
+      "correct_answer": "bevezető szakasz, az általános tünetek megjelenésének szakasza...\na tünetek lezajlása után következő szakasz...\nlappangás, a fertőzés és a betegség kialakulása között eltelt idő...\nkifejlődés szakasza, kialakulnak a konkrét betegségre jellemző\ntünetek...\ngyógyulás, amely lehet részleges vagy teljes...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Húzza alá a helyes válaszokat!\nMilyen típusú alakja szerint a csuklóízület?\n- gömbízület\n- ellipszoid ízület\nHány izomból áll a rágóizom?\n- 4\n- 3\nMilyen típusú izom működése szerint a háromfejű karizom?\n- hajlító izom\n- feszítő izom\nMi határolja el a mellüreget a hasüregtől?\n- a peritoneum\n- a diphragma\nHány darab csont alkotja az emberi testet?\n- 206\n- 226",
+      "question_type": "multiple_choice",
+      "correct_answer": "ellipszoid ízület\n3\nfeszítő izom\na diphragma\n206",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mozgásrendszer lehetséges sérülései közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "izmok, inak, szalagok húzódása\nizmok, inak, szalagok szakadása\nízületi rándulások\nízületi ficamok\ntraumás csonttörések\na csonthártya szakadása nélküli zöldgally-törés\nbetegségek okozta kóros törések (daganat, csontritkulás miatt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző és ingerületvezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai billentyű",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "Pitvar-kamrai billentyű"
+      ]
+    }
+  },
+  {
+    "file": "EMVII_0613_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt okokat, tényezőket a megadott szempontok\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. hányinger, hányás\n2. pajzsmirigy-túlműködés\n3. élvezeti szerek (kávé, tea, nikotin) túlzott fogyasztása\n4. vérszegénység\n5. agynyomás-fokozódás\n6. csökkent pajzsmirigyműködés\n\na sinusbradycardia lehetséges okai: ...., ...., .....\n\na sinustachycardia lehetséges okai: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5., 6.\n2., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, mely a véráramba jutva embóliát okozhat!",
+      "question_type": "open",
+      "correct_answer": "- thrombus\n- zsír\n- csontvelő\n- magzatvíz\n- gáz\n- levegő",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomó",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a betegségek\nmellé a helyes válasz sorszámát!\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. fogyás, rossz közérzet\n4. üvegszerű, tapadós köpet\ntüdőasztma: ...., .....\ntuberkulózis: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "...1., 4....\n...2., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az életfontosságú építőanyagokat (tápanyagokat) funkciójuk\nszerinti jellemzőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. szénhidrátok\n2. fehérjék\n3. zsírok\n4. vitaminok\nA. Nitrogéntartalmú szerves vegyületek, építőköveik az aminosavak.\nB. Az emberi szervezet glikogén formájában raktározza. A szervezet fő\nenergiaforrásaként szolgálnak.\nC. Életfontosságú szerves vegyületek, amelyek energiát nem szolgáltatnak, de a\nszervezet és az enzimek működéséhez nélkülözhetetlenek.\nD. Nitrogénmentes anyagok, a vízben nem oldódnak. A szervezet nagy\nenergiatartalmú alkotórészét alkotják.\n1.-......, 2.-......., 3.-......, 4.-.......",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A...., 3.-...D..., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- görcsös hasi fájdalom\n- hányinger, hányás\n- székletürítés hiánya\n- „néma has”\n- száraz, lepedékes nyelv\n- száraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a vesekapu (hilus renalis) képletei közül!",
+      "question_type": "open",
+      "correct_answer": "veseartéria\nvesevéna\nhúgyvezeték\nnyirokerek\nidegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Párosítsa a vese mikroszkópos részeihez jellemzőiket! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. Bowman-tok\nA. benne zajlik a szűrés, a filtráció\n2. elsődleges kanyarulatos\ncsatorna\nB. sejtjei érzékelik a vas efferensben\nuralkodó nyomást\n3. juxtaglomerularis\napparátus\nC. kehelyként veszi körül a hajszálér\ngomolyagot\n4. Henle-kacs\nD. az elsődleges kanyarulatos csatorna\nfolytatása, a kéregállományban\nkezdődik\n5. Malpighi-test\nE. a Malpighi-test vizeleti pólusából indul\nki",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...E...., 3.-...B...., 4.-...D...., 5.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMin halad keresztül a méh ürege felé a petefészekből kiszabadult petesejt?\nHány naponként következik be az ovuláció?\nMilyen hosszúságú a petevezeték?\nMelyik hormon feladata a méhnyálkahártya előkészítése a pete beágyazódására?",
+      "question_type": "fill_in",
+      "correct_answer": "...a petevezetéken...\n...28 naponta...\n...kb. 12 cm...\n...sárgatesthormon/progeszteron...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatamegnagyobbodás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- eleinte gyakori vizelés\n- később hirtelen jelentkező vizelési inger\n- a vizelet indításának nehezítettsége\n- gyakori vizelési inger\n- vékony vizeletsugár\n- megszakadó vizeletsugár\n- vizeletcsepegés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez az általuk termelt hormonokat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. hasnyálmirigy\nB. mellékvese kéregállomány\nC. tobozmirigy\nD. csecsemőmirigy\nE. mellékvese velőállomány\n1. timozin\n2. melatonin\n3. glükagon\n4. aldoszteron\n5. adrenalin\nΑ.-......, Β.-......, С.-......, D.-......, Ε.-......",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...4...., С.-...2...., D.-...1...., Ε.-...5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen bőrtünete van az Addison-kóros betegnek?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)......fokozottan pigmentált (sötét elszíneződésű)......az arc duzzadt, kifejezéstelen...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a szimpatikus idegrendszeri hatásra\nbekövetkező változásokat!\n- a vércukorszint emelkedik\n- a vércukorszint csökken\n- a vázizomzat tónusa fokozódik\n- a vázizomzat tónusa ellazul\n- a vérnyomás csökken\n- a vérnyomás emelkedik\n- a légzésszám nő\n- a légzésszám csökken\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vércukorszint emelkedik\na vázizomzat tónusa fokozódik\na vérnyomás emelkedik\na légzésszám nő",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertessen az epilepsziás nagyroham lezajlásának jellemzői közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- bevezető tünetekkel kezdődik: fejfájás, szédülés, szívdobogásérzés, hőhullámok, ingerlékenység, lehangoltság, szorongás, aurajelenség\n- hirtelen kitörő tónusos generalizált roham jelentkezik\n- a beteg elesik, elvágódik\n- rövid légzésszünet áll be\n- klónusos generalizált rángások jelentkeznek, amelyek percekig is eltarthatnak\n- a roham után mély alvás jelentkezhet\n- a tudat fokozatosan tisztul fel\n- a beteg nem emlékszik a rohamra és az azt követő időszakra",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget/állapotot, amely lábszárfekély\nkialakulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- keringési zavar\n- cukorbetegség\n- beidegzési zavarok\n- egyes bőrbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n-\n-\nFeladata:\n-",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nfolyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "- az ingerek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy olyan okot, ami eszméletzavarhoz vezethet!",
+      "question_type": "open",
+      "correct_answer": "- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere-folyamatok zavarai",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVII_0613_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Állítsa sorrendbe a szájból-szájba lélegeztetés menetét! Írja a sorszámokat\na pontozott vonalakra!\n... a száj kinyitása, 2 befúvás elvégzése\n... a mellkas mozgásának ellenőrzése\n... mellkaskompresszió után a fej hátrahajtása, az áll kiemelése\n... az orrnyílás zárása",
+      "question_type": "fill_in",
+      "correct_answer": "4\n1\n2\n3",
+      "options": []
+    }
+  }
+]

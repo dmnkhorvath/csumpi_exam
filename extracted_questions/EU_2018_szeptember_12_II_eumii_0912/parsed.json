@@ -1,0 +1,347 @@
+[
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Írja le az emberi test síkjait magyarul! Egészítse ki a\ntáblázatot!\n\nAz emberi test síkjai\n\n| latinul | magyarul |\n|----------|----------|\n| saggitalis |  |\n| frontalis |  |\n| horizontalis |  |\n| median-saggitalis |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latinul | magyarul |\n|----------|----------|\n|  | nyílirányú |\n|  | homlokirányú |\n|  | vízszintes |\n|  | középvonalban-nyílirányú |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogy nevezzük a szív falának középső rétegét?\n\nMelyik szívüregbe ömlik a szív saját gyűjtőere (sinus coronarius)?\n\nHogy nevezzük a szív elsődleges ingerképző központját?",
+      "question_type": "fill_in",
+      "correct_answer": "...szívizom...\n...a jobb pitvarba...\n...sinuscsomó...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két streptococcus utóbetegséget!",
+      "question_type": "open",
+      "correct_answer": "glomerulonephritis acuta\nreumás láz\nszívbelhártya-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Írja le az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- homlokcsont\n- falcsont\n- ékcsont\n- halántékcsont\n- nyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya feladatai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a csonttörés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertesse a tetania tüneteit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "a kéz és láb ujjainak zsibbadása\na kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\nszapora szívműködés\ngégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Egészítse ki az AB0-vércsoportrendszer elemeit\ntartalmazó táblázatot!\n\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A |  |\n| B | B |  |\n| AB | AB |  |\n| 0 | - |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  | anti-B |\n| B |  | anti-A |\n| AB |  | - |\n| 0 |  | anti-A és anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- a vörösvérsejtek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- méreganyagok kiválasztása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\na vörösvérsejtek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Hol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\n\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\n\nMelyek a tüdő saját vérellátását biztosító erek?\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\n\nMi biztosítja a légutak legfelső részébe került idegen anyagok eltávolítását?\n- a tüsszentés\n- a köhögés",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\n\ngarat orri szakaszába\n\narteria és vena bronchialis\n\na tüsszentés",
+      "options": [
+        "a gégében",
+        "a garatban",
+        "garat orri szakaszába",
+        "garat gégei szakaszába",
+        "arteria és vena pulmonalis",
+        "arteria és vena bronchialis",
+        "a tüsszentés",
+        "a köhögés"
+      ]
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat\na rájuk jellemző kóros légzési formával! Írja a betegségek\nsorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n5. tüdőödéma\n\ndyspnoe: ...\nKussmaul-légzés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4, 5.\n1., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának\nszerepét!",
+      "question_type": "open",
+      "correct_answer": "a táplálék összekeverése a gyomornedvvel\na gyomortartalom továbbítása a vékonybélbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi tápanyagok alapvető\népítőelemeit!\nFehérjék: ...\nSzénhidrátok: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) kiváltó\nokai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "összenövés\ndaganat\nidegentest\nkizáródott sérv\nbélcsavarodás\ngyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső hashártya által borított réteg\n- középső izomréteg\n- belső nyálkahártyaréteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a női húgycső (urethra) jellemzőit, elhelyezkedését! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- a húgyhólyagból való kilépésénél záróizom található, amely akaratunktól függetlenül működik\n- átfúrja a gátat\n- akaratunktól függő záróizom a gát magasságában található\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Sorolja fel a női meddőség lehetséges okait!",
+      "question_type": "open",
+      "correct_answer": "a nemi szervek fejletlensége\nfejlődési rendellenesség\na méhkürt gyulladásos elzáródása\nendokrin-anyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. csonttörés\n1. nyugalomba helyezés, rögzítés\nB. csontvelőgyulladás 2. izomerő növelése, fűző viselése\nC. gerincferdülés\n3. célzott antibiotikus kezelés\nΑ.- ....,\nΒ.- ...., C.- ......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...1....,\nΒ.- ...3...., C.- ...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál a húgycső felől felszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence,- és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az ADH?\nHol tárolódik az ADH?\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "open",
+      "correct_answer": "a hypothalamusban...\na hipofizis hátulsó lebenyében...\ndiabetes insipidus...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "a belső elválasztású mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nmár alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit latinul!",
+      "question_type": "open",
+      "correct_answer": "epidermis\ncorium\nsubcutis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nItt történik az ingerület átadása egyik idegsejtről a másikra, az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nMi az érhártya feladata?\n\nHol található a pupilla?\n\nHol termelődik a csarnokvíz?\n\nHol találhatók a látás receptorai?\n\nMi a szemlencse feladata?",
+      "question_type": "open",
+      "correct_answer": "- az ideghártya táplálása\n- a szivárványhártya közepén\n- a szem középső burkában a sugártest termeli\n- az ideghártyán\n- a szem alkalmazkodó képességének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Sorolja fel az emlőgyulladás (mastitis) tüneteit!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "emlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 5,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket! Írjon\nötöt!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_12_II_eumii_0912_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Nevezze meg a keringésmegállás lehetséges okait!",
+      "question_type": "open",
+      "correct_answer": "szívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés",
+      "options": []
+    }
+  }
+]

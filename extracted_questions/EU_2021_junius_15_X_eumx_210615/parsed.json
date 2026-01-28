@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejtek alkalmazkodásának lehetséges módjai közül négyet!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- fokozott anyagcsere, térfogat-növekedés\n- sejtszaporodás, túlburjánzás\n- tömegcsökkenés, sorvadás\n- alaki és működésbeli változások\n- az elpusztult sejtek pótlása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\n- Bowman-tok: ...\n- HIS-köteg: ...\n- Langerhans-szigetek: ...\n- sugártest: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "vese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. ékcsont\n2. járomcsont\n3. homlokcsont\n4. könnycsont\n5. felső állcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5.\n1., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a sokízületi gyulladást a megadott szempontok szerint!\nA betegség kialakulásában szerepet játszó tényezők: Írjon kettőt!\nGyógyításának, kezelésének lehetőségei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "immunfolyamatok\nöröklött hajlam\ngyógyszeres kezelés\nfizioterápia\ngyógytorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Húzza alá a végartériákra vonatkozó helyes állításokat!\n- Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\n- Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n- A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n- Ha az artéria elzáródik, az általa ellátott terület elhal.\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.\nHa az artéria elzáródik, az általa ellátott terület elhal.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a helyi vértelenség (ischaemia) lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az artériák szűkülete, összenyomatása vagy elzáródása miatt egy adott\nterületen a szövetek nem kapnak elég vért.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel! Írja a betűjelek mellé a helyes\nválasz sorszámát!\n\nA. tüdőasztma\nB. tüdővizenyő\nC. gége alatti nyálkahártya duzzanat\nD. tüszős mandulagyulladás\n\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési hang",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...3...., С.-...4...., D.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Ismertesse a légzés mechanizmusát belégzéskor!",
+      "question_type": "open",
+      "correct_answer": "- a bordák megemelkednek\n- a mellüreg tágul\n- a mellüregi szívóhatás növekszik\n- a tüdők kitágulnak\n- a levegő beáramlik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél szakaszait latinul!",
+      "question_type": "open",
+      "correct_answer": "duodenum\njejunum\nileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel a hashártyagyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- hirtelen kezdődő erős hasi fájdalom\n- hasi nyomásérzékenység\n- izomvédekezés\n- hidegrázás, láz\n- szapora szívverés\n- verejtékezés\n- hányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "fill_in",
+      "correct_answer": "a gerincvelő alsó szakaszán",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- csökkent folyadékbevitel\n- a szervezet fokozott folyadék leadása\n- nagyfokú ödémaképződés\n- veseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\nhúgyvezeték: ...\nhúgyhólyag: ...\nhúgycső: ...",
+      "question_type": "fill_in",
+      "correct_answer": "ureter\nvesica urinaria\nurethra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!\n- herezacskó\n- petefészek\n- dülmirigy\n- méh\n- here\n- ondóhólyag",
+      "question_type": "multiple_choice",
+      "correct_answer": "petefészek\nhere\nondóhólyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a hererák betegség tüneteit, gyógyításának lehetőségeit!\nA betegség lehetséges tünetei: Írjon hármat!\nA betegség gyógyításának lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "a here tapintatának megváltozása\ncsomók megjelenése a herében\ntompa fájdalom\nfolyadékgyülem a herében\na here műtéti eltávolítása\nkemoterápia\nsugárkezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 1,
+      "question_text": "A vázizomrostokra igaz:",
+      "question_type": "multiple_choice",
+      "correct_answer": "a rostok sejtmagjai a sejthártya alatt helyezkednek el.",
+      "options": [
+        "a rostok sejtmagjai a sejthártya alatt helyezkednek el.",
+        "a rostok sejtmagjai a sejt közepén helyezkednek el.",
+        "a rostoknak nincs sejtmagjuk.",
+        "a rostok sejtmagjai a sejthártyán kívül helyezkednek el."
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n1. gigantizmus\n2. diabetes insipidus\n3. Basedow-kór\n4. myxoedema\n\nAz endokrin mirigy alulműködése okozza: ...., .... \nAz endokrin mirigy túlműködése okozza: ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 1., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Írjon le a glükokortikoidok (kortizol) hatásai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "hatásukra fokozódnak a lebontó anyagcsere-folyamatok\ncsökkentik a csontképződést\ncsökkentik a sejt közötti tér fehérjéinek termelődését\nszabályozzák a só-, és vízháztartást\nszabályozzák a vérnyomást\ngátolják az immunrendszer működését\ngátolják a gyulladásos választ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. I. agyideg\n2. III. agyideg\n3. V. agyideg\n4. VII. agyideg\n5. IX. agyideg\nA. szemmozgató ideg\nB. nyelv-garat ideg\nC. háromosztatú ideg\nD. szaglóideg\nE. arcideg",
+      "question_type": "matching",
+      "correct_answer": "D, A, C, E, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Soroljon fel a migrén lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- általános rossz közérzet\n- féloldali görcsös vagy lüktető jellegű fejfájás\n- fénykerülés\n- zajérzékenység\n- szagtúlérzékenység\n- hányinger, hányás\n- látászavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le a normál szem látását jellemző két fogalom jelentését!\n\nTávolpont:\n...\n\nKözelpont:\n...",
+      "question_type": "open",
+      "correct_answer": "Az a legtávolabbi pont, ahonnan még a beeső sugarak az ideghártyán éles\nképet hoznak létre....\n...Az a legközelebbi pont, amelyről maximális akkomodációval éles kép\nkeletkezik az ideghártyán....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az övsömör lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- bőrérzékenység az ideg lefutása mentén\n- fájdalmas bőrkiütések (folyadékkal telt hólyagok)\n- viszketés\n- hidegrázás\n- láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Ismertesse a hőguta lényegét!",
+      "question_type": "open",
+      "correct_answer": "Hirtelen rosszullét a hőközpont funkciózavara következtében, amit az extrém\nmagas környezeti hőmérséklet idéz elő.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_X_eumx_210615_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)",
+      "options": []
+    }
+  }
+]

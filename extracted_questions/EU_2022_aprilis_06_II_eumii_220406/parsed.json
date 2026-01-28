@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. sorvadás (atrophia)\nA. a szövetek sejtjei számukban gyarapodnak\n2. elhalás (necrosis)\nB. a kifejlett szerv tömegének csökkenése\n3. túltengés (hypertrophia)\nC. a szövetek sejtjei megnövekednek\n4. túlburjánzás (hyperplasia)\nD. a szervezet körülírt részének pusztulása",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...D...., 3.-...C...., 4.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel az egészségi állapotot meghatározó tényezők közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az egészségügyi ellátórendszer működése\n- genetikai tulajdonságok\n- környezeti tényezők\n- életmód\n- egészségmagatartás\n- társadalmi helyzet, jövedelmi viszonyok\n- társas támogatottság\n- kultúra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Írjon le a porckorong-elfajulás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- érzészavar\n- zsibbadás\n- fájdalom\n- izomvédekezés\n- mozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg az alsó végtag alábbi csontjait magyarul!\na láb csontjai:\n- \n- \n- \na lábszár csontjai:\n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "lábtőcsontok\nlábközépcsontok\nujjperccsontok\nsípcsont\nszárkapocscsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a sorszámokat a megfelelő helyre!\n1. folyadékvesztés\n2. vérmérgezés\n3. égés\n4. vérzés\n5. anafilaxia\n6. mellékvese-elégtelenség\ndisztributív sokk okai: ...., ...., .... \nhypovolaemiás sokk okai: ...., ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat az anatómiai képleteket, amelyek\nnem a gátorüregben (mediastinum) helyezkednek el!\n\naortaív ágai\nhörgők\nnyelőcső\nmáj\ncsecsemőmirigy\npajzsmirigy\nszív\ntüdők\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "hörgők\nmáj\npajzsmirigy\ntüdők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Egészítse ki a szív ingerképző és ingervezető rendszerével kapcsolatos\ntáblázat hiányzó részeit!\n\n| A szív ingerképző és ingervezető rendszerének részei | Elhelyezkedése |\n|---|---|\n| pitvar-kamrai csomó |  |\n| HIS-köteg |  |\n| Tawara-szárak |  |\n| sinuscsomó |  |\n| Purkinje-rostok |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A szív ingerképző és ingervezető rendszerének részei | Elhelyezkedése |\n|---|---|\n|  | a jobb pitvar alsó részében található |\n|  | a pitvar-kamrai csomóból indul ki |\n|  | a kamrákat elválasztó sövényen húzódik lefelé |\n|  | a jobb pitvar hátsó falában található |\n|  | a Tawara-szárak végelágazódásai, a kamraizomrostok között |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a tüdőeredetű szívbetegség lényegét és lehetséges tüneteit!\nLényege:\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...Idült jobb szívkamrai elégtelenség olyan tüdőbetegségek következtében,\namelyek a jobb szívfél fokozott terhelésével járnak....\naz alapbetegség tünetei\nnehézlégzés\nlégszomj\ncianózis\ndobverőujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogszuvasodás lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- szájüregi baktériumok\n- szájhigiénés problémák\n- fluorhiányos ivóvíz\n- a mészanyagcsere zavara\n- C-vitamin-hiány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő anyagot! Írja a\nsorszámokat a megfelelő helyre!\n\n1. zsírok\n2. alkohol\n3. ásványi anyagok\n4. fehérjék\n5. szénhidrátok\n6. víz\n\ngyomor: ......\nvékonybél: ......\nvastagbél: ......",
+      "question_type": "fill_in",
+      "correct_answer": "2\n1, 4, 5\n3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó- és elvezető rendszer képleteinek magyar, vagy\nlatin megfelelőjét! Egészítse ki a táblázatot!\n\nA vizeletkiválasztó- és elvezető rendszer képletei\n| magyarul | latinul |\n|----------|----------|\n| vese |  |\n| húgycső |  |\n| húgyhólyag |  |\n| húgyvezeték |  |\n| vese kapu |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|----------|----------|\n| vese | ren |\n|  | urethra |\n| húgyhólyag | vesica urinaria |\n|  | ureter |\n| vese kapu | hilus renalis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Soroljon fel az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "csökkent folyadékbevitel\na szervezet fokozott folyadék leadása\nnagyfokú ödémaképződés\nveseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa a menstruációs ciklus fázisait az időtartamukkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. regeneráció\n2. proliferáció\n3. szekréció\n4. menstruáció\n\nA. kb. 3-5 nap\nB. kb. 10 nap\nC. kb. 2-3 nap a menstruáció után\nD. a ciklus 14. napja",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...Β...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Ismertesse a genitális herpeszt az alábbi szempontok alapján!\nOka: ...\nLehetséges tünetei: Írjon négyet!\n- a nemi szerveken és környékén égő érzés\n- fájdalom\n- apró hólyagok\n- fájdalmas nyirokcsomó-duzzanat\n- láz\nKezelésének lehetősége:\n...",
+      "question_type": "open",
+      "correct_answer": "herpeszvírus...\nvéglegesen nem gyógyítható, így csak a tünetek enyhítése lehetséges helyi kezeléssel...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a hipofízis elülső lebenyének hormonjai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "növekedési hormon/szomatotrop hormon (STH)\ntireotrop hormon (TSH)\nadrenokortikotrop hormon (ACTH)\nluteinizáló hormon (LH)\nluteotrop hormon (LTH)\nfolliculus stimuláló hormon (FSH)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a diabetes insipidus jellemzőit!\n- az antidiuretikus hormon (ADH) fokozott termelődése következtében alakul\nki\n- az antidiuretikus hormon (ADH) termelődésének csökkenése, vagy hiánya\nmiatt alakul ki\n- a hasnyálmirigy inzulintermelő sejtjeinek károsodása következtében alakul ki\n- a betegnek olthatatlan szomjúságérzése van\n- oliguria\n- polyuria\n- a vizelet fajsúlya magas\n- a vizelet fajsúlya alacsony\n- a vizelet nem tartalmaz cukrot\n- a vizelet cukrot tartalmaz\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az antidiuretikus hormon (ADH) termelődésének csökkenése, vagy hiánya\nmiatt alakul ki\na betegnek olthatatlan szomjúságérzése van\npolyuria\na vizelet nem tartalmaz cukrot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg a koponyaűri nyomásfokozódás lényegét, lehetséges\nkövetkezményét!",
+      "question_type": "open",
+      "correct_answer": "Az agyi térszűkítő folyamatok nyomásfokozódással járnak, amely nyomás az\nagytörzset beszoríthatja az öreglyukba (beékelődés). A fokozódó nyomás\nkövetkeztében az agytörzsben lévő életfontosságú központok a vér- és\noxigénhiány miatt elpusztulnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a receptorok működésének törvényszerűségeit!",
+      "question_type": "open",
+      "correct_answer": "- alkalmazkodás\n- Weber-Fechner-törvény\n- specifikus érzékelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- felhám\n- irha\n- bőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertessen a granuláris kötőhártya-gyulladás lehetséges tünetei közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- könnyezés\n- fényérzékenység\n- a szaruhártyára és a szemhéjra is ráterjedő gyulladás\n- hegesedve gyógyuló csomók kialakulása\n- a szemrés beszűkülése\n- látáscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Egészítse ki a sérülésekkel kapcsolatos alábbi mondatokat!\nA seb mélységét és ... a sebet okozó tárgy alakja... és a\n... határozza meg.\nMetszett seb esetén a vérzés mennyisége ..., a fertőzésveszély\n..., a fájdalom mértéke pedig ....",
+      "question_type": "fill_in",
+      "correct_answer": "kiterjedését tárgy alakja behatolás ereje bőséges ritka kicsi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_06_II_eumii_220406_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hypothermia kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- hosszú ideig nagyon hideg környezetben történő tartózkodás\n- baleset\n- hideg, jeges vízbe merülés\n- tartós alacsony szobahőmérséklet",
+      "options": []
+    }
+  }
+]

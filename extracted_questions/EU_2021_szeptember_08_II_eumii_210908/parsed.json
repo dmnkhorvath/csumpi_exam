@@ -1,0 +1,297 @@
+[
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa a magyar kifejezéseket latin megfelelőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\n\nA. hátulsó/háti\t1. anterior/ventralis\nB. elülső/hasi\t2. inferior/caudalis\nC. felső/feji\t3. posterior/dorsalis\nD. középsíkhoz közel eső\t4. superior/cranialis\nE. alsó/farki\t5. medialis",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., Β.-...1...., С.-...4...., D.-...5...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Sorolja fel az immunhiányos állapotok típusait!",
+      "question_type": "open",
+      "correct_answer": "- fiziológiás, átmeneti immunhiányos állapotok\n- primer, veleszületett immundeficientiák\n- szekunder, szerzett immunhiányos állapotok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a gerincferdülés okait és tüneteit!\nOka: Írjon kettőt!\n- csigolyafejlődési rendellenesség\n- izombénulás\n- a gerinc statikai elváltozása\nTünetei: Írjon négyet!\n- az egyik oldali váll, illetve csípő magasabban állása\n- sánta járás\n- fizikai terhelhetőség csökkenése\n- hátfájdalom\n- háti, vagy mellkasi bordapúp",
+      "question_type": "open",
+      "correct_answer": "csigolyafejlődési rendellenesség\nizombénulás\na gerinc statikai elváltozása\naz egyik oldali váll, illetve csípő magasabban állása\nsánta járás\nfizikai terhelhetőség csökkenése\nhátfájdalom\nháti, vagy mellkasi bordapúp",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az ízületeket összetartó tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- külső légnyomás\n- a porcfelszínek közötti tapadás\n- az ízületi tok és a szalagkészülék\n- az ízületeket körülvevő izmok feszessége\n- az ízületek körül lévő egyéb lágy részek és a bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nszívbelhártya-gyulladás: ...\nvérbőség: ...\nvérzés: ...\nváltozó erősségű, szíveredetű, mellkasi fájdalom: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "endocarditis bacterialis subacuta\nhyperaemia\nhaemorrhagia\nangina pectoris",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\n- a pulzust a vena radialison számoljuk\n- a pulzus száma megegyezik a szívösszehúzódások számával\n- a nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\n- a kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\n- a jobb pitvarban vénás vér található\n- a jobb pitvarban artériás vér található\n- a vénák oxigéndús vért szállítanak\n- a vér pH-értéke: 7,34–7,42 között mozog\n- a vörösvértestek élettartama 220 nap\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\na pulzus száma megegyezik a szívösszehúzódások számával\na nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na jobb pitvarban vénás vér található\na vér pH-értéke: 7,34–7,42 között mozog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formához! Írja a sorszámokat a megfelelő helyre!\n\n1. emphysema pulmonum\n2. súlyos anyagcserezavarok\n3. urémiás kóma\n4. pneumonia\n5. cor pulmonale\n\ndyspnoe: ...\nKussmaul-légzés: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső szakaszának részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": [
+        "végbél",
+        "csípőbél",
+        "szájüreg",
+        "gyomor",
+        "patkóbél",
+        "vastagbél",
+        "nyelőcső",
+        "éhbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a lisztérzékenység lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "nagy tömegű, zsíros fényű, bűzös széklet\nkrónikus hasmenés\nvérszegénység\nfáradtság érzés\ngyengeség\ncsontízületi fájdalom\ngyermekeknél fejlődésbeli elmaradás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Ismertesse kilégzéskor a légzés mechanizmusát!",
+      "question_type": "open",
+      "correct_answer": "- a rekesz és bordaközi izmok elernyednek\n- a mellkas saját rugalmasságánál fogva eredeti állapotába tér vissza\n- a mellüreg összehúzódik, a mellüregi szívóhatás csökken\n- a levegő kipréselődik a tüdőből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "II.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a veseműködés idegi szabályozását a megadott szempontok szerint! Töltse ki a táblázatot!\n\n|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| szabályozott erek |  |  |\n| vérnyomás a glomerulusokban |  |  |\n| vizelet mennyisége |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| szabályozott erek | a glomerulusokból elvezető arteriolák | a glomerulusokhoz vezető arteriolák |\n| vérnyomás a glomerulusokban | emelkedik | csökken |\n| vizelet mennyisége | nő | csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szerveket a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n1. ovarium\n2. tuba uterina\n3. prostata\n4. testis\n5. uterus\n6. scrotum\npáratlan szervek: ......\npáros szervek: ......",
+      "question_type": "fill_in",
+      "correct_answer": "...3., 5., 6.....\n...1., 2., 4.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseköves roham tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "erős görcsös deréktáji fájdalom\na fájdalom kisugárzik a hólyagba, férfiaknál a herékbe, nőknél a nagyajkakba\nkínzó vizelési inger\nhányinger, hányás\nhaspuffadás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Ismertesse a fitymaszűkület lényegét, gyógyításának lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról.\nGyógyításának lehetőségei:\n- a fityma tágítása\n- a fityma eltávolítása\n- a fitymafék átvágása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa a jellemző tünetekhez a betegségeket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. az arc duzzadt, kifejezéstelen, a bőr hideg és durva tapintatú\n2. fáradékonyság, a bőr fokozottan pigmentált, sötét elszíneződésű\n3. megnagyobbodott pajzsmirigy, kidülledt szem\n4. a csontok végi része megvastagodott, nagy orr, hosszú ujjak",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...D...., 3.-A...., 4.-...C....",
+      "options": [
+        "A. Basedow-kór",
+        "B. mixödéma",
+        "C. acromegalia",
+        "D. Addison-kór"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a melatonin hatása közül négyet!",
+      "question_type": "open",
+      "correct_answer": "szabályozza az alvás és ébrenlét ciklusát\nbefolyásolja a bőr színét\ngátolja a nemi mirigyek működését\ngátolja a pajzsmirigy működését\nhat a víz-, és elektrolit-háztartásra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon öt jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat az idegrendszer lehetséges fejlődési rendellenességei közül!",
+      "question_type": "open",
+      "correct_answer": "- microcephalus\n- encephalokele\n- meningokele\n- syringomyelia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le a szem akkomodációjának folyamatát!",
+      "question_type": "open",
+      "correct_answer": "Az 5 méternél közelebbi tárgyról érkező széttartó fénysugarakat a szem a lencse domborúságának változtatásával gyűjti össze, korrigálja, így azok mindig az ideghártya sárgafoltjára vetülnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse a Méniére-betegség lényegét és tüneteit!\nLényege:\n...a belső fül folyadéktereiben megnövekszik a nyomás...\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "rohamokban jelentkező, forgó jellegű szédülés\nhányinger, hányás\nszemtekerezgés\nfülzúgás/fülcsengés\nhalláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódó mondatokat!\nMellkaskompressziót felnőttek esetén körülbelül ... cm mélységben, .../perces frekvenciával kell végezni.\nA kompresszió és lélegeztetés aránya .... A váltások során törekedni kell az ... minimalizálására.\nKét segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás elkerülése érdekében lehetőség szerint ... percenként cseréljenek.",
+      "question_type": "fill_in",
+      "correct_answer": "5-6\n100-120\n30:2\nidőveszteség\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_II_eumii_210908_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel az alacsony vércukorszint lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- émelygő éhségérzet\n- fejfájás\n- ideges feszültség\n- sápadtság, hideg verejtékezés\n- feszes pulzus\n- remegés\n- súlyos esetben eszméletvesztés",
+      "options": []
+    }
+  }
+]

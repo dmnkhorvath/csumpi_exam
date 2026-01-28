@@ -1,0 +1,342 @@
+[
+  {
+    "file": "EMV_1009_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Ismertesse a tályog fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A gennyes beolvadással keletkező, gennyel telt üreget tályognak (abscessus) nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA fertőzéstől a betegség kialakulásáig tartó szakasz:\n- lappangási szakasz\n- bevezető szakasz\n\nA jellegzetes klinikai tünetek megjelenése, amelyek alapján felállítható a\nkórisme:\n- kimeneteli szakasz\n- kifejlődés szakasza\n\nA kórfolyamatok kialakulásának mechanizmusa, kórfejlődés:\n- patogenezis\n- prodromalis szak\n\nCsoportosítja a betegségeket kiváltó tényezőket; leírja a kórokok jellemzőit és\naz általuk kiváltott betegségek jellegét:\n- etológia\n- etiológia\n\nA szöveti sejtek számukban való gyarapodása:\n- hyperplasia\n- hypertrophia\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási szakasz\nkifejlődés szakasza\npatogenezis\netiológia\nhyperplasia",
+      "options": [
+        "lappangási szakasz",
+        "bevezető szakasz",
+        "kimeneteli szakasz",
+        "kifejlődés szakasza",
+        "patogenezis",
+        "prodromalis szak",
+        "etológia",
+        "etiológia",
+        "hyperplasia",
+        "hypertrophia"
+      ]
+    }
+  },
+  {
+    "file": "EMV_1009_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Nevezzen meg a lehetséges sejtosztódási formák közül kettőt magyarul!",
+      "question_type": "open",
+      "correct_answer": "direkt sejtosztódás\nindirekt sejtosztódás\nfelező sejtosztódás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa az anatómiai képleteket a csontok összeköttetési formái\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. medencecsont (újszülött korban)\n2. háti csigolya\n3. térdízület\n4. koponya varratai\n5. medencecsont (felnőtt korban)\n6. keresztcsont\n\nkötőszövetes összeköttetés: ...., .... \nporcos összeköttetés: ...., .... \ncsontos összeköttetés: ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3, 4\n1, 2\n5, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. torticollis\nB. dongaláb\nC. osteoporosis\nD. veleszületett csípőficam\nE. csontvelőgyulladás\n1. gyógyszeres (antibiotikumos) kezelés,\nszükség esetén műtét\n2. izomerősítés, gyógytorna, szükség\nesetén műtét\n3. D-vitamin- és kalciumpótlás, diéta,\néletmódváltás\n4. gipszelés, korrekció (tartó és rögzítő)\nsínekkel\n5. mozgásterápia, fizikoterápia",
+      "question_type": "matching",
+      "correct_answer": "Α.-...5...., Β.-...4...., С.-...3...., D.-...2...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá a keringés szervrendszerére vonatkozó helyes megállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szív a két tüdőfél között, a mellüreg elülső részében, a gátorüreg bal oldalán\nhelyezkedik el\na bal pitvar fala kb. 2 mm vastagságú\na myocardium speciális izomszövet, a szív falának középső rétege\na sinuscsomó a jobb pitvar hátsó falában helyezkedik el, percenként 60-80\ningert bocsájt ki\na B-vércsoportú egyén vörösvértestjeinek felszínén B-antigén, a\nvérszérumában pedig anti-A antitest található",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel az alsó végtag érelmeszesedésének lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a láb fázékony\n- időszakos sántítás\n- a lábujjak bőre sérülékeny\n- a kisebb sebek nehezen gyógyulnak\n- elhalás, gangréna\n- az érintett végtag hűvösebb tapintatú, mint az ellenoldali\n- az érintett végtag sápadtabb, szederjesebb, mint az ellenoldali",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a tüdőre vonatkozó alábbi mondatokat!\nA tüdő mellüregben helyezkedik el, páros szerv, amit a mellhártya ...\nlemeze borít. Az egészséges tüdő színe ....\nA tüdő nagyobb egységekre, .... tagolódik, a jobb tüdőn....\n...., a bal tüdőn ... különíthető el.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "zsigeri\nhalvány rózsaszín\nlebenyekre\nhárom\nlebeny\nkét lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a légutak allergiás betegségeit!",
+      "question_type": "open",
+      "correct_answer": "szénanátha\ngégevizenyő\ntüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a feladatokat/funkciókat a szervekhez! Írja a sorszámokat a\nmegfelelő helyre!\n1. epesavképzés\n2. epefesték lebontása\n3. amiláztermelés\n4. vérplazmafehérjék képzése\n5. glükagontermelés\n6. lipáztermelés\n\nmáj: ...\nhasnyálmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....\n3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a gyomorfekély jellemzői/lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "a betegség szezonális jelleget mutat (tavasszal és ősszel gyakrabban jelentkezik)\na 20-50 év közötti korosztály érintett fokozottabban\néles, görcsös gyomortáji fájdalom\na fájdalom kisugárzik a hátba\ngyomorégés (főleg éhgyomorra, étkezés után 1-2 órával)\nsavas hányás, böfögés\nbizonyos ételek fogyasztása után fokozódnak a panaszok (fehérbor, édesség, erősen fűszerezett, zsíros ételek)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Tegye helyes sorrendbe a vizeletürítés mechanizmusát! Írja le a sorszámokat a megfelelő sorrendben!\n\n1. a hólyagfal feszülése ingerként hat a hólyagfal afferens idegvégződéseire\n\n2. a hólyagizomzat állandó szimpatikus idegrendszeri impulzusok hatására ernyedt állapotban, a hólyagzáróizom tónusos összehúzódásban van\n\n3. a hólyagizomzat összehúzódik, és egyidejűleg a húgycső-záróizomzat ellazul\n\n4. a vizelet kiürül a húgycsövön keresztül\n\n5. kiváltódik a vizelési inger",
+      "question_type": "fill_in",
+      "correct_answer": "2., 1., 5., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- terhesség/várandósság alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Írja le a férfi nemi szervek magyar vagy latin megfelelőjét! Egészítse ki a táblázatot!\n\nA férfi nemi szervek megnevezése\n| magyarul | latinul |\n|---|---|\n|  |  |\n| here |  |\n|  |  |\n| ondóhólyag |  |\n|  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n| hímvessző | penis |\n|  | testis |\n| herezacskó | scrotum |\n|  | vesicula seminalis |\n| dülmirigy | prostata |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nkábítószer-fogyasztás elkerülése (közös tűhasználat kerülése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Nevezze meg a másodlagos férfi nemi jelleg kialakításáért felelős hormonokat!",
+      "question_type": "open",
+      "correct_answer": "tesztoszteron\nandrogén hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását! Egészítse ki a táblázatot!\n|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n| pulzusszám |  |\n| légzésszám |  |\n| perifériás erek |  |\n| bélműködés |  |\n| vércukorszint |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---------|---------|\n|  | emelkedik |\n|  | emelkedik |\n|  | szűkülnek |\n|  | perisztaltika csökken/lassul |\n|  | emelkedik |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó kérdésekre!\n\nHogy nevezzük az idegrendszert felépítő idegszövet anatómiai, fejlődéstani, \nműködési alapegységét?",
+      "question_type": "fill_in",
+      "correct_answer": "neuron",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q019_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 1,
+      "question_text": "Nevezzen meg egyet a paralysis jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- az izomerő kiesése\n- bénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel az epilepszia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "agyi gyulladásos folyamatok, fertőzések\nagydaganatok\nagyi vérzések\nkoponyasérülések\nfejlődési rendellenességek\nsorvadásos megbetegedések (tüneti epilepszia)\nönálló kórkép/genuin epilepszia",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nSzaglószerv receptorai: ...\nÍzlelőszerv receptorai: ...\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szaglóhám-sejtek\nízlelőbimbók\nszőrsejtek\nCorti-szerv",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Írja le az alábbi szembetegségek lényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "A szemhéj mirigyeinek gyulladása.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Párosítsa a bőrbetegségekhez jellemzőiket! Írja a betűjelek mellé a helyes\nválasz sorszámát!\n\nA. psoriasis\nB. seborrhoea\nC. scabies\nD. pyoderma\n\n1. Vakarási nyomok a testhajlatokban, az övtájékon, finom zegzugos\nvonalrajzolat, apró járatok láthatóak a bőrben.\n2. A könyök- és térdtájékon, a hajlatokban, és a hajas fejbőrön lencse, vagy\npénzérme nagyságú felrakódások.\n3. Fokozott faggyútermelés, megváltozik a termelt faggyú összetétele is, a\nfejbőrön lemezes hámlás látható.\n4. Fekély, gennyképződés, bűzös váladékozás, szövetelhalás, az érintett terület\nvizenyős és duzzadt.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...3...., С.-...1...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az elsősegélynyújtó teendői közül az egyik felső végtag\nI.-II. fokú (9%) égési sérülése esetén!",
+      "question_type": "open",
+      "correct_answer": "- a ruházat eltávolítása az égett felületről\n- az égett testrész hűtése hideg folyó vízzel (10-15 percig)\n- a sérült nyugalomba helyezése\n- az égett testfelszín steril gézzel való befedése, laza rögzítése\n- folyadékpótlás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hypothermia kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- hosszú ideig nagyon hideg környezetben történő tartózkodás\n- baleset\n- hideg, jeges vízbe merülés\n- tartós alacsony szobahőmérséklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_1009_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EMV_1009_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Állítsa sorrendbe a sebellátás menetét! Írja a sorszámokat a pontozott\nvonalakra!\n... a sebszélek fertőtlenítése\n... a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\n... a seb steril fedése, a kötés rögzítése\n... a seb környékének megtisztítása\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "...3....\n...1....\n...4....\n...2....",
+      "options": []
+    }
+  }
+]

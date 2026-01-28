@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Csoportosítsa a leírásokat a megadott szempontok szerint! Írja a\nbetűjeleket a megfelelő helyre!\n\nA. hajlamos a hízásra, pocakosodásra\nB. nincs kifejezett betegség hajlama\nC. széles váll, keskeny csípő, fejlett izomzat\nD. hajlama van a lúdtalpra, sérvre, alacsony vérnyomásra, székrekedésre\nE. gyengén fejlett izomzat és csontozat\nF. gyakoriak nála a gyulladások, a görcsök, az érelmeszesedés, a koszorúér-\nbetegségei, az agyvérzés, a magas vércukorszint és a magas vérnyomás\n\nnormostheniás alkat jellemzője: ...., .... \nastheniás alkat jellemzője: ...., .... \nhyperstheniás alkat jellemzője: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "B., C.\nD., E.\nA., F.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg az alábbi kóros szövetelváltozások lényegét!\n- felfekvés (decubitus): ...\n- lágyulásos elhalás (colliquatio): ...\n- infarktus: ...",
+      "question_type": "fill_in",
+      "correct_answer": "nyomás hatására kialakuló elhalás\naz elhalt rész elfolyósodik, főleg az agyban fordul elő\na tápláló erek elzáródása miatt ék alakú elhalás következik be pl. a szívben, tüdőben, vesében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór lényegét, kialakulásának lehetséges okait!\n\nLényege:\n...\n\nLehetséges okai: Írjon négyet!\n- \n- \n- \n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a mészsók csontokba való beépülésének hiánya...\nD-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a verőerekre vonatkozó helyes megállapításokat!\n- nagyfokú, gyors tágulásra és szűkülésre képesek\n- az anyagcserében közvetlenül részt vesznek\n- a test fő verőere az aorta\n- a szív és a mellkas szívó hatása segíti elő bennük a keringést\n- a periféria felől a szív irányába szállítják a vért\n- a vért a szívből a periféria felé juttatják\n- erőteljes összehúzódásra képesek\n- nem képesek erőteljes összehúzódásra\n- a falukat simaizomrostok alkotják\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a test fő verőere az aorta\na vért a szívből a periféria felé juttatják\nerőteljes összehúzódásra képesek\na falukat simaizomrostok alkotják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Írja le az alábbi szakkifejezések latin, vagy magyar megfelelőjét! Egészítse\nki a táblázatot!\n\n| Szakkifejezések | |\n|---|---|\n| magyarul | latinul |\n| vérbőség |  |\n| helyi vértelenség |  |\n| szívizomgyulladás |  |\n| tüdővizenyő |  |\n| szívburokgyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések | |\n|---|---|\n| magyarul | latinul |\n|  | hyperaemia |\n|  | ischaemia |\n|  | myocarditis |\n|  | oedema pulmonum |\n|  | pericarditis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légzésszámot befolyásoló tényezők közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- életkor\n- fizikai aktivitás\n- akut fájdalom\n- izgalom/szorongás\n- dohányzás\n- testhelyzet\n- egyes gyógyszerek (narkotikumok, szedatívumok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a kóros légzési formákhoz leírásukat/jellemzőiket! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. tachypnoe\n2. dyspnoe\n3. Cheyne-Stokes-légzés\n4. Kussmaul-légzés\n\nA. mély be-, és kilégzések, a légzés száma kissé szaporább\nB. a leggyakoribb kóros légzési forma, a betegnek légszomja van, erőlködve, a\nlégzési segédizmok igénybevételével veszi a levegőt\nC. pár másodpercig tartó apnoe után felületes, majd egyre mélyülő légzés, ami\nismét felületessé válik és egy légzésszünet követi\nD. a légzésszám tartósan 20 fölött van percenként",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-...C...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos alábbi kérdésekre!\nMennyi a szervzet napi vízforgalma?\nA szervezet hány %-a víz?\nAz összvíztartalom hány %-a van a sejteken kívül?\nMi az exsiccosis?",
+      "question_type": "open",
+      "correct_answer": "...kb. 2-2,5 l...\n...60-70%-a...\n...20%...\n...a víztartalom drasztikus csökkenése, kiszáradás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a székrekedés lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- rostszegény étrend\n- mozgásszegény életmód\n- a székelési inger gyakori akaratlagos elnyomása\n- stressz\n- csekély folyadékfogyasztás\n- pajzsmirigy-alulműködés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindig ingerelhetõek",
+      "options": [
+        "mindig ingerelhetõek",
+        "csak küszöb feletti ingerre válaszolnak",
+        "nyugalmi membránpotenciáljuk állandó",
+        "nem képesek spontán depolarizációra"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "II.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a női és a férfi húgycsövet a megadott szempontok alapján!\nTöltse ki a táblázatot!\n| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza |  |  |\n| lefutása |  |  |\n| külvilágba nyílás helye |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | női húgycső | férfi húgycső |\n|---|---|---|\n| hossza | 3-4 cm | kb. 25 cm |\n| lefutása | egyenes | két görbülete van |\n| külvilágba nyílás helye | csikló és a hüvely között | a makk csúcsán |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Írja le a pangásos vesebetegség lényegét és kialakulásának okait!\nA betegség lényege: ...\nA betegség kialakulásának okai:\n1. ...\n2. ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Pangásos vese akkor keletkezik, ha a vesevénában valamilyen okból a nyomás fokozódik....\ncardialis decompensatio...\na vénás vér elfolyásának akadályozása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a külső női nemi szerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "nagyajkak\nkisajkak\ncsikló",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a terhesség valószínűségi jelei közül!",
+      "question_type": "open",
+      "correct_answer": "pozitív terhességi teszt\nmenstruáció elmaradása\nbővebb hüvelyváladék\nlivid (szederjes) hüvely",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Írjon le hármat felnőtt férfiak esetén a herevízsérv kialakulásának\nlehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "sérülés\ngyulladás\nhegesedés\nurológiai műtét szövődménye",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Húzza alá a neuroendokrin rendszerre vonatkozó helyes megállapításokat!\n- A hypothalamus belső elválasztású mirigy.\n- A hypothalamus a középső koponyagödörben, a töröknyeregben helyezkedik el.\n- Az agyalapi mirigy szabályozza a szervezet belső környezetének viszonylagos állandóságát.\n- Az exokrin mirigyek közvetlenül a sejtközötti térbe juttatják váladékukat.\n- A belső elválasztású mirigyek biztosítják a szervezet hormonális egyensúlyát.\n- Mirigyeknek nevezzük a testünk váladéktermelő szerveit.\n- A növekedési hormont (STH) a hypothalamus termeli.\n- Az endokrin mirigyek a különböző szervek működésére is hatást gyakorolhatnak.\n- Az ADH-t és az oxitocint a hipofízis termeli.\n- A hormontermelés az idegrendszer közvetlen irányítása alatt áll.\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A hypothalamus belső elválasztású mirigy.\nA belső elválasztású mirigyek biztosítják a szervezet hormonális egyensúlyát.\nAz endokrin mirigyek a különböző szervek működésére is hatást gyakorolhatnak.\nA hormontermelés az idegrendszer közvetlen irányítása alatt áll.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bronzkór (Addison-kór) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fáradékonyság, gyengeség\n- sötét foltok a bőrön (ott is, ahol nem éri napfény)\n- sötét szeplők\n- étvágycsökkenés, fogyás\n- hasi fájdalom\n- alacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Egészítse ki az idegrendszerrel kapcsolatos mondatokat!\nKét idegsejt... kapcsolódik egymáshoz.\nA gerincvelő ... tartalmazza az idegsejteket, míg a\n... az idegrostokat.\nA szaglás kérgi központja a ... található.\nA mozgás koordinációját a ... végzi.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szinapszissal\nbelső szürkeállománya\nkűlső fehérállománya\nhalántéklebenyben\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex kezelési lehetőségei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszeres kezelés\n- szövődmények megelőzése\n- mozgásterápia\n- aktív és passzív tornáztatás\n- táplálkozásreform\n- káros szokások elhagyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a hypothermia lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- hideg, sápadt, száraz bőr\n- gyengeség\n- zavart tudat\n- aluszékonyság, ami eszméletvesztéshez vezet\n- lassú, felületes légzés\n- lassú, gyengülő pulzus (szívmegállás is bekövetkezhet)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szem részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. szaruhártya\n2. ínhártya\n3. érhártya\n4. szemhéj\n5. kötőhártya\n6. szivárványhártya\n\nA szem védőkészülékei: ...., .....\nA szem külső burkának részei: ...., .....\nA szem középső burkának részei: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4., 5.\n1., 2.\n3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Írja le a Meniere-betegség lényegét és okát!",
+      "question_type": "open",
+      "correct_answer": "...a belső fül folyadéktereiben megnövekszik a nyomás...\n...a hártyás labirintus folyadékának túltermelődése, zavart felszívódása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_08_II_egeszsegugyi_alapmodul_2_1108_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Párosítsa a fogalmakhoz a hozzájuk tartozó leírást! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. AED\nB. félig ülő helyzet\nC. tálcafogás\nD. BLS\n\n1. Felnőttek alapszintű újraélesztése.\n2. A sérült felsőtestét 40-60°-ban kell megemelni és megtámasztani.\n3. Gerincsérülés gyanúja esetén alkalmazzuk, amikor a sérültet el kell távolítani\na veszélyzónából.\n4. Külső automata defibrillátor.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...2...., С.-...3...., D.-...1....",
+      "options": []
+    }
+  }
+]

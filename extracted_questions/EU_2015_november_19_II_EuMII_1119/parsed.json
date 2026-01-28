@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q001_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 1,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer\nvédekezését mozgósítják, antigénnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 2,
+      "question_text": "Sorolja fel a trombózis kialakulásában szerepet játszó\ntényezőket! Írjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lelassulása\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív:...\nmáj: ...\ngyomor: ...\ntüdő: ...\nlép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy / 1-1/ példát!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes összeköttetés: pl. koponya varratai\nporcos összeköttetés: pl. medencecsont csontjai között\ncsontos összeköttetés: pl. (korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása) keresztcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a betegségek sorszámát!\n\nBetegségek:\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nBetegségek jellemzői:\n- A kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódással járó\nbetegsége: ...\n- Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívbelhártya-gyulladást is okozhat:\n...\n- A gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n...",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi felsorolásból a vöröscsontvelő feladatait!\n- hézagpótló szerep\n- vörösvértestek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása",
+      "question_type": "open",
+      "correct_answer": "vörösvértestek képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\naz alábbiak szerint!\nLényege:\nOka:",
+      "question_type": "open",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt /5/!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "open",
+      "correct_answer": "- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer capillárisai között zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n\n- külső légzés\n- nyúltvelő\n- gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\nnyúltvelő\nfülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel magyarul az orr melléküregeit!",
+      "question_type": "open",
+      "correct_answer": "homloküreg\narcüreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Írja le a koponyaűri nyomásfokozódás következményeit!",
+      "question_type": "open",
+      "correct_answer": "- az agyi térszűkítő folyamatok nyomásfokozódással járnak, mely nyomás\naz agytörzset beszorítja az öreglyukba (beékelődés)\n- ennek következtében az ott lévő életfontosságú központok vér- és\noxigénhiány miatt elpusztulnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor | kimozin | tejfehérje |\n|  |  | zsír |\n| vékonybél | amiláz, maltáz, laktáz |  |\n|  |  | zsír |",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n| gyomor | pepszin |  |\n|  | lipáz |  |\n| vékonybél | tripszin | fehérje |\n|  |  | szénhidrát |\n|  | lipáz |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat!\nÍrja a megfelelő csoporthoz az okok sorszámát!\n\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel\n\nOliguria: ...\nPolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége:\nFajsúlya:\nÖsszetétele: Írjon négyet /4/!",
+      "question_type": "fill_in",
+      "correct_answer": "napi 180 l\n1010\nvíz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nés latinul!",
+      "question_type": "open",
+      "correct_answer": "külső hashártya által borított réteg - perimetrium\nközépső izomréteg - myometrium\nbelső nyálkahártya réteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Ismertesse a herék feladatát!",
+      "question_type": "open",
+      "correct_answer": "- hímivarsejtek (spermiumok) képzése\n- férfi nemi hormon (tesztoszteron) termelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztata-megnagyobbodás\ntünetei közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- endokrin (belső elválasztású) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- alacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n\nMilyen bőrtünete van az Addison-kóros betegnek?",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)...\n\n...az arc duzzadt, kifejezéstelen...\n\n...a bőr fokozottan pigmentált (sötét elszíneződésű)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?",
+      "question_type": "fill_in",
+      "correct_answer": "...a prolaktin (luteotrop hormon)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Sorolja fel a szürkehályog (cataracta) kialakulásának\nlehetséges okait!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "veleszületett (az anya terhesség alatti vírusfertőzése okozhatja)\nanyagcsere-betegségek miatt kialakuló\nszövődményes (más szemelváltozás miatt kialakuló lencsehomály)\nsérülés\nsugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket! Írjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- mozgászavar\n- féloldali végtagbénulás, arcbénulás\n- beszédzavar\n- zavart tudat\n- hirtelen eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_II_EuMII_1119_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy /4/ olyan okot, amely\neszméletvesztéshez vezethet!",
+      "question_type": "open",
+      "correct_answer": "vegyi anyagok\nfizikai kórokok\nvérkeringési zavar\ngyulladás\ndaganat\nanyagcsere folyamatok zavarai",
+      "options": []
+    }
+  }
+]

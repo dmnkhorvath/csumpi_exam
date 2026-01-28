@@ -1,0 +1,313 @@
+[
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Egészítse ki a síkokra, téri irányokra vonatkozó táblázat hiányzó részeit!\n\n| magyar megnevezés | latin megnevezés |\n|---|---|\n| nyílirányú |  |\n|  | frontalis |\n| fejvégi |  |\n|  | caudalis |\n|  | superior |\n| alsó |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar megnevezés | latin megnevezés |\n|---|---|\n|  | sagittalis |\n| homlokirányú |  |\n|  | cranialis |\n| farokvégi |  |\n| felső |  |\n|  | inferior |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek (emésztőrendszer)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségekhez jellemzőiket! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. dongaláb\n2. angolkór\n3. veleszületett csípőficam\n4. lúdtalp\n5. gerincferdülés\n\nA. A farredők ráncaszimmetriája, az alsó végtagok hosszkülönbsége.\nB. A láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése.\nC. Lógó lábfej, befelé néző talp, az alsó végtagok a középvonal felé görbültek.\nD. A gerincoszlop oldalirányú görbülete, háti, vagy mellkasi bordapúp.\nE. A csontok lágyak, görbültek, O-, vagy X-láb.",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...E..., 3. -...A..., 4. -...B...., 5. -...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a hangképzéssel kapcsolatos mondatokat!\nNyugodt belégzésnél a hangszalagok ... egymástól, a levegő\n... nélkül áramolhat.\nHangképzés esetén a két kannaporc ... a hangszalagok egymás\nmellé kerülnek, a hangrés ... a kiáramló levegő a hangszalagokat\n... hozza.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "eltávolodnak\nakadály\nbefordul\nzáródik\nrezgésbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá a hipertóniás krízis tüneteit!\n- hirtelen 90/50 Hgmm alá zuhan a vérnyomás\n- a vérnyomás hirtelen nagyfokú emelkedése\n- fejfájás\n- ízületi fájdalmak\n- látászavar\n- hányás\n- éhségérzet\n- hasmenés\n(Csak a 4 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás hirtelen nagyfokú emelkedése\nfejfájás\nlátászavar\nhányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHol helyezkedik el a háromhegyű vitorlás billentyű?",
+      "question_type": "fill_in",
+      "correct_answer": "a jobb pitvar és a jobb kamra között",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. súlyos anyagcserezavarok (pl. veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás",
+      "question_type": "matching",
+      "correct_answer": "1.-...C..., 2.-...A..., 3.-...Β...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Állítsa megfelelő sorrendbe az enzimek hatásmechanizmusának\nszakaszait! Írja le a megállapítások sorszámát megfelelő sorrendben!\n1. egy másik enzim regenerálja az aktív helyet\n2. lejátszódik a kívánt kémiai változás\n3. a szubsztrátum megtapad az enzim aktív helyén\n4. a keletkezett új molekula leválik az enzim felszínéről\nAz enzim hatásmechanizmusa megfelelő sorrendben: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 2., 4., 1.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Sorolja fel a májkapu képleteit!",
+      "question_type": "open",
+      "correct_answer": "vena portae\narteria hepatica\nmájvezeték/ductus hepaticus\nnyirokerek\nidegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a szájnyálkahártya-gyulladás (stomatitis) kialakulásának\nlehetséges okait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "vashiány\nkórokozók (vírusok, baktériumok, gombák)\nsérülések (pl. forró étel, ital)\nerős dohányzás\nantibiotikumok szedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely anatómiai képlet részei a Malpighi-test és a tubulusok?",
+      "question_type": "fill_in",
+      "correct_answer": "...a nephroné...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a női meddőség lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "a nemi szervek fejletlensége\nfejlődési rendellenesség\na méhkürt gyulladásos elzáródása\nendokrin-anyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tényezőket a megadott szempontok szerint!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. fokozott folyadékbevitel\n2. csökkent folyadékbevitel\n3. folyadék- és elektrolitszabályozás zavarai (pl. diabetes insipidus)\n4. a szervezet fokozott vízleadása izzadás, hányás, hasmenés következtében\n5. ödémák kiürülése\n6. nagyfokú ödémaképződés\n\nOliguria okai: ...\nPolyuria okai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 6....\n1., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\nHol termelődik a tiroxin?\n- a pajzsmirigyben\n- mellékvesékben\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n(Helyes válaszonként 1-1 pont adható! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": [
+        "a hypophysis hátsó lebenyében",
+        "a hypophysis elülső lebenyében",
+        "a csontok hosszirányú növekedésének serkentése",
+        "a csontok hosszirányú növekedésének gátlása",
+        "a pajzsmirigyben",
+        "mellékvesékben",
+        "a testnövekedést gátolja",
+        "a testnövekedést fokozza",
+        "a melatonint",
+        "az ösztrogént"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a belső férfi nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a bronzkór (Addison-kór) lényegét, okait!\nLényege:\nOkai: Írjon kettőt!\n- fertőző betegség (pl. tbc)\n- tumor\n- autoimmun betegség\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...a mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\ncsökkent termelődése következtében kialakuló betegség...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a vegetatív idegrendszeri hatásoknak\nmegfelelően! Írja a sorszámokat a megfelelő helyre!\n\n1. a pupilla tágul\n2. a szív teljesítménye csökken\n3. a bélmozgás fokozódik\n4. a vérnyomás emelkedik\n5. a vércukorszint csökken\n6. a bronchiolus tágul\n\nSzimpatikus hatás: ...\nParaszimpatikus hatás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg az agyvelő burkait latinul!",
+      "question_type": "open",
+      "correct_answer": "dura mater\narachnoidea\npia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel három olyan esetet, amikor nincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- élettel összeegyeztethetetlen sérülés\n- hosszas haldoklás után beállt halál\n- a halál biztos jeleinek megjelenése\n- bizonyítottan hosszú oxigénhiányos állapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá az ízlelésre, ízérzékelésre vonatkozó helyes megállapításokat!\n- az ízlelőszerv receptorai az ízlelőbimbók\n- ízlelőbimbók csak a nyelven találhatóak\n- az édes ízt a nyelv hegyén érezzük\n- a sós ízt a nyelvgyökön érezzük\n- a keserű ízt a nyelv oldalsó részein érezzük\n- a szaglással szoros kapcsolatban áll az ízérzés\n- az ízérzékelés során keletkezett ingerület a VII. és IX. agyideg segítségével\njut el a központi idegrendszerbe\n- az ízérzékelés során keletkezett ingerület a X. agyideg segítségével jut el a\nközponti idegrendszerbe\n(Helyes válaszonként 1-1 pont adható! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az ízlelőszerv receptorai az ízlelőbimbók\naz édes ízt a nyelv hegyén érezzük\naz ízérzékelés során keletkezett ingerület a VII. és IX. agyideg segítségével\njut el a központi idegrendszerbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Sorolja fel a belsőfül-gyulladás tüneteit! Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- forgó jellegű szédülés\n- hányinger, hányás\n- halláscsökkenés, amely siketségig fokozódhat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_14_III_eumiii_190214_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Nevezze meg a fagyási sérülés leggyakoribb előfordulási helyeit! Írjon\nkettőt!",
+      "question_type": "open",
+      "correct_answer": "lábujjak\nkéz\na fejen kiálló részek: a fülek és az orr",
+      "options": []
+    }
+  }
+]

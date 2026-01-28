@@ -1,0 +1,331 @@
+[
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\n- HIS-köteg: ...\n- csontos labirintus: ...\n- sugártest: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szív\nfül\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az immunitás típusait a megadott felosztás szerint!\nveleszületett immunitás:\n\nszerzett immunitás:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "- faji\n- anyai\n- fertőző betegség átvészelése\n- védőoltások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa a csontok folytonos összeköttetéseit a megadott szempontok\nszerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. koponya varratai\n2. csigolyák között\n3. keresztcsont\n4. térdízület\n\nporcos összeköttetés: ......\nkötőszövetes összeköttetés: ......\ncsontos összeköttetés: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n1., 4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Határozza meg az alábbi kifejezések lényegét!\n- elsődleges kórok:\n...\n- másodlagos kórok:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a betegség kialakulásáért közvetlenül felelős kórok...\naz elsődleges kórok hatását befolyásoló (gátló, vagy segítő) tényező...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csontvelőgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az érintett végtag fájdalma\n- duzzanat\n- a duzzanat felett piros, meleg tapintatú bőr\n- nyugalomban is fennálló lüktető jellegű fájdalom\n- magas láz\n- elesettség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a csecsemőmirigyre vonatkozó helyes\nmegállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "Két lebenyből áll.\nA mellüregben, közvetlenül a szegycsont mögött helyezkedik el.\nPubertás idején sorvadásnak indul.\nItt zajlik a T-lymphocyták érésének és fejlődésének legfontosabb szakasza.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!\nKéthegyű vitorlás billentyű:\n...\nHáromhegyű vitorlás billentyű:\n...\nZsebes billentyűk:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a bal pitvar és a bal kamra között...\na jobb pitvar és a jobb kamra között...\na kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- érelmeszesedés: ...\n- magas vérnyomás: ...\n- vénagyulladás: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "arteriosclerosis\nhypertonia\nthrombophlebitis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa a jellegzetes köpetekhez a betegségeket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. üvegszerű, tapadós köpet\n2. élénkpiros színű, véres köpet\n3. gennyes köpet\n4. barnásvörös köpet\n5. bőséges, szilvalészerű köpet",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε..., 2.-C., 3.-B..., 4.-A...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "fill_in",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q012_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 7,
+      "question_text": "Ismertesse a húgysavanyagcsere-zavar (köszvény) lényegét és tüneteit!\nLényege:\nA húgysavanyagcsere zavara következtében húgysavkristályok keletkeznek és az\nízületekben felhalmozódva gyulladásos rohamokat okoznak.\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "általában éjszaka jelentkező váratlan, erős fájdalom egy, vagy több ízületben\naz érintett ízület érintésre fájdalmas\naz érintett ízület gyulladt, a bőr az ízület felett vörös, feszes és fényes\nhidegrázás\nláz\nrossz közérzet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Töltse ki a tejfogakkal kapcsolatos táblázatot!\n\n|  A tejfogak száma |  |\n|---------|---------|\n| Gyermekeknél az egy kvadránsban elhelyezkedő tejfogak száma |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "|  A tejfogak száma |  |\n|---------|---------|\n|  | - 20 db |\n| Gyermekeknél az egy kvadránsban elhelyezkedő tejfogak száma |  |\n|  | - 2 metszőfog\n- 1 szemfog\n- 2 őrlőfog |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nÉlettani körülmények között tartalmaz-e fehérjét a végleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "nem...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, terápiáját!\nLehetséges tünetei:\n- gyakori vizelési inger\n- a vizeléssel járó kellemetlen égő-csípő érzés (dysuria)\n- görcsös fájdalom\nTerápiája:\n- bő folyadékfogyasztás\n- antibiotikum alkalmazása",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-csípő érzés (dysuria)\ngörcsös fájdalom\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!\n- petefészek\n- méh\n- herezacskó\n- here\n- ondóhólyag\n- dülmirigy\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "petefészek\nhere\nondóhólyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. fokozott nyálelválasztás\n2. menstruáció elmaradása\n3. bővebb hüvelyváladék\n4. hányinger, hányás\n5. pozitív terhességi teszt\n6. kedélyállapot változás\n\nA várandósság gyanújelei: ...\nA várandósság valószínűségi jelei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Ismertesse az inzulin hatását!",
+      "question_type": "open",
+      "correct_answer": "- szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt belső elválasztású mirigyet!",
+      "question_type": "open",
+      "correct_answer": "hypothalamus\nagyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nnemi mirigyek\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Nevezze meg a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "terminális idegvégződés\nintercalaris idegvégződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. I. agyideg\n2. II. agyideg\n3. III. agyideg\n4. IV. agyideg\n5. V. agyideg\nA. háromosztatú ideg\nB. szaglóideg\nC. látóideg\nD. szemmozgató ideg\nE. sodorideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...C...., 3.-...D...., 4.-...E...., 5.-Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat az idegrendszer lehetséges fejlődési rendellenességei közül!",
+      "question_type": "open",
+      "correct_answer": "- microcephalus\n- encephalokele\n- meningokele\n- syringomyelia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel\nis egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertesse a bőr jelentőségét/feladatait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- védelem a mechanikai hatásoktól, a kórokozók bejutásától\n- hőszabályozás (hőleadás)\n- folyadék és páratartalom szabályozása (verejtékezés)\n- zsírraktározás\n- a tapintás érzékszerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a fül toxikus ártalmainak lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "nekrotikus gyulladást okozó fertőző betegségek\ngyógyszerek\nipari anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a felnőtteknél légúti idegentest esetén javasolt ellátás\nlépéseit! Írja a sorszámokat a pontozott vonalakra!\n... hasi lökések (Heimlich-féle műfogás) alkalmazása\n... köhögésre biztatás\n... biztonságos környezet kialakítása\n... háti ütések alkalmazása\n... az illető megnyugtatása\n(Csak a helyes sorrend esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_12_III_eum_iii_201112_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Határozza meg a ficam lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba....",
+      "options": []
+    }
+  }
+]

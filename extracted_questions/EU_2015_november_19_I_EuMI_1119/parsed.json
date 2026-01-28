@@ -1,0 +1,350 @@
+[
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nválaszokat!\n- a gerincoszlopon enyhén S-alakú görbületek találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya azonos arányt mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S-alakú görbületek találhatók\na zsigerek a hasüreg irányába rendeződtek\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján a\nkórlefolyás szakaszait!\n\nMegjelennek az általános tünetek, amelyek még nem jellemzőek a\nbetegségre:\n...\n\nKórokozó behatolásától a tünetek megjelenéséig tartó szakasz:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "bevezető szakasz\nlappangási szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a jóindulatú\ndaganatokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "papilloma\nlipoma\nmyoma\nosteoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbiakban megadott szempontok szerint!\nLényege: \nTünetei: Írjon kettőt /2/!\n- \n- \n- \n- \nKezelése: Írjon kettőt /2/!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\nmozgáskorlátozottság\nfarredők ráncaszimmetriája\nspeciális pelenkázás (terpesz, nadrág)\nPavlik-kengyel alkalmazása\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q006_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; tünetekre és a kezelésre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul, majd írja le a mozgásrendszert\nérintő alábbi sérülések lényegét!",
+      "question_type": "open",
+      "correct_answer": "Ruptura: repedés, szakadás - az izmok, inak, szalagok szakadása\nDistorsio: rándulás - erőbehatásra az ízületi fej elhagyja az ízületi\nárkot, de visszatér az eredeti helyzetbe\nLuxatio: ficam - erőbehatásra az ízületi fej az ízületi árkon kívülre\nkerül, és nem tér vissza az eredeti helyzetbe\nFractura: csonttörés - hirtelen erőbehatásra (trauma) a csont\nfolytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért\nfelelős fehérjéket!",
+      "question_type": "open",
+      "correct_answer": "fibrinogén\nprotrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Húzza alá a jobbszívfél-elégtelenség tüneteit!\n- telt nyaki vénák\n- kisvérköri pangás\n- nehézlégzés nyugalomban is\n- cianózis\n- boka-, lábszárödéma, hasvízkór\n- köhögés\n- tüdőödéma\n- vizelet mennyisége emelkedik\n- vizelet mennyisége csökken\n- éjszakai vizelés\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\ncianózis\nboka-, lábszárödéma, hasvízkór\nvizelet mennyisége csökken\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket illetve állapotokat a rájuk jellemző kóros légzési formával! Írja a betegségek sorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\nDyspnoe: ...\nKussmaul-légzés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3, 4\n1, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q015_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 8,
+      "question_text": "Soroljon fel a cukorbetegség tünetei közül nyolcat /8/!",
+      "question_type": "open",
+      "correct_answer": "fokozott szomjúságérzet\nkínzó éhségérzet\njó étvágy mellett fogyás\nbőséges vizeletürítés\nizomgyengeség, idegbénulások\nszáraz bőr, bőrviszketés\nnehezen gyógyuló sebek\nnemi aktivitás és fogamzóképesség csökkenése\nmagas vércukorszint\nvizeletben cukor és aceton megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Sorolja fel azokat az anyagokat, amelyeket\na normál vizelet NEM tartalmaz!",
+      "question_type": "open",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia okai közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "terhességi vesebaj (toxaemia)\nglomerulonephritis acuta\nnehézfémsók\ngombamérgezés\nvércsoport összeférhetetlenség\ngörcsös állapot (lázas eclampsia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nBarlangos test:...\nSárgatest:...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség okai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nnemi szervek, elsősorban a méhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!\n- a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a szervezet só- víz háztartását és az ürített vizelet mennyiségét)\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatású (emeli a vérnyomást)",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a szervezet só- víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a bronzkórt (Addison-kór) az alábbi\nszempontok szerint!\nLényege:\n...a mellékvesekéreg  és hormonjainak\ncsökkent termelődése...\nTünetei: Írjon hatot /6/!\n-\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "glükokortikoid mineralokortikoid fáradtság\ngyengeség\nfogyás\nétvágytalanság\ngyakori hányás\nfokozott pigmentáció\nhasmenés\nalacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Helyes válasz esetén a lényegére 1 pont, a tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! Írja a betegségekhez a tünetek\nsorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség,\n\"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "a vérpályában nitrogén szabadul fel, amely buborék formájában elzárja a belső fül és más fontos szervek végartériáit pl: bányászoknál hirtelen történő kizsilipeléskor...\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Az okra: 2 pont, a tünetre: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q027_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 7,
+      "question_text": "Sorolja fel a csonttörés (fractura) tüneteit!\nÍrjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját\naz alábbi állapotokban!\n\nEszméletlenség: ...\n\nKlinikai halál (újraélesztéskor): ...\n\nHasi sérülés: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, lábakat térdben felhúzva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_november_19_I_EuMI_1119_q029_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 5,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések\ntípusait! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  }
+]

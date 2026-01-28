@@ -1,0 +1,338 @@
+[
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a számokat a megfelelő betűjelhez!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n\n1. gyenge ellenálló képesség, légzőszervi és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési - és cukorbetegségre való hajlam\n\nA: ...; Β: ...; C: ...; D: ...",
+      "question_type": "matching",
+      "correct_answer": "Α: ...3...; Β: ...1...; C: ...4...; D: ...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát és az\nimmunrendszerre kifejtett hatását!\n\nFogalma:\n\nAz immunrendszerre kifejtett hatása:\n- az antigén vagy az immunrendszer sejtjeit aktiválja, amelyek a\nfelületükön megkötik, közömbösítik azt (celluláris immunválasz),\n- vagy az antigén hatására az immunrendszer sejtjei ellenanyagot,\nantitestet termelnek, és ezek a vérbe jutva közömbösítik az antigént\n(humorális immunválasz)",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva a szervezet\nimmunrendszerét védekező reakcióra késztetik, antigéneknek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMit nevezünk behatolási kapunak?\n\nMettől meddig tart a lappangási szakasz?",
+      "question_type": "open",
+      "correct_answer": "Azt az anatómiai képletet, amelyen keresztül a kórokozó a szervezetbe jut.\nA kórok behatolásától a tünetek megjelenéséig.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyákat magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Ismertesse a hasizmok fajtáit és feladatait!\nHasizmok fajtái:\n- \n- \n- \n- \nHasizmok feladatai:\n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom\nösszehúzódás: törzs előre hajlítása, alsó végtagok emelése\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHol helyezkedik el a háromhegyű vitorlás billentyű?",
+      "question_type": "open",
+      "correct_answer": "A jobb pitvar és a jobb kamra között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá a jobb szívfél elégtelenség tüneteit!\n- telt nyaki vénák\n- kisvérköri pangás\n- nehézlégzés nyugalomban is\n- cianózis\n- boka, lábszár ödéma, hasvízkór\n- köhögés\n- tüdőödéma\n- vizelet mennyisége emelkedik\n- vizelet mennyisége csökken\n- éjszakai vizelés\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\nkisvérköri pangás\ncianózis\nboka, lábszár ödéma, hasvízkór\nvizelet mennyisége csökken\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\n\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n- külső légzés\n- nyúltvelő\n- gége\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\n- nyúltvelő\n- fülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a betegségek mellé a megfelelő tünet számát!\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. levertség, fáradékonyság\n4. üvegszerű, tapadós köpet\nTüdőasztma: ... , ...\nTuberkulózis: ..., ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4\n2, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az\nalábbiakban megadott szempontok szerint!\n\nLényege:\nOka: Írjon kettőt /2/!\n- túlzott alkoholfogyasztás\n- fertőzés\n- epeutak, epehólyag idült gyulladása\n\nTünetek: Írjon hatot /6/!\n- haspuffadás\n- nyomásérzékenység a jobb bordaív alatt\n- testtömeg csökkenés\n- fakó, enyhén sárga színű bőr\n- bőrviszketés\n- hasvízkór\n- bőrön csillag alakú értágulatok\n- tág vénás hálózat a hasfalon\n- nyelőcsőben vénatágulatok",
+      "question_type": "open",
+      "correct_answer": "A májsejtek pusztulásával járó krónikus betegség.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q014_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont; okaira, tüneteire: 0,5-0,5 pont adható!)„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat,\namelyeket a normál vizelet NEM tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Ismertesse az elsődleges vizelet jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "mennyisége: kb. napi 180 liter\nfajsúlya: 1010\na vérplazma fehérjementes szűrlete",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertesse a vesekőképződés hajlamosító tényezőit!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "vizeletpangás a húgyutak szűkülete vagy elzáródása miatt\na vizelet fertőződése\nkőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi\nszervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik\nel.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHová nyílik a Bartholin-mirigy kivezető csöve?\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "...a hüvelybe...\n...a petevezeték...\n...méhnyálkahártya...\n...petefészekben, a sárgatest termeli...\n...myoma...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Ismertesse a HIV-fertőzés megelőzésének lehetőségeit!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nsteril tű használata\nkábítószer fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki az alábbi táblázatot!\n\n| A hormon neve | A hormon hatása Írjon egyet-egyet/1-1/! |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n| FSH           | nő                                      |\n|               | férfi                                   |\n| tiroxin       |                                       |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet/1-1/! |\n|---------------|---------------------------------------|\n| STH           | növekedést, fehérjeszintézist fokozza                                       |\n| ADH           | a vese tubulusaiban a vízvisszaszívást szabályozza, érösszehúzó, emeli a vérnyomást                                       |\n| FSH           | nő megindítja a tüszőérést, a petefészekre hat                                      |\n|               | férfi fokozza a spermatogenezist, a herékben megindítja az ondósejtek képződését                                   |\n| tiroxin       | fokozza az anyagcserét, szabályozza a szöveti oxidációt                                       |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az agyvelő és gerincvelő burkait magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "kemény agyburok - dura mater\npókhálóhártya - arachnoidea\nlágy agyhártya - pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Ismertesse a sclerosis multiplex (SM) tüneteit!\nÍrjon hat /6/ tünetet!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulások\nmozgászavarok\nincontinentia\nérzészavarok\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\ncsontos labirintus\nhallócsontok\nhártyás labirintus\ndobhártya\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q025_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 1,
+      "question_text": "Ismertesse az üvegtest feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szem állandó alakjának biztosítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Nevezze meg az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\n-\nTünetei: Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csonttörés (fractura) tüneteit!\nÍrjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_aprilis_23_II_eum2_0423_q028_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\r\nÍrjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgás ügyetlenné válik\nféloldali végtagbénulás, arcbénulás\nbeszédzavar\nzavart tudat\nhirtelen eszméletvesztés",
+      "options": []
+    }
+  }
+]

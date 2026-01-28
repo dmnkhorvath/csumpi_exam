@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Nevezze meg az idegsejt fő részeit!",
+      "question_type": "open",
+      "correct_answer": "sejttest\naxon (hosszú nyúlvány)\ndendrit (rövid nyúlvány)\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Soroljon fel a fertőzés terjedési módjaira három-három példát!\nközvetett terjedés: ...\nközvetlen érintkezés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "cseppfertőzés, víz közvetítésével, élelmiszerek által, a talaj közvetítésével, tárgyak közvetítésével, intrauterin fertőzések...\nkézfogás, csók, szexuális érintkezés, állatharapás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az ízületeket alak felosztásuk szerint!",
+      "question_type": "fill_in",
+      "correct_answer": "- gömbízület\n- hengerízület\n- tojás-, vagy ellipszoid ízület\n- nyeregízület\n- lapos ízület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse az izomsorvadás lényegét, kezelésének lehetőségeit!\nLényege:\n\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Nem idegrendszeri eredetű izomelfajulásos betegség, amelyre jellemző az\nizmok fokozatos, megállíthatatlan sorvadása.\ngyógytorna\nfizioterápia\naz izmok kifárasztásának kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa az érfal rétegeihez jellemzőiket! Írja a sorszámokat a megfelelő\nbetűjelhez!\nA. Az érfal belső rétege\nB. Az érfal középső rétege\nC. Az érfal külső rétege\n1. simaizomsejtekből és rugalmas rostokból áll\n2. kötőszövetből épül fel\n3. lapos endothel sejtekből áll",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan tényezőt, amely a vérrögösödés kialakulásában szerepet játszhat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása (pl. vénás pangás)\n- nagy hasi műtétek utáni állapotok\n- szülés utáni állapotok\n- az erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\n- a vér összetételének megváltozása\n- az alvadási fehérjék kóros szintje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orrmelléküregek feladatait!",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q008_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 7,
+      "question_text": "Ismertesse a tüdővizenyőt a megadott szempontok szerint!\nA betegség lényege: ...\nA betegség leggyakoribb oka:\nLehetséges tünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "A tüdőben savós folyadék foglalja el a levegő helyét, amely súlyos légzési elégtelenséget okoz....\n...Valamilyen szívbetegség (pl. balszívfél-elégtelenség)....\n- terhelésre jelentkező/éjszakai rohamszerű nehézlégzés\n- köhögés, köhécselés\n- hirtelen jelentkező nehézlégzés (a betegség heveny formájánál)\n- cianózis\n- verejtékezés\n- halálfélelem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Csoportosítsa a megadott tápanyagokat funkciójuk szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. enzimek\n2. szénhidrátok\n3. vitaminok\n4. víz\n\nsejtépítők: ......\nenergiaszolgáltatók: ......\nbiokatalizátorok: ......",
+      "question_type": "fill_in",
+      "correct_answer": "4, 2, 1., 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az akut hasi katasztrófához vezető kórképek közül!",
+      "question_type": "open",
+      "correct_answer": "- gyomorperforáció\n- bélelzáródás\n- akut hasnyálmirigy-gyulladás\n- léprepedés\n- méhen kívüli terhesség\n- kizárt sérv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. fokozott hányás, hasmenés\n2. diabetes insipidus\n3. nagyfokú ödémaképződés\n4. ödémák kiürülése\n5. heveny és krónikus veseelégtelenséghez vezető vesebetegségek\n6. cukorbetegség\n\nCsökkent vizeletelválasztás (oliguria) okai: ...\nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 5....\n2., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel három természetes fogamzásgátló módszert!",
+      "question_type": "open",
+      "correct_answer": "- cikluskontroll\n- naptármódszer\n- hőmérős módszer\n- megszakított közösülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Nevezze meg a másodlagos férfi nemi jelleg kialakításáért felelős hormonokat!",
+      "question_type": "open",
+      "correct_answer": "- tesztoszteron\n- androgén hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- erős vérzés: ...\n- menstruáció hiánya: ...\n- méhnyakrák: ...\n- herevízsérv: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "menorrhagia\namenorrhoea\ncarcinoma cervicis uteri\nhydrokele testis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertessen az adrenalin és a noradrenalin hatásai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a szívösszehúzódások számát (emelik a pulzusszámot)\n- fokozzák a szívműködés erejét\n- emelik a légzésszámot\n- szűkítik a perifériás ereket, így emelik a vérnyomást\n- lassítják a bélműködést\n- mobilizálják a tárolt glikogént\n- emelik a vércukorszintet\n- tágítják a pupillát",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó kérdésekre!\nHol található az agyban a beszéd motoros központja?\n...\nMely lebenyben találhatók a látóközpontok?\n...\nHol kereszteződik a piramispálya nagy része?\n...\nHogy nevezzük az idegrendszer támasztószövetét?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "az egyik féltekében a Sylvius-féle árok fölött\na nyakszirti lebenyben\na nyúltvelőben\nneuroglia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel az agyrázkódás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- eszméletvesztés\n- fejfájás\n- hányinger\n- általános gyengeség\n- tág pupilla\n- bradycardia\n- felületes légzés\n- átmeneti emlékezetkiesés (retrográd amnézia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. érhártya\nB. szemlencse\nC. sugártest\nD. kötőhártya\nE. sárgafolt\n\n1. a szem fénytörő közege\n2. az éleslátás helye\n3. a szem védőkészüléke\n4. az ideghártyát táplálja\n5. csarnokvíz termelése",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., Β.-...1...., C.-...5...., D.-...3...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 1,
+      "question_text": "A szív ingerképző rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "pitvar-kamrai csomó, aortaív, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, aortaív, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, aortaív, Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse az öregkori nagyothallást a megadott szempontok szerint!\nA kórkép lényege:\nKét fő tünete:\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...A kor előrehaladtával a Corti-szervben degenerativ folyamat zajlik, amely\nfokozatosan mindkét fülben halláscsökkenést okoz....\n- a magas hangok iránti érzékenység csökken\n- csökkent, nehézkes beszédértés\n- hallókészülék alkalmazása\n- enyhe értágítók adása\n- E-vitamin bevitele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a rándulás tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "ízületi működés csökkenése\nduzzanat\nlilás elszíneződés\nfájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_09_VII_eumvii_210609_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Határozza meg az elsősegélynyújtás és az időfaktor fogalmát!\nElsősegélynyújtás fogalma: Azonnali beavatkozás, sérülés, rosszullét esetén a\nvégleges szakellátás megkezdése előtt.\nIdőfaktor fogalma: Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.",
+      "question_type": "open",
+      "correct_answer": "Azonnali beavatkozás, sérülés, rosszullét esetén a\nvégleges szakellátás megkezdése előtt. Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit\nromlik a balesetes állapota.",
+      "options": []
+    }
+  }
+]

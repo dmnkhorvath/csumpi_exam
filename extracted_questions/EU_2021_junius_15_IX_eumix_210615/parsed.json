@@ -1,0 +1,309 @@
+[
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa a latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. proximalis\nA. hátulsó/háti\n2. inferior/caudalis\nB. középsíkhoz közel eső\n3. posterior/dorsalis\nC. felső/feji\n4. superior/cranialis\nD. törzshöz közelebb eső\n5. medialis\nE. alsó/farki",
+      "question_type": "matching",
+      "correct_answer": "D, E, A, C, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a mérgezés súlyosságát és következményeit befolyásoló\ntényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- a bejutás helye\n- a felszívódás, átalakítás, ürítés sebessége\n- a szer koncentrációja\n- a méreg mennyisége\n- a méreg kémiai tulajdonságai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a csontritkulást a megadott szempontok alapján!\nLényege:\n...a csont állományának csökkenése...\nTünetei: Írjon kettőt!\n- a mellkasi gerincoszlop fokozódó görbülete\n- fájdalom\n- csontok törékenysége\nGyógyítása/megelőzése: Írjon hármat!\n- gyógyszeres kezelés\n- diéta\n- életmódváltás\n- fizikai aktivitás növelése",
+      "question_type": "open",
+      "correct_answer": "a csont állományának csökkenése...\na mellkasi gerincoszlop fokozódó görbülete\nfájdalom\ncsontok törékenysége\ngyógyszeres kezelés\ndiéta\néletmódváltás\nfizikai aktivitás növelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- nyakcsigolyák\n- hátcsigolyák\n- ágyékcsigolyák\n- keresztcsonti csigolyák\n- farkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a nagyvérkör ereit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vena cava superior\nvena cava inferior\naorta",
+      "options": [
+        "vena cava superior",
+        "vena cava inferior",
+        "arteria pulmonalis",
+        "aorta",
+        "truncus pulmonalis",
+        "vena pulmonalis"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a nyirok?\n\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?\n\nKiknek a szervezetében termelődhet anti-D ellenanyag?",
+      "question_type": "open",
+      "correct_answer": "...a nagyvérkör kapillárishálózatának területén képződő folyadék, amely a\nvérplazmából származik...\n...a bal vénás szögletben a vénákba...\n...azoknak az. Rh-negatív egyéneknek a szervezetében, akiknek valamilyen\nokból D-antigén jutott a vérükbe...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot, melyek a vérben savas\nvegyhatást (acidosis) idéznek elő!",
+      "question_type": "open",
+      "correct_answer": "vesebetegség\nkiterjedt tüdőbetegségek (szén-dioxid felszaporodása a vérben)\nanyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a\nbetegségek mellé a helyes válasz sorszámát!\n\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. fogyás, rossz közérzet\n4. üvegszerű, tapadós köpet\n\ntuberkulózis: ...., .... \n\ntüdőasztma: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "...2., 3....\n\n...1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó táblázat hiányzó részeit!\n\n| A légzőrendszer részei |  |\n|---------|---------|\n| magyarul | latinul |\n| garat |  |\n|  | larynx |\n| légcső |  |\n|  | pulmo |",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer részei |  |\n|---------|---------|\n| magyarul | latinul |\n|  | pharynx |\n| gége |  |\n|  | trachea |\n| tüdő |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul a nagy nyálmirigyeket!",
+      "question_type": "open",
+      "correct_answer": "- fültőmirigy\n- állkapocs alatti mirigy\n- nyelv alatti mirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- sérv: ...\n- féregnyúlvány-gyulladás: ...\n- bélelzáródás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "hernia\nappendicitis\nileus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmakat!\nNephron: ...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya/a szervezet belső környezetének állandósága...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges\nvizeletben élettanilag megtalálhatók!\n- karbamid\n- cukor\n- húgysav\n- fehérje\n- bilirubin\n- urobilinogén\n- kreatinin\n- genny\n\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "karbamid\nhúgysav\nurobilinogén\nkreatinin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vesekőképződésre hajlamosító tényezők közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vizeletpangás\n- a vizelet fertőződése\n- kőképző anyagok felszaporodása\n- hibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését, feladatát!\nRészei:\n\nElhelyezkedése:\n\nFeladata:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\n...a kismedence közepén, a hólyag és a végbél között található...\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. a bőr száraz, meleg, piros\n2. éhségérzet\n3. bőséges vizeletürítés\n4. acetonszagú lehelet\n5. remegés\n6. bőr sápadt, verítékes, hideg\nAlacsony vércukorszint (hypoglykaemia) tünetei: ...\nMagas vércukorszint (hyperglykaemia) tünetei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6....\n1., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál a húgycső felől\nfelszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "- prosztatagyulladás\n- heregyulladás\n- mellékhere-gyulladás\n- vesemedence-, és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Nevezze meg a mellékvese kéregállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- mineralokortikoidok (aldoszteron)\n- glükokortikoidok (kortizol)\n- androgén hormonok (férfi nemi hormonok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a vegetatív idegrendszer hatását a megadottak szerint!\nEgészítse ki a táblázatot!\n|  | szimpatikus hatás | paraszimpatikus hatás |\n|-----------------|-----------------|-----------------------|\n| szívfrekvencia |  |  |\n| légzésszám |  |  |\n| tápcsatorna |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | szimpatikus hatás | paraszimpatikus hatás |\n|-----------------|-----------------|-----------------------|\n| szívfrekvencia | nő | csökken |\n| légzésszám | nő | csökken |\n| tápcsatorna | működése csökken | működése fokozódik |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel a myasthenia gravis lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- csüngő szemhéj\n- nyelészavarok\n- gyengült fejmozgások\n- a végtagok és a törzsizomzat gyengesége\n- a légzőizmok esetleges bénulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Párosítsa a bőr rétegeit jellemzőikkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. irha\nA. többrétegű elszarusodó laphám\n2. bőr alatti kötőszövet\nB. kötőszöveti rostokból épül fel\n3. felhám\nC. sok kötőszöveti rostot és zsírt\ntartalmaz",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a heveny kötőhártya-gyulladás okait és tüneteit!\nLehetséges okai: Írjon kettőt!\nTünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "baktériumok, vírusok\nkémiai, vagy mechanikai irritáció\nallergia\nszúró érzet\nviszketés\nkönnyezés, váladékozás\nkipirosodás\nfényérzékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- helyzetfelmérés\n- tájékozódás a történtekről\n- esetleges újabb balesetveszély elhárítása\n- a sérült állapotának megfelelő elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- mentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_IX_eumix_210615_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi esetekben!\nÚjraélesztéskor: ...\nMellkasi sérülés esetén: ...\nEszméletlen beteg esetén: ...",
+      "question_type": "fill_in",
+      "correct_answer": "kemény alapon hanyatt fektetve...\nfélig ülő helyzet...\nstabil oldalfektetés...",
+      "options": []
+    }
+  }
+]

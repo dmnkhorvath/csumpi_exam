@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Egészítse ki a síkokra, téri irányokra vonatkozó táblázat hiányzó részeit!\n\n| magyar megnevezés | latin megnevezés |\n|--------------------|-------------------|\n| homlokirányú |  |\n|  | horizontalis |\n| központi |  |\n|  | periferiális |\n| elülső |  |\n|  | posterior/dorsalis |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar megnevezés | latin megnevezés |\n|--------------------|-------------------|\n|  | frontalis |\n| vízszintes |  |\n|  | centralis |\n| környéki |  |\n|  | anterior/ventralis |\n| hátul lévő/hátulsó/háti |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- nyakcsigolyák\n- hátcsigolyák\n- ágyékcsigolyák\n- keresztcsonti csigolyák\n- farkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a betűjelek\nmellé a helyes válasz sorszámát!\n\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA. A csigolyaívek záródásának hiánya.\nB. A csontok szervetlen és szerves állományának csökkenése.\nC. Az ízületi porc kopása.\nD. D-vitamin-hiány következtében elmarad a mészsók beépülése a\ncsontokba.\n\nA. -...., B. -...., C. -...., D. -....",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Töltse ki a betegségek időbeni lefolyására vonatkozó táblázatot!\n| A betegségek lefolyása | akut | szubakut | krónikus |\n|---|---|---|---|\n| időtartama |  |  |  |\n| jellemzője |  |  |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A betegségek lefolyása | akut | szubakut | krónikus |\n|---|---|---|---|\n| időtartama | rövid ideig tart (1-2 naptól 2-4 hét) | elhúzódó lefolyású (max. 4-6 hét) | hosszantartó, (évekig, évtizedekig tarthat) |\n| jellemzője | heves tünetekkel jár | nem jár viharos tünetekkel | váltakozó nyugalmi és aktív szakaszokkal jár |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Határozza meg az agglutinogén fogalmát! Nevezze meg a típusait!\nFogalma:\nTípusai:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található antigén tulajdonságú anyag.\nA-agglutinogén\nB-agglutinogén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tápanyaggal látja el a sejteket\n- oxigént és egyéb anyagokat szállít\n- a bomlástermékeket elszállítja a sejtekből\n- részt vesz az immunvédekezésben\n- részt vesz a szervezet hőszabályozásában\n- a szervezet belső miliőjének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga\nelőállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Írja le az orrmelléküregek hiányzó magyar vagy latin megfelelőjét!\nEgészítse ki a táblázatot!\n| magyar | latin |\n|---------|---------|\n|  | sinus maxillaris |\n| homloküreg |  |\n|  | sinus sphenoidalis |\n| rostacsont üregei |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar | latin |\n|---------|---------|\n| arcüreg |  |\n|  | sinus frontalis |\n| ékcsonti üreg |  |\n|  | cellulae ethmoidales |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMennyi levegő marad a tüdőben teljes kilégzés után?",
+      "question_type": "fill_in",
+      "correct_answer": "kb. 1,2 l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa a tápanyagokat a megadottak szerint! Írja a helyes válasz\nsorszámát a megfelelő helyre!\n1. szénhidrátok\n2. ásványi anyagok\n3. fehérjék\n4. zsírok\n5. vitaminok\n6. víz\nSzerves anyagok: ...\nSzervetlen anyagok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4., 5....\n2., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Húzza alá a hányásra vonatkozó helyes megállapításokat!\na hányás reflexfolyamat\na hányás központja a kisagyban található\na hányást gyakran hányinger előzi meg\na hányás központja az agytörzsben van\na hányást gyakran ájulás követi\na hányinger nélküli sugárhányás étkezést követően jelentkezik\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hányás reflexfolyamat\na hányást gyakran hányinger előzi meg\na hányás központja az agytörzsben van",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a vese feladatai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a vér szűrése\n- a bomlástermékek kiválasztása\n- a vérplazma állandó koncentrációjának fenntartása\n- a só-, vízháztartás szabályozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- gyakori, sürgető vizelési inger\n- égő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\n- gyakori görcsös alhasi fájdalom\n- a vizeletben vér jelenik meg\n- a vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az elsődleges vizeletben található anyagok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "víz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Párosítsa a hormonokhoz a termelődési helyüket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. STH\n2. ADH\n3. tiroxin\n4. aldoszteron\n5. adrenalin\n\nA. a mellékvese kéregállománya\nB. a mellékvese velőállománya\nC. az agyalapi mirigy elülső lebenye\nD. az agyalapi mirigy hátsó lebenye\nE. a pajzsmirigy",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2....D..., 3.-E..., 4.-A..., 5.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 1,
+      "question_text": "A szívfrekvencia (HR) a következőkkel arányos:",
+      "question_type": "multiple_choice",
+      "correct_answer": "szimpatikus idegrendszeri aktivitás",
+      "options": [
+        "paraszimpatikus idegrendszeri aktivitás",
+        "szimpatikus idegrendszeri aktivitás",
+        "nyugalmi membránpotenciál",
+        "intracelluláris nátrium koncentráció"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok\nalapján!\n\nA betegség lényege:\n\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\n\n- megnövekszik a herezacskó\n- nyomásérzékenység\n- esetenként fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes megállapításokat!\n- a gigantizmus közvetlen oka a növekedési hormon csökkent termelődése\n- a diabetes mellitus oka az inzulinhiánya\n- a strúma a pajzsmirigy megnagyobbodásával járó kórkép\n- acromegalia esetén a testmagasság meghaladja a 190 cm-t\n- a mixödéma a pajzsmirigy csökkent működése miatt alakul ki\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetania\n- az Addison-kór a mellékvesekéreg hormonjainak fokozott termelése miatt\nalakul ki\n- a Basedow-kór kialakulása a nőknél gyakoribb, mint a férfiaknál\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a diabetes mellitus oka az inzulinhiánya\na strúma a pajzsmirigy megnagyobbodásával járó kórkép\na mixödéma a pajzsmirigy csökkent működése miatt alakul ki\na Basedow-kór kialakulása a nőknél gyakoribb, mint a férfiaknál",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek számát! Egészítse ki a táblázatot!\n\n| Gerincvelői ideg tagozódása | Az idegek száma |\n|-----------------------------|------------------|\n| nyaki idegek                |                  |\n| háti (mellkasi) idegek      |                  |\n| ágyéki idegek               |                  |\n| keresztcsonti idegek        |                  |\n| farkcsonti idegek           |                  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Gerincvelői ideg tagozódása | Az idegek száma |\n|-----------------------------|------------------|\n| nyaki idegek                | 8 pár           |\n| háti (mellkasi) idegek      | 12 pár          |\n| ágyéki idegek               | 5 pár           |\n| keresztcsonti idegek        | 5 pár           |\n| farkcsonti idegek           | 1 pár           |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Egészítse ki az idegrendszerrel kapcsolatos mondatok hiányzó részeit!\nAz idegrendszer .....épül fel. Az idegrendszer funkcionálisan\nkét fő részre tagolódik: a .....és a .....\nidegrendszerre. A gerincvelő a csigolyák által határolt .....\nhelyezkedik el. A gerincvelőt több rétegű burok veszi körül, amelyek között az\n..... kering.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "neuronokból\ncerebrospinalis\nvegetativ\ngerinccsatornában\nagyvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit latinul!",
+      "question_type": "open",
+      "correct_answer": "- epidermis\n- corium\n- subcutis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Ismertesse az alábbi anatómia képletek feladatát!\nAz üvegtest feladata: ...\nAz érhártya feladata: ...\nA sugártest feladata: ...\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a szem állandó alakjának biztosítása...\na szem falának, különösen az ideghártyának a táplálása....\na csarnokvíz termelése, a szemlencse beállítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Írja le a sérültek elhelyezési módját az alábbi esetekben!\nOrrvérzés esetén:\n...\nLégmell esetén:\n...\nBelső vérzés esetén:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej...\nfélülő helyzet (nyugalom)...\nsokkfektetés (hanyatt fekvő helyzet, felpolcolt alsó végtagokkal)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_V_eum5_190215_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésmegállás lehetséges okait! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- a légút elzáródása\n- a légköri levegő összetételének megváltozása\n- légzőközpont-bénulás\n- a mellkasfal összenyomódása",
+      "options": []
+    }
+  }
+]

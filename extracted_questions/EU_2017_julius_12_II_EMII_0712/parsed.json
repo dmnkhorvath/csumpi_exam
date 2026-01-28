@@ -1,0 +1,289 @@
+[
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Határozza meg a rándulás és a ficam lényegét!\nrándulás:\n...\nficam:\n...",
+      "question_type": "open",
+      "correct_answer": "az ízületi fej elhagyja az ízületi árkot (vápát), és oda rövid időn belül\nmagától visszatér...\naz ízületi fej elhagyja az ízületi árkot (vápát), és magától nem tér oda\nvissza ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettsége |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Malpighi-test\n- Bartholin-mirigy\n- neurocyta\n- Bowman-tok\n- Henle-kacs\n- myelinhüvelyek\n- elsődleges kanyarulatos csatorna\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- kötőhártya\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Malpighi-test\nBowman-tok\nHenle-kacs\nelsődleges kanyarulatos csatorna\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros\nvizelettípussal! Írja a sorszámokat a megfelelő betűjelhez!\n\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA- ...., B - ...., C - ...., D - ....",
+      "question_type": "matching",
+      "correct_answer": "A - ...3...., B - ...1...., C - ...2...., D - ...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Hol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\n\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\n\nMelyek a tüdő saját vérellátását biztosító erek?\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\n\nMi biztosítja a légutak legfelső részébe került idegen anyagok eltávolítását?\n- a tüsszentés\n- a köhögés\n\nHogyan alakul a légzésszám a paraszimpatikus idegrendszer hatására?\n- csökken\n- emelkedik",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\ngarat gégei szakaszába\narteria és vena bronchialis\na tüsszentés\ncsökken",
+      "options": [
+        "a gégében",
+        "a garatban",
+        "garat orri szakaszába",
+        "garat gégei szakaszába",
+        "arteria és vena pulmonalis",
+        "arteria és vena bronchialis",
+        "a tüsszentés",
+        "a köhögés",
+        "csökken",
+        "emelkedik"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérrögösödés lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lassulása (pl. vénás pangás)\nnagy hasi műtétek utáni állapotok\nszülés utáni állapotok\naz erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "különleges harántcsíkolt izom\nakaratunktól független, ritmusos összehúzódás jellemzi\nműködésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\nműködését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom összehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\nvalamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a betegségek sorszámát!\n\nBetegségek:\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nBetegségek jellemzői:\n- A kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódással járó\nbetegsége: ... ....\n- Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívbelhártya-gyulladás is kialakulhat:\n... ....\n- A gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n... ....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nbarlangos test:...\nsárgatest:...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Ismertessen a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- potencia- és ejakulációs zavarok kísérik\n- fizikai teljesítőképesség csökken\n- jellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q012_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 7,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely belső elválasztású mirigy termeli a kalcitonint?\n...\nHol termelődik az aldoszteron?\n...\nMi az androgének feladata?\n...\nHol termelődik a progeszteron?\n...\nMi a szomatosztatin hatása?\n...\nHogy nevezzük a csecsemőmirigy hormonját?\n...\nHol termelődik a glükagon?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a pajzsmirigy\na mellékvese kéregállományában\na másodlagos férfi nemi jelleg kialakítása\na petefészekben\na testnövekedést gátolja\ntimozin\na hasnyálmirigyben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest\n1. a szem fénytörő közege\n2. a szem védőkészüléke\n3. az éleslátás helye\n4. az ideghártyát táplálja\n5. csarnokvíz termelése",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső hám/felhám\n- irha\n- bőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott\nszempontok szerint! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyvelőre (encephalon) jellemző\nlegfontosabb anatómiai tulajdonságok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az agykoponya üregében található\nhozzávetőleg 1,5 kg súlyú\nkb. tízmilliárd idegsejtből áll\nhosszanti irányban egy nyílirányú barázda két részre osztja: jobb és bal\nagyféltekére\nhárom fő része: nagyagy, kisagy, agytörzs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Egészítse ki a gyomor részeire vonatkozó táblázatot!\n\n| A gyomor részei |  |\n|---------|---------|\n| magyarul | latinul |\n|  | cardia |\n| gyomoralap |  |\n|  | corpus |\n| gyomorkapu |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A gyomor részei |  |\n|---------|---------|\n| magyarul | latinul |\n| gyomorszáj |  |\n|  | fundus |\n| test |  |\n|  | pylorus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel a szájnyálkahártya-gyulladás okai és\ntünetei közül hármat-hármat!",
+      "question_type": "open",
+      "correct_answer": "vashiány\nvírusok\nbaktériumok\ngombák\nsérülések\nerős dohányzás\nantibiotikumok szedése\na szájnyálkahártya duzzadt, piros\nhólyagok keletkezése\nfekélyek keletkezése\nfájdalom,\nbűzös lehelet\nlepedékes nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\njelentésüket!\n\n| Latin | Magyar |\n|---------|---------|\n| akut |  |\n| chronicus |  |\n| morbus |  |\n| reverzibilis |  |\n| benignus |  |\n| degeneratio |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Latin | Magyar |\n|---------|---------|\n|  | heveny |\n|  | idült |\n|  | betegség |\n|  | visszafordítható |\n|  | jóindulatú |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Nevezze meg a szív elsődleges és másodlagos ingerképző központját!\n\nElsődleges ingerképző központ: ...\nMásodlagos ingerképző központ: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "sinuscsomó\npitvar-kamrai csomó",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sebek fajtái közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vágott seb\nszúrt seb\nharapott seb\nhorzsolt seb\nzúzott seb\nlőtt seb\nroncsolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_II_EMII_0712_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Ismertesse a kalcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "gátolja a Ca felszabadulását a csontokból\nmegakadályozza a vérben a magas Ca-szint kialakulását",
+      "options": []
+    }
+  }
+]

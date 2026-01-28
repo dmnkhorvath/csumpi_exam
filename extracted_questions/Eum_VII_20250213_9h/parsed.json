@@ -1,0 +1,342 @@
+[
+  {
+    "file": "Eum_VII_20250213_9h_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az elsődleges teendőket fertőző betegség előfordulásakor!\n- a fertőzés forrásának ártalmatlanná tétele\n- a fertőzés terjedési lehetőségeinek megakadályozása\n- választható védőoltások népszerűsítése\n- a fertőzésnek kitett személyek ellenálló képességének fokozása\n- egészségnevelés kisiskolás kortól\n- a Nemzeti Népegészségügyi és Gyógyszerészeti Központ értesítése\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a fertőzés forrásának ártalmatlanná tétele\na fertőzés terjedési lehetőségeinek megakadályozása\na fertőzésnek kitett személyek ellenálló képességének fokozása",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a szakkifejezések hiányzó latin vagy magyar megfelelőjével!\n\n| Szakkifejezések |   |\n|---------|---------|\n| latinul | magyarul |\n| acut |  |\n|  | idült |\n| morbus |  |\n|  | jóindulatú |\n| degeneratio |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |   |\n|---------|---------|\n| latinul | magyarul |\n|  | heveny |\n| chronicus |  |\n|  | betegség |\n| benignus |  |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Nevezze meg a medencecsontokat alkotó csontokat magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. veleszületett csípőficam\nB. torticollis\nC. dongaláb\nD. osteoporosis\nE. csontvelőgyulladás\n\n1. izomerősítés, gyógytorna, szükség\nesetén műtét\n2. gyógyszeres (antibiotikumos) kezelés,\nszükség esetén műtét\n3. gipszelés, korrekció (tartó és rögzítő)\nsínekkel\n4. mozgásterápia, fizikoterápia\n5. D-vitamin- és kalciumpótlás, diéta,\néletmódváltás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...1...., В.-...4...., С.-...3...., D.-...5...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik a legvalószínűbb oka a szívinfarktusnak?",
+      "question_type": "multiple_choice",
+      "correct_answer": "A koszorúér elzáródása",
+      "options": [
+        "A koszorúér elzáródása",
+        "A szívbillentyű elégtelensége",
+        "A szívritmuszavar"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt okokat, tényezőket a megadott szempontok szerint!\nÍrja a sorszámokat a megfelelő helyre!\n\n1. pajzsmirigy-túlműködés\n2. vérszegénység\n3. hányinger, hányás\n4. agynyomás-fokozódás\n5. élvezeti szerek (kávé, tea, nikotin) túlzott fogyasztása\n6. csökkent pajzsmirigyműködés\n\na sinusbradycardia lehetséges okai: ...\na sinustachycardia lehetséges okai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6....\n1., 2., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Írja be a táblázatba a szív gyulladásos betegségeinek latin megnevezését!\n\n|  |  |\n|---|---|\n| magyarul | latinul |\n| szívbelhártya-gyulladás |  |\n| reumás szívgyulladás |  |\n| szívizomgyulladás |  |\n| szívburokgyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|\n|  | endocarditis |\n|  | carditis rheumatica |\n|  | myocarditis |\n|  | pericarditis |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA garatot a dobüreggel köti össze:\n- gége\n\nA légzőközpont helye:\n- kisagy\n\nCsillószőrök borítják az:\n- orrüreg nyálkahártyáját\n\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\n- külső légzés\n",
+      "question_type": "multiple_choice",
+      "correct_answer": "- fülkürt\n- nyúltvelő\n- orrüreg nyálkahártyáját\n- külső légzés",
+      "options": [
+        "gége",
+        "fülkürt",
+        "kisagy",
+        "nyúltvelő",
+        "orrüreg nyálkahártyáját",
+        "orrmelléküregek nyálkahártyáját",
+        "külső légzés",
+        "belső légzés"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségekhez a haemoptoe jellemző megjelenési\nformáit! Írja a betűjelek mellé a helyes válasz sorszámát!\n\nA. tuberkulózis\nB. tüdőtumor\nC. tüdőembólia\nD. tüdőgyulladás\n\n1. véres, málnazselészerű köpet\n2. barnásvörös köpet\n3. élénkpiros, friss vért tartalmazó köpet\n4. kékes-lilás, alvadt véres köpet\n\nA.-......, B.- ......., C.-......, D.-......",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 4, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Állítsa helyes sorrendbe az alábbi anatómiai képleteket a táplálék\nemésztőrendszerben megtett útjának megfelelően! Írja a sorszámokat a\npontozott vonalra!\n1. cavum oris\n2. colon\n3. ileum\n4. gaster\n5. oesophagus\n6. pharynx\nHelyes sorrend: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 6., 5., 4., 3., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Írjon a kóros soványság megadott okaihoz egy-egy példát! Egészítse ki a táblázatot!\n\n| A kóros soványság okai | Egy-egy példa* |\n|--------------------------|-----------------|\n| Csökkent energiabevitel |  |\n| Megnövekedett energiafelhasználás |  |\n| Megnövekedett energiavesztés |  |\n| Felszívódási zavarok |  |\n| Idegi okok |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A kóros soványság okai | Egy-egy példa* |\n|--------------------------|-----------------|\n|  | szándékos koplalás, alkoholizmus, kevés és nem megfelelő minőségű tápanyagbevitel |\n|  | pajzsmirigy-túlműködés, terhesség |\n|  | hányás, hasmenés |\n|  | Crohn-betegség, gyomor-, vékonybél-, vastagbélgyulladás |\n|  | stressz, bulimia nervosa, anorexia nervosa |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a nephron részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vas afferens\nBowman-tok\ntubulusok\nglomerulus",
+      "options": [
+        "vas afferens",
+        "Bowman-tok",
+        "Langerhans-szigetek",
+        "tubulusok",
+        "neurocyta",
+        "myelinhüvelyek",
+        "glomerulus",
+        "Bartholin-mirigy",
+        "glandula suprarenalis"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megadott szempontok szerint! Irja a sorszámokat a megfelelő helyre!\n1. fajsúlya: 1020-1025 g/l (1001-1040)\n2. a vérplazma fehérjementes szűrlete\n3. fajsúlya: 1010 g/1\n4. szalmasárga színű, jellegzetes szagú\n5. a tubulusokban képződik\n6. a glomerulusokban képződik\nElsődleges vizelet jellemzői: ...., ...., ......\nVégleges vizelet jellemzői: ...., ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\nhere: ...\nherezacskó: ...\nhímvessző: ...\ndülmirigy:...",
+      "question_type": "fill_in",
+      "correct_answer": "testis\nscrotum\npenis\nprostat",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg az erős vérzés (menorrhagia) lényegét!",
+      "question_type": "fill_in",
+      "correct_answer": "...Szabályos időnként jelentkező, a ciklust tartó, de az átlagosnál bőségesebb (80 ml-t meghaladó) vérzés....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Írja le az endometriózis lényegét és következményét!\nLényege: ...\nKövetkezménye: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A méhben jelenlévő nyálkahártya, az endometrium a méhen kívül\nmáshol is megjelenik a szervezetben....\nmeddőség...",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a hypothalamus jellemzői/feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- belső elválasztású mirigy\n- a közti agynak a thalamus alatti részén található, a III. agykamra falát képezi\n- a szervezet belső környezetének viszonylagos állandóságát szabályozza\n- szerepet játszik az ember érzelmi (emocionális) magatartásában\n- hormonjai: az antidiuretikus hormon és az oxitocin",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a Basedow-kórt a megadott szempontok szerint!\nLényege: ...\nGyakorisága: ...\nGyógyításának, kezelésének, lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "A pajzsmirigy autoimmun túlműködése okozta megbetegedés.....\nElőfordulása a nőknél négyszer gyakoribb, mint a férfiaknál...\ngyógyszeres terápia\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindegyike ingerelhetõ és vezethet ingerületet",
+      "options": [
+        "csak ingerelhetõk, de nem vezetnek ingerületet",
+        "csak vezetnek ingerületet, de nem ingerelhetõk",
+        "mindegyike ingerelhetõ és vezethet ingerületet",
+        "egyik válasz sem helyes"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gerincvelői reflexeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. cremasterreflex\n2. hólyagreflex\n3. hasbőrreflex\n4. izomvédekezési reflex\n5. hashártyai reflex\nVegetatív reflex: ...____, ____, ____....\nBőreredetű reflex: ...____, ____....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel az agyvérzés tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- tudatzavar (somnolentia, sopor, coma)\n- hemiplegia (féloldali bénulás)\n- légzészavar\n- beszédzavar\n- érzészavar\n- incontinentia\n- nyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- ívjáratok\n- hallócsontok\n- fülkürt\n- hallóideg\n- kengyel\n- csiga\n- dobhártya\n- fülkagyló",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nfülkürt\nhallóideg\ncsiga",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Írja le az alábbi szembetegségek lényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "A szemhéj mirigyeinek gyulladása.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a bőrbetegségekhez jellemzőiket! Írja a betűjelek mellé a helyes\nválasz sorszámát!\nA. pyoderma\nB. scabies\nC. psoriasis\nD. seborrhoea\n\n1. A könyök- és térdtájékon, a hajlatokban, és a hajas fejbőrön lencse, vagy\npénzérme nagyságú felrakódások.\n2. Fokozott faggyútermelés, megváltozik a termelt faggyú összetétele is, a\nfejbőrön lemezes hámlás látható.\n3. Fekély, gennyképződés, bűzös váladékozás, szövetelhalás, az érintett terület\nvizenyős és duzzadt.\n4. Vakarási nyomok a testhajlatokban, az övtájékon, finom zegzugos\nvonalrajzolat, apró járatok láthatóak a bőrben.\n\nA.-......, В.-......, С.-......, D.-......\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., В.-...4...., С.-...1...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezzen meg tömeges baleset során az ellátás nehézségeit jelentő tényezők\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a rendelkezésre álló mentőerők száma\n- az életveszélyes, súlyos sérültek nagy aránya\n- az ideális feltételek hiánya\n- a gyors ellátás igénye\n- a gyors szállítás igénye",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VII_20250213_9h_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nA lenyelt, gyomorba került marószer esetén tilos a beteg ...\nAz eszméletlen beteget - ha nincs ellenjavallat - ... helyezzük el.\nLégúti idegentest eltávolítása esetén a ... műfogás alkalmazható.\nOrrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét ... hajtjuk.\nBelső vérzés gyanúja esetén a beteget ... helyezzük el.",
+      "question_type": "fill_in",
+      "correct_answer": "hánytatása\nstabil oldalfekvésben\nHeimlich-féle\nelőre\nsokk-fektetésben",
+      "options": []
+    }
+  }
+]

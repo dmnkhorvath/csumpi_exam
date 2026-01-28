@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel a trombózis kialakulásában szerepet játszó\ntényezőket!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lelassulása\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. részarányos (normostheniás) alkat\nB. sovány (astheniás) alkat\nC. piknikus (hyperstheniás) alkat\nD. kevert alkati típus\n\n1. gyenge ellenálló képesség, légzőszervi- és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési - és cukorbetegségre való hajlam\n\nA.- ... , B.- ... , C.- ... , D.- ...",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését,\nfeladatát!\nRészei:\nElhelyezkedése:\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "- méhfenék\n- méhtest\n- méhnyak\n...a kismedence közepén, a hólyag és a végbél között található...\n- a megtermékenyített petesejt befogadása (beágyazódás)\n- az embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan helyet (behatolási kaput), ahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nlégutak\nvéráram\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a nagyvérkör ereit!\naorta\narteria pulmonalis\nvena pulmonalis\nvena cava inferior\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonalis",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Ismertesse a lép feladatait!",
+      "question_type": "open",
+      "correct_answer": "lymphocytaképzés\na vér raktározása\nvörösvértestek lebontása („temetője\")\nvérlemezkék lebontása („temetője\")",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportokra vonatkozó táblázatot!\n\n| Vörösvérsejtben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---|---|---|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvérsejtben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---|---|---|\n| - | anti-A, anti-B | 0 |\n| AB | - | AB |\n| A | anti-B | A |\n| B | anti-A | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul az alábbi sérüléseket!\nruptura: ...\ndistorsio: ...\nluxatio: ...\nfractura: ...",
+      "question_type": "fill_in",
+      "correct_answer": "repedés, szakadás\nrándulás\nficam\ntörés/csonttörés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdőödéma\nC. gége alatti nyálkahártya duzzanata\nD. tüszős mandulagyulladás\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési\nhang",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 4, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a glomerulonephritis\ntüneteit!\n- vizenyő\n- fehérjevizelés\n- testsúlycsökkenés\n- bilirubin megjelenése a vizeletben\n- véres vizelet\n- magas vérnyomás\n- bő vizelés\n- kiszáradás",
+      "question_type": "multiple_choice",
+      "correct_answer": "fehérjevizelés\nvéres vizelet\nmagas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi meghatározásokat a felsorolt\nbetegségekkel! Írja a sorszámokat a megfelelő helyre!\n\n1. A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet\na kishörgők nyálkahártyájának duzzanata kísér.\n2. A gége nyálkahártyájának és a nyálkahártya alatti kötőszövetének\nvizenyője következtében kialakuló életveszélyes állapot.\n3. A léghólyagok és a köztük lévő sövények fala elvékonyodik, majd\nátszakad és végül közös üreggé olvad egybe.\n\ngégevizenyő: ... ....\ntüdőasztma: ... ....\ntüdőtágulat: ... ....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2\n1\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges\nkiváltó okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegentest\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n|  | A csecsemőmirigy |\n|----------|----------|\n| Hormonja |  |\n| Feladatai |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|----------|----------|\n| Hormonja | timozin |\n| Feladatai | a növekedést, a szexuális fejlődést serkenti\nantitestképzés (nyirokszerv) |\n| Helye a szervezetben | a gátorüreg elülső részében helyezkedik el |\n| Jellemzője Írjon egyet! | kisgyermekkorig aktív, serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "nyaki idegek\nmellkasi idegek\nágyéki idegek\nkeresztcsonti idegek\nfarkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a progresszív stroke (PS) tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "eszméletvesztés\nbénulások\nkoponyaűri nyomásfokozódás tünetei\nlégzészavar\nbeszédzavar\nincontinentia\nérzészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szürkehályog (cataracta) kialakulásának\nlehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "veleszületett (az anya terhesség alatti vírusfertőzése okozza)\nanyagcsere-betegségek miatt kialakuló\nszövődményes (más szemelváltozás következtében)\nsérülés\nsugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel a sebek fajtái közül hatot!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Ismertessen a HIV-fertőzés megelőzésének lehetőségei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nsteril tű használata\nkábítószer-fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_II_EUMII_0322_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel az arckoponya csontjai közül hatot magyarul!",
+      "question_type": "open",
+      "correct_answer": "- felső állcsont\n- járomcsont\n- rostacsont\n- orrcsont\n- alsó állcsont/állkapocs\n- ekecsont\n- könnycsont\n- szájpadcsont",
+      "options": []
+    }
+  }
+]

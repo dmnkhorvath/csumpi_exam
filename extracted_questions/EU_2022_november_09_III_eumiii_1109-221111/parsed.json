@@ -1,0 +1,292 @@
+[
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 6,
+      "question_text": "Jellemezze az alábbi izomszöveteket! Írjon három-három jellemzőt!\nSimaizom jellemzői:\n- \n- \n- \n- \nHarántcsíkolt izom jellemzői:\n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "- lassú összehúzódás\n- beidegzését a vegetativ idegrendszer végzi\n- akaratunktól függetlenül működik\n- viszonylag nagy erőkifejtésre képes\n- működése akaratlagosan is irányítható\n- működése több esetben reflexes\n- összehúzódása/elernyedése gyors\n- hamarabb kifárad, mint a simaizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden az alábbi kóros szövetelváltozások lényegét!\n- lágyulásos elhalás (colliquatio): ...\n- infarktus: ...\n- felfekvés (decubitus): ...",
+      "question_type": "open",
+      "correct_answer": "az elhalt rész elfolyósodik, főleg az agyban fordul elő...\na tápláló erek elzáródása miatt ék alakú elhalás következik be pl. a szívben, tüdőben, vesében...\nnyomás hatására kialakuló elhalás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Egészítse ki a csigolyákkal kapcsolatos táblázat hiányzó részeit!\n\n| Csigolyák megnevezése |  | Csigolyák darabszáma |\n|---------|---------|---------|\n| magyarul | latinul |  |\n| farkcsigolya |  |  |\n| keresztcsonti csigolya |  |  |\n| háti csigolya |  |  |\n| nyaki csigolya |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Csigolyák megnevezése |  | Csigolyák darabszáma |\n|---------|---------|---------|\n| magyarul | latinul |  |\n|  | vertebra coccygis | 3-4 |\n| keresztcsonti csigolya | vertebra sacralis | 5 |\n| háti csigolya | vertebra thoracalis | 12 |\n|  | vertebra cervicalis | 7 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a discopathia lényegét, kialakulásának okait!\nLényege:\nKialakulásának lehetséges okai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...a csigolyák közti porcok elfajulása, deformálódása...\nmozgáshiány\na gerinc statikai hibája\ntrauma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a fehérvérsejt fajtáihoz jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. eozinofil és bazofil granulocyták\n2. neutrophil granulocyták\n3. agranulocyták\n4. T-lymphocyták\n5. B-lymphocyták\n\nA. a plazmájukban nincsenek szemcsék\nB. ellenanyagokat, immunglobulinokat termelnek\nC. a szervezetbe került baktériumokat felismerik és fagocitálják\nD. fagocitózisra nem képesek, a beültetett transzplantátum kilökődéséért\nfelelősek\nE. az allergiás folyamatokban játszanak szerepet",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-...C...., 3.-...A...., 4.-...D...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel az érelmeszesedés (arterioszklerózis) lehetséges következményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az érfal merevvé válik, ezért könnyen megrepedhet\n- trombózisok alakulhatnak ki\n- az ér lumene szűkül, majd elzáródhat\n- a szervekben vérellátási zavar alakulhat ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszerre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a levegő a szájüregben szűrődik, felmelegszik és párásodik is\n2. a légzőközpont a nagyagykéregben található\n3. a légzőközpont az agytörzs területén található\n4. a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek\n5. a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja\n6. a gége vázát porcok és szalagok alkotják\n\nIgaz állítás: ...\n\nHamis állítás: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6.\n\n1., 2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon a tüdővizenyő lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- éjszaka jelentkező, rohamszerű nehézlégzés\n- köhögés, köhécselés\n- súlyos cianózis\n- verejtékezés (hideg verítékezés)\n- halálfélelem\n- nagy mennyiségű habos, rózsaszínű (szilvalészerű) köpet ürítése.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszához tartozó anatómiai\nképleteket!\n- colon transversum\n- jejunum\n- ileum\n- rectum\n- colon ascendens\n- caecum\n- duodenum\n- ventriculus\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "colon transversum\nrectum\ncolon ascendens\ncaecum",
+      "options": [
+        "colon transversum",
+        "jejunum",
+        "ileum",
+        "rectum",
+        "colon ascendens",
+        "caecum",
+        "duodenum",
+        "ventriculus"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Ismertesse a refluxbetegség lényegét és lehetséges okait!\nLényege:\nLehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...a savas gyomortartalom rendszeresen visszaáramlik a nyelőcsőbe...\nstressz\na nyelőcső kóros mozgása\na nyelőcső alsó, gyűrű alakú záróizmának működési elégtelensége\nbeidegződési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindig ingerelhetõek",
+      "options": [
+        "csak a szívpitvarokban találhatók meg",
+        "mindig ingerelhetõek",
+        "csak a szívkamrákban találhatók meg",
+        "soha nem ingerelhetõek"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "II.",
+      "points": 6,
+      "question_text": "Írja le az elsődleges vizelet jellemzőit a megadott szempontok alapján!\nNapi mennyisége: ...\nFajsúlya: ...\nÖsszetétele:* Írjon négyet!\n- víz\n- ásványi anyagok\n- cukor\n- aminosavak\n- festékanyagok",
+      "question_type": "fill_in",
+      "correct_answer": "160-180 l...\n1010 g/l...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal! Írja\na sorszámokat a megfelelő betűjelhez!\nA. cukorbetegség\nB. sárgaság\nC. nephrosis szindróma\nD. pyelonephritis acuta\n1. fehérjevizelés\n2. acetonvizelés\n3. bilirubin a vizeletben\n4. gennyvizelés",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Egészítse ki a fogamzással kapcsolatos mondatokat!\nAz érett petesejt az ... követően a méhkürtbe jut, ahol találkozik a\n....\nA... petesejt első osztódása a petevezetékben történik meg.\nEzt követően a petesejt a méh üregébe jut a petevezeték... és\n... mozgása következtében, ahol ... az előkészült\nnyálkahártyába.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ovulációt\nspermiumokkal\nmegtermékenyült\nhámjának csillói\nféregszerű\nbeágyazódik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatamegnagyobbodás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- eleinte gyakori vizelés\n- később hirtelen jelentkező vizelési inger\n- a vizelet indításának nehezítettsége\n- gyakori vizelési inger\n- vékony vizeletsugár\n- megszakadó vizeletsugár\n- vizeletcsepegés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi fogalmak lényegét!\nfeedback mechanizmus: ...\nnegatív feedback: ...",
+      "question_type": "open",
+      "correct_answer": "visszacsatolás, a vérben a hormonszint csökkenése\nfokozott hormonelválasztást vált ki a megfelelő endokrin mirigyben....\na vérben a hormonszint emelkedése csökkenti, vagy leállítja\naz endokrin mirigyben a hormon további elválasztását....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezze meg szomatosztatin termelődésének helyét és hatását!\ntermelődésének helye: Írjon egyet!\n- \n- \nagy\nhatása: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "hasnyálmirigy\ngátolja a testnövekedést\ngátolja a Langerhans-szigetek a- és ẞ-sejtjeinek működését\ncsökkenti a belekben az izomösszehúzódást és a véráramlást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Húzza alá az idegrendszerre vonatkozó helyes megállapításokat!\nA híd gesztenye nagyságú és alakú, páratlan test, amely az agyalapon fekszik.\nA másodlagos mozgatóközpont a fali lebenyben található, feladata a\nmozgások rendezetté szervezése.\nA másodlagos látóközpont helye a nyakszirti lebeny agykérgi része.\nA neuroglia az idegszövet sejtközötti állománya, amely a neuronnal teljesen\nazonos szerkezetű építőelem.\nA hallás kérgi központja a nyakszirti lebenyben helyezkedik el.\nAz agytörzset a nyúltvelő, a híd és a nagyagy alkotja.\nAz idegsejtek alakja rendkívül változatos.\nA gerincvelőt többrétegű burok veszi körül, melyek között az agyvíz kering.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "A híd gesztenye nagyságú és alakú, páratlan test, amely az agyalapon fekszik.\nA másodlagos látóközpont helye a nyakszirti lebeny agykérgi része.\nAz idegsejtek alakja rendkívül változatos.\nA gerincvelőt többrétegű burok veszi körül, melyek között az agyvíz kering.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel a migrén lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- általános rossz közérzet\n- féloldali görcsös vagy lüktető jellegű fejfájás\n- fénykerülés\n- zajérzékenység\n- szagtúlérzékenység\n- hányinger, hányás\n- látászavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a fül részeit a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. Corti-szerv\n2. ívjáratok\n3. kengyel\n4. csiga\n5. dobüreg\n6. fülkürt\n\nA középfül részei: ...., ...., ......\n\nA belső fül részei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6.\n\n1., 2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a könnymirigygyulladás kezelési lehetőségei közül!",
+      "question_type": "open",
+      "correct_answer": "párakötés\nantibiotikum tartalmú kenőcs, szemcsepp alkalmazása\nsebészi feltárás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le a szakkifejezések latin, vagy magyar megnevezését! Egészítse ki a\ntáblázatot!\n\n| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n| mérgezés |  |\n|  | somnolentia |\n| kritikus lehűlés |  |\n|  | combustio |\n| agyrázkódás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n|  | intoxicatio |\n| aluszékonyság |  |\n|  | hypothermia |\n| égés |  |\n|  | commotio cerebri |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_III_eumiii_1109-221111_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az elsősegélynyújtó teendői közül az egyik felső végtag\nI.-II. fokú (9%) égési sérülése esetén!",
+      "question_type": "open",
+      "correct_answer": "a ruházat eltávolítása az égett felületről\naz égett testrész hűtése hideg folyó vízzel (10-15 percig)\na sérült nyugalomba helyezése\naz égett testfelszín steril gézzel való befedése, laza rögzítése\nfolyadékpótlás",
+      "options": []
+    }
+  }
+]

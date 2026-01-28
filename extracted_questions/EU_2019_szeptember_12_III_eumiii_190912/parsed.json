@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. közép, vagy medián sík\n2. vízszintes, vagy horizontális sík\n3. homlokirányú, vagy frontális sík",
+      "question_type": "matching",
+      "correct_answer": "1.-...B....., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Soroljon fel a sejthártya funkciói közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a sejtet a körülötte lévő tértől elválasztja\n- biztosítja a sejt védelmét\n- fenntartja a sejt alakját\n- részt vesz az anyagcsere folyamatokban",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Húzza alá a daganatokra vonatkozó helyes megállapításokat!\n- Azokat a tényezőket, melyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.\n- A daganatos szövetburjánzás nem minden esetben káros.\n- A daganatok terjedhetnek a nyirokerek és a liquorkeringés útján.\n- A malignus daganat gyakran okoz testsúlynövekedést.\n- A daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.\n- A benignus daganatok metasztázist okozhatnak.\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám\nnem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Azokat a tényezőket, melyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.\nA daganatok terjedhetnek a nyirokerek és a liquorkeringés útján.\nA daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór lényegét, kialakulásának lehetséges okait!\nLényege:\n...a\nLehetséges okai: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "mészsók csontokba való beépülésének hiánya...\nD-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n\n1. anafilaxia\n2. égés\n3. vérmérgezés\n4. vérzés\n5. folyadékvesztés\n6. mellékvese-elégtelenség\n\nhypovolaemiás sokk okai: ...\ndisztributív sokk okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt feladata a szervezetben az ellenanyagok (immunglobulinok)\ntermelése?\n...\nMelyik sejt felelős a beültetett transzplantátum kilökődéséért?\n...\nMit jelent a hematokrit érték?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "B-lymphocyta\na T-lymphocyta\na vérsejtek százalékos aránya a teljes vértérfogathoz viszonyítva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formához! Írja a sorszámokat a megfelelő helyre!\n1. súlyos anyagcserezavarok\n2. veseelégtelenség\n3. krónikus obstruktív légúti betegség\n4. centrális keringési elégtelenség\ndyspnoe: ......\nKussmaul-légzés: ......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4....\n1., 2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Ismertesse a légmell lényegét!",
+      "question_type": "open",
+      "correct_answer": "A mellhártya lemezei közé levegő kerül, a megnövekedett nyomás hatására a\ntüdő összeesik, a légzőfelület csökken.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\nnyelőcső: ...\ngyomor: ...\nmáj: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "oesophagus\nventriculus/gaster\nhepar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!\n- petefészek\n- méh\n- herezacskó\n- here\n- ondóhólyag\n- dülmirigy\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "petefészek\nhere\nondóhólyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Ismertesse a normál vizelet jellemzőit!\n- színe: \n- fajsúlya: \n- napi mennyisége: \n- vegyhatása: \n- szaga: ",
+      "question_type": "open",
+      "correct_answer": "szalmasárga\n1020-1025 g/l (1001-1040 g/l)\n1,5-2 l\nsavanyú\naromás húslé szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- fokozott folyadékbevitel\n- ödémák kiürülése\n- diuretikumok szedése\n- cukorbetegség\n- krónikus veseelégtelenség (kompenzáló polyuria)\n- folyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat a refluxbetegség lehetséges szövődményei közül!",
+      "question_type": "open",
+      "correct_answer": "- nyelőcsőgyulladás\n- nyelőcsőfekély\n- vérzés\n- nyelőcsőszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. a bőr száraz, meleg, piros\n2. éhségérzet\n3. bőséges vizeletürítés\n4. acetonszagú lehelet\n5. remegés\n6. bőr sápadt, verítékes, hideg\nMagas vércukorszint (hyperglykaemia) tünetei: ...\nAlacsony vércukorszint (hypoglykaemia) tünetei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4....\n2., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a szem akkomodációjának folyamatát!",
+      "question_type": "open",
+      "correct_answer": "Az 5 méternél közelebbi tárgyról érkező széttartó fénysugarakat a szem a lencse domborúságának változtatásával gyűjti össze, korrigálja, így azok mindig az ideghártya sárgafoltjára vetülnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit! Töltse ki a táblázatot két-két példával!\n|gyanújelek|A várandósság jelei\nvalószínűségi jelek|biztos jelek|\n| | ||\n| | ||\n| | ||\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|gyanújelek|A várandósság jelei\nvalószínűségi jelek|biztos jelek|\n|- émelygés|- a menstruáció elmaradása|- magzatmozgások|\n|- hányinger, hányás|- bővebb hüvelyváladék|- magzati szívhangok|\n|- szagoktól undorodás|- livid (szederjes) hüvely|- ultrahangvizsgálattal megfigyelhető magzati, illetve mellékrészek|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. VII. agyideg\n2. VIII. agyideg\n3. IX. agyideg\n4. X. agyideg\n5. XI. agyideg\n6. XII. agyideg\n\nA. nyelv-garat ideg\nB. arcideg\nC. járulékos ideg\nD. nyelv alatti ideg\nE. egyensúlyozó és hallóideg\nF. bolygóideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...E...., 3.-...A...., 4.-...F...., 5.-...C...., 6.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- helyzetfelmérés\n- tájékozódás a történtekről\n- esetleges újabb balesetveszély elhárítása\n- a sérült állapotának megfelelő elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- mentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a heveny kötőhártya-gyulladás okait és tüneteit!\nLehetséges okai: Írjon kettőt!\nTünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "baktériumok, vírusok\nkémiai, vagy mechanikai irritáció\nallergia\nszúró érzet\nviszketés\nkönnyezés, váladékozás\nkipirosodás\nfényérzékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- tremor: ...\n- nystagmus: ...\n- ataxia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "akarattól független remegés...\nszemtekerezgés, a szemgolyó akaratlan ingamozgása...\na mozgások összerendezésének zavara, egyensúlyzavar...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_12_III_eumiii_190912_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!",
+      "question_type": "open",
+      "correct_answer": "- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  }
+]

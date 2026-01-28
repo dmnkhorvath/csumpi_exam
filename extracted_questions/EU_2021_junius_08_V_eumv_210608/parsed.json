@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá a sejtek felépítésére vonatkozó helyes megállapításokat!\n- az emberi sejtek valódi sejtmaggal rendelkező eukaryoták\n- a mitokondriumokat más néven nucleusnak is nevezzük\n- a sejtmag citoplazmát és nukleinsavakat tartalmaz\n- a sejtmag belsejében található a dezoxiribonukleinsav (DNS)\n- a sejtorganellumok a citoplazmában találhatók\n- a Golgi-apparátus a sejthártyán kívül helyezkedik el",
+      "question_type": "multiple_choice",
+      "correct_answer": "az emberi sejtek valódi sejtmaggal rendelkező eukaryoták\na sejtmag belsejében található a dezoxiribonukleinsav (DNS)\na sejtorganellumok a citoplazmában találhatók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel az immunrendszer felépítésében részt vevő limfoid szervek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- csecsemőmirigy\n- nyirokcsomók\n- lép\n- mandulák\n- féregnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Határozza meg a fertőzés fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Fertőzés során a környezetből valamilyen kórokozó (mikroorganizmus) behatol\na szervezetbe, ott megtelepszik és elszaporodik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Nevezze meg a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. Bechterew-kór\n2. reumás láz\n3. sokízületi gyulladás (RA)\nA. A kéz kisízületeinek fájdalmas gyulladása, fokozatos ízületi\ndeformálódással járó betegsége.\nB. Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívkárosodást is okozhat.\nC. A gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár.\n1.-...",
+      "question_type": "matching",
+      "correct_answer": "C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul a csontok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "- csonthártya\n- csontvelő\n- porc",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q007_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 8,
+      "question_text": "Nevezze meg az ABO - vércsoportrendszer elemeit! Egészítse ki a táblázatot!\n\n| Vércsoport típusa | Antitestek a vérszérumban | Antigének a vörösvértestek felszínén |\n|---|---|---|\n| A |  | A |\n| B |  | B |\n| AB |  |  |\n| 0 |  | - |",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Antitestek a vérszérumban | Antigének a vörösvértestek felszínén |\n|---|---|---|\n| A | anti-B |  |\n| B | anti-A |  |\n| AB | - | AB |\n| 0 | anti-A, anti-B | - |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Ismertesse az infarctus myocardii lényegét és okát!",
+      "question_type": "open",
+      "correct_answer": "Lényege: ...a szívizom egy részének elhalása valamelyik coronariaág\nelzáródása következtében...\n\nOka: ...coronariasclerosis, a sclerosissal járó endothel sérülések thrombus\nképződésével járhatnak, a thrombus pedig elzárja az eret...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a\nmegadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. barnásvörös köpet ürítése\n2. magas, nehezen csillapítható láz\n3. hosszan elnyúló, sípoló kilégzés\n4. szapora, nehezített légzés\n5. rövid, kapkodó belégzés\n6. üvegszerű, tapadós köpet ürítése\n\ntüdőasztma tünetei: ...\ntüdőgyulladás tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!\n- csecsemőmirigy\n- pajzsmirigy\n- aortaív ágai\n- nyelőcső\n- máj\n- tüdők\n- szív\n- hörgők",
+      "question_type": "multiple_choice",
+      "correct_answer": "csecsemőmirigy\naortaív ágai\nnyelőcső\nszív",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer alsó szakaszának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- vakbél\n- felszálló vastagbél\n- haránt vastagbél\n- leszálló vastagbél\n- szigmabél\n- végbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a garatgyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "rossz közérzet\nfáradtság\nfejfájás\nláz\négő, kaparó kellemetlen érzés a torokban/garatban\ntorokfájás\norrnyálkahártya-duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "fokozott folyadékbevitel\nödémák kiürülése\ndiuretikumok szedése\ncukorbetegség\nkrónikus veseelégtelenség (kompenzáló polyuria)\nfolyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Nevezze meg a méhnyálkahártya felépülésének és lelökődésének fázisait magyarul!",
+      "question_type": "open",
+      "correct_answer": "újraképződés\nnövekedés\nelválasztás\nlelökődés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- kisajkak: ...\n- petefészek: ...\n- petevezeték: ...\n- hüvely: ...\n- méh: ...",
+      "question_type": "fill_in",
+      "correct_answer": "labium minus\novarium\ntuba uterina\nvagina\nuterus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a\nszervezetben!\nhipofizis: ...\npajzsmirigy: ...\ncsecsemőmirigy: ...\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na nyak elülső részén, a pajzsporc alatt...\na gátorüregben, a szegycsont mögött...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Írja le a tobozmirigy hormonját és hatását!\nA hormon neve: ...\nA hormon hatása: Írjon négyet!",
+      "question_type": "fill_in",
+      "correct_answer": "melatonin\nszabályozza az alvás és ébrenlét ciklusát\nbefolyásolja a bőr színét\ngátolja a nemi mirigyek működését\ngátolja a pajzsmirigy működését\nhat a víz-, és elektrolit-háztartásra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse az éberségi zavarok lényegét!\n- kábultság: ...\n- somnolentia: ...\n- sopor: ...\n- kóma: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "megnehezül a külvilág ingereinek felfogása, bizonytalanná válik a felismerés és a tájékozódás...\nkóros aluszékonyság, a beteg ébreszthető, de magára hagyva elalszik...\nmély alvás, a beteg csak erős ingerre reagál...\neszméletlenség, a beteg nem ébreszthető, a tudatos pszichés tevékenység hiányzik...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Sorolja fel a nagyagykéreg lebenyeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nLátószerv receptorai: ...\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "csapok, pálcikák\nszőrsejtek\nCorti-szerv\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel a siketség lehetséges okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "terhesség alatti rubeolafertőzés\nszülési sérülés\nközépfülgyulladás\ntoxikus ártalmak\nagyhártyagyulladás\nskarlát\nmumpsz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Párosítsa a koponyaalapi törések fajtáit a tüneteikhez! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. elülső árok törése\n\n2. középső árok törése\n\n3. hátulsó árok törése\n\nA. haematoma a tarkótájon, a hátsó\ngaratfalon véres liquor ürül\n\nB. „pápaszem-haematoma\", az orrból\nvéres liquor ürül\n\nC. haematoma a fül mögött, a fülből\nvéres liquor ürül",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_V_eumv_210608_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Ismertesse a sokkos állapotban lévő beteg elhelyezését!",
+      "question_type": "open",
+      "correct_answer": "Sokkfektetés: hanyatt fekvő helyzetben, 20°-os szögben felpolcolt alsó végtagokkal.",
+      "options": []
+    }
+  }
+]

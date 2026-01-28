@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ olyan okot, mely a szervezet\nfolyadék- és elektrolitháztartás egyensúlyának\nfelborulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "hányás\nhasmenés\nnagyfokú izzadás\nvérplazmavesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q003_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 1,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer védekezését mozgósítják, antigénnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyákat magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann - betegséget az alábbi\nszempontok szerint!\n\nA. A betegség megjelenésére jellemző életkor:\n\nB. A betegség oka:\n\nC. A betegség lényege: Soroljon fel kettőt /2/!\n- a csigolyatest fejlődési zavara\n- a csigolyatestek elkeskenyednek, elvesztik szilárdságukat\n- a csigolyák ék alakúvá deformálódnak\n\nD. A betegség terápiája: Soroljon fel kettőt /2/!\n- torna\n- úszás\n- fűző viselése",
+      "question_type": "open",
+      "correct_answer": "serdülőkor...\nismeretlen...\na csigolyatest fejlődési zavara\na csigolyatestek elkeskenyednek, elvesztik szilárdságukat\na csigolyák ék alakúvá deformálódnak\ntorna\núszás\nfűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nMondjon ötöt /5/!\n- tápanyaggal látja el a sejteket\n- oxigént és egyéb anyagokat szállít a sejtekhez (pl. hormonok)\n- a bomlástermékeket elszállítja a sejtekből\n- részt vesz a szervezet hőszabályozásában\n- része az immunvédekezésnek\n- a szervezet belső környezetének állandóságát biztosítja\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "tápanyaggal látja el a sejteket\noxigént és egyéb anyagokat szállít a sejtekhez (pl. hormonok)\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze az immunvédekezésnek\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sinus tachycardia (szapora szívverés) okai közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "lázas állapot\nfokozott pajzsmirigyműködés\nszívelégtelenség\nvérszegénység\negyes gyógyszerek szedése pl: Atropin\nélvezeti szerek fogyasztása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az\nalábbi betegségeket!\n\nHosszú időn át fennálló légzőszervi betegség (pl.: hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében a megváltozott\nnyomás hatására - a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (ptx)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) tünetei közül hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz\nszapora, nehezített légzés\nmellkas-hát fájdalom\nfejfájás\nszapora pulzus\nköhögés (inproduktív, produktív)\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Mondja el, hol kezdődik az alábbi tápanyagok bontása!\nSzénhidrátok: ...\nFehérjék: ...\nZsírok: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szájüreg\ngyomor\nvékonybél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Nevezze meg a vastagbél szakaszait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "vakbél\nfelszálló vastagbél\nharánt vastagbél\nleszálló vastagbél\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHol képződik az elsődleges vizelet?\n\nMennyi az elsődleges vizelet napi mennyisége?\n\nTartalmaz-e élettani körülmények között a végleges vizelet urobilinogént?\n\nTartalmaz-e az elsődleges vizelet cukrot?\n\nTartalmaz-e a végleges vizelet bilirubint?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\n180 liter...\ntartalmaz...\ntartalmaz...\nnem tartalmaz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért kis mennyiségű vizelés\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\n\nFogalma:\n\nTünetei: Mondjon kettőt /2/!\n-\n-\n-\n\nKezelése:\n-",
+      "question_type": "open",
+      "correct_answer": "a herezacskóban folyadék halmozódik fel\n\nmegnövekszik a herezacskó\nnyomásérzékenység\nesetenként fájdalom\n\nsebészi (folyadék leszívása)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHová nyílik a Bartholin-mirigy kivezető csöve?\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "...a hüvelybe...\n...a petevezeték...\n...méhnyálkahártya...\n...petefészekben, a sárgatest termeli...\n...myoma...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\nHipofízis:\nCsecsemőmirigy:\nHasnyálmirigy:",
+      "question_type": "fill_in",
+      "correct_answer": "a koponya alapon az ékcsont árkában\na gátor üregben a szegycsont mögött\na patkóbél homorulatában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Jellemezze az antidiuretikus hormont (ADH)!",
+      "question_type": "open",
+      "correct_answer": "- a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só- vízháztartását, és az ürített vizelet mennyiségét)\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatása miatt nevezik vazopresszinnek is (emeli a\nvérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q019_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 1,
+      "question_text": "Nevezze meg az alábbi tünetek alapján a hormonális\neredetű betegséget!\n- bő vizelés (polyuria): napi 3 - 201, alacsony sűrűségű vizelet\n- a beteg szomjazik, sok folyadékot iszik\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse a sclerosis multiplex (SM) tüneteit!\nMondjon öt /5/ tünetet!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulások\nmozgászavarok\nincontinentia\nérzészavarok\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nMondjon két /2/ jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- csontátépülés következtében a kengyel talpa rögzül az ovális ablakhoz\n- nőknél gyakoribb, mint férfiaknál\n- kínzó fülzúgást és vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések\ntípusait! Mondjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_15_III_EuMIII_140515_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 8,
+      "question_text": "Nevezze meg az égés (combustio) fokozatait és\ntüneteit/jellemzőit! Mondjon a fokozat mellé egy-egy\n/1-1/tünetet/jellemzőt!\n- I. fokú égés -\n- II. fokú égés -\n- III. fokú égés -\n- IV. fokú égés -",
+      "question_type": "open",
+      "correct_answer": "bőrpír, égő fájdalom, hám érintettség\nhólyagok (bullák), égő, heves fájdalom, hám és irha\negy része sérül\nfájdalom hiánya, irha teljes mélysége sérül\nteljes elszenesedés, bőr alatti szövetállomány is sérül",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel! Írja a sorszámokat a megfelelő\nbetűjelhez!\nA. kevert alkat\nB. normostheniás (atléta) alkat\nC. hyperstheniás (piknikus) alkat\nD. astheniás (leptoszom) alkat\n\n1. gyengén fejlett izomzat és csontozat; hajlam lúdtalpra, sérvre, alacsony\nvérnyomásra, székrekedésre\n2. hízásra való hajlam; gyakoriak a gyulladások, görcsök, érelmeszesedés,\nkoszorúér-betegségek, agyvérzés, magas vércukorszint és vérnyomás\n3. a főbb alkati típusok tulajdonságai keverednek\n4. széles váll, keskeny csípő, fejlett izomzat, nincs betegséghajlam\n\nA.-......, B.-......, C.-......, D.-......\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3, 4, 2, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a harántcsíkolt izom jellemzői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "működése akaratlagosan is irányítható\nműködése több esetben reflexes\nösszehúzódása/elernyedése gyors\nhamarabb kifárad, mint a simaizom\njelentős erőkifejtésre képes",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Határozza meg a fertőzés fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Fertőzés során a környezetből valamilyen kórokozó (mikroorganizmus) behatol\na szervezetbe, ott megtelepszik és elszaporodik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a csigolyák számával az alábbi táblázatot!\n\n|Csigolyák megnevezése|Csigolyák darabszáma|\n|---|---|\n|nyaki csigolya||\n|háti csigolya||\n|ágyéki csigolya||\n|keresztcsonti csigolya||\n|farkcsigolya||",
+      "question_type": "fill_in",
+      "correct_answer": "|Csigolyák megnevezése|Csigolyák darabszáma|\n|---|---|\n|nyaki csigolya|7|\n|háti csigolya|12|\n|ágyéki csigolya|5|\n|keresztcsonti csigolya|5|\n|farkcsigolya|3-4|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai csomó",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. A faluk rendkívül vékony, csak endothel sejtekből állnak.\n\n2. A periféria felől, a hajszálér területéről a szív irányába szállítják a vért.\n\n3. Erőteljes összehúzódásra képesek, így továbbítják a vért a periféria felé.\n\n4. A felületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására félhold alakú vagy zsebes billentyűk találhatók.\n\n5. Itt történik meg az oxigén és a tápanyagok leadása a sejtek felé a sejt közötti térbe, valamint a szén-dioxid és az anyagcseretermékek felvétele.\n\n6. A vért a szívből a periféria felé juttatják.\n\nVerőerek jellemzői: ...3., 6. ...\n\nVisszerek jellemzői: ... 2., 4....\n\nHajszálerek jellemzői: ... 1., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a tüdővizenyő lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "súlyos dyspnoe\nköhögés, és szörcsögő légzés\nszapora, alig tapintható pulzus\nhideg verítékezés\ncianózis\n„szilvalészerű\" köpetürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!\npajzsmirigy\naortaív ágai\nnyelőcső\nmáj\nhörgők\ncsecsemőmirigy\ntüdők\nszív\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "aortaív ágai, nyelőcső, csecsemőmirigy, szív",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy óvintézkedést a tuberkulózis megelőzése érdekében!",
+      "question_type": "open",
+      "correct_answer": "fertőző források felkeresése, felkutatása, elkülönítése\nvédőoltások biztosítása\nrendszeres tüdőszűrés\nforralatlan tej fogyasztásának mellőzése\nhigiénés szabályok betartása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- elhízás: ...\n- cukorbetegség: ...\n- székrekedés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "obesitas\ndiabetes mellitus\nobstipatio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő anyagot! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. víz\n2. szénhidrátok\n3. alkohol\n4. zsírok\n5. fehérjék\n6. ásványi anyagok\n\ngyomor: ... ....\nvékonybél: ...., ...., .....\nvastagbél: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2, 4, 5\n1, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 1,
+      "question_text": "A szív ingerképző rendszerének sejtjeire jellemző:",
+      "question_type": "multiple_choice",
+      "correct_answer": "spontán depolarizáció.",
+      "options": [
+        "a Na+-csatornák nyugalmi membránpotenciál közelében inaktiválódnak.",
+        "a repolarizációért a feszültségfüggő Na+-csatornák felelősek.",
+        "spontán depolarizáció.",
+        "a nyugalmi membránpotenciál értéke közel van a Na+-egyensúlyi potenciálhoz."
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Írja le az elsődleges vizelet jellemzőit a megadott szempontok alapján!\nMennyisége:\nFajsúlya:\nÖsszetétele: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "napi 160-180 l\n1010 g/l\nvíz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- csökkent folyadékbevitel\n- a szervezet fokozott folyadék leadása\n- nagyfokú ödémaképződés\n- veseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a széles méhszalag feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "a méh rögzítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Húzza alá a felsoroltak közül a szülés megindulásának jeleit!\n- a méhnyaknál lévő nyákdugó távozása\n- a hüvely szederjes elszíneződése\n- a méhizomzat rendszeres összehúzódása\n- a testsúlygyarapodás megtorpanása\n- hirtelen erőteljes magzatmozgások megjelenése\n- a méhszáj kitágulása\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a méhnyaknál lévő nyákdugó távozása\na méhizomzat rendszeres összehúzódása\na méhszáj kitágulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse az arányos törpeséget a megadott szempontok szerint!\nLényege:\n\nLehetséges tünetei:",
+      "question_type": "open",
+      "correct_answer": "...Az agyalapi mirigy csökkent működése következtében kialakuló kórosan lassú\nnövekedés, arányos testméretekkel...\nminden testrész, szerv arányosan kisebb a normálisnál\nöreges arcvonások\nmásodlagos nemi jelleg hiánya, elmaradt pubertás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hererák betegség lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a here tapintatának megváltozása\n- csomók megjelenése a herében\n- tompa fájdalom az alhasban vagy az ágyékban\n- folyadékgyülem a herében\n- here megnagyobbodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Ismertesse a felsorolt hormonok hatását! Töltse ki a táblázatot!\n|A hormon neve|A hormon hatása\nÍrjon egyet-egyet!|\n|---|---|\n|tiroxin||\n|STH||\n|ADH||",
+      "question_type": "fill_in",
+      "correct_answer": "|A hormon neve|A hormon hatása\nÍrjon egyet-egyet!|\n|---|---|\n|tiroxin|- fokozza az anyagcserét\n- szabályozza a szöveti oxidációt|\n|STH|- a test növekedésének szabályozása\n- fokozza a fehérjeszintézist|\n|ADH|- szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó\n- emeli a vérnyomást|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg magyarul ötöt a neuron részei közül!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlvány\nidegnyúlvány\nvégfácska\nmag\nmagvacska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "felhám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a vegetatív idegrendszer hatását a megadottak szerint!\nEgészítse ki a táblázatot!\n\n|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| légzésszám |  |  |\n| vázizomzat |  |  |\n| vércukorszint |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| légzésszám | nő | csökken |\n| vázizomzat | tónusfokozódás | ellazul |\n| vércukorszint | emelkedik | csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Írja le az alábbi szembetegségek lényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "A szemhéj mirigyeinek gyulladása.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Soroljon fel az orrsövényferdülés lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- az egyik orrnyílás tágabb\n- akadályozott orrlégzés\n- légzés a szájon át\n- horkolás\n- orrvérzésre való hajlam",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Ismertesse sokk előfordulása esetén a beteg elhelyezését!",
+      "question_type": "open",
+      "correct_answer": "Sokkfektetés: hanyatt fekvő helyzetben, 20°-os szögben felpolcolt alsó végtagokkal.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_10_II_eumii_200910_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 6,
+      "question_text": "Egészítse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott |  |  | kicsi |\n| harapott | változó | igen nagy | változó |\n| zúzott |  | nagy | nagy |",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott | bőséges | ritka/kicsi |  |\n| harapott |  |  |  |\n| zúzott | kicsi |  |  |",
+      "options": []
+    }
+  }
+]

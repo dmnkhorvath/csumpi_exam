@@ -1,0 +1,350 @@
+[
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Nevezze meg latinul az emberi test fő részeit!\n\n| Az emberi test fő részei | Latin megnevezés |\n|--------------------------|-------------------|\n| fej                      |                   |\n| nyak                     |                   |\n| törzs                    |                   |\n| mellkas                  |                   |\n| has                      |                   |\n| medence                  |                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emberi test fő részei | Latin megnevezés |\n|--------------------------|-------------------|\n|                          | caput             |\n|                          | collum, cervix    |\n|                          | truncus           |\n|                          | thorax            |\n|                          | abdomen           |\n|                          | pelvis            |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertesse a fertőző betegségek létrejöttét befolyásoló\ntényezőket!",
+      "question_type": "open",
+      "correct_answer": "a szervezet immunrendszerének csökkent működése\na kórokozó virulenciája (életképesség, erősség, megbetegítő képesség)\na kórokozók száma\na kórokozó behatolási kapuja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Írja le a medencecsontot alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségek latin nevét lényegükkel!\nÍrja a betegség számát a megfelelő meghatározás mellé!\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA csigolyaívek záródásának hiánya: ...\nA csontok szervetlen és szerves állományának csökkenése: ...\nAz ízületi porc kopása:...\nD-vitamin hiány következtében elmarad a mészsók beépülése a csontokba:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá a vörös csontvelő feladatait!\n- hézagpótló szerep\n- vörösvértestek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvértestek képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\naz alábbiak szerint!\nLényege: \nOka:",
+      "question_type": "open",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül\nhármat/3/!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a TBC megelőzésének lehetőségeit!\n- elhízás elkerülése\n- rendszeres tüdőszűrés\n- higiénés szabályok betartása\n- dohányzás\n- allergizáló növények kerülése\n- védőoltás\n- fertőző források felkeresése, gondozásba vétele\n- a TBC-ben szenvedő beteg hozzátartozóinak karanténba helyezése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérkeringését\nbiztosító ereket!",
+      "question_type": "open",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q010_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor elzárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- a vörösvértestek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\na vörösvértestek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a fogszuvasodás leggyakoribb okait!\n- fluorhiányos ivóvíz\n- fehérjeszegény táplálkozás\n- szájüregi baktériumok, szájhigiénés problémák\n- a mészanyagcsere zavara\n- az immunrendszer elégtelen működése\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fluorhiányos ivóvíz\nszájüregi baktériumok, szájhigiénés problémák\na mészanyagcsere zavara",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei\nközül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\npylorusszűkület (stenosis pylori)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n...\nHonnan indul ki a húgyvezeték (ureter)?\n...\nHonnan indul ki a húgycső (urethra)?\n...\nÉlettani körülmények között tartalmaz-e fehérjét a végleges vizelet?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\na vesemedencéből...\na húgyhólyagból...\nnem...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertesse a vesekőképződés hajlamosító tényezőit!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "vizeletpangás a húgyutak szűkülete vagy elzáródása miatt\na vizelet fertőződése\nkőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a hypertonia maligna\n(rosszindulatú magas vérnyomás) betegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "Nem egységes kórkép, hanem szindróma.\nMinden olyan kórok kiválthatja, mely miatt a diastolés vérnyomás\ngyorsan, de tartósan 120-130 Hgmm fölé emelkedik.\nA vesében kialakuló érbántalom gyorsan súlyosbodó veseműködési\nzavart okoz. A betegség sürgősségi ellátást igényel, kezelés nélkül\nhalálhoz vezethet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\na terhességi próbák pozitívvá válása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Ismertesse a HIV-fertőzés megelőzésének lehetőségeit!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nsteril tű használata\nkábítószer fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg\njellemzőit!\n\nElsődleges nemi jelleg:\n...a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "question_type": "open",
+      "correct_answer": "...a nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg...\n\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Hol tárolódik az oxitocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMely hormont termeli a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n\nMilyen bőr tünete van az Addison-kóros betegnek?",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)...\n...az arc duzzadt, kifejezéstelen...\n...a bőr fokozottan pigmentált (sötét elszíneződésű)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Határozza meg a reflexív fogalmát és részeit!\nFogalma:\nRészei:\n- receptor\n- érző neuron (afferens)\n- reflexközpont\n- mozgató neuron (efferens)\n- effektor (válasz)",
+      "question_type": "open",
+      "correct_answer": "Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya a\nreflexív.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavarok\nbeszédzavarok\nérzészavarok\nincontinentia\nnyelési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach - kürt)\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Határozza meg az árpa és jégárpa betegség lényegét!\nÁrpa: a pillavázban elhelyezkedő mirigyek kivezető nyílásának\nelzáródása okozta gyulladásos duzzanat.\nJégárpa: a gyulladásos góc kemény csomó formájában betokozódik.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a pillavázban elhelyezkedő mirigyek kivezető nyílásának\nelzáródása okozta gyulladásos duzzanat.\na gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 3,
+      "question_text": "Ismertessen a sebellátás tilalmai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Ismertesse a sérültek elhelyezési módját az alábbi\nesetekben!\n\nOrrvérzés esetén:\n... \n\nLégmell esetén:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej ...félülő helyzet (nyugalom)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_I_EuMI_140509_q029_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nLényege:\n- a hőközpont funkciózavara\nTünetei: Soroljon fel három /3/ jellemző tünetet!\n- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- testhőmérséklet 40 °C fölött van\nElsősegélynyújtó feladata: Írjon kettőt /2/!\n- testhőmérséklet csökkentés vizes lepedő segítségével\n- folyadékpótlás\n- orvosi segítség hívása",
+      "question_type": "open",
+      "correct_answer": "a hőközpont funkciózavara\nfejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött van\ntesthőmérséklet csökkentés vizes lepedő segítségével\nfolyadékpótlás\norvosi segítség hívása",
+      "options": []
+    }
+  }
+]

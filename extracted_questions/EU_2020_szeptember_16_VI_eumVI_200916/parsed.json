@@ -1,0 +1,306 @@
+[
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Írja le a simaizommal kapcsolatos ismereteit a megadott szempontok\nszerint!\nHelye a szervezetben: ...\nJellemzői: Írjon négyet!\n- \n- \n- \n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a zsigeri szervek és erek falában található...\nösszehúzódása lassú és hullámszerűen terjed\nbeidegzését a vegetativ idegrendszer végzi\nakaratunktól függetlenül működik\nviszonylag nagy erőkifejtésre képes\nnem fárad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg a betegség fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A betegség (morbus) olyan állapot, amikor az életfolyamatok a normálistól\ntartósan és jelentősen eltérnek, az egyén és környezete közötti egyensúly\nfelbomlik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Párosítsa a fehérvérsejt típusokat feladataikkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. B-lymphocyta\nA. humorális immunválasz\n2. T-lymphocyta\nB. sejtes immunválasz",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α...., 2.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul a csontok járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "csonthártya\ncsontvelő\nporc",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontdaganatok lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "napszaktól függetlenül jelentkező fájdalom\nfényes, feszülő bőr érrajzolattal\nmozgatási zavar\ntartósan meglévő duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?",
+      "question_type": "fill_in",
+      "correct_answer": "a bal vénás szögletben a vénákba....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. fala kb. 5 mm vastag\n2. vénás vér található benne\n3. artériás vér található benne\n4. fala kb. 15-20 mm vastag\n5. innen indul ki a tüdőverőér\n\njobb kamra jellemzői: ...1., 2., 5....\n\nbal kamra jellemzői: ...3., 4....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Nevezzen meg kettő-kettő olyan betegséget/állapotot, melyek a vér\nvegyhatásának megváltozásával járnak!\n\nSavas vegyhatás (acidosis) kialakulásának okai:\n- \n- \n- \n\nLúgos vegyhatás (alkalosis) kialakulásának okai:\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "vesebetegség\nkiterjedt tüdőbetegségek (szén-dioxid felszaporodása a vérben)\nanyagcsere-betegségek\nnagyfokú hányás\nnagyfokú hasmenés\nlégzészavarok (fokozott szén-dioxid leadás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk jellemző kóros légzési\nhanggal! Írja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdővizenyő\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata\n1. szörcsögő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...1...., С.-...2...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos széklet\nkínzó székelési inger\ngörcsös hasi fájdalom\nétvágytalanság\nláz, hőemelkedés\nvérszegénység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a gégére vonatkozó helyes megállapításokat!\n- latin neve: larynx\n- a nyelés szerve\n- latin neve: pharynx\n- a hangadás szerve\n- egyik porca a gégefedő\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n- a kannaporcok kiemelkedő szöglete az „ádámcsutka\"\n- a hangszalagok között található a hangrés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "larynx\na hangadás szerve\negyik porca a gégefedő\na hangszalagok között található a hangrés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!",
+      "question_type": "fill_in",
+      "correct_answer": "zsírsavak és glicerin\naminosavak\negyszerű cukrok (monoszacharidok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szervekhez jellemzőiket! Írja a sorszámokat a megfelelő helyre!\n1. átfúrja a gátat\n2. a húgyhólyag falát ferdén fúrja át\n3. kb. 30 cm hosszú\n4. latin neve urethra\n5. latin neve ureter\n6. férfiaknál 25 cm hosszú\nhúgycső: ...\nhúgyvezeték: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6.....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg az idült vesegyulladás lefolyásának három szakaszát!",
+      "question_type": "open",
+      "correct_answer": "krónikus renális tünetek szaka\na kompenzált veseelégtelenség szaka\nveseelégtelenség (urémia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse az fűtymaszűkület lényegét, gyógyításának lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról.\n- a fityma tágítása\n- a fityma eltávolítása\n- a fitymafék átvágása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és lelökődésének fázisait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- újraképződés\n- növekedés\n- elválasztás\n- lelökődés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák az anyagcsere-folyamatokat\n- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\n- fokozzák a szervezet oxigénfelhasználását\n- növelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- szükségesek a szellemi funkciókhoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!\n\nLényege:\n\nLehetséges okai: Írjon kettőt!\n-\n-\n-\n\nLehetséges tünetei: Írjon hármat!\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.\na mellékvesekéreg túlburjánzása\na mellékvesekéreg túlműködése\na mellékvesekéreg daganata\ngyógyszeresen nem befolyásolható magas vérnyomás\ncsökkent vér K-szint\nizomfájdalom\nizomgyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő betegséghez! Írja a\nsorszámokat a megfelelő helyre!\n1. tónusos generalizált roham\n2. fénykerülés\n3. aurajelenség\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. heves fejfájás\n6. magas láz\nEpilepsziás nagy roham: ...., ....\nAgyhártyagyulladás: ...., ...., ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 2., 4., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a neuroglia feladatai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az idegrendszer támasztó eleme\n- térkitöltő\n- elhatároló, elválasztó\n- részt vesz az idegszövet anyagcseréjében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a carcinoma mammae lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "az emlőbimbó behúzódása\nbehúzódások az emlő bőrén – narancshéj tünet\nekcémának tűnő elváltozás az emlőbimbón\naz emlő bőre duzzadt, kemény\nvéres váladék ürülése az emlőbimbóból\ncsomó(k) a hónaljban\nfekélyképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul a szemgolyó burkainak részeit a megadottak\nszerint!\n\nA szem külső burkának részei:\n- \n- \n\nA szem középső burkának részei:\n- \n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "ínhártya\nszaruhártya\nérhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!",
+      "question_type": "open",
+      "correct_answer": "- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_szeptember_16_VI_eumVI_200916_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a hypothermia lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- hideg, sápadt, száraz bőr\n- gyengeség\n- zavart tudat\n- aluszékonyság, ami eszméletvesztéshez vezet\n- lassú, felületes légzés\n- lassú, gyengülő pulzus (szívmegállás is bekövetkezhet)",
+      "options": []
+    }
+  }
+]

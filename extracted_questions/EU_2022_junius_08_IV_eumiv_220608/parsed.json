@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar, vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n|  |  |\n| gyulladás |  |\n|  |  |\n| tályog |  |\n|  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n| felfekvés | decubitus |\n|  | inflammatio |\n| elfajulás | degenaratio |\n|  | abscessus |\n| túltengés | hyperthrophia |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Sorolja fel a sejt alkotórészeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "sejthártya\ncitoplazma\nsejtorganellumok\nsejtmag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi felsorolásból az arckoponya páros csontjait!\n- maxilla\n- os ethmoidale\n- os nasale\n- os lacrimale\n- vomer\n- mandibula\n- os palatinum\n- os frontale\n- os sphenoidale\n- os zygomaticum\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "maxilla\nos nasale\nos lacrimale\nos palatinum\nos zygomaticum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a petyhüdt bénulás tüneteit, gyógyításának lehetőségeit!\nTünetei: Írjon hármat!\nGyógyításának lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a mozgásfejlődés visszamaradása\na szellemi fejlődés visszamaradása\nmozgászavar\nbeilleszkedési zavar\naz alapbetegség kezelése\ngyógytorna\nfizioterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Rendezze a szívbillentyűket elhelyezkedési helyeikhez! Írja a sorszámokat\na megfelelő helyre!\n1. kéthegyű vitorlás billentyű\n2. háromhegyű vitorlás billentyű\n3. zsebes billentyű\n\na bal pitvar és a bal kamra között: ....\ntruncus pulmonalisban: ....\nfő visszerekben: ....\na jobb pitvar és a jobb kamra között: ....\naortában: ....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n3\n2\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés) lehetséges okai közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- lázas állapot\n- pajzsmirigy túlműködés\n- szívelégtelenség\n- vérszegénység\n- egyes gyógyszerek szedése, pl. Atropin\n- élvezeti szerek fogyasztása (kávé, tea)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. asthma bronchiale\n2. idegrendszeri károsodás\n3. asthma cardiale\n4. súlyos anyagcserezavarok (pl. veseelégtelenség)\n\nA. Cheyne-Stokes-légzés\nB. Kussmaul-légzés\nC. nehézlégzés, belégzési nehezítettség\nD. nehézlégzés, hosszan elnyúló, sípoló kilégzés",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-Α., 3.-...C...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a légzés mechanizmusát belégzéskor!",
+      "question_type": "open",
+      "correct_answer": "a bordák megemelkednek\na mellüreg tágul\na mellüregi szívóhatás növekszik\na tüdők kitágulnak\na levegő beáramlik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a tartósan magas vércukorszint hosszú távú szövődményei\nközül!",
+      "question_type": "open",
+      "correct_answer": "látásromlás\nmagas vérnyomás\nvérkeringési zavarok\nérszűkület\nveseműködési zavarok\npajzsmirigybetegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nSzénhidrátok: ...\nZsírok: ...\nFehérjék: ...",
+      "question_type": "fill_in",
+      "correct_answer": "egyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Sorolja fel a vizeletelvezető rendszer részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "vesepiramisok gyűjtőcsatornái\nvesekelyhek\nvesemedence\nhúgyvezeték\nhúgyhólyag\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Írja le a vesekőbetegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "genetikus tényezők\nhormonális tényezők\nanyagcsere-betegségek\nkörnyezeti tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Határozza meg az alábbi anatómiai képletek elhelyezkedését a szervezetben!\n- csikló: ...\n- Bartholin-mirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a kisajkak találkozási pontjánál, a húgycsőnyílás felett...\na nagyajkak alsó harmadában, a hüvelybemenetnél...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa a férfi nemi szervekhez jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. ondóhólyag\nA. feladata a spermiumok tárolása és\nelvezetése\n2. dülmirigy\nB. erős izomzatú vastagfalú cső, amely a\nmellékherétől a húgyhólyag alapjáig ér\n3. mellékhere\nC. páros szerv, rövid kivezetőcsöve az\nondóvezetékbe nyílik\n4. ondóvezeték\nD. gesztenye nagyságú és alakú, a\nhúgyhólyag alatt helyezkedik el",
+      "question_type": "matching",
+      "correct_answer": "1.-...C....,\n2.-...D....,\n3.-...Α....,\n4.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Jellemezze a kalcitonin hormont a megadott szempontok szerint!\ntermelődési helye:\n...\nhatása:\n...\nhatásmechanizmusa:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "pajzsmirigy\na vér kalciumszintjét csökkenti\nsegíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse a golyvát a megadott szempontok szerint!\nLényege:\n...\nLehetséges tünetei: Írjon hármat!\n-\n-\n-\n-\nGyógyítása:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a pajzsmirigy megnagyobbodásával járó kórkép...\na pajzsmirigy látható megnagyobbodása\nfulladásérzés\nnyelési nehézség\nrekedtség\nfokozott jódbevitel\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le a tudat összerendezettségi zavarainak lényegét!",
+      "question_type": "open",
+      "correct_answer": "tudatbeszűkülés: ...csupán egy fontos problémára koncentrálódik a figyelem, az\nérzelemvilág és a viselkedés, további lényeges elemeket nem vesz figyelembe...\nlaza tudatállapot: ...legsúlyosabb formája az amentia, a teljes tudatszétesés, a\npszichés funkciók széttöredezettek, a beteg gondolkodását és viselkedését a\nkülvilág ingerei percről percre változtatják...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Nevezze meg a reflexív részeit!",
+      "question_type": "open",
+      "correct_answer": "receptor\nérző neuron (afferens szár)\nreflexközpont\nmozgató neuron (efferens szár)\neffektor (válasz), végkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szemgolyó burkainak részeit! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. érhártya\n2. ínhártya\n3. sugártest\n4. szaruhártya\n5. szivárványhártya\n\nA szem külső burkának részei: ...., ....\n\nA szem középső burkának részei: ...., ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n1., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Méniére-betegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "rohamokban jelentkező, forgó jellegű szédülés\nhányinger, hányás\nszemtekerezgés\nfülzúgás/fülcsengés\nhalláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül felnőttek esetén – az égett területek mértékének\nfelmérésére szolgáló 9-es szabály alapján – a 9%-nak megfelelő területeket!\n- az egész mellkas\n- a gáttájék\n- egy felső végtag\n- egy alsó végtag\n- a has\n- a törzs hátsó fele\n- a fej\n- egy alsó végtag a térdtől lefelé\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "egy felső végtag\negy alsó végtag\na has\na fej\negy alsó végtag a térdtől lefelé",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_IV_eumiv_220608_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "halálfélelem\nszorító, erős mellkasi fájdalom\na fájdalom kisugárzik a bal vállba, karba\ngyomortáji fájdalom\nnehézlégzés\nszédülés, gyengeség\nszürkés bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

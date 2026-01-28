@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi szövettípusokat a megadott\njellemzőkhöz! Írja a sorszámokat a megfelelő betűjelhez!\n\nA: hámszövet\nB: kötő- és támasztószövet\nC: izomszövet\nD: idegszövet\n\n1. feladata a sejtek, szövetek összekapcsolása, szerepe van a szervezet\npasszív tartásában\n2. a szervezet információs rendszerét építi fel\n3. összehúzódásra képes\n4. a test felszínét borítja, a testüregeket béleli\n\nA-......; B-......; C-......; D-......",
+      "question_type": "matching",
+      "correct_answer": "A-...4...; B-...1...; C-...3...; D-...2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\npikkelysömör: ...\nmagas vérnyomás: ...\nérelmeszesedés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "psoriasis\nhypertonia\narteriosclerosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Rendelje a gyulladás helyi tüneteinek latin kifejezése\nmellé azok magyar megfelelőjét!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. rubor\nB. tumor\nC. calor\nD. dolor\nE. functio laesa\n1. működéskárosodás\n2. melegség\n3. fájdalom\n4. vöröses elszíneződés\n5. duzzanat",
+      "question_type": "matching",
+      "correct_answer": "A-...4...; B-...5...; C-...2...; D-...3...; E-...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a felső ugróízület (bokaízület) alkotásában részt vevő csontokat!",
+      "question_type": "open",
+      "correct_answer": "sípcsont\nszárkapocscsont\nugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a betegségek sorszámát!\n\nBetegségek:\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nBetegségek jellemzői:\nA kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódással járó\nbetegsége: ...\n\nLezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívbelhártya-gyulladást is okozhat: ...\n\nA gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n...",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jobbszívfél-elégtelenség\n(cardialis decompensatio) tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "nagyvérköri pangás\ncianózis (szederjesség)\ncardialis oedema (boka, lábszár, hasvízkór)\ntelt nyaki vénák\nnappali vizelet mennyisége csökken\néjszakai vizelés (nocturia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Rendezze a megállapításokat a megfelelő csoporthoz!\nÍrja a csoportokhoz a helyes válasz sorszámát!\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\nAnasztomózis:...\nKollaterális érösszeköttetés:...\nVégartéria:...",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Soroljon fel a vörösvérsejtek képződéséhez szükséges anyagok közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "B₁ - vitamin\nB12 - vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) tünetei közül\nhatot!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz, vagy teljes láztalanság\nszapora, nehezített légzés\nmellkasi- és hátfájdalom\nfejfájás\nszapora pulzus\nköhögés (improduktív, produktív)\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- hörgők\n- nyelőcső\n- pajzsmirigy\n- aortaív ágai\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív, nyelőcső, aortaív ágai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n| vékonybél | tripszin |  |\n|  | amiláz, maltáz, laktáz |  |\n|  |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n|  | lipáz | zsír |\n| vékonybél |  | fehérje |\n|  |  | szénhidrát |\n|  | lipáz | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a normál vizelet alkotóelemei közül!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a gennyes vesemedence-gyulladás\n(pyelonephritis acuta) okait, tüneteit!\nOkai: Írjon kettőt!\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "bakteriális\naszcendáló fertőzés\nmagas láz, hidegrázás\nkínzó, gyakori vizelési inger\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse a hererák betegséget az alábbi szempontok\nszerint!\n\nA betegség lényege:\n\nA betegség tünete: Írjon egyet!\n- a here tapintatának megváltozása\n- csomók megjelenése a here felszínén\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n- a here műtéti eltávolítása\n- kemoterápia\n- radikális nyirokhálózat-eltávolítás\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Rosszindulatú daganatos elváltozás a herében, amely a nyirokerek és a\nkeringés útján terjed.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két\nszemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését, feladatát!\n\nRészei:\n-\n-\n-\n\nElhelyezkedése:\n-\n\nFeladata:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak (cervix)\n\na kismedence közepén, a hólyag és a végbél között található\n\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n|  | A csecsemőmirigy |\n|---|---|\n| hormonja |  |\n| feladatai |  |\n| helye a szervezetben |  |\n| jellemzője Írjon egyet! |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|---|---|\n| hormonja | timozin |\n| feladatai | a növekedést, a szexuális fejlődést serkenti\nantitestképzés (nyirokszerv) |\n| helye a szervezetben | a gátorüreg elülső részében helyezkedik el |\n| jellemzője Írjon egyet! | kisgyermekkorig aktív, serdülőkortól elsorvad |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Nevezze meg az agyvelő burkait magyarul és latinul!",
+      "question_type": "matching",
+      "correct_answer": "- kemény agyburok - dura mater\n- pókhálóhártya - arachnoidea\n- lágy agyhártya - pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?",
+      "question_type": "fill_in",
+      "correct_answer": "...a prolaktin (luteotrop hormon)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nFogalma:\n\nFeladata: Írjon egyet!\n- mechanikus támasztó, térkitöltő, elhatároló funkció\n- gátat képez a véráram és az idegszövet határán (vér-agy gát)\n\nJellemzője: Írjon egyet!\n- az agyszövet nagyfokú védelmét biztosítja a vérben keringő esetleges\nkáros anyagokkal szemben\n- a vérből bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot –\nenged át",
+      "question_type": "open",
+      "correct_answer": "Az idegszövet sejtközötti állománya, az idegrendszer támasztószövete.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját\naz alábbi állapotokban!\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...\nHasi sérülés esetén: ...\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés...\nkemény alapon hanyatt fektetve...\nhanyatt fektetve, a sérült lábait térdben felhúzva...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Soroljon fel az övsömör (herpes zoster) tünetei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "féloldalon deréktájon (övalakban) elhelyezkedő borsónyi hólyagok keletkeznek\naz idegek lefutásának megfelelően jelenik meg (leggyakrabban a háti idegek mentén) az elváltozás\na hólyagok megjelenése előtti napokban az érintett terület már fájdalmas",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_aprilis_20_I_EuMI_0420_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges okait!\r\nÍrjon hármat - hármat!\r\nLégzésmegállás lehetséges okai:\r\n\r\n\r\n\r\n\r\nKeringésmegállás lehetséges okai:\r\n\r\n\r\n\r\n\r\n",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  }
+]

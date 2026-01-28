@@ -1,0 +1,306 @@
+[
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- hámszövet\n- idegszövet\n- izomszövet\n- kötő-, és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4. pont",
+      "points": 1,
+      "question_text": "A vérplazma ozmotikus nyomását elsősorban a(z) ... határozza meg.",
+      "question_type": "fill_in",
+      "correct_answer": "nátriumion koncentrációja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Csoportosítsa az immunitás típusait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. faji immunitás\n2. védőoltások által szerzett immunitás\n3. fertőző betegségek átvészelése után kialakult immunitás\n4. anyai immunitás\n\nveleszületett immunitás: ...., .....\n\nszerzett immunitás: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Egészítse ki a csigolyák számával az alábbi táblázatot!\n| Csigolyák megnevezése | Csigolyák darabszáma |\n|-----------------------|-----------------------|\n| nyaki csigolya |  |\n| háti csigolya |  |\n| ágyéki csigolya |  |\n| keresztcsonti csigolya |  |\n| farkcsigolya |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Csigolyák megnevezése | Csigolyák darabszáma |\n|-----------------------|-----------------------|\n| nyaki csigolya | 7 |\n| háti csigolya | 12 |\n| ágyéki csigolya | 5 |\n| keresztcsonti csigolya | 5 |\n| farkcsigolya | 3-4 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való\nelmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- sipoly\n- fájdalom\n- alakváltozás\n- duzzanat\n- izomsorvadás\n- X- láb\n- vérömleny\n- vérmérgezés\n(Csak 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás\nduzzanat\nvérömleny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző funkciókkal! Írja a\nbetűjelek mellé a helyes válasz sorszámát!\n\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma\n\n1. immunvédekezés\n2. oxigén megkötése\n3. hormonok szállítása\n4. véralvadás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., В.-...1...., C.-...4...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt! Folytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "open",
+      "correct_answer": "- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Írja le a tüdőasztma (asthma bronchiale) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Jellemezze a légzőrendszer védekező reflexeit!\nköhögés:\n- zárt hangrés melletti erős kilégzés\n- a levegőáramlás magával ragadja az alsó légutakat izgató anyagot\na köhögés típusai:\n- produktív köhögés – köpetürítéssel járó köhögés\n- improduktív köhögés – köpetürítéssel nem járó, „száraz köhögés\ntüsszentés:\n- az orr nyálkahártyáját izgató anyag váltja ki\n- mély belégzést követő robbanásszerű kilégzés",
+      "question_type": "open",
+      "correct_answer": "zárt hangrés melletti erős kilégzés\na levegőáramlás magával ragadja az alsó légutakat izgató anyagot\nproduktív köhögés – köpetürítéssel járó köhögés\nimproduktív köhögés – köpetürítéssel nem járó, „száraz köhögés\naz orr nyálkahártyáját izgató anyag váltja ki\nmély belégzést követő robbanásszerű kilégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer részeit! Írja a\nsorszámokat a megfelelő helyre!\n1. agyvelő\n2. gerincvelő\n3. agyidegek\n4. gerincvelői idegek\n\nközponti idegrendszer: ...1., 2....\n\nkörnyéki, vagy perifériás idegrendszer: ...3., 4....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer enzimeit és azok funkcióját! Egészítse ki\na táblázatot!\n\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n| vékonybél | tripszin |  |\n|  | amiláz |  |\n|  |  | zsír|\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n|  | lipáz |  |\n|  |  | fehérje |\n|  |  | szénhidrát |\n| vékonybél | lipáz |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse a nyál szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- szájnyálkahártya nedvesítése\n- szájüreg öntisztulásának biztosítása\n- a falat kialakításának segítése\n- a nyelés megkönnyítése\n- baktériumok elszaporodásának megakadályozása (baktericid hatás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?\nMennyi a vizelet fajsúlya?\nTartalmaz-e a végleges vizelet élettanilag urobilinogént?\nTartalmaz-e a végleges vizelet élettanilag bilirubint?\nMely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba ágyazva?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben\n1020-1025 g/l (1001-1040 g/l)\ntartalmaz\nnem tartalmaz\na mellékvese",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- csökkent folyadékbevitel\n- a szervezet fokozott folyadék leadása\n- nagyfokú ödémaképződés\n- veseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\nhere: ...\nmellékhere: ...\nondóhólyag: ...\ndülmirigy:...\nherezacskó: ...\nhímvessző: ...",
+      "question_type": "fill_in",
+      "correct_answer": "testis\nepididymis\nvesicula seminalis\nprostatata\nscrotum\npenis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "baktérium\na vizeletürítés károsodása\nvisszaáramlás a prosztata kivezetőcsöveiben\nimmunrendszeri tényezők\nkémiai anyagok\nlelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a szervezetben!\nhipofízis: ...\ncsecsemőmirigy: ...\ntobozmirigy: ...\npajzsmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na gátorüregben, a szegycsont mögött...\na koponya belsejében...\na nyak elülső részén, a pajzsporc alatt...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A vérplazma fehérjéinek ozmotikus nyomása:",
+      "question_type": "multiple_choice",
+      "correct_answer": "csökkenti",
+      "options": [
+        "növeli",
+        "csökkenti",
+        "nem befolyásolja"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. gigantizmus\n2. diabetes insipidus\n3. Basedow-kór\n4. myxoedema\n\nAz endokrin mirigy alulműködése okozza: ......\nAz endokrin mirigy túlműködése okozza: .......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n....1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\nívjáratok\nfülkürt\nhallócsontok\nhallóideg\nkengyel\ncsiga\ndobhártya\nfülkagyló\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nfülkürt\nhallóideg\ncsiga",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel az afta kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "vírusos, vagy bakteriális fertőzés\nstressz\nvitaminhiány\nfolsavhiány\nkialvatlanság\nelhanyagolt szájhigiéné",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. vágott seb\n2. horzsolt\n3. szúrt\n4. szakított\n5. csonkolt\nA. horgas, kampós eszköz\nB. hegyes szúró eszköz\nC. éles tárgy\nD. súrlódás, esés, csúszás\nE. gépek, sínen haladó járművek",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C...., 2.- ...D...., 3.-...B...., 4.-...A..., 5.- ...Ε....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_II_eumii_190605_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Soroljon fel az artériás nyomópontoknak megfelelő erek közül négyet\nmagyarul!",
+      "question_type": "open",
+      "correct_answer": "halántéki artéria\nállcsonti artéria\nközös nyaki ütőér\nkulcscsont alatti artéria\nfelkari artéria\ncombütőér",
+      "options": []
+    }
+  }
+]

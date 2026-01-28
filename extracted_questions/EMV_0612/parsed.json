@@ -1,0 +1,331 @@
+[
+  {
+    "file": "EMV_0612_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindegyik válasz helyes",
+      "options": [
+        "a szívizomsejtek speciális formái",
+        "automatikusan képesek depolarizálódni",
+        "egymással szoros kapcsolatban állnak",
+        "mindegyik válasz helyes"
+      ]
+    }
+  },
+  {
+    "file": "EMV_0612_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Csoportosítsa a daganatok jellemzőit a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. eltávolításuk után kiújulhatnak (recidiválnak)\n2. áttétet (metasztázist) képezhetnek\n3. átszövik a környező szöveteket, összenőnek velük\n4. környezetüktől élesen elhatárolódnak\n5. növekedésük lassú\n6. sejtjeik és szerkezetük hasonlít a kiinduló szövet sejtjeihez növekedésük\nlassú\n\nJóindulatú daganatok jellemzői: ...\n\nRosszindulatú daganatok jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4., 5., 6....\n1., 2., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azok a testidegen anyagok, amelyek a szervezetbe jutva immunválaszt\nváltanak ki, és ennek eredményeként specifikus ellenanyagok, illetve\nimmunsejtek képződnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Írjon le a veleszületett csípőficam tünetei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "- hosszkülönbség az alsó végtagok között\n- a farredők ráncaszimmetriája\n- bicegő, kacsázó járás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Nevezzen meg kettőt-kettőt a lúdtalp kialakulásának lehetséges okai és\ngyógyításának lehetőségei közül!\nKialakulásának lehetséges okai:\n- \n- \n- \nGyógyításának lehetőségei:\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "korai járatás gyermekkorban\nhirtelen testsúlynövekedés\ntúlterhelés (pl. álló foglalkozásúaknál)\nlúdtalpbetét\ngyógytorna\nsúlyosabb esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a lépre vonatkozó helyes megállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kékesvörös színű, puha, páratlan szerv\nfehér pulpáját a vér alakos elemei alkotják\nfő feladata a lymphocyták képzése\nszöveti szerkezete két állományra különíthető el\nlebontja a vörösvérsejteket és a vérlemezkéket is\na rekesz alatt a hasüreg bal oldalán helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Írjon le az érelmeszesedés rizikótényezői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nhelytelen táplálkozás\nmagas koleszterinszint a vérben\nmozgásszegény életmód\ncukorbetegség\nhajszolt életmód",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket latinul!",
+      "question_type": "open",
+      "correct_answer": "sinus frontalis\nsinus maxillaris\nsinus sphenoidalis\ncellulae ethmoidales",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Nevezze meg a cor pulmonale (tüdő eredetű szívbetegség) négy jellemző tünetét!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés\n- légszomj\n- cianózis\n- dobverőujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Állítsa helyes sorrendbe az alábbi anatómiai képleteket a táplálék\nemésztőrendszerben megtett útjának megfelelően! Írja a sorszámokat a\npontozott vonalra!\n\n1. intestinum\n2. pharynx\n3. gaster\n4. cavum oris\n5. oesophagus\n6. colon",
+      "question_type": "fill_in",
+      "correct_answer": "4., 2., 5., 3., 1., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Ismertesse a húgysavanyagcsere-zavar (köszvény) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A húgysavanyagcsere zavara következtében húgysavkristályok keletkeznek, amelyek az ízületekben felhalmozódva gyulladásos rohamokat okoznak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a veseműködés idegi szabályozását a megadott\nszempontok szerint! Töltse ki a táblázatot!\n\n|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| vérnyomás a glomerulusokban |  |  |\n| szűrés |  |  |\n| vizelet mennyisége |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| vérnyomás a glomerulusokban | emelkedik | csökken |\n| szűrés | fokozódik | csökken |\n| vizelet mennyisége | nő | csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Egészítse ki a vizeletre vonatkozó alábbi mondatokat!\nA normál vizelet ... színű, ... szagú, átlátszó\nfolyadék. A normál vizelet víztartalma ... Az elsődleges vizelet\nmennyisége naponta ... Az elsődleges vizelet koncentrációja\nmegegyezik a ....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\naromás húslé\n95%\n160-180 l\nvérplazmáéval",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Párosítsa a férfi nemi szervekhez jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. here\n2. mellékhere\n3. ondóvezeték\n4. ondóhólyag",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...Β...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse a méhnyakrák jellemzőit, gyógyításának lehetőségeit! Írjon kettőt-kettőt!",
+      "question_type": "open",
+      "correct_answer": "eleinte semmilyen panaszt sem okoz\nfolyás\nvéres váladékozás\nközösülés után jelentkező vérzés\nműtét\nkemoterápia\nbesugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a\nszervezetben!\nhipofizis: ...\ncsecsemőmirigy: ...\npajzsmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na gátorüregben, a szegycsont mögött...\na nyak elülső részén, a pajzsporc alatt...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az acromegalia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "a csontok végi részének megvastagodása\nmegnagyobbodott orr\nmegvastagodott ajak és fül\nmegerősödött állkapocs és szemöldökiv\nelőreugró áll\nnagy, durva nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg az idegrendszer egyes területeit a megadott jellemzők alapján!\n\nKözponti része az agytörzsben és a gerincvelő szakrális részében található, az\nagytörzsi részt főképp a X. agyideg magva, kisebb részt a III., VII. és IX. agyideg\nmagvai képviselik:\n...\n\nAkaratunktól független működésű, a belső szervek működését irányítja,\nanatómiailag és működés tekintetében két részre osztható:\n...\n\nKözponti része a gerincvelő háti és ágyéki szakaszán van, környéki részét képezi\na gerinc két oldalán húzódó határlánc:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "paraszimpatikus idegrendszer\nvegetativ idegrendszer\nszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar\nmegfelelőivel!\n\nKóros elváltozások\n| latinul | magyarul |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latinul | magyarul |\n|---------|---------|\n|  | izomgyengeség |\n| paralysis | bénulás |\n|  | remegés (akarattól független) |\n| rigor | izomtónus-fokozódás |\n|  | beszédzavar |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Határozza meg a reflexív fogalmát!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- látótér\n- szemtengely\n- szemmozgató izmok\n- a szem védőkészülékei\n- szemgolyó\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemmozgató izmok\na szem védőkészülékei\nszemgolyó\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a szaglószerv fáradékonyságának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ember szaglószerve fáradékony, bizonyos idő eltelte után az adott szagot már\nnem érzi, hozzászokik a szaghoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg a külső fül részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Írja le, hogy eszméletlen beteg légzésvizsgálatakor mely esetben ítélhetjük a\nbeteg légzését normálisnak!",
+      "question_type": "open",
+      "correct_answer": "Amennyiben a légút felszabadítását követően a beteg arca fölé hajolva, a\nmellkasát hármas érzékeléssel (érzem – hallom – látom) 10 másodpercig\nfigyelve, legalább kettő minőségi légvétel történik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Írjon le tömeges baleset során az ellátás nehézségeit jelentő tényezők közül\nhármat!",
+      "question_type": "open",
+      "correct_answer": "- a rendelkezésre álló mentőerők száma\n- az életveszélyes, súlyos sérültek nagy aránya\n- az ideális feltételek hiánya\n- a gyors ellátás igénye\n- a gyors szállítás igénye",
+      "options": []
+    }
+  },
+  {
+    "file": "EMV_0612_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Húzza alá felnőttek esetén a 9%-nak megfelelő területeket az égett területek\nmértékének felmérésére szolgáló 9-es szabály alapján!\n- egy alsó végtag a térdtől lefelé\n- az egész mellkas\n- a gáttájék\n- egy felső végtag\n- egy alsó végtag\n- a has\n- a törzs hátsó fele\n- a fej\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "egy alsó végtag a térdtől lefelé\negy felső végtag\negy alsó végtag\na has\na fej",
+      "options": []
+    }
+  }
+]

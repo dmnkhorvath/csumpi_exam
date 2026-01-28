@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa a krónikus gyulladás típusait és jellemzőit! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. exsudatív jellegű gyulladás\n2. alternatív jellegű gyulladás\n3. idült produktív gyulladás\n\nA. elfajulásos és elhalásos jelenségek,\nkötőszövetes átalakulás\nB. idült tályog, nyálkahártyák\nkrónikus hurutjai\nC. sejtdús sarjszövetképződés, sajátos\nformája a granulómás gyulladás",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-A., 3.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sejtorganellumok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sejtközpont\nmitokondriumok\nendoplazmatikus retikulum\nGolgi-apparátus\nriboszómák\nlizoszómák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt feladata a szervezetben az ellenanyagok (immunglobulinok) termelése?\n...\nMelyik sejt felelős a beültetett transzplantátum kilökődéséért?\n...\nMit jelent a hematokrit érték?\n...",
+      "question_type": "open",
+      "correct_answer": "B-lymphocyta\na T-lymphocyta\na vérsejtek százalékos aránya a teljes vértérfogathoz viszonyítva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a dongaláb megbetegedést a megadott szempontok szerint!\nLényege:\n...fejlődési rendellenesség, az alsó végtagok a hordó dongájához hasonlóan a\nközépvonal felé görbülnek...\nGyógyításának, kezelésének lehetőségei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "korrekció gipszeléssel, tartó- és rögzítősínekkel\ngyógytorna\nmasszázs\nortopédiai cipő alkalmazása\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a helyes válasz sorszámát a\nmegfelelő helyre!\n\n1. vérzés\n2. anafilaxia\n3. vérmérgezés\n4. égés\n5. mellékvese-elégtelenség\n6. folyadékvesztés\n\ndisztributív sokk okai: ...\nhypovolaemiás sokk okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a légzésszámot növelő tényezőket!\n- a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\n- a vér vegyhatásának savas irányba tolódása\n- a vegetatív idegrendszer paraszimpatikus hatása\n- a vér hőmérsékletének emelkedése\n- a légzés akaratlagos visszatartása\n- mély alvás állapota\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a légzőközponton áthaladó vér szén-dioxid-nyomásának emelkedése\na vér vegyhatásának savas irányba tolódása\na vér hőmérsékletének emelkedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q009_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 7,
+      "question_text": "Ismertesse a garatgyulladás lehetséges okait és tüneteit!\nLehetséges okai: Írjon kettőt!\n\nLehetséges tünetei: Írjon ötöt!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "felső légúti vírus, vagy baktérium\n- forró, vagy túl hideg táplálék fogyasztása\n- a gyulladást állandósíthatja a dohányzás, a rendszeres alkoholfogyasztás\n- kaparó, égő jellegű fájdalom\n- a garat éjszakai kiszáradása\n- állandó idegentestérzés a torokban\n- vérbő és váladékos garatnyálkahártya\n- magas láz\n- étvágytalanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi szakaszainak latin, vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\nAz emésztőrendszer szakaszai\n| magyarul | latinul |\n|----------|----------|\n| szájüreg |\n| nyelőcső |\n| patkóbél |\n| vakbél |\n| haránt vastagbél |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|----------|----------|\n|  | cavum oris |\n|  | oesophagus |\n|  | duodenum |\n|  | caecum |\n|  | colon transversum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a cukorbetegség lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- fokozott szomjúságérzet\n- a vizeletben cukor megjelenése\n- fáradtság\n- teljesítménycsökkenés\n- bőrviszketés\n- testsúlycsökkenés\n- folyadék-, és elektrolit háztartás zavara\n- nehezen gyógyuló sebek\n- a nemi működés csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg az idült vesegyulladás lefolyásának három szakaszát!",
+      "question_type": "open",
+      "correct_answer": "krónikus renális tünetek szaka\na kompenzált veseelégtelenség szaka\nveseelégtelenség (urémia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. Henle-kacs\n2. érgomolyag\n3. Bowman-tok\n4. glomerulus\n5. elsődleges kanyarulatos csatorna\n6. másodlagos kanyarulatos csatorna\n\ntubulus része: ...\n\nMalpighi-test része: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5., 6....\n2., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi anatómiai képletek elhelyezkedését a szervezetben!\n- barlangos test: ...\n- sárgatest: ...\n- Bartholin-mirigyek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a hímvessző állományában\na petefészekben\na hüvelybemenet közelében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nkábítószer-fogyasztás elkerülése (közös tűhasználat kerülése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a méhnyakrák jellemzői/tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- eleinte semmilyen panaszt sem okoz\n- folyás\n- véres váladékozás\n- közösülés után jelentkező vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyeket a szervezetben található\nhelyükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. csecsemőmirigy\n2. pajzsmirigy\n3. tobozmirigy\n4. hipofizis\n\nA. a koponya belsejében\nB. a középső koponyagödörben, a töröknyeregben\nC. a nyak elülső részén, a pajzsporc alatt\nD. a gátorüregben, a szegycsont mögött\n\n1.-......, 2.-......, 3.-......., 4.-.......",
+      "question_type": "matching",
+      "correct_answer": "D, C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a mellékpajzsmirigy túlműködésének lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- a vér Ca-szintjének emelkedése\n- vesekőképződés\n- felritkult, törékeny csontok\n- gyomorfekély kialakulása\n- hasnyálmirigy-gyulladás\n- szívritmuszavarok\n- magas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- kisagyi lebeny\n- fali lebeny\n- rostacsonti lebeny\n- nyakszirti lebeny\n- halántéki lebeny\n- alsó lebeny\n\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöbinger:\n...olyan\nküszöb alatti inger:\n...olyan\nminimális stimulus:\n...az a",
+      "question_type": "fill_in",
+      "correct_answer": "erősségű inger, amely idegimpulzust vált ki...\ngyenge inger, amelyre az idegrost nem válaszol...\nlegkisebb inger, amely egyetlen idegrostot képes ingerelni...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Írja le a progresszív stroke (PS) lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "- az ingerek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a myopiát a megadott szempontok szerint!\nLényege:\n...\nOka:\n...\nTünetei:\n- elmosódott látás\n- a távoli tárgyak homályos látása\nKorrigálásának lehetősége:\n...",
+      "question_type": "open",
+      "correct_answer": "a szemben az éles kép az ideghártya előtt keletkezik...\na szemgolyó hossztengelyének megnyúlása...\nszórólencséjű szemüveg/kontaktlencse alkalmazása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavartság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XIV_eumxiv_210618_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Határozza meg a rándulás és a ficam lényegét!\nRándulás:\n...Külső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba....\nFicam:\n...Az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba....",
+      "question_type": "open",
+      "correct_answer": "...Külső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba....\n...Az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba....",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\n- szív: ...\n- máj: ...\n- gyomor: ...\n- tüdő: ...\n- lép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster/ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel! Írja a sorszámokat a\nmegfelelő betűjelhez!\n\nA. normostheniás (atléta-) alkat\nB. astheniás (leptoszom) alkat\nC. hyperstheniás (piknikus) alkat\nD. kevert alkat\n\n1. gyengén fejlett izomzat és csontozat, hajlam lúdtalpra, sérvre, alacsony\nvérnyomásra, székrekedésre\n2. a főbb alkati típusok tulajdonságai keverednek\n3. széles váll, keskeny csípő, fejlett izomzat, nincs betegséghajlam\n4. hízásra való hajlam, gyakoriak a gyulladások, görcsök, érelmeszesedés,\nkoszorúér-betegségek, agyvérzés, magas vércukorszint és vérnyomás",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., В.-...1...., С.- ...4...., D.- ...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Scheuermann-féle betegség tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- terhelhetőség csökkenése\n- mozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Irja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....\n3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá a nagyvérkör ereit!\n- aorta\n- vena cava superior\n- arteria pulmonalis\n- vena pulmonalis\n- vena cava inferior",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava superior\nvena cava inferior",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg a fehérvérsejtek három nagy csoportját!",
+      "question_type": "open",
+      "correct_answer": "- granulocyták\n- lymphociták\n- monocyták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?",
+      "question_type": "fill_in",
+      "correct_answer": "három",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formával! Írja a betegségek sorszámát a megfelelő csoporthoz!\n\n1. súlyos anyagcserezavarok\n2. veseelégtelenség\n3. krónikus obstruktív légúti betegség\n4. centrális keringési elégtelenség\n\ndyspnoe: ...., ...\n\nKussmaul-légzés: ...., ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4....\n1., 2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges kiváltó okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- összenövés\n- daganat\n- idegentest\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga előállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Ismertesse a normál vizelet jellemzőit!\n- színe:\n- fajsúlya:\n- napi mennyisége:\n- vegyhatása:\n- szaga:",
+      "question_type": "open",
+      "correct_answer": "szalmasárga\n1020-1025 g/l (1001-1040 g/l)\n1,5-2 l\nsavanyú\naromás húslé szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. érgomolyag\n2. Bowman-tok\n3. Henle-kacs\n4. másodlagos kanyarulatos csatorna\n5. glomerulus\n6. elsődleges kanyarulatos csatorna\n\nMalpighi-test része: ....\ntubulus része: .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a premenstruációs zavarok (PMS) lehetséges tünetei\nközül!",
+      "question_type": "open",
+      "correct_answer": "- depresszió\n- ingerlékenység\n- csökkent koncentrálóképesség\n- fejfájás\n- emlőérzékenység\n- álmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek elhelyezkedését a szervezetben!\nLeydig-sejtek: ...\nbarlangos test: ...\nsárgatest: ...\nBartholin-mirigyek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na hímvessző állományában...\na petefészekben...\nhüvelybemenet közelében...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását! Egészítse ki a táblázatot!\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a Basedow-kór tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- megnagyobbodott pajzsmirigy\n- nagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\n- szapora szívműködés\n- szívdobogásérzés\n- jó étvágy mellett súlycsökkenés\n- élénk bélmozgás, hasmenés\n- nyirkos tenyér és talp\n- állandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó szarv\n2. oldalszarv\n3. elülső szarv\n\nA. vegetatív neuronok\nB. mozgató neuronok\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q019_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 7,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét, tüneteit!\nLényege: az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.\n- tudatzavar\n- bénulások\n- légzészavar\n- beszédzavar\n- incontinentia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a bőr feladatait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a test elhatárolása a külvilágtól\n- a test védelme\n- hőszabályozás\n- zsírraktározás\n- érzékszerv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Határozza meg a rándulás és a ficam lényegét!\nrándulás:\n\nficam:",
+      "question_type": "open",
+      "correct_answer": "...külső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba...\n...az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_junius_05_I_eumi_190605_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebben lévő/a sebből kiálló idegen testet eltávolítani tilos\nsebbe nyúlni tilos",
+      "options": []
+    }
+  }
+]

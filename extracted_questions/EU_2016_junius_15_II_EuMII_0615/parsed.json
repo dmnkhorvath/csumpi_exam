@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 2,
+      "question_text": "Soroljon fel a trombózis kialakulásában szerepet játszó tényezők közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lelassulása\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes válasz betűjelét!\n\n1. ventralis\nA. központi\n2. centralis\nB. alsó\n3. inferior\nC. hasi irányú",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA kórokozó behatolásától a tünetek megjelenéséig tartó szakasz:\n- lappangási szakasz\n- bevezető szakasz\nA betegségre jellemző speciális tünetek megjelenése, amelyek alapján\nfelállítható a kórisme:\n- kimeneteli szakasz\n- kifejlődés szakasza\nElhúzódó lefolyású betegség (maximum 4-6 hét):\n- heveny /akut/ betegség\n- félheveny /szubakut/ betegség\nA betegség folyamán aktív és nyugalmi szakaszok váltakoznak:\n- heveny /akut/ betegség\n- idült /krónikus/betegség\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási szakasz\nkifejlődés szakasza\nfélheveny /szubakut/ betegség\nidült /krónikus/betegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék\n- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "question_type": "open",
+      "correct_answer": "zsírok, lipoidok\nszénhidrátok\nvéralvadási faktorok\nfestékanyagok\nnitrogéntartalmú anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann-betegséget az alábbi\nszempontok szerint!\nA betegség megjelenésére jellemző életkor:\n...\nA betegség lényege: Írjon kettőt!\n-\n-\n-\nA betegség terápiája: Írjon egyet!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "serdülőkor...\na csigolyatestek elvesztik szilárdságukat\na csigolyatestek elkeskenyednek\na csigolyák ék alakúvá deformálódnak\ngyógytorna\núszás\nfűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a csonttörés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Rendezze a megállapításokat a megfelelő csoporthoz!\nÍrja a csoportokhoz a helyes válasz sorszámát!\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\nAnasztomózis:...\nKollaterális érösszeköttetés:...\nVégartéria:...",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nParaszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\nszűkülnek",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső\nszakaszának részeit!\n- végbél\n- csípőbél\n- szájüreg\n- gyomor\n- patkóbél\n- vastagbél\n- nyelőcső\n- éhbél\n- garat\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. fehérjék\nA. kollagenáz, elasztáz\n2. szénhidrátok\nB. lipáz\n3. zsírok\nC. tripszin\n4. kötőszöveti rostok\nD. amiláz\n\n1.- ......, 2.- ......, 3.- ......, 4.- ......",
+      "question_type": "matching",
+      "correct_answer": "C, D, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatait!",
+      "question_type": "open",
+      "correct_answer": "a vizelet gyűjtése\na vizelet tárolása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vesemedence-gyulladás lehetséges tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Írja le magyarul, hogy az alábbi esetekben milyen kóros anyag szaporodik fel a vizeletben!\nProteinuria: ...\nHaematuria:...\nPyuria:...",
+      "question_type": "fill_in",
+      "correct_answer": "fehérje\nvér\ngenny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését, feladatát!\nRészei:\n-\n-\n-\nElhelyezkedése:\n...\nFeladata:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\na kismedence közepén, a hólyag és a végbél között található...\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "multiple_choice",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések\ntípusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények fogyasztása\nnövényvédőszer-mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik a progeszteron?\n...\nMi a szomatosztatin hatása?\n...\nHogy nevezzük a csecsemőmirigy hormonját?\n...\nHol termelődik a glükagon?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a petefészekben\na testnövekedést gátolja\ntimozin\na hasnyálmirigyben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel a Basedow-kór (hyperthyreosis) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívműködés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\nnyirkos tenyér és talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz\nkapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő\nbetegséghez! Írja a megadott csoportokhoz a helyes\nválasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagyroham: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemtengely\nszemmozgató izmok\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az emlőgyulladás (mastitis) lehetséges\ntünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "emlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_junius_15_II_EuMII_0615_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Ismertessen a HIV-fertőzés megelőzésének lehetőségei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "gumióvszer (kondom) használata\ntartós párkapcsolat\nsteril tű használata\nkábítószer-fogyasztás elkerülése",
+      "options": []
+    }
+  }
+]

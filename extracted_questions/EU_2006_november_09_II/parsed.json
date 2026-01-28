@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2006_november_09_II_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel a betegség kórlefolyásának szakaszait!",
+      "question_type": "open",
+      "correct_answer": "- lappangási szakasz\n- bevezető szakasz\n- kifejlődési szakasz\n- kimeneti szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi ábrán a számokkal megjelölt\ncsontokat magyarul és latinul! Válaszát írja a számok\nmellé a pontozott vonalra!",
+      "question_type": "fill_in",
+      "correct_answer": "1. ...combcsont-femur...\n2. ...térdkalács-patella...\n3. ...sípcsont-tibia...\n4. ...szárkapocs csont-fibula...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik szívüregből indul ki az aorta?\nMelyik billentyű található a bal kamra és a bal pitvar között?\nMelyik szívüregből indul ki a tüdőverőér?\nHová ömlik a szív saját gyűjtőere (sinus coronarius)?",
+      "question_type": "fill_in",
+      "correct_answer": "bal kamra\nkéthegyű (bicuspidalis) billentyű\njobb kamra\njobb pitvar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Ismertesse a nyirokcsomók szerepét!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "- lymphocyta-termelés\n- védekező működés a fagocitáló sejtek révén\n- szerepük van a rosszindulatú daganatok terjedésében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden mikor alakul ki embólia a szervezetben!",
+      "question_type": "open",
+      "correct_answer": "Embólia akkor alakul ki, ha vérrög vagy idegen anyag (zsír, levegő) beékelődik az érpálya valamelyik szakaszába, amelytől az ér elzáródik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q006_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 1,
+      "question_text": "Határozza meg a máj elhelyezkedését a szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A máj nagyrészt a jobb oldalon, közvetlenül a rekesz alatt helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Sorolja fel a légzőrendszer részeit!",
+      "question_type": "open",
+      "correct_answer": "orr\ngarat egy része\ngége\nlégcső\ntüdő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Csoportosítsa az alábbiakban megnevezett kórfolyamatok okait! Írja a csoportokhoz a megfelelő számot!\n1. ülő életmód\n2. bélférgesség\n3. enterális fertőzés\n4. rostszegény táplálkozás\n5. vaskészítmények szedése\n6. funkcionális izgalom\nA. hasmenés: ...\nB. székrekedés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 6\n1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Sorolja fel a belső női nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "- petefészek\n- petevezeték\n- méh\n- hüvely",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Határozza meg, hol helyezkedik el a pajzsmirigy!",
+      "question_type": "open",
+      "correct_answer": "A nyak elülső részén, a gége alsó és a légcső felső részét\nveszi körül.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q011_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 1,
+      "question_text": "Határozza meg, hol található a légzés szabályozásának\nközpontja!",
+      "question_type": "fill_in",
+      "correct_answer": "nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a rájuk jellemző köpettel!\nÍrja a számjegyek mellé a megfelelő betűt!\n1. gennyes\n2. bőséges, szilvalészerű\n3. üvegszerű, tapadós\n4. élénkpiros\nA. tüdőasztma\nB. tüdőtályog\nC. tuberkulozis (TBC)\nD. tüdővizenyő",
+      "question_type": "matching",
+      "correct_answer": "1.- ...B...; 2.- ...D...; 3.- ...A...; 4.- ...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Sorolja fel, hogyan történhet ma hazánkban a tüdő\nTBC (tuberculosis) megelőzése!\nNevezze meg a négy /4/ megelőzési módot!",
+      "question_type": "open",
+      "correct_answer": "- rendszeres tüdőszűrés (évente egyszer)\n- tisztasági (higiénés) szabályok betartása\n- védőoltások\n- fertőző források felkutatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Nevezze meg, hogy mely légúti reflexszel védekezik\na szervezet az alábbi esetekben!\nVálaszát írja a pontozott vonalra!\nA légutak legfelső részébe került idegen anyagok eltávolítását\nbiztosító légúti reflex:\n...\nA légutak középső és alsó részébe került idegen anyagok és az ott\nkeletkezett váladék eltávolítását biztosító reflex:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "tüsszentés\nköhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q015_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 8,
+      "question_text": "Ismertesse röviden az angina perctorist az alábbiakban\nmegadott szempontok szerint!\n\nA fájdalom jellege: ...\n\nA fájdalom kisugárzása: (Írjon hármat /3/!)\n-\n-\n-\n-\n-\n\nTünetek: (Írjon négyet /4/!)\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "szorító, markoló érzés...\nbal váll\nbal kar\nlapockák közé\nnyak bal oldala\ngyomorgödör\nhalálfélelem\nmegsemmisülés érzése\nhideg verejtékezés\nalacsony vérnyomás\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Csoportosítsa a tápanyagokat funkcióik alapján!\nÍrja a csoportok mellé a megfelelő betűt!\n1. fehérjék\n2. szénhidrátok\n3. vitaminok\n4. zsírok\n5. víz\n6. ásványi sók\nElsősorban sejtalkotók: ...\nElsősorban energiát szolgáltatók: ...\nKizárólag sejtalkotók: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1\n2, 4\n3, 5, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Hasonlítsa össze a magas vércukorszint okozta súlyos eszméletvesztést és az alacsony vércukorszint okozta súlyos eszméletvesztést a megadott szempontok szerint!\nTöltse ki a táblázatot!\n\n| Szempontok | Magas vércukorszint okozta súlyos eszméletvesztés | Alacsony vércukorszint okozta súlyos eszméletvesztés |\n|---|---|---|\n| arcszín |  |  |\n| bőr tapintata |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | Magas vércukorszint okozta súlyos eszméletvesztés | Alacsony vércukorszint okozta súlyos eszméletvesztés |\n|---|---|---|\n| arcszín | piros | sápadt |\n| bőr tapintata | száraz, meleg | verítékes, hűvös |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol van az éleslátás helye az ideghártyán?",
+      "question_type": "open",
+      "correct_answer": "a sárgafolton",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Nevezze meg a halló- és egyensúlyozó szervnek az ábrán jelölt részeit! Válaszait írja a számok mellé!\n\n1. ...fülkagyló...\n2. ...hallójárat...\n3. ...dobhártya...\n4. ...kalapács...\n5. ...üllő...\n6. ...kengyel...\n7. ...félkörös ívjárat...\n8. ...hallóideg...\n9. ...csiga...\n10. ...Eustach-kürt...\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nhallójárat\ndobhártya\nkalapács\nüllő\nkengyel\nfélkörös ívjárat\nhallóideg\ncsiga\nEustach-kürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q021_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 8,
+      "question_text": "Írja le, milyen elváltozás történik szimpatikus és\nparaszimpatikus hatásra! Egészítse ki a táblázatot!\n\n|   | Szimpatikus hatás | Paraszimpatikus hatás |\n|----------|--------------------|-----------------------|\n| Szív | teljesítménye fokozódik | teljesítménye csökken |\n| Vérnyomás |  |  |\n| Légzésszám |  |  |\n| Gyomor-bélmozgás | lassul | fokozódik |\n| Vércukorszint |  |  |\n| Pupilla |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|   | Szimpatikus hatás | Paraszimpatikus hatás |\n|----------|--------------------|-----------------------|\n| Szív |  |  |\n| Vérnyomás | emelkedik | csökken |\n| Légzésszám | fokozódik | lassul |\n| Gyomor-bélmozgás |  |  |\n| Vércukorszint | emelkedik | csökken |\n| Pupilla | tágul | szűkül |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Rendezze a megadott betegségekhez a tüneteiket!\nÍrja a megfelelő betegség mellé a jellemző tüneteinek\nsorszámát!\n\n1. éles fájdalom\n2. a szemhéj, arc, kéz ödémája\n3. magasvérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a\nnagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\n\nVesekövesség: ...\nGlomerulonephritis acuta: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 5...\n2, 3, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt /5/ a fogamzásgátlás módszerei közül!",
+      "question_type": "open",
+      "correct_answer": "- naptár-módszer\n- megszakított közösülés\n- mechanikai módszerek (hüvelyi pesszárium, spermicid krém)\n- kémiai módszerek (krém, zselé – spermaölő hatással)\n- hormonális fogamzásgátlók\n- méhen belüli eszközök (IUD)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg mit a különbség az eszméletvesztés és az ájulás lényege között!",
+      "question_type": "open",
+      "correct_answer": "a központi idegrendszer működészavara vagy sérülése\naz agytörzs vérellátásának átmeneti, de nagyfokú csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Ismertesse a végtagtörést a megadott szempontok\nszerint!\nTünetei: (Írjon négyet /4/!)\nAz elsősegélynyújtó teendői: (Írjon kettőt /2/!)",
+      "question_type": "open",
+      "correct_answer": "- fájdalom\n- duzzanat\n- alakváltozás\n- kóros mozgathatóság\n- működészavar\n- a beteg nyugalomba helyezése\n- betegvizsgálat (érsérülés, zárt-nyílt törés)\n- a végtag rögzítése (pneumatikus sín, Kramer sín)\n- szükség esetén fájdalomcsillapítás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Soroljon fel két /2/ tünetet, amely a méh izomzatának jóindulatú daganatára (myoma) utal!",
+      "question_type": "open",
+      "correct_answer": "- vérzési rendellenesség (pl. menorrhagia, jelentékeny vérvesz- teséggel járó vérzés)\n- gyakori vizelési inger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2006_november_09_II_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxytocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMire hat az ADH nevű hormon?\n- a vesecsatornákra, annak víz visszaszívását szabályozza\n- a vese glomerulusokra, az ultrafiltrációt szabályozza\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a parathormon?\n- a mellékpajzsmirigyben\n- a mellékvesékben\n\nHol termelődik a thymosin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a somatostatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMely hormont termeli a tobozmirigy?\n- a melatonint\n- az oestrogent\n\nHol termelődik az adrenalin és a noradrenalin?\n- a mellékpajzsmirigyben\n- a mellékvese-velőállományában\n\n(Csak a nyolc helyes válasz aláhúzása fogadható el! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na vesecsatornákra, annak víz visszaszívását szabályozza\na pajzsmirigyben\na mellékpajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint\na mellékvese-velőállományában",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "file": "EU_2015_januar_29_eum_0129_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nválaszokat!\n- a gerincoszlopon enyhén S - alakú görbületek találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya azonos arányt mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S - alakú görbületek találhatók\na zsigerek a hasüreg irányába rendeződtek\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Rendelje a betegségek lefolyásának formáihoz azok jellemzőit! Írja a csoportok mellé a hozzájuk tartozó adatok számát!\n\nA betegség lefolyásának jellemzői:\n1. rövid ideig tart (1-2 naptól 2-4 hétig)\n2. hosszantartó (évekig, évtizedekig)\n3. elhúzódó lefolyású (max. 4-6 hét)\n4. heves tünetekkel jár\n5. nem jár viharos tünetekkel\n6. nyugalmi és aktív szakaszok váltakoznak\n\nA betegség lefolyásának formái:\nHeveny/acut...\nFélheveny/subacut ...\nIdült/chronicus) ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4\n3, 5\n2, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négy /4/ olyan helyet (behatolási kaput), ahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nnyálkahártya\nlégutak\nvér\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a csoportok mellé a hozzájuk tartozó számokat!\nBetegségek:\n1. sokízületi gyulladás\n2. SPA (spondylitis ankylopoetica)\n3. reumás láz\nBetegségek jellemzői:\n- A kéz kisízületeinek fájdalmas, fokozatos ízületi eldeformálódásával\njáró betegség: ...1...\n- Hetekkel egy lezajlott mandulagyulladás után jelentkezik a\nnagyízületek fájdalmas gyulladása, később szívbelhártya-gyulladást is\nokozhat: ...3...\n- A gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése:\n...2...",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvértestek képzése?\n...\nHol történik a vörösvértestek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben...\na vörös csontvelőben...\na lépben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportra vonatkozó táblázatot!\n| Vörösvértestben található agglutinogén: | A szérumban található agglutinin: | Vércsoport neve: |\n|---------|---------|---------|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvértestben található agglutinogén: | A szérumban található agglutinin: | Vércsoport neve: |\n|---------|---------|---------|\n|  |  | 0 |\n|  |  | AB |\n|  |  | A |\n|  |  | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel az embólia fajtáit!",
+      "question_type": "open",
+      "correct_answer": "thromboembolia\nlégembólia\nzsírembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a tbc megelőzésének lehetőségeit!\n- elhízás elkerülése\n- rendszeres tüdőszűrés\n- higiénés szabályok betartása\n- dohányzás\n- allergizáló növények kerülése\n- védőoltás\n- fertőző források felkeresése, gondozásba vétele\n- a tbc-ben szenvedő beteg hozzátartozóinak karanténba helyezése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\ntágulnak",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a betűk mellé a hozzájuk tartozó számot!\nA. tüdőasztma\nB. tüdőödéma\nC. garatgyulladás\nD. tüszős mandulagyulladás\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. kaparó, égő jellegű fájdalom",
+      "question_type": "matching",
+      "correct_answer": "2; 3; 4; 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi tápanyagok alapvető építőelemeit!\nFehérjék:...\nSzénhidrátok:...\nZsírok:...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának\nszerepét!",
+      "question_type": "open",
+      "correct_answer": "- a táplálék összekeverése a gyomornedvvel\n- a gyomortartalom vékonybélbe juttatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperglykaemiás és a hypoglykaemiás coma tüneteit! Töltse ki a táblázatot!\n\n| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---|---|---|\n|  | vércukorszint |  |\n|  | arcszín |  |\n|  | bőr |  |\n|  | légzés típusa |  |\n|  | lehelet |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---|---|---|\n| magas | vércukorszint | alacsony |\n| piros | arcszín | sápadt |\n| száraz, meleg | bőr | verítékes, hűvös |\n| szapora, igen mély be-és kilégzések sorozata (Kussmaul-típusú) | légzés típusa | normál légzés |\n| acetonszagú | lehelet | normális |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "open",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertesse a gennyes vesemedence gyulladás\n(pyelonephritis acuta) okát, tüneteit!\nOkai:\n-\n-\n\nTünetei: Írjon négyet /4/!\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "bakteriális\naszcendáló fertőzés\nmagas láz, hidegrázás\nkínzó, gyakori vizelési inger\nhányinger, hányás\nvesetáji fájdalom\nrossz közérzet\ngennyes, zavaros vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nBarlangos test:...\nSárgatest:...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és gyógyítási\nlehetőségeit!\nLényege:\n- a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\n- a hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\nGyógyítása:\n- hormonkezelés végezhető 5-7 éves kor között\n- hormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "question_type": "open",
+      "correct_answer": "a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak\na hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\nhormonkezelés végezhető 5-7 éves kor között\nhormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-szintet emelik!\n\ninzulin\nglükagon\nadrenalin\nszomatosztatin\n\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a bronzkórt (Addison-kór) az alábbi\nszempontok szerint!\nLényege:\n...a mellékvesekéreg  és hormonjainak\ncsökkent termelődése...\nTünetei: Írjon hatot /6/!\n-\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "glükokortikoid\nmineralokortikoid\nfáradtság\ngyengeség\nfogyás\nétvágytalanság\ngyakori hányás\nfokozott pigmentáció\nhasmenés\nalacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q021_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Helyes válasz esetén a lényegére 1 pont, tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: \n- aphasia: \n- tremor: \n- hypokinesis: ",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a vegetatív\nidegrendszer megfelelő hatásaival!\nÍrja a sorszámokat a megfelelő helyre!\n1. koszorúserek szűkülnek\n2. légzésszám fokozódik\n3. nyálelválasztás fokozódik\n4. vércukorszint emelkedik\n5. pupilla tágul\n6. a szív teljesítménye csökken\n7. bélmozgás fokozódik\n8. vérnyomás emelkedik\n9. vércukorszint csökken\n10. bronchiolus tágul\nSzimpatikus hatás: ...\nParaszimpatikus hatás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 4, 5, 8, 10\n1, 3, 6, 7, 9",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallókészülék receptora: ...\nEgyensúlyozó-szerv receptora:...\nLátószerv receptorai:...\nSzaglószerv receptora:...\nÍzlelőszerv receptora:...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Oka: ...a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit pl: bányászoknál\nhirtelen történő kizsilipeléskor...\nTünetei: Írjon kettőt /2/!\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Az okra: 2 pont, a tünetre: 0,5-0,5 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Ismertessen öt /5/ fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q028_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nFajtái: Írjon négyet /4/!\n- vágott seb\n- szúrt seb\n- harapott seb\n- horzsolt seb\n- zúzott seb\n- lőtt seb\n- roncsolt seb",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_januar_29_eum_0129_q029_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Fogalmára: 1 pont; fajtáira: 1-1 pont adható!) „Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Nevezze meg a lehetséges sejtosztódási formákat!",
+      "question_type": "open",
+      "correct_answer": "direkt sejtosztódás (amitózis)\nindirekt sejtosztódás (mitózis)\nfelező sejtosztódás (meiózis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Írja le a daganattal kapcsolatos ismereteit a megadott szempontok alapján!\nA daganat lényege: ...A daganat a szervezet\nA daganatsejtek jellemzői az egészséges szövetekhez viszonyítva: Írjon négyet!\n- növekedésük nincs összhangban a kiindulási szövet növekedésével\n- a daganat növekedése folytatódik a kiváltó tényező megszűnése után is\n- szerkezetük eltér a kiindulási szövetétől\n- növekedésük autonóm, független\n- a daganatos szövetburjánzás céltalan, hasztalan, káros\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "maradandóan megváltozott sejtjeiből felépülő kóros szövetszaporulat"
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa az ízületekben létrejövő mozgások magyar és latin elnevezését!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. forgatás\nA. adductio\n2. hajlítás\nB. abductio\n3. közelítés\nC. extensio\n4. távolítás\nD. flexio\n5. feszítés\nE. rotatio",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-...D...., 3.-A..., 4.-...B...., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csontvelőgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az érintett végtag fájdalma\n- duzzanat\n- a duzzanat felett piros, meleg tapintatú bőr\n- nyugalomban is fennálló lüktető jellegű fájdalom\n- magas láz\n- elesettség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Mi a nyirok?\n\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?\n\nKiknek a szervezetében termelődhet anti-D ellenanyag?",
+      "question_type": "open",
+      "correct_answer": "...a nagyvérkör kapillárishálózatának területén képződő folyadék, amely a vérplazmából származik...\n...a bal vénás szögletben a vénákba...\n...azoknak az Rh-negatív egyéneknek a szervezetében, akiknek valamilyen okból D-antigén jutott a vérükbe...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá a szívbillentyűhibákra vonatkozó helyes megállapításokat!\n- a szívbillentyűk betegségeinek két nagy csoportja az elégtelenség és a szájadék-szűkület\n- a szívbillentyűhibák lehetnek veleszületettek és szerzettek is\n- a szívbillentyűhibákat gyakran kíséri szívburokgyulladás, páncélszív\n- a szívbillentyűhibák latin elnevezése: myocarditis\n- a szívbillentyűhibák latin elnevezése: vitium cordis\n- minden szívhiba veleszületett, serdülőkorra általában kinövik a gyermekek\n- a kéthegyű billentyű elégtelensége esetén a jobb kamra összehúzódásakor a vér visszaáramlik a jobb pitvarba\n- a szívbillentyűhibák rontják a szív pumpafunkcióját és túlterhelik a szívizomzatot is\n- a szívbillentyűhibák rontják a szív pumpafunkcióját, de a szívizomzatot nem terhelik meg\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szívbillentyűk betegségeinek két nagy csoportja az elégtelenség és a szájadék-szűkület\na szívbillentyűhibák latin elnevezése: vitium cordis\na szívbillentyűhibák rontják a szív pumpafunkcióját és túlterhelik a szívizomzatot is",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a szív falának rétegeit!",
+      "question_type": "open",
+      "correct_answer": "- szívbelhártya\n- szívizom\n- szívburok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertesse a légzés mechanizmusát kilégzés során!",
+      "question_type": "open",
+      "correct_answer": "a rekesz és bordaközi izmok elernyednek\na mellkas saját rugalmasságánál fogva eredeti állapotába tér vissza\na mellüreg összehúzódik, a mellüregi szívóhatás csökken\na levegő kipréselődik a tüdőből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "oldalszúrás\néles mellkasi fájdalom\nnehézlégzés\nköhögés\nlilás, alvadékos, véres köpet\nszapora szívverés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindegyik igaz",
+      "options": [
+        "csak a pitvarokban találhatók",
+        "csak a kamrákban találhatók",
+        "mindegyik igaz",
+        "egyik sem igaz"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. kimozin\n2. maltáz\n3. pepszin\n4. lipáz\n5. tripszin\n6. szacharáz\n\nFehérjét bontó enzim: ...\nSzénhidrátot bontó enzim: ...\nZsírt bontó enzim: ...\nTejfehérjét bontó enzim: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5....\n2., 6....\n4....\n1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a heveny májgyulladás kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vírusok (pl. hepatis A, B, C vírus, Epstein-Barr virus)\n- baktériumok (pl. salmonellosis)\n- vegyi anyagok okozta mérgezés (pl. arzén, foszfor, gombamérgek)\n- alkoholmérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Egészítse ki a vizeletre vonatkozó alábbi mondatokat!\nA normál vizelet általában ... színű, azonban a színét ...\ngyógyszerek... és az elfogyasztott folyadék\n... is megváltoztathatják. A normál vizelet mennyisége naponta\n... vegyhatása pedig ....",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\negyes\nbizonyos gyógyszerek\nmennyisége\n1,5-2 l\nsavanyú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a terhességi vesebaj jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- a terhesség második felében jelentős testsúlynövekedés\n- nagyfokú ödémaképződés\n- hipertónia\n- proteinuria\n- eclampsiás görcsroham",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertessen a premenstruációs zavarok (PMS) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "depresszió\ningerlékenység\ncsökkent koncentrálóképesség\nfejfájás\nemlőérzékenység\nálmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa a férfi nemi szervekhez a jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. mellékhere\nA. feladata a spermiumok tárolása és\nelvezetése\n2. here\nB. erős izomzatú, vastagfalú cső, amely a\nmellékherétől a húgyhólyag alapjáig ér\n3. ondóvezeték\nC. páros szerv, rövid kivezetőcsöve az\nondóvezetékbe nyílik\n4. ondóhólyag\nD. a hímivarsejteket és a tesztoszteront\ntermeli",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α....,\n2.-...D....,\n3.-...Β....,\n4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertessen a tiroxin és trijód-tironin hormonok hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák az anyagcsere-folyamatokat\n- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\n- fokozzák a szervezet oxigénfelhasználását\n- növelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- szükségesek a szellemi funkciókhoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Írja le a diabetes insipidus megbetegedés lényegét és kialakulásának\nlehetséges okait!\n\nA betegség lényege: Az antidiuretikus hormon (ADH) termelődésének\ncsökkenése, vagy hiánya következtében kialakuló anyagcsere-betegség.\n\nKialakulásának lehetséges okai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Az antidiuretikus hormon (ADH) termelődésének\ncsökkenése, vagy hiánya következtében kialakuló anyagcsere-betegség.\n\n- a hipofízis hátsó lebenyének daganata\n- a hipofízis hátsó lebenyének gyulladása\n- a hypothalamus vagy a hipofizis csökkent működése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a paraszimpatikus idegrendszeri hatásra bekövetkező változásokat!\n- a vázizomzat tónusa ellazul\n- a vázizomzat tónusa fokozódik\n- a légzésszám nő\n- a légzésszám csökken\n- a tápcsatorna működése fokozódik\n- a tápcsatorna működése csökken\n- a pupilla tágul\n- a pupilla szűkül\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vázizomzat tónusa ellazul\na légzésszám csökken\na tápcsatorna működése fokozódik\na pupilla szűkül",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg az agyi vérellátási zavarok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- transient ischemic attack (TIA)\n- prolongált ischaemiás neurológiai deficit (PRIND)\n- progresszív stroke (PS)\n- agyi érelmeszesedés\n- subarachnoidealis vérzés\n- agytrombózis\n- agyembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa a fül részeit a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. fülkürt\n2. ívjáratok\n3. Corti-szerv\n4. kengyel\n5. dobhártya\n6. dobüreg\n\nA belső fül része: ...2., 3....\nA középfül része: ...1., 4., 6....\nA külső fül része: ...5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a távollátást a megadott szempontok szerint!\nLényege:\n...\nOka:\n...\nFő tünete:\n...\nKorrigálásának lehetősége:\n...",
+      "question_type": "open",
+      "correct_answer": "a szemben az éles kép az ideghártya mögött keletkezik...\na szemgolyó hossztengelye rövidebb az átlagosnál...\na tompalátás...\ngyűjtőlencséjű szemüveg/kontaktlencse alkalmazása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- helyzetfelmérés\n- tájékozódás a történtekről\n- esetleges újabb balesetveszély elhárítása\n- a sérült állapotának megfelelő elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- mentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_05_I_EUMI_0905_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a rándulás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Külső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba.",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes válasz betűjelét!\n1. superior\n2. anterior\n3. posterior\n4. ventralis\n5. centralis\n6. inferior\nA. elülső\nB. hasi irányú\nC. alsó\nD. hátsó\nE. felső\nF. központi",
+      "question_type": "matching",
+      "correct_answer": "1.- ...E...., 2.- ...A...., 3.- ...D...., 4.- ...B...., 5.- ...F...., 6.- ...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q002_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 9,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a\ntáblázatot a megadott szempontok alapján!\n\n| Izomszövet típusa | Helye (Írjon egy-egy példát!) | Az izomműködés jellege (Írjon két-két jellemzőt!) |\n|---|---|---|\n| simaizom |  |  |\n| harántcsíkolt izom |  |  |\n| szívizom |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Izomszövet típusa | Helye (Írjon egy-egy példát!) | Az izomműködés jellege (Írjon két-két jellemzőt!) |\n|---|---|---|\n| simaizom | - a zsigeri szervekben\n- erek falában | - lassan húzódik össze\n- lassan fárad ki\n- kisebb erőkifejtésre\nképes, mint a vázizmok |\n| harántcsíkolt izom | - érzékszervekben\n- zsigerekben\n- testüregek falában | - összehúzódása és\nelernyedése gyors\n- hamar kifárad\n- általában jelentősebb\nerőkifejtésre képes |\n| szívizom | csak a szívben | - rövid összehúzódás\n-hosszabb elernyedés\njellemző\n- ritmikus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nLényege:\n\nTünetei: Soroljon fel hármat!\n\n\n\n\nElsősegélynyújtó feladata: Írjon kettőt!\n\n\n",
+      "question_type": "open",
+      "correct_answer": "a hőközpont funkciózavara\nfejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött van\ntesthőmérséklet-csökkentés hűtéssel\nfolyadékpótlás\norvosi segítség hívása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q004_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 8,
+      "question_text": "Csoportosítsa a jobb- és balszívfél-elégtelenség\njellemzőit, tüneteit! Írja a sorszámokat a megfelelő helyre!\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n6. nehézlégzés\n7. köhögés\n8. éjszakai vizelés (nocturia)\nBalszívfél-elégtelenség: ...\nJobbszívfél-elégtelenség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 6., 7.\n1., 3., 5., 8.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Sorolja fel a betegségek lefolyásának módjait!\nÍrjon egy-egy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- heveny (acut): rövid ideig tart (1-2 naptól 2-4 hét), heves tünetekkel jár\n- félheveny (subacut): elhúzódó lefolyású, nem jár viharos tünetekkel\n- idült (chronicus): hosszantartó, évekig, évtizedekig tarthat, váltakozó nyugalmi és aktív szakaszokkal jár",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q006_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 8,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a megadott szempontok szerint!\nÍrja a tünetek sorszámát a megfelelő helyre!\n\n1. szapora, nehezített légzés\n2. gyakori, szúró mellkasi fájdalom\n3. hirtelen jelentkező nehézlégzés\n4. magas, nehezen csillapítható láz\n5. rövid, kapkodó belégzés\n6. hosszan elnyúló, sípoló kilégzés\n7. barnásvörös köpet\n8. üvegszerű, tapadós köpet\n\nTüdőgyulladás: ...\nTüdőasztma: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4., 7.\n3., 5., 6., 8.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q007_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 10,
+      "question_text": "Írja le a gerincvelői idegek tagozódását és számát!",
+      "question_type": "open",
+      "correct_answer": "- nyaki ideg – 8 pár\n- háti (mellkasi) ideg – 12 pár\n- ágyéki ideg - 5 pár\n- keresztcsonti ideg – 5 pár\n- farkcsonti ideg – 1 pár",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a megadott szempontok szerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt-szaporulat\n5. melegség\n\nGyulladás helyi tünetei: ...\n\nGyulladás általános tünetei: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Ismertesse a neuroglia jellemzőit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q010_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 8,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül nyolcat!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q011_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 8,
+      "question_text": "Nevezze meg az AB0-vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A | anti-B |\n| B | B | anti-A |\n| AB | AB | - |\n| 0 | - | anti-A, anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a vérplazma összetevői közül hatot!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "open",
+      "correct_answer": "- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q013_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 10,
+      "question_text": "Ismertesse a bronzkórt (Addison-kór) az alábbi\nszempontok szerint!\n\nLényege:\n...a mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\n\nOkai: Írjon kettőt!\n-\n-\n-\ntumor\n\nTünetei: Írjon hatot!\n-\n-\ngyengeség\n-\nétvágytalanság\n-\nfokozott pigmentáció\n-\nalacsony vérnyomás",
+      "question_type": "open",
+      "correct_answer": "csökkent termelődése...\nfertőző betegség (pl. tbc)\nautoimmun betegség\nfáradtság\nfogyás\ngyakori hányás\nhasmenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_I_eumi_0213_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai: ...\nLátószerv receptorai: ...\nSzaglószerv receptorai: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv...\nszőrsejtek...\ncsapok, pálcikák...\nszaglóhám-sejtek...\nízlelőbimbók...",
+      "options": []
+    }
+  }
+]

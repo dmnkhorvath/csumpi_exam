@@ -1,0 +1,319 @@
+[
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív:...cor...\nmáj: ... hepar...\ngyomor: ...gaster v. ventriculus...\ntüdő: ...pulmo...\nlép: ...lien...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Soroljon fel a heveny izzadmányos (exsudativ) gyulladás formái közül hármat!",
+      "question_type": "open",
+      "correct_answer": "savós\ngennyes\nüszkös\nvérzéses\nfibrines",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Ismertessen a fertőző betegségek létrejöttét befolyásoló tényezők közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "a szervezet immunrendszerének csökkent működése\na kórokozó virulenciája\na kórokozók száma\na kórokozó behatolási kapuja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűk mellé a helyes válasz sorszámát!\nA. lúdtalp\nB. csonttörés\nC. csontvelőgyulladás\nD. gerincferdülés\n1. cipőbe helyezett betét, lábboltozat erősítése\n2. nyugalomba helyezés, rögzítés\n3. izomerő növelése, fűző viselése\n4. célzott antibiotikus kezelés",
+      "question_type": "matching",
+      "correct_answer": "Α.- ...1..., В....2..., C.- ...4..., D.- ...3...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Ismertesse a hasizmok fajtáit!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvérsejtek képzése?\n...\nHol történik a vörösvérsejtek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben\na vörös csontvelőben\na lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg az AB0 - vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A |  |\n| B | B |  |\n| AB |  | - |\n| 0 | - |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  | anti-B |\n| B |  | anti-A |\n| AB | AB | - |\n| 0 |  | anti-A és anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nAz alveolusok és az arteria, illetve a vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés - külső légzés\nA légzőközpont helye:\n- kisagy - nyúltvelő\nA garatot a dobüreggel köti össze:\n- fülkürt - gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\nnyúltvelő\nfülkürt",
+      "options": [
+        "belső légzés",
+        "külső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a májzsugorodás (cirrhosis hepatis) tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "haspuffadás\nnyomásérzékenység a jobb bordaív alatt\ntesttömeg-csökkenés\nfakó, enyhén sárga színű bőr\nbőrviszketés\nhasvízkór\ncsillag alakú értágulatok a bőrön\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\naz alábbiak szerint!\nLényege: \nOka:",
+      "question_type": "open",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa a tüdőbetegségeket a rájuk jellemző\nköpettípusokkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet\nA. tüdőtályog\nB. tüdővizenyő\nC. tüdőasztma\nD. tuberkulózis",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α..., 2.-.D., 3.-B.., 4.-...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orr feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\na belélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nFogalma:\n\nFeladata: Írjon egyet!\n- mechanikus támasztó, térkitöltő, elhatároló funkció\n- gátat képez a véráram és az idegszövet határán (vér-agy gát)\n\nJellemzője: Írjon egyet!\n- az agyszövet nagyfokú védelmét biztosítja a vérben keringő esetleges\nkáros anyagokkal szemben\n- a vérből bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot\nenged át\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az idegszövet sejtközötti állománya, az idegrendszer támasztószövete.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső\nszakaszának részeit!\n- végbél\n- csípőbél\n- szájüreg\n- gyomor\n- patkóbél\n- vastagbél\n- nyelőcső\n- éhbél\n- garat\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\npatkóbél\nvastagbél\néhbél",
+      "options": [
+        "végbél",
+        "csípőbél",
+        "szájüreg",
+        "gyomor",
+        "patkóbél",
+        "vastagbél",
+        "nyelőcső",
+        "éhbél",
+        "garat"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "nyaki idegek\nmellkasi idegek\nágyéki idegek\nkeresztcsonti idegek\nfarkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros\nvizelettípussal! Írja a sorszámokat a megfelelő\nbetűjelhez!\n\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA. - ... ...., B. -... ...., C. - ... ...., D.- ... ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége: \nFajsúlya: \nÖsszetétele: Írjon négyet!*\n- \n- \n- \n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "napi 180 l\n1010 g/l\nvíz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel a zöldhályog tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "szem belső nyomása kórosan emelkedett\nlátásélesség romlása\nlátótérkiesés\nfejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertessen a férfiklimax jellemzői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "természetes állapot az öregedés folyamatában\nhormonális változás hatására alakul ki\ncsökken a nemi vágy\npotencia- és ejakulációs zavarok kísérik\nfizikai teljesítőképesség csökken\njellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nbarlangos test:...\nsárgatest:...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes megállapításokat!\n- az óriásnövés oka a növekedési hormon túltermelődése\n- a diabetes insipidus tünete a vizeletmennyiség csökkenése\n- a strúma a mellékvese megnagyobbodásával járó kórkép\n- az akromegália a csontvégek rendellenes növekedése\n- a mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\n- a cukorbetegség (diabetes mellitus) oka inzulinhiány\n- a hyperglykaemiás kóma esetén a lehelet aceton szagú\n- a Basedow-kór (hyperthyreosis) esetén a pulzus gyér, a vérnyomás\nalacsony",
+      "question_type": "multiple_choice",
+      "correct_answer": "az óriásnövés oka a növekedési hormon túltermelődése\naz akromegália a csontvégek rendellenes növekedése\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemiás kóma esetén a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n|  | A csecsemőmirigy |\n|---|---|\n| hormonja |  |\n| feladatai |  |\n| helye a szervezetben |  |\n| jellemzője Írjon egyet!* |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|---|---|\n| hormonja | timozin |\n| feladatai | a növekedést, a szexuális fejlődést serkenti\nantitestképzés (nyirokszerv) |\n| helye a szervezetben | a gátorüreg elülső részében helyezkedik el |\n| jellemzője Írjon egyet!* | kisgyermekkorig aktív, serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai:...\nLátószerv receptorai:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv...\nszőrsejtek a hártyás labirintusban...\ncsapok, pálcikák...\nszaglóhám sejtek...\nízlelőbimbók...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_szeptember_22_III_eumiii_0922_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Ismertessen öt fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e műszaki mentés",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. EKG\n2. spirométer\n3. EEG\n4. biopszia\n5. H2-kilégzési teszt\nA. légzésfunkció\nB. a szív elektromos aktivitása\nC. laktózérzékenység\nD. agyi elektromos tevékenység\nE. szövetmintavétel",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-A., 3.-..D...., 4.-E...., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az idegsejt fő részeit!",
+      "question_type": "open",
+      "correct_answer": "sejttest\naxon (hosszú nyúlvány)\ndendrit (rövid nyúlvány)\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Definiálja az alábbi fogalmakat!\n- szinergista izmok: ...\n- antagonista izmok: ...\n- izomtónus: ...",
+      "question_type": "fill_in",
+      "correct_answer": "egymás működését segítő izmok...\naz izmok működése egymással ellentétes hatású...\na nyugalomban lévő izom feszülési állapota...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a csonttuberkulózist a megadott szempontok szerint!\nOka:\nA betegség lényege:\nTerjedése:\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...tbc-baktérium...\n...elsősorban a mellkasi és ágyéki csigolyákat érintő deformitással, csontosodással gyógyuló betegség...\n...cseppfertőzéssel terjed...\n- kiterjedt szövetelhalás\n- kóros csonttörés\n- a csigolyák deformitása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő kórképhez! Írja\na sorszámokat a megfelelő helyre!\n1. boka-, lábszár ödéma; hasvízkór\n2. éjszakai vizelés (nycturia)\n3. kisvérköri pangás\n4. nagyvérköri pangás\n5. tüdőödéma\n6. nehézlégzés\njobbszívfél-elégtelenség: ...., ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....\n...3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a szív falának rétegeit!",
+      "question_type": "fill_in",
+      "correct_answer": "- szívbelhártya\n- szívizom\n- szívburok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüszős mandulagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nyeléskor erősödő fájdalom\n- magas láz, hidegrázás\n- a garatképletek nyálkahártyája vörös\n- a mandula lepedékes\n- a nyelv bevont\n- kellemetlen szájszag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá a gégére vonatkozó helyes megállapításokat!\n- a gége latin neve: pharynx\n- a gége latin neve: larynx\n- a gége egyik porca a gégefedő\n- a gége a nyelőcsőben folytatódik\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n- a kannaporcok kiemelkedő szöglete az „ádámcsutka\"\n- a pajzsporc kiemelkedő szöglete az „ádámcsutka”\n- a hangszalagok között található a hangrés\n- a gégében elhelyezkedő hangszalagokat a befelé áramló levegő rezegteti meg\n- a gégében elhelyezkedő hangszalagokat a kifelé áramló levegő rezegteti meg\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gége latin neve: larynx\na gége egyik porca a gégefedő\na pajzsporc kiemelkedő szöglete az „ádámcsutka”\na hangszalagok között található a hangrés\na gégében elhelyezkedő hangszalagokat a kifelé áramló levegő rezegteti meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Írja le az alábbi szakkifejezések latin, vagy magyar megfelelőjét! Egészítse\nki a táblázatot!\n\n| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| kóros soványság |  |\n| elhízás | obesitas |\n| aranyérbetegség |  |\n| féregnyúlvány | appendix |\n| végbélnyílás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | cachexia |\n|  |  |\n|  | nodus haemorrhoidalis |\n|  |  |\n|  | anus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos alábbi kérdésekre!\nA szervezet hány %-a víz?\nAz összvíztartalom hány %-a van a sejteken kívül?\nMennyi a szervezet napi vízforgalma?\nMi az exsiccosis?",
+      "question_type": "fill_in",
+      "correct_answer": "...60-70%-a...\n...20%...\n...kb. 2-2,5 l...\n...a víztartalom drasztikus csökkenése, kiszáradás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a veseműködés idegi szabályozására vonatkozó mondatok\nhiányzó részeit!\n\nAz idegi szabályozás a vese ... viselkedésére hat. Gyengébb idegi\ningerek hatására a glomerulusokból elvezető arteriolák ..., ezért a\nglomerulusban ... a vérnyomás, ... a szűrés, a vizelet\nmennyisége pedig ... fog.\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ereinek\nszűkülnek\nemelkedik\nfokozódik\nnőni/növekedni",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseköves roham tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- erős görcsös deréktáji fájdalom\n- a fájdalom kisugárzik a hólyagba, férfiaknál a herékbe, nőknél a nagyajkakba\n- kínzó vizelési inger\n- hányinger, hányás\n- haspuffadás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogamzásgátlás módszerei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "természetes módszerek\nmechanikai módszerek\nkémiai módszerek\nméhen belüli eszközök\nhormonális készítmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan betegséget, amely férfiaknál a húgycső felől\nfelszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "- prosztatagyulladás\n- heregyulladás\n- mellékhere-gyulladás\n- vesemedence-, és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez az általuk termelt hormonokat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. mellékvese-velőállomány\nB. agyalapi mirigy elülső lebenye\nC. petefészek\nD. agyalapi mirigy hátulsó lebenye\nE. pajzsmirigy\n1. progeszteron\n2. oxitocin\n3. noradrenalin\n4. calcitonin\n5. szomatotrop hormon",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., B.-...5...., C.-...1...., D.-...2...., Ε.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!\nLényege:\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.\ngyógyszeresen nem befolyásolható magas vérnyomás\ncsökkent vér K-szint\nizomfájdalom\nizomgyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a koponyaalap sérüléseihez! Írja a\nsorszámokat a megfelelő helyre!\n\n1. vérömleny a fül mögött\n2. pápaszem-haematoma\n3. vérömleny a tarkón\n4. liquor és vércsurgás a fülből\n5. liquor és vércsurgás az orrból\n6. liquor és vércsurgás a garatban\n\nelülső scala törése: ...., .....\nközépső scala törése: ...., .....\nhátsó scala törése: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 1., 4., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul a szemgolyó burkainak részeit a megadottak szerint!\nA szem külső burkának részei:\n- ínhártya\n- szaruhártya\nA szem középső burkának részei:\n- érhártya\n- szivárványhártya\n- sugártest\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ínhártya\nszaruhártya\nérhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az újraélesztéssel kapcsolatos helyes megállapításokat!\nA segélynyújtónak legelőször a biztonságos környezet megteremtéséről kell\ngondoskodnia.\nA biztonságos környezet megteremtését követően első lépés a légutak\nfelszabadítása, szabaddá tétele.\nA légzés vizsgálatot 15 másodpercig kell végezni.\nA légzés vizsgálatot 10 másodpercig kell végezni.\nNormál légzés fennállása esetén az eszméletlen sérültet nyugalomba kell\nelhelyezni és folyamatosan ellenőrizni kell a légzését a mentő megérkezéséig.\nFelnőttek esetén körülbelül 5-6 cm mélységben, 100-120/perces frekvenciával\nkell végezni a mellkaskompressziókat.\nFelnőttek esetén mellkaskompresszió során a mellkast körülbelül 3-4 cm\nmélységben kell lenyomni 100-120/perces frekvenciával.\nKét segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint 2 percenként cseréljenek.\nKét segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint 1 percenként cseréljenek.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A segélynyújtónak legelőször a biztonságos környezet megteremtéséről kell\ngondoskodnia.\nA biztonságos környezet megteremtését követően első lépés a légutak\nfelszabadítása, szabaddá tétele.\nA légzés vizsgálatot 10 másodpercig kell végezni.\nFelnőttek esetén mellkaskompresszió során a mellkast körülbelül 3-4 cm\nmélységben kell lenyomni 100-120/perces frekvenciával.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a heveny középfülgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hirtelen kialakuló, szúró, lüktető fülfájás\n- fülzúgás\n- láz\n- fejfájás\n- rossz közérzet\n- savós, gennyes váladék ürülése a fülből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_14_V_eumv_220414_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Ismertesse a bordatörés fajtáit és lehetséges tüneteit!\nFajtái:\n- \n- \n- \nLehetséges tünetei: Írjon hármat!*",
+      "question_type": "open",
+      "correct_answer": "egyszerű\nsorozatos\nablakos\nfelületes légzés\nfulladásérzés\nfájdalom\nhaematoma",
+      "options": []
+    }
+  }
+]

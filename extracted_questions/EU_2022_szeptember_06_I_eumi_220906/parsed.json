@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a szövetek típusaihoz a megadott jellemzőket/feladatokat! Írja a\nbetűjeleket a megfelelő sorszámhoz!\n1. idegszövet\n2. hámszövet\n3. simaizom szövet\n4. kötő- és támasztószövet\n\nA. a test felszínét borítja, a testüregeket béleli, nincsenek benne erek\nB. a zsigeri szervek és az erek falában található\nC. a szervezet információs rendszerét építi fel\nD. kitölti a szervek közti tereket, összeköti a szerveket, szöveteket, a sejtes\nállományon kívül nagy mennyiségű sejt közötti állományt is tartalmaz",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...B...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az élő kórokok közül!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\nprotozoonok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertesse az izomsorvadás lényegét, kezelésének lehetőségeit!\nLényege:\nNem idegrendszeri eredetű izomelfajulásos betegség, amelyre jellemző az izmok\nfokozatos, megállíthatatlan sorvadása.\nKezelésének lehetőségei: Írjon kettőt!\ngyógytorna\nfizioterápia\naz izmok kifárasztásának kerülése",
+      "question_type": "open",
+      "correct_answer": "Nem idegrendszeri eredetű izomelfajulásos betegség, amelyre jellemző az izmok\nfokozatos, megállíthatatlan sorvadása.\ngyógytorna\nfizioterápia\naz izmok kifárasztásának kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az agykoponya csontjait!\n- szájpadcsont\n- halántékcsont\n- nyakszirtcsont\n- ekecsont\n- felső állcsont\n- homlokcsont\n- ékcsont\n- rostacsont\n- falcsont\n- könnycsont\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "halántékcsont\nnyakszirtcsont\nhomlokcsont\nékcsont\nfalcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Töltse ki a leukémiák sejttípus szerinti felosztására vonatkozó táblázatot!\n| Sejttípus szerinti fajtái | Lényege* | A betegség kiindulási helye/érintettsége |\n|---------|---------|---------|\n|   |   |   |\n|   |   |   |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Sejttípus szerinti fajtái | Lényege* | A betegség kiindulási helye/érintettsége |\n|---------|---------|---------|\n| Myeloid leukaemia | a granulocyták szaporodnak fel a csontvelőben és a vérben | a csontvelő |\n| Lymphoid leukaemia | a lymphocyták szaporodnak fel a csontvelőben és a vérben | a nyirokszervek |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Határozza meg az antigén (agglutinogén) fogalmát és típusait!\nFogalma:\nTípusai:",
+      "question_type": "open",
+      "correct_answer": "Az emberi vörösvértestek felszínén található fehérje természetű anyagok.\nA-antigén\nB-antigén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Ismertesse a rosszindulatú tüdődaganatot a megadott szempontok szerint!\nLehetséges tünetei: Írjon hármat!\n- általános daganatos panaszok és tünetek (étvágytalanság, gyengeség, fogyás)\n- köhögés\n- véres köpetürítés\n- ízületi, mellkasi fájdalom\nGyógyításának, kezelésének lehetőségei: Írjon kettőt!\n- műtét\n- sugárkezelés és/vagy kemoterápia\n- röntgenbesugárzás (nem operálható betegnél)\n- a tünetek enyhítése",
+      "question_type": "open",
+      "correct_answer": "általános daganatos panaszok és tünetek (étvágytalanság, gyengeség, fogyás)\nköhögés\nvéres köpetürítés\nizületi, mellkasi fájdalom\nműtét\nsugárkezelés és/vagy kemoterápia\nröntgenbesugárzás (nem operálható betegnél)\na tünetek enyhítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol helyezkednek el a hangszalagok?\nA garat mely szakaszába nyílik a fülkürt?\nMi borítja a légcső belső felszínét?\nHol található a belégző és kilégző központ?",
+      "question_type": "fill_in",
+      "correct_answer": "...a pajzsporc és a kannaporcok között...\n...az orri szakaszba...\n...csillószőrös hengerhám...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) lehetséges kiváltó okai közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- összenövés\n- daganat\n- idegentest\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének sejtjei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "mindig depolarizáltak",
+      "options": [
+        "mindig depolarizáltak",
+        "nyugalmi membránpotenciáljuk állandó",
+        "nem képesek spontán depolarizációra",
+        "ingerület hatására nem depolarizálódnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. kimozin\n2. tripszin\n3. pepszin\n4. amiláz\n5. nukleáz\na hasnyál enzimjei: ...\na gyomornedv enzimjei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a terhességi vesebaj jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- a várandósság második felében jelentős testsúlynövekedés\n- nagyfokú ödémaképződés\n- hipertónia\n- proteinuria\n- eclampsiás görcsroham",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Párosítsa a vese mikroszkópos részeihez jellemzőiket! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. elsődleges\nkanyarulatos csatorna\nA. kehelyként veszi körül a hajszálérgomolyagot\n2. Henle-kacs\nB. sejtjei érzékelik a vas efferensben uralkodó\nnyomást\n3. Bowman-tok\nC. a Malpighi-test vizeleti pólusából indul ki\n4. Malpighi-test\nD. benne zajlik a szűrés, a filtráció\n5. juxtaglomeruláris\napparátus\nE. az elsődleges kanyarulatos csatorna folytatása,\na kéregállományban kezdődik",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Ε...., 3.-...Α...., 4.-...D...., 5.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a férfi nemi szervek magyar, vagy latin megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| A férfi nemi szervek megnevezése |  |\n|---|---|\n| magyarul | latinul |\n|  | penis |\n| here |  |\n|  | scrotum |\n| ondóhólyag |  |\n|  | prostata |",
+      "question_type": "fill_in",
+      "correct_answer": "| A férfi nemi szervek megnevezése |  |\n|---|---|\n| magyarul | latinul |\n| hímvessző |  |\n|  | testis |\n| herezacskó |  |\n|  | vesicula seminalis |\n| dülmirigy |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a női nemi szervek gyulladásos betegségei közül!",
+      "question_type": "open",
+      "correct_answer": "szeméremtest-gyulladás (külső nemi szervek)\nhüvelygyulladás\nnyakcsatorna-gyulladás\nméhgyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az endokrin rendszerre vonatkozó helyes megállapításokat!\n- A növekedési hormon egész életen át termelődik, de a pubertás után már csak kisebb mennyiségben.\n- A calcitonin növeli a vér kálciumszintjét.\n- Az FSH férfiaknál megindítja és fenntartja a herékben az ondósejtek képződését.\n- Az LTH nőkben a sárgatest képződését serkenti.\n- A parathormon hatása a calcitoninnal megegyező hatású.\n- A várandósság végén az oxitocin a progeszteronszint hirtelen csökkenésekor erős méhösszehúzódást vált ki és beindítja a szülést.\n- Az LH hatására indul meg a tejelválasztás a szülést követően.\n- A pajzsmirigy hormonjai a tiroxin, a trijódtironin és a calcitonin.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "A növekedési hormon egész életen át termelődik, de a pubertás után már csak kisebb mennyiségben.\nAz FSH férfiaknál megindítja és fenntartja a herékben az ondósejtek képződését.\nA várandósság végén az oxitocin a progeszteronszint hirtelen csökkenésekor erős méhösszehúzódást vált ki és beindítja a szülést.\nA pajzsmirigy hormonjai a tiroxin, a trijódtironin és a calcitonin.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul az agyidegeket a számuk alapján!\n- II. agyideg -\n- IV. agyideg -\n- VI. agyideg -\n- VII. agyideg -\n- X. agyideg -",
+      "question_type": "fill_in",
+      "correct_answer": "látóideg\nsodorideg\ntávolító ideg\narcideg\nbolygóideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertessen az epilepsziás nagyroham lezajlásának jellemzői közül hatot!",
+      "question_type": "open",
+      "correct_answer": "bevezető tünetekkel kezdődik: fejfájás, szédülés, szívdobogásérzés, hőhullámok, ingerlékenység, lehangoltság, szorongás, aurajelenség\nhirtelen kitörő tónusos generalizált roham jelentkezik\na beteg elesik, elvágódik\nrövid légzésszünet áll be\nklónusos generalizált rángások jelentkeznek, amelyek percekig is eltarthatnak\na roham után mély alvás jelentkezhet\na tudat fokozatosan tisztul fel\na beteg nem emlékszik a rohamra és az azt követő időszakra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szemgolyó burkainak részeit! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. ideghártya\n2. sugártest\n3. szivárványhártya\n4. érhártya\n5. pigmentréteg\n\nA szem középső burkának részei: ...\nA szem belső burkának részei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4....\n1., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Írja le a keszonbetegség lényegét és okát!\nLényege:\n...\nformájában a fülben és más szervekben okozhat....\nOka:\n helyről (pl. bányából, tengerből) való távozás\n„”....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A vérpályában és a szövetekben nitrogén szabadul fel, amely buborékok érelzáródást\nTúlnyomásos hirtelen kizsilipelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nLégúti idegentest eltávolítása esetén a ... műfogás alkalmazható.\nAz I.-II. fokban égett testrészt ... percig folyó vízzel kell hűteni a további\nkárosodások megelőzése érdekében.\nSzakított seb esetén a vérzés mennyisége ..., a fájdalom mértéke pedig\n...",
+      "question_type": "fill_in",
+      "correct_answer": "Heimlich-féle\n8-10\nbőséges\nnagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_szeptember_06_I_eumi_220906_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Írja le a laikus újraélesztés megszakításának három feltételét!\n- szaksegítség megérkezése, akik átveszik az újraélesztést\n- a beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése visszatér\n- a segítségnyújtó(k) kimerülése",
+      "question_type": "open",
+      "correct_answer": "szaksegítség megérkezése, akik átveszik az újraélesztést\na beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése visszatér\na segítségnyújtó(k) kimerülése",
+      "options": []
+    }
+  }
+]

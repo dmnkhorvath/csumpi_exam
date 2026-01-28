@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMelyik fehérvérsejt típus feladata a humorális immunválasz?",
+      "question_type": "open",
+      "correct_answer": "B-lymphocyta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. osteoporosis\n2. Scheuermann-féle betegség\n3. discopathia\n4. arthrosis\n5. Bechterew-kór\n\nA. a csigolyák közötti porcok elfajulása, deformálódása\nB. a csontok szervetlen és szerves állományának csökkenése\nC. a csigolyatestek elkeskenyedése, szilárdságuk elvesztése\nD. a gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár\nE. az ízületi porc kopása\n\n1.-..., 2.-..., 3.-..., 4.-..., 5.-...",
+      "question_type": "matching",
+      "correct_answer": "B, C, A, E, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Sorolja fel a kórfolyamat szervezetkárosító hatásának mértékét befolyásoló\ntényezőket!",
+      "question_type": "open",
+      "correct_answer": "- a kórok behatolásának helye, a behatolási kapu\n- elsődleges lokalizáció, helyi tünetek\n- általános hatás\n- a kórfolyamat terjedése\n- a betegség lefolyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csigolyák nyúlványait!",
+      "question_type": "open",
+      "correct_answer": "- tövisnyúlvány\n- ízületi nyúlvány\n- harántnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek||\n|---------|---------|\n|magyarul|latinul|\n|szívbelhártya||\n|szívsövény||\n|szívburok fali lemeze||\n|nyaki verőér||\n|nyirok||",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek||\n|---------|---------|\n|magyarul|latinul|\n||endocardium|\n||septum cordis|\n||pericardium|\n||arteria carotis|\n||lympha|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szívizomgyulladás (myocarditis) lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- jelentősen emelkedett pulzusszám\n- alacsony vérnyomás\n- nagyfokú fáradékonyság\n- nyomásérzés a mellkasban\n- szívritmuszavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertessen négy lehetséges óvintézkedést a tuberkulózis megelőzése\nérdekében!",
+      "question_type": "open",
+      "correct_answer": "- fertőző források felkeresése, felkutatása, elkülönítése\n- védőoltások biztosítása\n- rendszeres tüdőszűrés\n- forralatlan tej fogyasztásának mellőzése\n- higiénés szabályok betartása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a légzőrendszerrel kapcsolatos helyes\nmegállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "- a légzés idegi szabályozásának a központja a nyúltvelőben található\n- a külső légzés a légköri levegő és a tüdő léghólyagocskái között történik,\ndiffúzió útján\n- az arteria bronchialis rendszer biztosítja a tüdő szövetének táplálását\n- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám\n megemelkedik\n- szimpatikus hatásra a bronchusok tágulnak, a légzésszám megemelkedik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet játszó tényezők közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- egyes gyógyszerek mellékhatása\n- fertőzés (Helicobacter pylori)\n- étrendi hibák (koffein, fűszerek, rendszertelen étkezés)\n- fokozott sav-, és pepszintermelés\n- dohányzás\n- örökletes tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa feladatokat/funkciókat a szervekhez! Írja a sorszámokat a\nmegfelelő helyre!\n1. méregtelenítés\n2. tripszintermelés\n3. amiláztermelés\n4. epetermelés\n5. epesavképzés\n6. inzulintermelés\nmáj: ...\nhasnyálmirigy: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a vesék feladatát, szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sók kiürítése\n- a vízben oldható hasznosíthatatlan anyagok kiürítése\n- a só-, és vízháztartás szabályozása\n- a homeosztázis fenntartása\n- hormontermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Húzza alá a hypertonia maligna szindrómára vonatkozó helyes\nmegállapításokat!\n- a diasztolés vérnyomás 120-130 Hgmm fölé emelkedik\n- a vérnyomás tartósan 140/90 Hgmm felett van\n- egységes kórkép, tünetei: hypertonia, dysuria, görcsrohamok\n- gyorsan súlyosbodó veseműködési zavart okoz\n- kezelése megegyezik a hypertonia és az uraemia kezelésével\n- kezelésében a görcsoldást, a diétát és a vízlökés terápiát alkalmazzák\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a diasztolés vérnyomás 120-130 Hgmm fölé emelkedik\ngyorsan súlyosbodó veseműködési zavart okoz\nkezelése megegyezik a hypertonia és az uraemia kezelésével",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi anatómiai képleteket elhelyezkedési helyeikkel! Írja a\nhelyes válaszok betűjelét a megfelelő sorszámhoz!\n\n1. csikló\n2. Bartholin-mirigy\n3. barlangos test\n4. Leydig-sejtek\n\nA. a herékben, a herecsatornák között\nB. a hímvessző állományában\nC. a kisajkak találkozási pontjánál, a húgycsőnyílás felett\nD. a nagyajkak alsó harmadában, a hüvelybemenetnél\n\n1.-...   ...., 2.-...   ...., 3.-...   ...., 4.-...   ....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "C\nD\nB\nA",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Ismertesse a genitális herpeszt az alábbi szempontok alapján!\nOka:\nLehetséges tünetei: Írjon négyet!\nKezelésének lehetősége:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...herpeszvírus...\na nemi szerveken és környékén égő érzés\nfájdalom\napró hólyagok\nfájdalmas nyirokcsomó-duzzanat\nláz\n...véglegesen nem gyógyítható, így a tünetek enyhítése lehetséges helyi kezeléssel...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Nevezze meg a hypothalamus hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- antidiuretikus hormon (ADH)\n- oxitocin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a növekedési hormon (STH) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sejtek méretükben megnagyobbodnak\n- a sejtek számukban megszaporodnak\n- a csontok hosszirányban növekednek\n- a csontok vastagodnak\n- a lágy szövetek, zsigerek megnagyobbodnak\n- segíti a fehérjeszintézist",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Írja le a Conn-szindróma lényegét!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer részeit! Írja a\nsorszámokat a megfelelő helyre!\n1. gerincvelői idegek\n2. agyidegek\n3. gerincvelő\n4. agyvelő\nközponti idegrendszer: ...., ....\nkörnyéki, vagy perifériás idegrendszer: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4....\n...1., 2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a subarachnoidealis vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- hirtelen kialakuló ütésszerű fejfájás\n- hányás\n- eszméletvesztés\n- centrális láz\n- agyi nyomásfokozódás tünetei\n- meningealis izgalmi tünetek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...\nLátószerv receptorai: ...\nÍzlelőszerv receptorai: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szőrsejtek\nCorti-szerv\ncsapok, pálcikák\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a siketség lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "terhesség alatti rubeolafertőzés\nszülési sérülés\nközépfülgyulladás\ntoxikus ártalmak\nagyhártyagyulladás\nskarlát",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nKlinikai halál esetén a betegnek nincs ... és/vagy ...\nA sebellátás célja a ... és a ... megakadályozása.\nSokkfektetés során a beteget hanyatt fekvő helyzetben, ... felpolcolt alsó végtagokkal helyezzük el.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "légzése\nkeringése\nvérzés csillapítása/további vérvesztés megakadályozása\nfertőzés\nkb. 20°-os szögben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_IV_eumiv_211116_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Töltse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---------------|-------------------|-----------------------|-----------------|\n| csonkolt | bőséges |  |  |\n| harapott |  | igen nagy | változó |\n| szakított |  | nagy |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---------------|-------------------|-----------------------|-----------------|\n| csonkolt |  | nagy | igen nagy |\n| harapott | változó |  |  |\n| szakított | bőséges |  | nagy |",
+      "options": []
+    }
+  }
+]

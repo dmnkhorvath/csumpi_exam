@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le, mely szervben találhatók az alábbi\nanatómiai képletek!\ncsontos labirintus: ...\nBowman-tok: ...\nHis-köteg: ...\nLangerhans-szigetek: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fül\nvese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív:...\nmáj: ...\ngyomor: ...\ntüdő: ...\nlép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbi szempontok szerint!\nLényege: \nTünetei: Írjon kettőt!\n-\nhosszkülönbség az alsó végtagok között\n-\naz érintett végtag kifelé fordul\n-\nmozgáskorlátozottság\n-\na farredők ráncaszimmetriája\nKezelése: Írjon kettőt!\n-\nspeciális pelenkázás (terpesz, nadrág)\n-\nPavlik-kengyel alkalmazása\n-\nműtét",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa az összetartozó elemeket!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. lymphocyták termelődési helye\n2. a vörösvérsejtek képzésének helye\n3. a vörösvérsejtek lebontásának\nhelye",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β..., 2.Α., 3.-...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vérrögösödés (trombózis) keletkezésében szerepet játszó tényezők közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az érbelhártya sérülése\na keringés lassulása (pl. vénás pangás során)\nnagy hasi műtétek és szülés utáni állapotok\naz erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\na vér összetételének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá a nagyvérkör ereit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonalis",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot a magyar, illetve a latin megfelelőkkel!\n\nA légzőrendszer részei\n| magyar megnevezés | latin megnevezés |\n|---------------------|-------------------|\n| orr                 | nasus               |\n| garat               |                    |\n| gége                | larynx              |\n| légcső              |                    |\n| tüdő                |                    |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar megnevezés | latin megnevezés |\n|---------------------|-------------------|\n| orr                 |                   |\n|                     | pharynx           |\n| gége                |                   |\n|                     | trachea           |\n| tüdő                | pulmo             |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz vagy teljes láztalanság\nszapora, nehezített légzés\nmellkasi fájdalom\nhátfájdalom\nfejfájás\nszapora pulzus\nköhögés (improduktív, produktív)\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. víz\n2. zsírok\n3. nincs tápanyag felszívódás\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\nGyomor: ...\nVékonybél: ...\nVastagbél: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám/felhám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szájnyálkahártya-gyulladás lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vashiány\nvírusok\nbaktériumok\ngombák\nsérülések\ndohányzás\nantibiotikumok szedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyekeket a normál vizelet NEM tartalmaz!\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- fehérje\n- víz",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\nKrónikus urémia:\n\nVesekövesség:\n\n(Helyes válaszonként 2-2 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "A veseállomány pusztulása következtében a csökkent, vagy működésképtelen vesefunkciók krónikus állapot kialakulásához vezetnek.\nA vese üregrendszerében különböző oldott sók kő formájában kicsapódnak, innen a húgyvezetékbe, illetve a húgyhólyagba jutva akadályozhatják, vagy teljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\nkülső nemi szervek:\n-\n-\nbelső nemi szervek:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség lehetséges gyanújelei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "émelygés\nhányinger, hányás\nfokozott nyálelválasztás\nkedélyállapot-változás\nszagoktól undorodás\nfokozott étvágy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a bronzkórt (Addison-kór) az alábbi\nszempontok szerint!\n\nLényege:\n...a mellékvesekéreg  és  hormonjainak\ncsökkent termelődése...\n\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "glükokortikoid\nmineralokortikoid\nfáradtság\ngyengeség\nfogyás\nétvágytalanság\ngyakori hányás\nfokozott pigmentáció\nhasmenés\nalacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Helyes válasz esetén a betegség lényegére 2 pont, tüneteire 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "endokrin (belső elválasztású) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nalacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis:\n- aphasia:\n- tremor:\n- hypokinesis:",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nérzészavar\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2..., Β.-...3...; С.-...1..., D.-...4..., Ε.-...5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Soroljon fel az elsődleges sebellátás tilalmai közül\nhármat!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészség-károsodás három alapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_majus_25_II_EuMII_0525_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sebek fajtái közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "vágott seb\nszúrt seb\nharapott seb\nhorzsolt seb\nzúzott seb\nlőtt seb\nroncsolt seb",
+      "options": []
+    }
+  }
+]

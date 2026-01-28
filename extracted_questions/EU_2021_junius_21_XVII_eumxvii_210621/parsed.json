@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az elsődleges teendőket fertőző betegség előfordulásakor!\n- a fertőzés forrásának ártalmatlanná tétele\n- a fertőzés terjedési lehetőségeinek megakadályozása\n- választható védőoltások népszerűsítése\n- a fertőzésnek kitett személyek ellenálló képességének fokozása\n- egészségnevelés kisiskolás kortól\n- a Nemzeti Népegészségügyi Központ értesítése\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a fertőzés forrásának ártalmatlanná tétele\na fertőzés terjedési lehetőségeinek megakadályozása\na fertőzésnek kitett személyek ellenálló képességének fokozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az egészségi állapotot meghatározó tényezők közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az egészségügyi ellátórendszer működése\ngenetikai tulajdonságok\nkörnyezeti tényezők\néletmód\negészségmagatartás\ntársadalmi helyzet, jövedelmi viszonyok\ntársas támogatottság\nkultúra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. lúdtalp\nB. osteoporosis\nC. angolkór\nD. gerincferdülés\nE. csonttörés\n\n1. nyugalomba helyezés, rögzítés\n2. cipőbe helyezett betét, lábboltozat erősítése\n3. izomerő növelése, fűző viselése\n4. D-vitamin adása\n5. gyógyszeres kezelés, diéta, életmódváltás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., В.-...5...., С.-...4...., D.-...3.... Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a támasztószövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- csontszövet\n- porcszövet\n- gerinchúrszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a csontvázrendszer funkciói, feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a szervezet szilárd vázát alkotja\n- életfontosságú szerveket véd\n- meghatározza a test alakját és méreteit\n- üregeiben található a vörös csontvelő, amely a vérképzés szerve\n- ásványi anyagokat raktároz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- vérmérgezés: ...\n- alacsony vérnyomás: ...\n- érelmeszesedés: ...\n- mélyvénás trombózis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szepszis\nhypotonia\narteriosclerosis\nphlebothrombosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vérkörökhöz a hozzájuk tartozó ereket! Írja a sorszámokat a megfelelő helyre!\n\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalisok\n5. vena cava inferior\n\nnagyvérkör erei: ...., ...., .....\n\nkisvérkör erei: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5., 1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a légcsőgyulladást a megadott szempontok szerint!\nJellegzetes tünetei:\n- \n- \n- \nGyógyítása:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "szegycsont mögötti kaparó fájdalom\nlégzés közben fokozódó fájdalom\nugató jellegű köhögés\nköhögéscsillapító adása\nköptető alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a légcsőre vonatkozó helyes megállapításokat!\n- latin neve: pharynx\n- latin neve: trachea\n- belső felszínét csillószőrös hengerhám borítja\n- belső felszínét nyálkahártya borítja\n- szimmetrikusan két főhörgőre ágazik\n- a benne elhelyezkedő hangszalagokat a levegő megrezegteti\n- a gégét a tüdővel köti össze\n- C-alakú porcokból álló cső\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "latin neve: trachea\nbelső felszínét csillószőrös hengerhám borítja\na gégét a tüdővel köti össze\nC-alakú porcokból álló cső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nFehérjék: ...\nSzénhidrátok: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Ismertesse a hasfali sérv lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A hasfal valamely gyenge ellenállású helyén a hashártya előtüremkedik, mely hasüregi szerveket tartalmaz....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, amelyeket csak kóros körülmények között\ntartalmaz a vizelet!",
+      "question_type": "open",
+      "correct_answer": "- fehérje\n- vér\n- genny\n- cukor\n- aceton\n- bilirubin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMi a vese működési egysége?\nHol keletkezik az elsődleges vizelet?\nMennyi a húgyhólyag normál űrtartalma?\nMilyen hosszú a férfi húgycső?",
+      "question_type": "fill_in",
+      "correct_answer": "...a nephron...\n...a Malpighi-testben...\n...kb. 200-300 ml...\n...25 cm...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi anatómiai képleteket elhelyezkedési helyeikkel! Írja a\nhelyes válaszok betűjelét a megfelelő sorszámhoz!\n\n1. Bartholin-mirigy\n2. Leydig-sejtek\n3. barlangos test\n4. sárgatest\n\nA. a herékben, a herecsatornák között\nB. a nagyajkak alsó harmadában, a hüvelybemenetnél\nC. a petefészekben\nD. a hímvessző állományában",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A..., 3.-...D...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a premenstruációs zavarok (PMS) lehetséges tünetei\nközül!",
+      "question_type": "open",
+      "correct_answer": "depresszió\ningerlékenység\ncsökkent koncentrálóképesség\nfejfájás\nemlőérzékenység\nálmatlanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse az óriásnövést a megadott szempontok szerint!\nOka:\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...A növekedési hormont termelő szövetek szaporodása és fokozott\nhormontermelése jóindulatú daganat következtében...\n- az átlagot meghaladó testmagasság\n- a felső végtag aránytalan hosszúsága\n- végtagfájdalmak, ujjak zsibbadása\n- durva, ügyetlen mozgás és kézmozdulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a felsorolt hormonok hatását! Töltse ki a táblázatot!\n\n| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n| FSH nőknél    |                                       |\n| FSH férfiaknál |                                       |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           | - a test növekedésének szabályozása - fokozza a fehérjeszintézist |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban - érösszehúzó, emeli a vérnyomást |\n| FSH nőknél    | - megindítja a tüszőérést - a petefészekre hat |\n| FSH férfiaknál | - fenntartja az ondósejtek képződését - a herékben megindítja az ondósejtek képződését |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "- nyaki idegek\n- háti (mellkasi) idegek\n- ágyéki idegek\n- keresztcsonti idegek\n- farkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vegetatív idegrendszer funkcióit! Írja a sorszámokat a\nmegfelelő helyre!\n1. biztosítja a szervezet fokozott teljesítményét\n2. elősegíti a kimerült szövetek anyagveszteségének pótlását\n3. veszély esetén elindítja a támadási, vagy védekezési mechanizmusokat\n4. szerepe van a hőháztartásban\n5. szerepe van a helyreállító folyamatokban, a szervezet nyugalmi fázisában\n\nA szimpatikus idegrendszer funkciói: ...1., 3., 4.....\nA paraszimpatikus idegrendszer funkciói: ...2., 5.....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.\n2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse az orrsövényferdülés lényegét és lehetséges tüneteit!\n\nLényege:\n...\n\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "Az orrsövény nem az orrüreg középvonalában helyezkedik el....\n- az egyik orrnyílás tágabb\n- akadályozott orrlégzés\n- légzés a szájon át\n- horkolás\n- orrvérzésre való hajlam",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyi érkatasztrófákra jellemző tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- mozgászavar\n- bénulások\n- beszédzavar\n- zavart tudat\n- eszméletvesztés\n- látászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XVII_eumxvii_210621_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Nevezzen meg hatot az elsősegélynyújtó feladatai közül mérgezések esetén!",
+      "question_type": "open",
+      "correct_answer": "- az életveszély elhárítása\n- a szabad légút biztosítása\n- a méreg további bejutásának, illetve felszívódásának megakadályozása\n- a mérgező anyaggal szennyezett ruházat eltávolítása\n- a testfelszín méregtelenítése\n- a méreg hatástalanítása, közömbösítése\n- mentőhívás",
+      "options": []
+    }
+  }
+]

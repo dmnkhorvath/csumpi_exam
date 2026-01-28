@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Rendelje a betegségek lefolyásának formáihoz azok\njellemzőit! Írja a megadott csoportokhoz a helyes válasz\nsorszámát!\n\n1. rövid ideig tart\n(1-2 naptól 2-4 hétig)\n2. hosszantartó\n(évekig, évtizedekig)\n3. elhúzódó lefolyású\n(max. 4-6 hét)\n\nheveny/acut...\nfélheveny/subacut ...\nidült/chronicus ...\n\n4. heves tünetekkel jár\n5. nem jár viharos tünetekkel\n6. nyugalmi és aktív szakaszok\nváltakoznak",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4\n3, 5\n2, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\ntüdőgyulladás: ...\nmagas vérnyomás: ...\ncukorbetegség: ...",
+      "question_type": "fill_in",
+      "correct_answer": "pneumonia\nhypertonia\ndiabetes mellitus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Sorolja fel a szabad felső végtag csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "felkarcsont\norsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronyavarrat\nnyílvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt feladata a szervezetben az ellenanyagok (immunglobulinok)\ntermelése?",
+      "question_type": "fill_in",
+      "correct_answer": "...B-lymphocyta...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi betegségek lényegét!\nVészes vérszegénység (anaemia perniciosa):\nLeukémia:",
+      "question_type": "open",
+      "correct_answer": "A B12-vitamin nem tud felszívódni a gyomorban termelődő intrinszik faktor\nhiánya miatt.\nKóros, éretlen fehérvérsejtek képződnek korlátlan mennyiségben a\nszervezetben, melyek funkciójukat nem tudják ellátni.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nAz alveolusok és az arteria, illetve a vena pulmonalis rendszer capillárisai\nközött zajló gázcsere:\n- belső légzés\n- külső légzés\nA légzőközpont helye:\n- kisagy\n- nyúltvelő\nA garatot a dobüreggel köti össze:\n- fülkürt\n- gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "külső légzés\nnyúltvelő\nfülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző\nkóros légzési formákkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. súlyos anyagcserezavarok (pl. hyperglykaemiás coma, veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás",
+      "question_type": "matching",
+      "correct_answer": "1.-...C..., 2.-A., 3. -...Β...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az epe?\nHol tárolódik az epe?\nMi az epe feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "...a májban...\n...az epehólyagban...\n...a zsírcseppek emulgeálása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. fehérjék\nA. kollagenáz, elasztáz\n2. szénhidrátok\nB. lipáz\n3. zsírok\nC. tripszin\n4. kötőszöveti rostok\nD. amiláz\n\n1. - ...., 2. - ...., 3. - ...., 4. - ....",
+      "question_type": "matching",
+      "correct_answer": "C, D, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\npylorusszűkület (stenosis pylori)\npenetráció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyeket a normál vizelet NEM tartalmaz!\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- fehérje\n- víz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Rendelje a betegségekhez tüneteiket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. éles görcsös fájdalom a deréktájon\n2. szemhéj-, arc-, kéz ödéma\n3. magas vérnyomás\n4. kínzó vizelési inger\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a nagyajkakba\nsugárzik\n6. a vizeletben fehérje jelenhet meg\n\nVeseköves roham: ...\nGlomerulonephritis acuta: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 5\n2, 3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztata-megnagyobbodás\ntünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését, feladatát!\nRészei:\n-\n-\n-\nElhelyezkedése:\n-\nFeladata:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak (cervix)\na kismedence közepén, a hólyag és a végbél között található\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az aldoszteron?\nMi az androgének feladata?\nMilyen hatása van a szomatosztatinnak?\nHol termelődik a glükagon?",
+      "question_type": "fill_in",
+      "correct_answer": "a mellékvese kéregállományában...\na másodlagos férfi nemi jelleg kialakítása...\na testnövekedést gátolja...\na hasnyálmirigyben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só- víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyvelőre (encephalon) jellemző legfontosabb anatómiai tulajdonságok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az agykoponya üregében található\nhozzávetőleg 1,5 kg súlyú\nkb. tízmilliárd idegsejtből áll\nhosszanti irányban egy nyílirányú barázda két részre osztja: jobb és bal agyféltekére\nhárom fő része: nagyagy, kisagy, agytörzs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nFogalma:\n\nFeladata: Írjon egyet!\n- mechanikus támasztó, térkitöltő, elhatároló funkció\n- gátat képez a véráram és az idegszövet határán (vér-agy gát)\n\nJellemzője: Írjon egyet!\n- az agyszövet nagyfokú védelmét biztosítja a vérben keringő esetleges\nkáros anyagokkal szemben\n- a vérből bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot -\nenged át\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az idegszövet sejtközötti állománya, az idegrendszer támasztószövete.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Írja le a koponyaűri nyomásfokozódás következményeit!",
+      "question_type": "open",
+      "correct_answer": "- az agyi térszűkítő folyamatok nyomásfokozódással járnak, mely nyomás\naz agytörzset beszorítja az öreglyukba (beékelődés)\n- ennek következtében az ott lévő életfontosságú központok vér- és\noxigénhiány miatt elpusztulnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Határozza meg az árpa és a jégárpa betegségek\nlényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "Gyulladásos duzzanat, melyet a pillavázban elhelyezkedő mirigyek kivezető\nnyílásának elzáródása okoz.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n-\n-\nFeladata:\n-",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nkönnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon két jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- csontátépülés következtében a belső fülben a kengyel talpa rögzül az\novális ablakhoz\n- nőknél gyakoribb, mint férfiaknál\n- kínzó fülzúgást és vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Soroljon fel kettő olyan esetet, amikor nincs remény\naz újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- élettel összeegyeztethetetlen sérülés\n- a halál biztos jeleinek megjelenése: hullafoltok, hullamerevség, bomlás\njelei\n- bizonyítottan hosszú oxigénhiányos állapot",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 6,
+      "question_text": "Soroljon fel hat tünetet, melynek alapján a sérültnél\nbelső vérzésre gondol!",
+      "question_type": "open",
+      "correct_answer": "- hűvös, nyirkos bőr\n- sápadt, hamuszürke arcszín\n- szapora, könnyen elnyomható pulzus\n- fájdalom\n- szomjúságérzés\n- zavartság, nyugtalanság\n- vérzés valamely testnyílásból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_IV_EuMIV_0225_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 2,
+      "question_text": "Ismertesse a sérültek elhelyezési módját az alábbi\nesetekben!\n\nOrrvérzés esetén:\n...\n\nLégmell esetén:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej\nfélülő helyzet...",
+      "options": []
+    }
+  }
+]

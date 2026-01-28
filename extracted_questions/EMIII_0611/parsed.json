@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EMIII_0611_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szervezet lehetséges túlérzékenységi reakciói közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- anafilaxiás folyamatok\n- asthma bronchiale\n- szénanátha\n- atópiás dermatitis (ekcéma)\n- transzfúziós reakciók\n- újszülöttek hemolitikus betegsége",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladástípusokat a képződött izzadmány jellege szerint!",
+      "question_type": "open",
+      "correct_answer": "- savós (serosus) gyulladás\n- gennyes (suppurativ) gyulladás\n- eves-üszkös gyulladás\n- vérzéses gyulladás\n- fibrines gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában\nrésztvevő csontokat!\n- halántékcsont\n- homlokcsont\n- nyakszirtcsont\n- falcsont\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "halántékcsont",
+        "homlokcsont",
+        "nyakszirtcsont",
+        "falcsont"
+      ]
+    }
+  },
+  {
+    "file": "EMIII_0611_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertessen a csonthártya szerepei, feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- védi a csontot a külső hatásoktól\n- a csont vérellátását biztosítja\n- a csont idegellátását biztosítja\n- lehetővé teszi a csont vastagságbeli növekedését\n- csonttörés esetén a gyógyulást biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a sorszámokat a megfelelő helyre!\n1. fala kb. 5 mm vastag\n2. vénás vér található benne\n3. artériás vér található benne\n4. fala kb. 15-20 mm vastag\n5. innen indul ki a tüdőverőér\njobb kamra jellemzői: ...\nbal kamra jellemzői: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá a felsoroltak közül a hipertóniás krízis lehetséges tüneteit!\n- bénulások\n- éhségérzet\n- hasmenés\n- aluszékonyság\n- látászavar\n- hányás\n- a vérnyomás hirtelen 90/50 Hgmm alá zuhan\n- ízületi fájdalmak\n- a vérnyomás hirtelen nagyfokú emelkedése\n- fejfájás",
+      "question_type": "multiple_choice",
+      "correct_answer": "bénulások\nlátászavar\nhányás\na vérnyomás hirtelen nagyfokú emelkedése\nfejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a gátorüregben (mediastinum) elhelyezkedő anatómiai képletek\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "- szív\n- csecsemőmirigy\n- az aortaív ágai\n- nyelőcső\n- aorta descendens\n- nervus vagus\n- fő nyirokvezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. asthma cardiale\n2. asthma bronchiale\n3. idegrendszeri károsodás\n4. súlyos anyagcserezavarok (pl. veseelégtelenség)\n\nA. Cheyne-Stokes-légzés\nB. Kussmaul-légzés\nC. nehézlégzés, belégzési nehezítettség\nD. nehézlégzés, hosszan elnyúló, sípoló kilégzés",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...A...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg a tápanyagokat funkciójuk szerint!",
+      "question_type": "open",
+      "correct_answer": "sejtépítők\nenergiaszolgáltatók\nbiokatalizátorok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- véres, nyákos széklet\n- kínzó székelési inger\n- görcsös hasi fájdalom\n- étvágytalanság\n- láz, hőemelkedés\n- vérszegénység",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írja le a vesemedence-gyulladás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az egyik, vagy mindkét vese sejt közötti állományának bakteriális fertőzés következtében kialakuló gennyes gyulladása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. fajsúlya: 1020-1025 g/l (1001-1040)\n2. a tubulusokban képződik\n3. a vérplazma fehérjementes szűrlete\n4. szalmasárga színű, jellegzetes szagú\n5. fajsúlya: 1010 g/l\n6. a glomerulusokban képződik\n\nElsődleges vizelet jellemzői: ...\nVégleges vizelet jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a férfi húgycső jellemzői közül!",
+      "question_type": "open",
+      "correct_answer": "- hossza 25 cm\n- két görbülete van\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a dülmirigyet és a gátat\n- a makk csúcsán nyílik a külvilágba\n- a nemi váladék kiürítésére is szolgál",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Ismertesse az endometriózis lényegét, következményét!\nLényege: ...A méhben jelenlévő nyálkahártya, az endometrium a méhen kívül\nmáshol is megjelenik a szervezetben....\nKövetkezménye: ...meddőség...",
+      "question_type": "fill_in",
+      "correct_answer": "A méhben jelenlévő nyálkahártya, az endometrium a méhen kívül\nmáshol is megjelenik a szervezetben.\nmeddőség",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Párosítsa a női nemi szervekhez jellemzőiket, leírásukat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. hüvely\nA. rugalmas izomcsatorna, amely méhnyakat\nés a vulvát köti össze\n\n2. petevezeték\nB. a hüvelybemenetet két oldalról körülvevő,\nfőként zsírszövetből álló bőrredők\n\n3. méh\nC. mandula alakú páros szerv, a nagy és a\nkismedence határán helyezkedik el\n\n4. petefészek\nD. kb. 12 cm hosszú, páros, hullámos lefutású\ncsatorna, a petesejt továbbítására szolgál\n\n5. nagyajkak\nE. a kismedence közepén a hólyag és a végbél\nközött helyezkedik el",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...D...., 3.-...E...., 4.-...C...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Határozza meg a szülés várható időpontjának kiszámítási módját!",
+      "question_type": "open",
+      "correct_answer": "...Az utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Írja le a neuroendokrin rendszerrel kapcsolatos szakkifejezések latin vagy\nmagyar megnevezését! Egészítse ki a táblázatot!\n\n| Szakkifejezések |\n| ----------- | ----------- |\n| magyarul | latinul |\n| töröknyereg | sella turcica |\n| agyalapi mirigy elülső lebenye |  |\n| mellékvese | glandula suprarenalis |\n| csecsemőmirigy |  |\n| pajzsmirigy | glandula thyreoidea |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |\n| ----------- | ----------- |\n| magyarul | latinul |\n|  |  |\n|  | adenohypophysis |\n|  |  |\n|  | thymus |\n|  |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az endokrin rendszerre vonatkozó helyes megállapításokat!\n- Az FSH férfiaknál megindítja és fenntartja a herékben az ondósejtek képződését.\n- Az LTH nőkben a sárgatest képződését serkenti.\n- A növekedési hormon egész életen át termelődik, de a pubertás után már csak kisebb mennyiségben.\n- A parathormon hatása a calcitoninnal megegyező hatású.\n- A várandósság végén az oxitocin a progeszteronszint hirtelen csökkenésekor erős méhösszehúzódást vált ki és beindítja a szülést.\n- Az LH hatására indul meg a tejelválasztás a szülést követően.\n- A pajzsmirigy hormonjai a tiroxin, a trijódtironin és a calcitonin.\n- A calcitonin növeli a vér kálciumszintjét.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "Az FSH férfiaknál megindítja és fenntartja a herékben az ondósejtek\nképződését.\nAz LTH nőkben a sárgatest képződését serkenti.\nA növekedési hormon egész életen át termelődik, de a pubertás után már csak\nkisebb mennyiségben.\nA várandósság végén az oxitocin a progeszteronszint hirtelen csökkenésekor\nerős méhösszehúzódást vált ki és beindítja a szülést.\nA pajzsmirigy hormonjai a tiroxin, a trijódtironin és a calcitonin.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg magyarul ötöt a neuron részei közül!",
+      "question_type": "fill_in",
+      "correct_answer": "idegsejt/sejttest\nplazmanyúlvány\nidegnyúlvány\nvégfácska\nsejtmag\nmagvacskák",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epilepszia lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "agyi gyulladásos folyamatok, fertőzések\nagydaganatok\nagyi vérzések\nkoponyasérülések\nfejlődési rendellenességek\nsorvadásos megbetegedések (tüneti epilepszia)\nönálló kórkép/genuin epilepszia",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem összehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az övsömör lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "bőrérzékenység az ideg lefutása mentén\nfájdalmas bőrkiütések (folyadékkal telt hólyagok)\nviszketés\nhidegrázás\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Párosítsa a koponyaalapi törések fajtáit a tüneteikhez! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. elülső árok törése\n2. középső árok törése\n3. hátulsó árok törése",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertesse a sérülés következtében kialakult légmellet a megadott szempontok szerint!\nLényege: ...\nFajtái:",
+      "question_type": "open",
+      "correct_answer": "A mellüreg megnyílásakor levegő jut a mellüregbe....\nzárt\nnyitott\nszelepes",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_0611_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!\n- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "question_type": "open",
+      "correct_answer": "szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  }
+]

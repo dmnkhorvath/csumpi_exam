@@ -1,0 +1,350 @@
+[
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ streptococcus utóbetegséget!",
+      "question_type": "open",
+      "correct_answer": "glomerulonephritis acuta\nrheumás láz\nszívbelhártya gyulladás\nszívizom gyulladás\nszívburok gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás felsorolt helyi tüneteinek\nlétrejöttét!\nTöltse ki a táblázatot!\n\n| helyi tünet | az elváltozás oka |\n|---------|---------|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| helyi tünet | az elváltozás oka |\n|---------|---------|\n| pirosság | a kórok köré vér áramlik |\n| duzzanat | az erekből folyadék lép ki |\n| melegség | a szövetek sejtjeinek anyagcseréje fokozódik, hő termelődik |\n| fájdalom | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőivel! Írja a sorszám mellé a helyes betűjelet!\n1. superior\n2. perifériás\n3. posterior\n4. ventrális\n5. centrális\n6. inferior\nA. központi\nB. lefelé\nC. hasi irányú\nD. felfelé\nE. környéki\nF. hátul lévő",
+      "question_type": "matching",
+      "correct_answer": "1-D 2-E 3-F 4-C 5-A 6-B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a tüneteket, amelyek az\nemésztőrendszeri daganatos megbetegedésre utalnak!\n- indokolatlan fogyás\n- láz\n- székelési ritmus megváltozása\n- ízületi fájdalmak\n- nyelési nehézségek\n- gyakori fejfájás\n- véres széklet\n(Csak a négy helyes válaszra adható 0,5-0,5 pont!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nnyelési nehézségek\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot!\n\n| emésztőrendszer részei | emésztő enzimek | tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n|  | kimozin |  |\n|  | lipáz |  |\n| vékonybél |  |  |\n|  | amiláz, maltáz, laktáz |  |\n|  | lipáz |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| emésztőrendszer részei | emésztő enzimek | tápanyagok bontása |\n|---|---|---|\n|  |  | szénhidrát |\n|  | pepszin | fehérje |\n|  |  | tejfehérje |\n|  |  | zsír |\n| vékonybél | tripszin | fehérje |\n|  |  | szénhidrát |\n|  |  | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szájnyálkahártya gyulladás okai és\ntünetei közül hármat-hármat /3-3/!",
+      "question_type": "open",
+      "correct_answer": "Oka: vashiány, vírusok, baktériumok, gombák, sérülések,\ndohányzás, antibiotikumok szedése.\nTünetei: a szájnyálkahártya duzzadt, piros, hólyagos,\nfekélyek keletkezése, fájdalom, lepedékes nyelv, bűzös\nlehelet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Ismertesse a vesekőképződésre hajlamosító tényezőket!",
+      "question_type": "open",
+      "correct_answer": "- vizeletpangás a húgyutak szűkülete vagy elzáródása miatt\n- a vizelet fertőződése\n- kőképző anyagok felszaporodása a vizeletben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Csoportosítsa a vizelet mennyiségének zavarait\naz alábbiak szerint!\nÍrja a számokat a megfelelő elnevezéshez!\noliguria: ...\npolyuria: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá azokat az anyagokat, amelyeket a normál\nvizelet tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel a prosztata megnagyobbodás tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- vizelési nehézség (a vizeletürítés nehezen indul meg)\n- gyakori vizelési inger\n- vizeletcsepegés\n- éjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "open",
+      "correct_answer": "a hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- sugárhányás\n- látási zavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a négy helyes válaszra adható 0,5-0,5 pont!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátási zavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két /2/ hatástani részét!",
+      "question_type": "open",
+      "correct_answer": "- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel az adrenalin hatásai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "fokozza a szívösszehúzódások számát, szívműködés erejét\nemeli a légzésszámot\nszűkíti a perifériás ereket a vérnyomást emeli\nlassítja a bélműködést a perisztaltika csökken\na májban és az izmokban tárolódott glikogént mobilizálja – a\npupillatágulatot idéz elő\nvércukor szintet emeli",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábrán a számokkal jelölt belső elválasztású mirigyeket magyarul!\nVálaszát írja a számok mellé a pontozott vonalra!",
+      "question_type": "fill_in",
+      "correct_answer": "tobozmirigy\n...agyfüggelék...\n...mellékpajzsmirigy...\n...pajzsmirigy...\n...csecsemőmirigy...\n...mellékvese...\n...hasnyálmirigy...\n...petefészek...\n...here...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q016_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 1,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor\nszintet emelik!\n- inzulin\n- glukagon\n- adrenalin\n- somatostatin",
+      "question_type": "multiple_choice",
+      "correct_answer": "glukagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel az övsömör (herpes zoster) tünetei közül hármat/3/!",
+      "question_type": "open",
+      "correct_answer": "- deréktájon, övalakban elhelyezkedő gyulladt hólyagocskák\n- leggyakoribb a törzsön a háti idegek lefutása mentén\n- erős fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi az érhártya feladata?\nHol található a pupilla?\nHol termelődik a csarnokvíz?\nHol találhatók a látás receptorai?\nMi a szemlencse feladata?",
+      "question_type": "open",
+      "correct_answer": "- az ideghártya táplálása\n- a szivárványhártya közepén\n- a szem középső burkában, a sugártest termeli\n- az ideghártyán\n- a szem alkalmazkodó képességének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Nevezze meg a szív elsődleges és másodlagos ingerképző központját!\nelsődleges ingerképző központ: ...\nmásodlagos ingerképző központ: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "sinus csomó\npitvar – kamrai csomó",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa a szív eredetű keringési elégtelenséget\na hozzá tartozó tünetekkel!\nÍrja a pontozott vonalra a megfelelő számokat!\nBal szívfél elégtelenség: ......\nJobb szívfél elégtelenség: ......\n\n1. hasvízkór\n2. köhögés\n3. telt nyaki vénák\n4. munka dyspnoe\n5. tüdővizenyő\n6. lábszár vizenyő\n7. „szilvalé\" szerű köpet\n8. éjszakai vizelés",
+      "question_type": "matching",
+      "correct_answer": "2,4,5,7\n1,3,6,8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul a szívburok részeit!",
+      "question_type": "open",
+      "correct_answer": "fali lemez\nzsigeri lemez\nlemezek közötti üreg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a tüszős mandulagyulladást az alábbiakban megadott szempontok szerint!\nOka:\nTünetek: Írjon négyet /4/!\n\nSzövődmény (második betegség): Írjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "leggyakrabban baktérium (Streptococcus)\nláz, hidegrázás, elesettség, végtagfájdalmak, fejfájás, nyelési fájdalmak, duzzadt mandula\nreumás láz, glomerulonephritis acuta, szívbelhártya gyulladás, szívizom gyulladás, szívburok gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Az okra:1 pont; a szövődményre 1 pont, a tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Húzza alá a gátor üregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- máj\n- aortaív ágai\n- hörgők\n- nyelőcső\n- fő nyirokér\n- bolygóideg (nervus vagus)\n- csecsemőmirigy\n- pajzsmirigy\n(Csak a hat helyes válaszra adható 0,5-0,5 pont!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\ntüdők\naortaív ágai\nnyelőcső\nfő nyirokér\nbolygóideg (nervus vagus)\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertesse, hogy újraélesztés során milyen hibák, szövődmények alakulhatnak ki! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "nem megfelelő helyen keresik a carotis pulzust\nidővesztés (aggályoskodás)\nkemény alapra fektetés hiánya\nlélegeztetés elmulasztása\na gyomor felfúvódása\nhelytelen szívmasszázs technika\nkoordináció hiánya\nbordatörés\nműködő szívnél mellkas kompresszió alkalmazása\naspiráció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy /4/ tünetet, melynek alapján a sérültnél belső vérzésre gondol!",
+      "question_type": "open",
+      "correct_answer": "- hűvös, nyirkos bőr\n- sápadt, hamuszürke arcszín\n- szapora pulzus\n- szomjúságérzés\n- zavartság, nyugtalanság\n- vérzés valamely testnyílásból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Nevezze meg a betegségeket magyarul az alábbi\nmeghatározások alapján!\n- A csont szerves állománya és mésztartalma csökken:\n...\n- A napfény ultraibolya sugarainak hiánya miatt a D vitamin képződés,\nhiányában a csontokba nem épül be a mészsó: ...\n- A csigolyaívek záródási hiánya: ...\n- Táplálkozás eredetű, öröklődő betegség, a húgysavas sók lerakódnak\naz ízületekben: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "csontritkulás\nangolkór\nnyitott gerinc\nköszvény",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q028_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 4,
+      "question_text": "Sorolja fel a csontokat alakjuk szerint! Írjon mindegyikre egy-egy /1-1/ példát!",
+      "question_type": "open",
+      "correct_answer": "- hosszú, csöves csontok pl.: combcsont, felkarcsont\n- rövid csontok pl.: ujjperccsontok\n- lapos csontok pl.: lapocka, medencecsont\n- szabálytalan alakú csontok pl.: csigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_januar_25_II_B005BC6F-5A51-98C7-6E55-31A631B7C90A_q029_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy / 1-1/ példát!",
+      "question_type": "open",
+      "correct_answer": "- Kötőszövetes összeköttetés pl.: koponya varratai\n- Porcos összeköttetés pl.: medencecsont csontjai között\n- Csontos összeköttetés pl.: korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása-keresztcsont",
+      "options": []
+    }
+  }
+]

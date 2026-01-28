@@ -1,0 +1,332 @@
+[
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel a támasztószövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "- csontszövet\n- porcszövet\n- gerinchúrszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe a betegség szakaszait a betegség lefolyásának megfelelően!\nÍrja le a sorszámokat a megfelelő sorrendben!\n1. kimeneteli szakasz\n2. kifejlődés (manifesztáció) szakasza\n3. lappangás (inkubáció)\n4. szövődmények megjelenése\n5. bevezető szakasz (prodromum)",
+      "question_type": "fill_in",
+      "correct_answer": "...3., 5., 2., 1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4. pont",
+      "points": 0,
+      "question_text": "A következők közül melyik nem a szív ingerképző és vezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa az immunitás típusait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. faji immunitás\n2. védőoltások által szerzett immunitás\n3. anyai immunitás\n4. fertőző betegségek átvészelése után kialakult immunitás\n\nszerzett immunitás: ...., .....\n\nveleszületett immunitás: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 1., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért felelős fehérjéket\n(véralvadási faktorokat)!",
+      "question_type": "open",
+      "correct_answer": "- fibrinogén\n- protrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Soroljon fel az arckoponya csontjai közül hatot magyarul!",
+      "question_type": "open",
+      "correct_answer": "- felső állcsont\n- járomcsont\n- rostacsont\n- orrcsont\n- állkapocs\n- ekecsont\n- könnycsont\n- szájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertesse a petyhüdt bénulást a megadott szempontok alapján!\nLényege: ...\nOka: ...\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "az izmok működésének teljes vagy részleges hiánya...\na gerincvelőt, vagy a környéki idegeket érintő betegségek...\na mozgásfejlődés visszamaradása\na szellemi fejlődés visszamaradása\nmozgászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá a felsoroltak közül a hipertóniás krízis tüneteit!\n- hirtelen 90/50 Hgmm alá zuhan a vérnyomás\n- a vérnyomás hirtelen nagyfokú emelkedése\n- fejfájás\n- ízületi fájdalmak\n- látászavar\n- hányás\n- éhségérzet\n- bénulások\n- hasmenés\n- aluszékonyság",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás hirtelen nagyfokú emelkedése\nfejfájás\nhányás\néhségérzet\nbénulások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- vérrögösödés: ...\n- szívizomelhalás: ...\n- kamralebegés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "thrombosis\ninfarctus myocardii\nventricularis fibrillatio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Egészítse ki a légmellre vonatkozó táblázatot!\n\n|  | Légmell |\n|---|---|\n| Latin megnevezése |  |\n| Lényege |  |\n| Lehetséges tünetei: Írjon hármat!* |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|\n| Latin megnevezése | pneumothorax |\n| Lényege | a mellhártya lemezei közé levegő kerül |\n| Lehetséges tünetei: Írjon hármat!* | - mellkasi fájdalom\\newline- légszomj\\newline- erőteljes száraz köhögés\\newline- súlyos esetben sokk |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg a légutak allergiás betegségeit!",
+      "question_type": "open",
+      "correct_answer": "- szénanátha\n- gégevizenyő\n- tüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Sorolja fel a fog részeit és feladatait!\nRészei:\n\n\n\nFeladatai:\n\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "korona\nnyak\ngyökér\na harapás\na táplálék őrlése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n1. C-vitamin\n2. K-vitamin\n3. D-vitamin\n4. B₁-vitamin\n5. A-vitamin\nA. farkasvakság\nB. skorbut\nC. beriberi\nD. angolkór\nE. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...E...., 3.-...D...., 4.-...C...., 5.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Írja le az elsődleges vizelet jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- mennyisége napi 160-180 liter\n- a vérplazma fehérjementes szűrlete\n- fajsúlya: 1010 g/l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. heveny és krónikus veseelégtelenséghez vezető vesebetegségek\n2. diuretikumok adása\n3. cukorbetegség\n4. szervezet fokozott vízleadása izzadás, hányás, hasmenés következtében\n5. diabetes insipidus\n6. nagyfokú ödémaképződés\n\nCsökkent vizeletelválasztás (oliguria) okai: ...\nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését!\nRészei:\n\nElhelyezkedése:",
+      "question_type": "open",
+      "correct_answer": "- méhfenék\n- méhtest\n- méhnyak\n...a kismedence közepén, a hólyag és a végbél között található...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "- gumi óvszer (kondom) használata\n- tartós párkapcsolat\n- kábítószer-fogyasztás elkerülése (közös tűhasználat kerülése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Húzza alá a felsoroltak közül a szülés megindulásának jeleit!\n- a hüvely szederjes elszíneződése\n- a méhszáj kitágulása\n- a méhizomzat rendszeres összehúzódása\n- a testsúlygyarapodás megtorpanása\n- a méhnyaknál lévő nyákdugó távozása\n- hirtelen erőteljes magzatmozgások megjelenése\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a méhszáj kitágulása\na méhizomzat rendszeres összehúzódása\na méhnyaknál lévő nyákdugó távozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Jellemezze a kalcitonin hormont a megadott szempontok szerint!\ntermelődési helye:\n...\nhatása:\n...\nhatásmechanizmusa:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "pajzsmirigy\na vér kalciumszintjét csökkenti\nsegíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse az óriásnövést a megadott szempontok szerint!\nOka:\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...a hormont termelő szövetek szaporodása, daganata...\naz átlagot meghaladó testmagasság\na felső végtag aránytalan hosszúsága\nvégtagfájdalmak, ujjak zsibbadása\ndurva, ügyetlen mozgás és kézmozdulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Írja le a bronzkór (Addison-kór) lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak csökkent termelődése következtében kialakuló betegség....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "- nyaki idegek\n- háti (mellkasi) idegek\n- ágyéki idegek\n- keresztcsonti idegek\n- farkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex kezelési lehetőségei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszeres kezelés\nszövődmények megelőzése\nmozgásterápia\naktív és passzív tornáztatás\ntáplálkozásreform\nkáros szokások elhagyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget/állapotot, amely lábszárfekély\nkialakulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- keringési zavar\n- cukorbetegség\n- beidegzési zavarok\n- egyes bőrbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a szaglórendszer fáradékonyságának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ember szaglórendszere fáradékony, bizonyos idő eltelte után az adott szagot\nmár nem érzi, hozzászokik a szaghoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy\ntünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, fájdalom |\n| II. fokú égés | égési hólyag (bulla), heves fájdalom |\n| III. fokú égés | a bőr felső rétege teljesen elpusztul, a bőrfelület piszkosszürkévé válik |\n| IV. fokú égés | elszenesedés, a bőr alatti egyéb szövetek is pusztulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_V_eu_modul_v-201114_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- halálfélelem\n- szorító, erős mellkasi fájdalom\n- a fájdalom kisugárzik a bal vállba, karba\n- gyomortáji fájdalom\n- nehézlégzés\n- szédülés, gyengeség\n- szürkés bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\n- Tawara-szár: ...\n- ínhártya: ...\n- Langerhans-szigetek: ...\n- Malpighi-test: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szív\nszem\nhasnyálmirigy\nvese",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladások klasszikus tüneteit latinul!",
+      "question_type": "open",
+      "correct_answer": "- rubor\n- tumor\n- calor\n- dolor\n- functio laesa",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa a megadott ízületekhez az ízülettípusokat! Írja a sorszámok mellé\na helyes válasz betűjelét!\n1. hüvelykujj kéztő és kézközép közötti ízület\n2. csuklóízület\n3. keresztcsont-csípőcsontízület\n4. vállízület",
+      "question_type": "matching",
+      "correct_answer": "1.-...B....,\n2.-...D....,\n3.-...C....,\n4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a Scheuermann-féle betegség tüneteit és gyógyításának\nlehetőségeit!\nPanaszok, tünetek: Írjon négyet!\n- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- mozgáskorlátozottság\n- a terhelhetőség csökkenése\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n- gyógytorna\n- úszás\n- fűző viselése\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a hát fájdalmas fáradékonysága\na háti szakasz fokozott görbülete\na hát merevsége\nmozgáskorlátozottság\na terhelhetőség csökkenése\ngyógytorna\núszás\nfűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a lép feladatait!\n- méreganyagok kiválasztása\n- lymphocyták képzése\n- vérlemezkék lebontása\n- vér raktározása\n- maltáz termelése\n- vörösvérsejtek lebontása\n- glükogén raktározása\n- C-vitamin tárolása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\nvérlemezkék lebontása\nvér raktározása\nvörösvérsejtek lebontása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "- szívelégtelenség\n- a coronaria keringési zavarai\n- agyi trombózis\n- arterioszklerózis\n- agyvérzés\n- vesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a gátorüregben (mediastinum) elhelyezkedő anatómiai\nképletek közül ötöt!\n\n- szív\n- csecsemőmirigy\n- az aortaív ágai\n- nyelőcső\n- aorta descendens\n- nervus vagus\n- fő nyirokvezeték\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "szív\ncsecsemőmirigy\naz aortaív ágai\nnyelőcső\naorta descendens\nnervus vagus\nfő nyirokvezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüszős mandulagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nyeléskor erősödő fájdalom\n- magas láz, hidegrázás\n- a garatképletek nyálkahártyája vörös\n- a mandula lepedékes\n- a nyelv bevont\n- kellemetlen szájszag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0",
+      "points": 5,
+      "question_text": "A következők közül melyik nem a szív ingerképző-ingervezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "Pitvar-kamrai billentyű",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok",
+        "Pitvar-kamrai billentyű"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. amiláz\n2. nukleáz\n3. kimozin\n4. tripszin\n5. pepszin\ngyomornedv enzimjei: ...., .....\nhasnyál enzimjei: ...., ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5.\n1., 2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Nevezzen meg ötöt a végbélgyulladás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- Crohn-betegség\n- colitis ulcerosa\n- hőártalom\n- vegyiártalom\n- aranyér\n- fisztulák, berepedések\n- baktériumfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a veseműködés idegi szabályozására vonatkozó mondatok\nhiányzó részeit!\n\nAz idegi szabályozás a vese ... viselkedésére hat. Gyengébb idegi\ningerek hatására a glomerulusokból elvezető arteriolák..., ezért a\nglomerulusban ... a vérnyomás, ... a szűrés, a vizelet\nmennyisége pedig ... fog.\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "ereinek\nszűkülnek\nemelkedik\nfokozódik\nnőni/növekedni",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Írja le a vesekőbetegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A vese üregrendszerében az oldott sók és a vizeletben található kristályok kő\nformájában kicsapódnak, ezután a húgyvezetékbe, illetve a húgyhólyagba jutva\nakadályozhatják, vagy teljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Írja le a méh falának rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső, hashártya által borított réteg\n- középső izomréteg\n- belső nyálkahártyaréteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a fűtymaszűkületet a megadott szempontok szerint!\nLényege:\n...\nLehetséges következménye: ...\nGyógyítása:\n-\na\n-\na\n-\na",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról....\nA fityma mögötti területen a váladék pangani\nkezd, ami miatt gyulladás alakulhat ki.....\nfityma tágítása\nfityma eltávolítása\nfitymafék átvágása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "- gumi óvszer (kondom) használata\n- tartós párkapcsolat\n- kábítószer-fogyasztás elkerülése (közös tűhasználat kerülése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez az általuk termelt hormonokat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\n\nA. mellékvese-velőállomány\nB. tobozmirigy\nC. hasnyálmirigy\nD. mellékvese-kéregállomány\nE. csecsemőmirigy\n\n1. melatonin\n2. timozin\n3. szomatosztatin\n4. noradrenalin\n5. kortizol",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., B.-...1...., C.-...3...., D.-...5...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a gigantizmusra vonatkozó helyes\nmegállapításokat!\n- A pajzsmirigy túlműködése okozta megbetegedés.\n- Az agyalapi mirigy csökkent működése következtében alakul ki.\n- Oka az agyalapi mirigy túlzott mennyiségű hormontermelése.\n- A betegség előfordulása a férfiaknál gyakoribb.\n- A nőknél négyszer gyakoribb a betegség előfordulása.\n- Amennyiben a betegség gyermekkorban alakul ki óriásnövésnek nevezik.\n- Jellemző tünete, hogy a felső végtag aránytalanul hosszú.\n- Jellemző tünete, hogy minden testrész, illetve szerv arányosan kisebb.\n- Öreges arcvonások jellemzik, hiányoznak a másodlagos nemi jellegek.\n- Durva, ügyetlen mozgások, kézmozdulatok jellemzik.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Oka az agyalapi mirigy túlzott mennyiségű hormontermelése.\nA betegség előfordulása a férfiaknál gyakoribb.\nAmennyiben a betegség gyermekkorban alakul ki óriásnövésnek nevezik.\nJellemző tünete, hogy a felső végtag aránytalanul hosszú.\nDurva, ügyetlen mozgások, kézmozdulatok jellemzik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon négy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg a koponyaűri nyomásfokozódás lényegét, lehetséges\nkövetkezményét!",
+      "question_type": "open",
+      "correct_answer": "Az agyi térszűkítő folyamatok nyomásfokozódással járnak, amely nyomás az\nagytörzset beszoríthatja az öreglyukba (beékelődés). A fokozódó nyomás\nkövetkeztében az agytörzsben lévő életfontosságú központok a vér- és\noxigénhiány miatt elpusztulnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Írja le a könnykészülék részeit és feladatát!\nRészei:\n\nFeladata:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- könnyet termelő mirigyek\n- könnyelvezető-rendszer\n- folyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse a foglalkozási betegségként jelentkező zajártalom lehetséges\nokát és tüneteit!\nKialakulásának oka: ...\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "huzamos ideig tartó, 80-85 dB feletti zajterhelés...\ningerlékenység\ntürelmetlenség\nfokozott fáradtságérzés\nfülcsengés/fülzúgás\nhalláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa a mérgezésekkel kapcsolatos megállapításokat a megadottak\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. Elsősegélynyújtás során törekedni kell a méreg hatástalanítására, illetve\nközömbösítésére.\n\n2. A testfelszín méregtelenítését csak arra kiképzett szakember kezdheti meg.\n\n3. A lenyelt, gyomorba került marószer esetén a beteg hánytatása a legfontosabb\nteendő.\n\n4. A lenyelt, gyomorba került marószer esetén tilos a beteg hánytatása.\n\n5. A lenyelt maró mérgeket legkönnyebben lúgos folyadék itatásával\nközömbösíthetjük.\n\nIgaz állítás: ...1., 4....\n\nHamis állítás: ...2., 3., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_06_IV_EUMIV_0906_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Írjon le négyet tömeges baleset előfordulása esetén az ellátás nehézségeit\njelentő tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "a rendelkezésre álló mentőerők száma\naz életveszélyes, súlyos sérültek nagy aránya\naz ideális feltételek hiánya\na gyors ellátás igénye\na gyors szállítás igénye",
+      "options": []
+    }
+  }
+]

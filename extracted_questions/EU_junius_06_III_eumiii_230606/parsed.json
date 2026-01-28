@@ -1,0 +1,313 @@
+[
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa sejtosztódási formákhoz leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. meiózis\n2. amitózis\n3. mitózis\n\nA. direkt sejtosztódás, a magban kezdődik\nB. indirekt sejtosztódás, a sejt vizet vesz fel és megduzzad\nC. felező sejtosztódás, az ivarsejtekre jellemző",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Α...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a járványfolyamat mozgatóerőit!",
+      "question_type": "open",
+      "correct_answer": "- a fertőzés forrásai\n- a fertőzés terjedési módjai\n- fogékonyság, immunitás\n- természeti tényezők\n- társadalmi tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Jellemezze a csontszövetet felépítő szilárd alkotórészeket!\n- szervetlen állomány: ...\n- szerves állomány: ...",
+      "question_type": "open",
+      "correct_answer": "elsősorban kalciumsók alkotják, de mintegy 20 különböző elem található benne, a csont szilárdságát adja...\nosszein, kötőszöveti rostokból, fehérjét és szénhidrátot tartalmazó összetett molekulákból épül fel, a csont rugalmasságát adja...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a ferde nyakat a megadott szempontok szerint!\nLényege:\nKialakulásának lehetséges okai: Írjon kettőt!\nGyógyításának/kezelésének lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...az egyik oldali fejbiccentő izom zsugorodása...\nfejlődési rendellenesség\nizomsérülés\nnyaki gerincferdülés\nmozgásterápia\nfizikoterápia\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe a vér útját a kisvérkörben a keringés irányának\nmegfelelően! Írja a sorszámokat a pontozott vonalakra!\n..... bal pitvar\n..... arteria pulmonalis\n..... jobb kamra\n..... tüdő\n..... vena pulmonalis\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "...5....\n...2....\n...1....\n...3....\n...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző- és vezetőrendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "Szinuszcsomó",
+        "Pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi jellemzőket, tüneteket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. boka-, lábszár ödéma; hasvízkór\n2. kisvérköri pangás\n3. nagyvérköri pangás\n4. nyugalmi dyspnoe\n5. tüdőödéma\n6. a vizelet mennyisége csökken\n\nBalszívfél-elégtelenség jellemzői, tünetei: ......\n\nJobbszívfél-elégtelenség jellemzői, tünetei: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5.\n\n1., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Írja le a légzés mechanizmusát belégzéskor!",
+      "question_type": "open",
+      "correct_answer": "- a bordák megemelkednek\n- a mellüreg tágul\n- a mellüregi szívóhatás növekszik\n- a tüdők kitágulnak\n- a levegő beáramlik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négy lehetséges óvintézkedést a tuberkulózis megelőzése érdekében!",
+      "question_type": "open",
+      "correct_answer": "fertőző források felkeresése, felkutatása, elkülönítése\nvédőoltások biztosítása\nrendszeres tüdőszűrés\nforralatlan tej fogyasztásának mellőzése\nhigiénés szabályok betartása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epe összetevői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epesavak\nepesavak sói\nkoleszterin\nlecitin\nszervetlen sók\nnyákanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a salmonellosisra vonatkozó helyes megállapításokat!\n- lappangási ideje 12-48 óra\n- lappangási ideje 6-10 nap\n- a fertőzés átvészelése életre szóló védettséget ad\n- a fertőzésen átesettek kórokozó-hordozókká válhatnak\n- bakteriális eredetű megbetegedés\n- oka vírusfertőzés\n- jellemző tünete a görcsös hasi fájdalom, a láz és a hasmenés\n- jellemző tünete a nagy tömegű, zsíros fényű, bűzös széklet ürítése\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási ideje 12-48 óra\na fertőzésen átesettek kórokozó-hordozókká válhatnak\nbakteriális eredetű megbetegedés\njellemző tünete a görcsös hasi fájdalom, a láz és a hasmenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Sorolja fel a vizeletelvezető rendszer részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "vesepiramisok gyűjtőcsatornái\nvesekelyhek\nvesemedence\nhúgyvezeték\nhúgyhólyag\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Nevezzen meg az oliguria lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "csökkent folyadékbevitel\na szervezet fokozott folyadék leadása\nnagyfokú ödémaképződés\nveseelégtelenséghez vezető kórképek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMilyen hosszú a petevezeték?",
+      "question_type": "fill_in",
+      "correct_answer": "kb. 12 cm",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Írjon le a szülés megindulásának jelei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "a méhizomzat rendszeres összehúzódása\na méhnyaknál lévő nyákdugó távozása\na méhszáj kitágulása\na magzatvíz szivárgása, vagy elfolyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hüvelygyulladás jellegzetes tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- kóros hüvelyi váladék (eltérő színű és állagú), rendellenes folyás\n- viszkető érzés\n- égő fájdalom\n- fájdalmas vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol termelődik a timozin?\n- a hypophysisben\n- a hypothalamusban\n- a csecsemőmirigyben\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- a növekedési hormont\n- az ösztrogént\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést fokozza\n- a testnövekedést gátolja\n- fokozza a fehérjeszintézist, és az izomzat növekedését\n\nMi a hatása a parathormonnak?\n- csökkenti a vér kalcium- és foszfátszintjét\n- segíti a kalciumionok beépülését a csontokba\n- emeli a vér kalcium- és foszfátszintjét\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csecsemőmirigyben\n\na melatonint\n\na testnövekedést gátolja\n\nemeli a vér kalcium- és foszfátszintjét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a mixödéma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "duzzadt, kifejezéstelen, egykedvű arc\ndurva, hideg tapintatú bőr\nalacsony testhőmérséklet\nrekedt hang, lassult beszéd\ngyér pulzus\nszékrekedés\nfázékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. thalamus\n2. hálózatos sejtrendszer (formatio reticularis)\n3. híd\n4. hypothalamus\n5. nyúltvelő\n\nköztiagy: ...., ....\nagytörzs: ...., ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe ömlik a vena cava superior?",
+      "question_type": "multiple_choice",
+      "correct_answer": "jobb pitvar",
+      "options": [
+        "jobb pitvar",
+        "bal pitvar",
+        "jobb kamra",
+        "bal kamra"
+      ]
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a motoros zavarok tünetegyütteseit a megadott szempontok\nszerint! Egészítse ki a táblázatot!\n\n|  | petyhüdt | spasticus |\n|---|---|---|\n| kóros reflexek | nincsenek |  |\n| izomsorvadás |  | nincs |\n| kontraktúra | nincs |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "|  | petyhüdt | spasticus |\n|---|---|---|\n| kóros reflexek |  | vannak |\n| izomsorvadás | van |  |\n| kontraktúra |  | van |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit latinul!",
+      "question_type": "open",
+      "correct_answer": "chorioidea\niris\ncorpus ciliare",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. systemas lupus\nerythematosus (SLE)\n2. övsömör\n3. ekcéma\n4. fényérzékenység okozta\nbőrreakció\n5. szemölcs\n\nA. viszkető, pici hólyagok, nedvedzés, majd\nhámlás\nB. kisebb-nagyobb kemény bőrkinövés a\ntest különböző részein\nC. fájdalmas kiütések, folyadékkal telt\nhólyagok az ideg lefutása mentén\nD. csalánkiütésszerű foltos, viszkető\nkiütések\nE. pillangó alakú bőrpír az arcon, testszerte\npénzérme alakú, foltos kiütések",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-...C...., 3.-A...., 4.-...D...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor közlendő információkat/adatokat!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai (név, telefonszám)\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e egyéb segítség (pl. műszaki mentés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_06_III_eumiii_230606_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az elsősegélynyújtó teendői közül az egyik felső végtag I.-II. fokú (9%) égési sérülése esetén!",
+      "question_type": "open",
+      "correct_answer": "- a ruházat eltávolítása az égett felületről\n- az égett testrész hűtése hideg folyó vízzel (10-15 percig)\n- a sérült nyugalomba helyezése\n- az égett testfelszín steril gézzel való befedése, laza rögzítése\n- folyadékpótlás",
+      "options": []
+    }
+  }
+]

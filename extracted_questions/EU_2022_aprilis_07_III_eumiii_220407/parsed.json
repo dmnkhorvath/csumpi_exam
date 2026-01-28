@@ -1,0 +1,298 @@
+[
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai, kórtani kifejezések magyar, vagy latin megfelelőjét!\nEgészítse ki a táblázatot!\nAnatómiai, kórtani kifejezések\n| magyarul | latinul |\n|---|---|\n|  | cellula |\n| sejtmag |  |\n|  | morbus |\n| láz |  |\n|  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n| sejt |  |\n|  | nucleus |\n| betegség |  |\n|  | febris |\n| gyulladás | inflammatio |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a gyulladás hatására jelentkező általános tünetek közül!",
+      "question_type": "open",
+      "correct_answer": "láz\nfehérvérsejtszám-emelkedés\nvérsejtsüllyedés-gyorsulás\nthrombocyták összetapadása\nC-reaktiv proteinszint-emelkedés\nprokalcitoninszint-emelkedés\nétvágytalanság\nfáradékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- homlokcsont\n- ékcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. torticollis\nB. veleszületett csípőficam\nC. osteoporosis\nD. dongaláb\nE. csontvelőgyulladás\n1. izomerősítés, gyógytorna, szükség\nesetén műtét\n2. gyógyszeres (antibiotikumos) kezelés,\nszükség esetén műtét\n3. gipszelés, korrekció (tartó és rögzítő)\nsínekkel\n4. mozgásterápia, fizikoterápia\n5. D-vitamin- és kalciumpótlás, diéta,\néletmódváltás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...1...., С.-...5...., D.-...3...., Ε.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Állítsa sorrendbe a szívciklus lépéseit! Írja a sorszámokat a pontozott\nvonalakra!\n... az aortába és az arteria pulmonalisba vér áramlik\n... a vitorlás billentyűk kinyílnak\n... a vitorlás billentyűk záródnak\n... a pitvarok elernyednek, a kamrák összehúzódnak\n... vér áramlik a kamrákba\n... a pitvarok vérrel telítődnek a vena cava superior és inferior, a sinus\ncoronarius és a venae pulmonales felől\n... a két pitvar összehúzódik\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "7\n2\n4\n6\n3\n5\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a garatgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- kaparó, égő jellegű torokfájdalom\n- a garat éjszakai kiszáradása\n- állandó idegentestérzés a torokban\n- vérbő és váladékos garatnyálkahártya\n- magas láz\n- étvágytalanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertesse az ájulás (kollapszus) lényegét és lehetséges okait!\nLényege:\nAz agyi vérkeringés spontán rendeződő zavara, mely a véreloszlás elégtelensége\nmiatt alakul ki.\nLehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "Az agyi vérkeringés spontán rendeződő zavara, mely a véreloszlás elégtelensége\nmiatt alakul ki.\n- izgalom, ijedtség\n- hosszú ideig tartó álló testhelyzet\n- hirtelen felállás\n- undor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszerre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a levegő az orrmelléküregekben felmelegszik és párásodik is\n2. a légcső belső felszínét csillószőrös hengerhám borítja\n3. a garat a légcsőben folytatódik\n4. a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n5. a légzést akaratlagosan is tudjuk szabályozni\n6. a légzőközpont a nagyagykéregben található\n\nIgaz állítás: ...\nHamis állítás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Ismertesse a nyelőcsőtágulat lényegét és lehetséges tüneteit!\nLényege:\nA nyelőcső tasakszerű, különböző nagyságú kiöblösödése, jellemzően a nyelőcső\nélettani szűkületeinél, melynek következtében a táplálék hosszú ideig pang\nbenne.\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "kellemetlen szájszag, bűzös lehelet\nhányinger nélküli, emésztetlen ételmaradék hányása\nnyelési nehézség\nnyelési képtelenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Egészítse ki a gyomorműködés szabályozására vonatkozó mondatokat!\nA gyomorműködés idegi szabályozása során a ... a\n... működését és a gyomorfal izommozgását serkenti, míg a\n... gátolja azt.\nHormonális szabályozás során, amikor táplálék kerül a gyomorba, megindul a\n... termelése, ami a vérárammal a fedő-, és fősejtekhez jut, ahol a\n..., és a ... termelődését eredményezi.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "paraszimpatikus hatás\ngyomormirigyek\nszimpatikus ingerület/hatás\ngasztrin\nsósav\npepszin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vizelet a húgycsövön keresztül jut cseppenként a húgyhólyagba.\n- A húgyhólyag normál űrtartalma 200-300 ml.\n- A húgyhólyag fenekén, egy háromszög alakú területen a nyálkahártya\nfelszíne sima.\n- A húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\n- A húgyvezeték kb. 5 mm vastagságú és 10 cm hosszú cső.\n- A húgyhólyag kimeneti nyílását erős, gyűrű alakú, akaratunktól függő\nzáróizom fogja körül.\n- A női húgycső mintegy 3-4 cm hosszú.\n- A férfi húgycső hossza kb. 15 cm.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A húgyhólyag normál űrtartalma 200-300 ml.\nA húgyhólyag fenekén, egy háromszög alakú területen a nyálkahártya\nfelszíne sima.\nA húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\nA női húgycső mintegy 3-4 cm hosszú.\nA férfi húgycső hossza kb. 15 cm.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, gyógyításának\nlehetőségeit!\nLehetséges tünetei:\n- gyakori vizelési inger\n- a vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\n- görcsös fájdalom\nTerápiája:\n- bő folyadékfogyasztás\n- antibiotikum alkalmazása",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\ngörcsös fájdalom\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Csoportosítsa a menstruációs ciklus fázisait a hormonokhoz! İrja a\nsorszámokat a megfelelő helyre!\n\n1. regenerációs fázis\n2. szekréciós fázis\n3. menstruációs fázis\n4. proliferációs fázis\n\nösztrogén: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hererákbetegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a here tapintatának megváltozása\n- csomók megjelenése a herében\n- tompa fájdalom az alhasban, vagy az ágyékban\n- folyadékgyülem a herében\n- a here megnagyobbodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol termelődik a szomatotrop (növekedési) hormon?\n- a hypophysis elülső lebenyében\n- a hypophysis hátsó lebenyében\n\nHol tárolódik az antidiuretikus (ADH) hormon?\n- a hypophysis elülső lebenyében\n- a hypophysis hátsó lebenyében\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- a timozint\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis elülső lebenyében\na hypophysis hátsó lebenyében\na testnövekedést gátolja\na melatonint",
+      "options": [
+        "a hypophysis elülső lebenyében",
+        "a hypophysis hátsó lebenyében",
+        "a hypophysis elülső lebenyében",
+        "a hypophysis hátsó lebenyében",
+        "a testnövekedést gátolja",
+        "a testnövekedést fokozza",
+        "a melatonint",
+        "a timozint"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Párosítsa a jellemző tünetekhez a betegségeket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. olthatatlan szomjúságérzés, alacsony sűrűségű, nagy mennyiségű vizelet\nürítése\n2. acetonszagú lehelet, magas sűrűségű, nagy mennyiségű vizelet ürítése\n3. fáradékonyság, a bőr fokozottan pigmentált, sötét elszíneződésű\n4. megnagyobbodott pajzsmirigy, kidülledt szem, szapora szívműködés\n5. az arc duzzadt, kifejezéstelen, a bőr hideg és durva tapintatú, székrekedés",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-E..., 4.-...A..., 5.-...Β....",
+      "options": [
+        "A. Basedow-kór",
+        "B. mixödéma",
+        "C. diabetes mellitus",
+        "D. diabetes insipidus",
+        "E. Addison-kór"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöb alatti inger:\nküszöbinger:\nminimális stimulus:\nmaximális stimulus:",
+      "question_type": "fill_in",
+      "correct_answer": "...olyan gyenge inger, amelyre az idegrost nem válaszol...\n...olyan erősségű inger, amely idegimpulzust vált ki...\n...az a legkisebb inger, amely egyetlen idegrostot képes ingerelni...\n...az a legnagyobb inger, amely egy idegköteg valamennyi rostját ingerületbe hozza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot a koponyaűri nyomásfokozódás lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- tompa, feszítő, csillapíthatatlan fejfájás\n- szédülés\n- hányinger nélküli hányás (sugárhányás)\n- bradycardia\n- hypotonia\n- bradypnoe\n- kettős látás, látásromlás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a mérgezéssel kapcsolatos helyes megállapításokat!\n- Mérgezés (intoxikáció) akkor következik be, ha a testfelületre került vagy a\nszervezetbe bejutó vegyi anyag (mérgező anyag, toxin) a szervezet működési\negyensúlyát megzavarja, és időleges vagy maradandó károsodást okoz.\n- Csak nagy mennyiségű méreganyag bejutása esetén kell az orvost, vagy a\nmentőket értesíteni.\n- A méreggel szennyezett ruházatot csak akkor szabad eltávolítani, ha a sérült\nbeleegyezik.\n- Elsősegélynyújtás során meg kell akadályozni a méreg további bejutását és\nfelszívódását.\n- A testfelszín méregtelenítését csak arra kiképzett szakember kezdheti meg.\n- A mérgezett beteghez – még mérgezés gyanúja esetén is – orvost, vagy mentőt\nkell hívni.\n- Elsősegélynyújtás során törekedni kell a méreg hatástalanítására, illetve\nközömbösítésére.\n- A lenyelt maró mérgeket legkönnyebben lúgos folyadék itatásával\nközömbösíthetjük.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "Mérgezés (intoxikáció) akkor következik be, ha a testfelületre került vagy a\nszervezetbe bejutó vegyi anyag (mérgező anyag, toxin) a szervezet működési\negyensúlyát megzavarja, és időleges vagy maradandó károsodást okoz.\nElsősegélynyújtás során meg kell akadályozni a méreg további bejutását és\nfelszívódását.\nA mérgezett beteghez – még mérgezés gyanúja esetén is – orvost, vagy mentőt\nkell hívni.\nElsősegélynyújtás során törekedni kell a méreg hatástalanítására, illetve\nközömbösítésére.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel az övsömör lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "bőrérzékenység az ideg lefutása mentén\nfájdalmas bőrkiütések (folyadékkal telt hólyagok)\nviszketés\nhidegrázás\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_aprilis_07_III_eumiii_220407_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertessen a sokk kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "durva, nagy roncsolással járó trauma\nkiterjedt égés\nnagyfokú vérveszteség\nnagyfokú folyadékveszteség",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a sejthártya funkciói közül!",
+      "question_type": "open",
+      "correct_answer": "elválasztja a sejtet a körülötte lévő tértől\nbiztosítja a sejt védelmét\nfenntartja a sejt alakját\nrészt vesz az anyagcsere folyamatokban\nszerepe van az ingerületvezetésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Párosítsa az elhalás formáihoz a leggyakoribb előfordulási helyüket! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n1. nedves üszök\n2. száraz üszök\n3. alvadásos\n4. zsírnekrózis\n5. felfekvés\n\nA. emlő, a bőr alatt, és a hasnyálmirigy körül\nB. garat és a mandulák\nC. kéz- és lábujjak, orr és a fül\nD. bőr és az epehólyag\nE. szív, vese, lép",
+      "question_type": "matching",
+      "correct_answer": "B, C, E, A, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az ízületeket alaki felosztásuk szerint!",
+      "question_type": "open",
+      "correct_answer": "- gömbízület\n- hengerízület\n- tojás-, vagy ellipszoid ízület\n- nyeregízület\n- lapos ízület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a mozgásszervrendszer betegségeinek jellemzőit a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a nőknél magasabb a betegség elfordulásának gyakorisága\n2. gyermekkorban és kamaszkorban jellemző\n3. általában felnőttkorban kezdődik\n4. a kéz-, és a láb kisízületeiben jelentkeznek az elváltozások\n5. a nagyízületekben jelentkeznek az elváltozások\n6. baktérium által kiváltott immunválasz miatt alakul ki\n\nA reumás láz jellemzői: ...\n\nA sokízületi gyulladás jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5., 6.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nC-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a jobbszívfél-elégtelenség legfontosabb\ntüneteit!\n- a vizelet mennyisége fokozódik\n- a vizelet mennyisége csökken\n- nehézlégzés\n- tüdőödéma\n- habos, „szilvalészerű\" köpet\n- boka-, lábszár ödéma\n- köhögés\n- bőséges éjszakai vizeletürítés (nicturia)\n- hasvízkór\n- telt nyaki vénák\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vizelet mennyisége csökken\nboka-, lábszár ödéma\nbőséges éjszakai vizeletürítés (nicturia)\nhasvízkór\ntelt nyaki vénák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Ismertesse a tüdőgyulladást a megadott szempontok szerint!\nLehetséges okai: Írjon kettőt!\nA betegség terjedési módja:\n...\nFormái:",
+      "question_type": "open",
+      "correct_answer": "baktérium\nvírus\ngomba\ncseppfertőzés\negy lebeny megbetegedése – lobaris pneumonia\negy vagy több, a lebenynél kisebb egység megbetegedése - gócos, vagy\nbronchopneumonia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a felső légutakat!",
+      "question_type": "open",
+      "correct_answer": "orr, orrüreg\norrmelléküregek\ngarat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez az általuk okozott fájdalom jellemzőit! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hasnyálmirigy-gyulladás\nA. a hasi fájdalom, a has közepén, a köldök\nkörnyékén kezdődik, és jobb oldalon\nlefelé sugárzik\n2. féregnyúlvány-gyulladás\nB. hirtelen kezdődő erős hasi fájdalom, mely\nórák alatt az egész hasra kiterjed\n3. epeköves roham\nC. hirtelen jelentkező, erős fájdalom a has\nfelső részében, mely kisugárzik a hátba\n4. hashártyagyulladás\nD. erős fájdalom jellemzően a jobb bordaív\nalatt, ami a hátba és/vagy a jobb lapockába\nsugárzik",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...D...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epe összetevői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epesavak\nepesavak sói\nkoleszterin\nlecitin\nszervetlen sók\nnyákanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a nephron részeit!\n- glomerulus\n- neurocyta\n- Langerhans-szigetek\n- tubulusok\n- Bowman-tok\n- myelinhüvelyek\n- érgomolyag\n- Bartholin-mirigy\n- glandula suprarenalis\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glomerulus\ntubulusok\nBowman-tok\nérgomolyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Egészítse ki a heveny veseelégtelenség lehetséges okait tartalmazó\ntáblázatot! Írjon két-két betegséget/állapotot!\n\n| A heveny veseelégtelenség lehetséges okai |\n|-----------------------------------------|\n| Vese eredetű lehetséges okok |\n| A vese előtti lehetséges okok |\n| Vese utáni lehetséges okok |",
+      "question_type": "fill_in",
+      "correct_answer": "| A heveny veseelégtelenség lehetséges okai |\n|-----------------------------------------|\n| Vese eredetű lehetséges okok | - terhességi vesebaj\n- nem csoportazonos vér adása\n- glomerulonephritis acuta |\n| A vese előtti lehetséges okok | - sokk\n- heveny, szív eredetű keringési elégtelenség\n- kiszáradás |\n| Vese utáni lehetséges okok | - daganatos kompresszió\n- gyulladásos ödéma\n- vesekő |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a here feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "a himivarsejtek és a tesztoszteron termelése...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a rejtettheréjűséget a megadott szempontok alapján!\nLényege: ...A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában tapinthatóak....\nA betegség kezelésének/gyógyításának lehetőségei: Írjon kettőt!\n- hormonkezelés\n- sebészi beavatkozás\nA betegség lehetséges következménye:",
+      "question_type": "open",
+      "correct_answer": "herék a magzati élet utolsó hetében nem szálltak le a\nherezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában\ntapinthatóak....\nrendszerint spontán rendeződik\nsterilitás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Írja le az inzulin hatását!",
+      "question_type": "open",
+      "correct_answer": "- szabályozza a szénhidrátok, fehérjék és zsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. diabetes insipidus\n2. Conn-szindróma\n3. Basedow-kór\n4. Cushing-szindróma\n5. phaeochromocytoma\n6. myxoedema\n\nA mellékvesevelő megbetegedése: ......\nA mellékvesekéreg megbetegedése: ...., ....\nA hypothalamus megbetegedése: ......\nA pajzsmirigy megbetegedése: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n2, 4\n1\n3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse az extrapiramidális pályák szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a mozgások harmonikussá tétele\n- az automatikus és kísérő mozgások kivitelezése\n- az izomtónus szabályozása\n- az emocionális reakciókat kísérő mimikai mozgások szabályozása\n- a védekező, a támadási és a menekülési mozgások biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Nevezzen meg az agyi vérellátási zavarok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "transient ischaemic attack (TIA)\nprolongált ischaemiás neurológiai deficit (PRIND)\nprogresszív stroke (PS)\nagyi érelmeszesedés\nsubarachnoidealis vérzés\nagytrombózis\nagyembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek magyar, vagy latin megnevezését! Egészítse ki\na táblázatot!\n\n| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n|  |  |\n| kötőhártya |  |\n|  |  |\n| felhám |  |\n|  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n| szivárványhártya | iris |\n|  | conjunctiva |\n| szemlencse | lens |\n|  | epidermis |\n| bőr alatti kötőszövet | subcutis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a gynaecomastia lényegét és lehetséges okait!\nLényege: ...A  emlőmirigyek túlzott fejlődése, a mell kóros\nmegnövekedése....\nKialakulásának lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "férfi\n hormonális eltérés\n gyógyszer mellékhatása\n elhízás\n prosztataproblémák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le a mellkaskompressziók kivitelezésének lépéseit felnőtt újraélesztése\nesetén!",
+      "question_type": "open",
+      "correct_answer": "- Az összekulcsolt kezeket kéztővel a mellkas közepére a szegycsont alsó felére\nhelyezzük.\n- A mellkast legalább 5, de legfeljebb 6 cm mélyre lenyomjuk (átlagos méretű\nfelnőtt esetén).\n- Ebben a helyzetben egy pillanatig megtartjuk, majd engedjük a mellkast\nteljesen felemelkedni (ne támaszkodjunk, ne nehezedjünk a mellkasra).\n- A mellkast 100-120/perces frekvenciával, a lehető legrövidebb\nmegszakítással nyomjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_II_eumii_1108-221111_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az artériás nyomópontoknak megfelelő erek közül négyet\nmagyarul!",
+      "question_type": "open",
+      "correct_answer": "halántéki artéria\nállcsonti artéria\nközös nyaki ütőér\nkulcscsont alatti artéria\nfelkari artéria\ncombütőér",
+      "options": []
+    }
+  }
+]

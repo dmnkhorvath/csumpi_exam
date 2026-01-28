@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az alkati típusokra vonatkozó helyes\nmegállapításokat!\n- Az atletikus alkatra a széles váll és csípő, valamint a betegségekre való hajlam\na jellemző.\n- A normostheniás alkatot a keskeny csípő és a fejlett izomzat jellemzi.\n- A hyperstheniás alkatú embereknél gyakoriak a gyulladásos betegségek,\nvalamint az érelmeszesedés és az agyvérzés.\n- Az astheniás alkatot erős csontozat, és rugalmas izomzat jellemzi.\n- Az astheniás alkatúakra a gyengén fejlett izomzat és az erős csontozat\njellemző.\n- A leptoszom alkat hajlamos az alacsony vérnyomásra és a székrekedésre.\n- A piknikus alkat hízásra, pocakosodásra hajlamos, széles vállal és keskeny\ncsípővel rendelkezik.\n- A piknikus alkatúak hajlamosak a magas vérnyomásra és a koszorúér\nmegbetegedéseire.\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A hyperstheniás alkatú embereknél gyakoriak a gyulladásos betegségek,\nvalamint az érelmeszesedés és az agyvérzés.\nA leptoszom alkat hajlamos az alacsony vérnyomásra és a székrekedésre.\nA piknikus alkatúak hajlamosak a magas vérnyomásra és a koszorúér\nmegbetegedéseire.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elhalás lehetséges formái közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- alvadásos\n- lágyulásos\n- száraz üszök\n- nedves üszök\n- felfekvés\n- zsírnekrózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertessen a csonthártya szerepei, feladatai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- védi a csontot a külső hatásoktól\n- a csont vérellátását biztosítja\n- a csont idegellátását biztosítja\n- lehetővé teszi a csont vastagságbeli növekedését\n- csonttörés esetén a gyógyulást biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\n\nA. reumás láz\nB. csontvelőgyulladás\nC. csonttuberkulózis\nD. sokízületi gyulladás (RA)\nE. Bechterew-kór\n\n1. A gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár.\n2. Cseppfertőzéssel terjed, elsősorban a mellkasi és az ágyéki csigolyákat\nérinti, de a térdben és a csípőben is jelentkezhet.\n3. Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívkárosodást is okozhat.\n4. A kéz kisízületeinek fájdalmas gyulladása, majd fokozatos ízületi\ndeformálódással járó betegsége.\n5. Főleg 16 éves kor alattiaknál fordul elő, az érintett végtag fájdalmas,\nduzzadt, felette a bőr piros, a fájdalom lüktető jellegű.\n\nA.-......, В.-......, C.-......, D.-......, Ε.-......",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., В.-...5...., C.-...2...., D.-...4...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe a vér útját a kisvérkörben a keringés irányának\nmegfelelően! Írja a sorszámokat a pontozott vonalakra!\n... arteria pulmonalis\n... vena pulmonalis\n... tüdő\n... bal pitvar\n... jobb kamra\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n4\n3\n5\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Ismertesse a mélyvénás trombózis veszélyét és kezelésének lehetőségeit!\nVeszélye:\n...\nKezelésének lehetőségei: Írjon hármat!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A thrombus leszakadva a vérárammal továbbsodródik, majd a kisvérkörbe jut,\nés tüdőembóliát okoz....\nvégtag pihentetése\na végtag megemelése\nalvadásgátló adása\nrugalmas pólya alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőközpont működését befolyásoló tényezőket a megadottak szerint! Írja a sorszámokat a megfelelő helyre!\n1. a vegetatív idegrendszer szimpatikus hatása\n2. a vegetatív idegrendszer paraszimpatikus hatása\n3. a légzőközponton áthaladó vér szén-dioxid nyomásának emelkedése\n4. izgalom\n5. a légzőizmok működésének akaratlagos lassítása\n6. a vér hőmérsékletének csökkenése\nSerkentő tényezők: ...\nGátló tényezők: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4....\n2., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Írja le a légcsőgyulladás lehetséges okait és jellegzetes tüneteit!\nLehetséges okai: Írjon kettőt!\nJellegzetes tünetei:",
+      "question_type": "open",
+      "correct_answer": "- vírus\n- baktérium\n- izgató gázok, gőzök belélegzése\n- szegycsont mögötti kaparó fájdalom\n- légzés közben fokozódó fájdalom\n- ugató jellegű köhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "...A tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a nagy nyálmirigyeket!",
+      "question_type": "open",
+      "correct_answer": "- fültőmirigy\n- állkapocs alatti mirigy\n- nyelv alatti mirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan betegséget/állapotot, amely hányással járhat!",
+      "question_type": "open",
+      "correct_answer": "- mérgezés\n- fertőzés\n- bélelzáródás\n- méhen kívüli terhesség\n- gastritis\n- epehólyag-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a szervekhez jellemzőjüket, leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. húgyvezeték\n2. húgycső\n3. húgyhólyag\n4. vese",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 1,
+      "question_text": "A szív ingerképző és ingerületvezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "a.",
+      "options": [
+        "a.",
+        "b.",
+        "c.",
+        "d."
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Írjon le ötöt az uraemiás beteg diétás kezelésének szempontjai, követelményei közül!",
+      "question_type": "open",
+      "correct_answer": "- az étrend csökkentett fehérjetartalmú legyen\n- az étrend legyen energiadús\n- a foszforfogyasztás csökkentése javasolt\n- mérsékelt sófogyasztás javasolt\n- káliumszegény étrend javasolt\n- a folyadékbevitelt az ürített mennyiséghez kell igazítani",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szerveket a megadottak szerint! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. ovarium\n2. labium minus\n3. epidymis\n4. prostata\n5. scrotum\n6. clitoris\n\nbelső nemi szervek: ...., ...., .....\nkülső nemi szervek: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.\n2., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel három természetes fogamzásgátló módszert!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "cikluskontroll\nnaptármódszer\nhőmérős módszer\nmegszakított közösülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertesse a külső elválasztású mirigyek jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- kivezető csövük van\n- váladékukat közvetlenül a külvilágba, vagy egy belső üregrendszerbe ürítik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a mellékvese kéregállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- mineralokortikoidok (aldoszteron)\n- glükokortikoidok (kortizol)\n- androgén hormonok (férfi nemi hormonok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Írja le Basedow-kór lényegét, gyakoriságának jellemzőjét!\nLényege: ...\nGyakorisága: ...",
+      "question_type": "open",
+      "correct_answer": "A pajzsmirigy autoimmun túlműködése okozta megbetegedés.....\nElőfordulása a nőknél négyszer gyakoribb, mint a férfiaknál....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Egészítse ki az idegrendszerrel kapcsolatos mondatokat!\nKét idegsejt... kapcsolódik egymáshoz.\nA gerincvelő ... tartalmazza az idegsejteket, míg a\n... az idegrostokat.\nA szaglás kérgi központja a ... található.\nA mozgás koordinációját a ... végzi.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szinapszissal\nbelső szürkeállománya\nkülső fehérállománya\nhalántéklebenyben\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- látászavar\n- nystagmus\n- akadozó beszéd\n- spasztikus bénulások\n- érzészavarok\n- incontinentia\n- nyelési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat az anatómiai képleteket, amelyek\nrészt vesznek az egyensúly-érzékelés folyamatában!",
+      "question_type": "multiple_choice",
+      "correct_answer": "tömlőcske\nzsákocska\nhártyás labirintus\nVIII. agyideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a psoriasis okát és kezelésének, gyógyításának lehetőségeit!\nOka: ...\nKezelésének, gyógyításának lehetőségei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "Pontos oka ismeretlen, vélhetően a bőr veleszületett immunrendszerének\ntúlzó reakciója indítja el a betegség megjelenését....\ngyógyszeres kezelés\nkenőcsök helyi alkalmazása\nfénykezelés\npszichés támogatás\ndiéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Írja le a hőguta lényegét és tüneteit!\nLényege: ...\nTünetei: Írjon négyet!\n- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- a testhőmérséklet 40 °C fölött is lehet",
+      "question_type": "open",
+      "correct_answer": "Hirtelen rosszullét a hőközpont funkciózavara következtében, amit az extrém magas környezeti hőmérséklet idéz elő....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_09_IV_eumiv_1109-221111_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nJól lélegző, kielégítő keringésű eszméletlen beteg: ...\nArckoponyasérült: ...\nDyspnoes beteg: ...",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés...\nhason fektetés, a beteg homlokát és állát alátámasztva...\nfélig ülő helyzet...",
+      "options": []
+    }
+  }
+]

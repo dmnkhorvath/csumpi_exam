@@ -1,0 +1,323 @@
+[
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi táblázatot!\n| tudományterület | vizsgálódási terület |\n|---------|---------|\n| makroszkópos anatómia |  |\n| mikroszkópos anatómia |  |\n| élettan |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| tudományterület | vizsgálódási terület |\n|---------|---------|\n|  | szabad szemmel látható képletek |\n|  | szabad szemmel nem látható képletek |\n|  | egészséges szervezet működése |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Jellemezze az alábbi izomszöveteket! Írjon három-három jellemzőt!\nSimaizom jellemzői:\n\nHarántcsíkolt izom jellemzői:",
+      "question_type": "open",
+      "correct_answer": "- lassú összehúzódás\n- beidegzését a vegetativ idegrendszer végzi\n- akaratunktól függetlenül működik\n- viszonylag nagy erőkifejtésre képes\n- működése akaratlagosan is irányítható\n- működése több esetben reflexes\n- összehúzódása/elernyedése gyors\n- hamarabb kifárad, mint a simaizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csontvelőgyulladás tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az érintett végtag fájdalma\n- duzzanat\n- a duzzanat felett piros, meleg tapintatú bőr\n- nyugalomban is fennálló lüktető jellegű fájdalom\n- magas láz\n- elesettség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A vérplazma fehérjéinek ozmotikus nyomása:",
+      "question_type": "multiple_choice",
+      "correct_answer": "állandó",
+      "options": [
+        "csökken",
+        "állandó",
+        "nő"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Csoportosítsa a csontok folytonos összeköttetéseit a megadott szempontok\nszerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. térdízület\n2. keresztcsont\n3. koponya varratai\n4. csigolyák között\n\nkötőszövetes összeköttetés:...\nporcos összeköttetés:...\ncsontos összeköttetés:...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3....\n4....\n2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi fogalmakat és mennyiségeket!\nA pulzustérfogat (verőtérfogat) fogalma:\nA pulzustérfogattal kilökött vér mennyisége:\nA perctérfogat fogalma:\nA perctérfogattal kilökött vér mennyisége:",
+      "question_type": "fill_in",
+      "correct_answer": "Egy összehúzódás során a nagyerekbe kilökött vér mennyisége.\nNyugalomban 65-75 ml.\nEgy perc alatt továbbított vérmennyiség.\nNyugalomban kb. 4,5-5 liter/perc.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség legfontosabb tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdőödéma\nvéres köpet\nköhögés",
+      "options": [
+        "nehézlégzés",
+        "telt nyaki vénák",
+        "tüdőödéma",
+        "véres köpet",
+        "cianózis",
+        "bőséges éjszakai vizeletürítés",
+        "köhögés",
+        "látható hasfali vénatágulat"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás:\n\nReziduális levegő:",
+      "question_type": "open",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l).\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Írja a betegségek\nmellé a helyes válasz sorszámát!\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. fogyás, rossz közérzet\n4. üvegszerű, tapadós köpet\ntüdőasztma: ...., .....\ntuberkulózis: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nFehérjék: ...\nSzénhidrátok: ...\nZsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel az epe összetevői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "epesavak\nepesavak sói\nkoleszterin\nlecitin\nszervetlen sók\nnyákanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges\nvizeletben élettanilag megtalálhatók!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nurobilinogén\nkarbamid",
+      "options": [
+        "kreatinin",
+        "húgysav",
+        "bilirubin",
+        "urobilinogén",
+        "cukor",
+        "fehérje",
+        "karbamid"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q014_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 7,
+      "question_text": "Ismertesse a vesekőbetegséget az alábbi szempontok szerint!\nKialakulásának lehetséges okai: Írjon hármat!\nA veseköves roham tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- vizeletpangás\n- a vizelet fertőződése\n- kőképző anyagok felszaporodása\n- hibás folyadékfogyasztási és táplálkozási szokások\n- erős görcsös fájdalom\n- a fájdalom kisugárzik a hólyagba, férfiaknál a herékbe, nőknél a nagyajkakba\n- kínzó vizelési inger\n- hányinger, hányás\n- haspuffadás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh falának rétegeit latinul!",
+      "question_type": "open",
+      "correct_answer": "- perimetrium\n- myometrium\n- endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "természetes állapot az öregedés folyamatában\nhormonális változás hatására alakul ki\ncsökken a nemi vágy\nfizikai és szellemi teljesítőképesség csökken\npszichés változások\nandrogén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit! Töltse ki táblázatot!\n\n|  | A csecsemőmirigy |\n|----------|----------|\n| Hormonja |  |\n| Feladatai Írjon kettőt! | - \n |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! | - \n |",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|----------|----------|\n|  | timozin |\n|  | - a növekedést fokozza\n- a szexuális fejlődést serkenti\n- antitestképzés (nyirokszerv)|\n|  | a gátorüreg elülső részében helyezkedik el|\n|  | - kisgyermekkorig aktív\n- serdülőkortól elsorvad|",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az acromegalia tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a csontok végi részének megvastagodása\n- megnagyobbodott orr\n- megvastagodott ajak és fül\n- megerősödött állkapocs és szemöldökiv\n- előreugró áll\n- nagy, durva nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. I. agyideg\nA. szemmozgató ideg\n2. II. agyideg\nB. sodorideg\n3. III. agyideg\nC. háromosztatú ideg\n4. IV. agyideg\nD. szaglóideg\n5. V. agyideg\nE. látóideg\n6. VI. agyideg\nF. távolító ideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-E..., 3.-..A...., 4.-...B..., 5.-C..., 6.-...F....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Határozza meg az agykérgi központok szerepét/feladatát!\n- elsődleges központok: ...\n- másodlagos központok: ...\n- harmadlagos központok: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a tudatos érzékelés helyei, itt alakulnak ki az érzetek...\nitt gyűlnek össze az emlékképek...\na magasabb rendű idegtevékenységek helye...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két szemmel\nis egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Sorolja fel a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "szőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Írja le az alábbi szembetegségek lényegét!\nÁrpa:\n\nJégárpa:",
+      "question_type": "open",
+      "correct_answer": "A szemhéj mirigyeinek gyulladása.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nTünetei: Írjon négyet!\n\nElsősegélynyújtó feladatai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- testhőmérséklet 40 °C fölött is lehet\n- testhőmérséklet-csökkentés hűtéssel (hűtőborogatás)\n- folyadékpótlás (hideg víz itatása)\n- orvosi segítség hívása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_szeptember_11_I_eumi_190911_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...\nMellkasi sérülés esetén: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nfélig ülő helyzet",
+      "options": []
+    }
+  }
+]

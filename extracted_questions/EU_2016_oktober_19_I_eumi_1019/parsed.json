@@ -1,0 +1,334 @@
+[
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fertőzés terjedésének lehetőségei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "közvetlen érintkezés (kontakt fertőzés)\ncseppfertőzés\ntárgyak és talaj közvetítése\nélelmiszer és ivóvíz közvetítése\nízeltlábúak közvetítése\nméhlepényen keresztüli fertőződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok\nfeladataival! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. T-lymphocyta\nA. fagocitózis\n2. B-lymphocyta\nB. sejtes immunválasz\n3. granulocyta és monocyta\nC. humorális immunválasz",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nválaszokat!\n- a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya aránya azonosságot mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\n- a felső végtag izomtömege megnövekedett\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\na zsigerek a hasüreg irányába rendeződtek\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt csontokat az alábbi szempontok\nszerint! Írja a megadott csoportokhoz a helyes válasz\nbetűjelét!\n\n1. felkarcsont\n2. csigolya\n3. lapockacsont\n4. ujjperccsontok\n5. medencecsont\n6. combcsont\n\nhosszú, csöves csontok: ...\nrövid csontok: ...\nlapos csontok:...\nszabálytalan alakú csontok:...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 6...\n4...\n3., 5...\n2...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "open",
+      "correct_answer": "- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\nkisvérkör erei: ...., ...\nnagyvérkör erei: ...., ...., ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4\n2., 3., 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot a magyar, illetve a latin megfelelőkkel!\n\n| A légzőrendszer részei |  |\n|---------|---------|\n| magyar megnevezés | latin megnevezés |\n|  | nasus |\n| garat |  |\n|  | larynx |\n| légcső |  |\n| tüdő |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer részei |  |\n|---------|---------|\n| magyar megnevezés | latin megnevezés |\n| orr |  |\n|  | pharynx |\n| gége |  |\n|  | trachea |\n|  | pulmo |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel az idült orrnyálkahártya-gyulladás lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "orrmelléküreg-gyulladás\norrsövényferdülés\norrgaratmandula-túltengés\nszennyezett levegő, dohányfüst",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes\nmegállapításokat!\na nyálmirigyek külső elválasztású mirigyek\na nyelőcső feladata a tápanyagok felszívása és továbbítása\na felnőtt ember teljes fogazata 34 fogból áll\na nyelvnek csak az ízérzésben van szerepe\na nyelés reflexfolyamat\na nyál szénhidrátbontó enzimeket tartalmaz (ptialin, maltáz)\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a nyálmirigyek külső elválasztású mirigyek\na nyelés reflexfolyamat\na nyál szénhidrátbontó enzimeket tartalmaz (ptialin, maltáz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az idült veseelégtelenség (uraemia\nchronica) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A veseműködés beszűkülése a vese állományának súlyos csökkenése\n(pusztulása) következtében.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyvelőre (encephalon) jellemző\nlegfontosabb anatómiai tulajdonságok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az agykoponya üregében található\nhozzávetőleg 1,5 kg súlyú\nkb. tízmilliárd idegsejtből áll\nhosszanti irányban egy nyílirányú barázda két részre osztja: jobb és bal\nagyféltekére\nhárom fő része: nagyagy, kisagy, agytörzs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertessen a progresszív stroke (PS) tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "eszméletvesztés\nbénulások\nkoponyaűri nyomásfokozódás tünetei\nlégzészavar\nbeszédzavar\nincontinentia\nérzészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nkarbamid\nurobilinogén",
+      "options": [
+        "kreatinin",
+        "húgysav",
+        "bilirubin",
+        "urobilinogén",
+        "cukor",
+        "fehérje",
+        "karbamid"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\npylorusszűkület (stenosis pylori)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél részeit latinul!",
+      "question_type": "open",
+      "correct_answer": "duodenum\njejunum\nileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a carcinoma mammae-t az alábbi\nszempontok szerint!\nLényege:\nTünetei: Írjon hármat!\n-\n-\n-\n-\nMegelőzése: Írjon egyet!",
+      "question_type": "open",
+      "correct_answer": "az emlő állományának rosszindulatú daganatos elfajulása\ntapintható csomó az emlőben\nnarancshéj-behúzódás a bőrön\nbefordult mellbimbó\na mellbimbó váladékozása\nszűrővizsgálat\nönvizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel a leggyakrabban előforduló\nmérgezések típusai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését!\nRészei:\n-\n-\n-\nElhelyezkedése:\n...",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\na kismedence közepén, a hólyag és a végbél között található...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek közül hatot!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját\naz alábbi állapotokban!\n\nEszméletlen beteg esetén: ...\n\nÚjraélesztéskor: ...\n\nHasi sérülés esetén: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés...\n\nkemény alapon hanyatt fektetve...\n\nhanyatt fektetve, a sérült lábait térdben felhúzva...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Sorolja fel a közép- és belsőfül részeit!\nKözépfül részei:\n-\n-\n-\nBelső fül részei:\n-\n-",
+      "question_type": "open",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 2,
+      "question_text": "Határozza meg az időfaktor fogalmát és a magas\nidőfaktor jelentését!\n\nIdőfaktor:\n\nMagas időfaktor:\n",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a sérült\nállapota.\n\nMagas az időfaktor, ha igen rövid időn belül nagymértékben súlyosbodik a\nsérült állapota.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Oka: a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit\nTünetei: Írjon kettőt!\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(A betegség okára 2 pont, a tünetekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_oktober_19_I_eumi_1019_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  }
+]

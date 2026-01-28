@@ -1,0 +1,418 @@
+[
+  {
+    "file": "EU_2009_januar_16_II_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg, mely szervben találhatók az alábbi\nanatómiai képletek!\nBartholin-mirigy: ...\nBowmann-tok: ...\nHis-köteg: ...\nLangerhans-sziget: ...\nSugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "női nemi szerv\nvese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa a különféle fehérvérsejt típusokat azok\nfeladataival! Írja a fehérvérsejt típusának sorszáma\nmellé feladata betűjelét!\n1. T-lymphocyta\n2. B-lymphocyta\n3. granulocyta és monocyta\na. fagocitózis\nb. sejtes immunválasz\nc. humorális immunválasz\n1. ...\n2. ...\n3. ...",
+      "question_type": "matching",
+      "correct_answer": "b\nc\na",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ streptococcus utóbetegséget!",
+      "question_type": "open",
+      "correct_answer": "glomerulonephritis acuta\nreumás láz\nszívbelhártya-gyulladás\nszívizomgyulladás\nszívburokgyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Ismertesse a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes\n- porcos\n- csontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Írja le az izomműködés élettanával kapcsolatos\nfogalmakat!",
+      "question_type": "open",
+      "correct_answer": "minimális ingererősség, melyre az izom összehúzódással\nválaszol\negy izomrost összehúzódása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a Bechterew-kór lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek degeneratív elváltozása, mely a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el az alábbi billentyűk!\nkéthegyű vitorlás billentyű:\n... a bal pitvar és a bal kamra között ...\nháromhegyű vitorlás billentyű:\n... a jobb pitvar és a jobb kamra között ...\nzsebes billentyűk:\n... a kamrákból kiinduló nagyartériák szájadékában...",
+      "question_type": "fill_in",
+      "correct_answer": "a bal pitvar és a bal kamra között\na jobb pitvar és a jobb kamra között\na kamrákból kiinduló nagyartériák szájadékában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Csoportosítsa az alacsony, illetve a magas vércukorszint okozta rosszullétet tüneteivel! Írja a számokat a megfelelő helyre!\n\n1. a bőr száraz, meleg, piros 4. acetonszagú lehelet\n2. éhségérzet\n3. Kussmaul-típusú légzés 5. remegés\n6. bőr sápadt, verítékes, hideg\n\nmagas vércukorszint (hyperglykaemia) tünetei: ...\nalacsony vércukorszint (hypoglykaemia) tünetei: ...\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 3, 4\n2, 5, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a bal szívfél-elégtelenség legfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdővizenyő\n- cyanosis\n- bőséges éjszakai vizeletürítés\n- köhécselés",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdővizenyő\ncyanosis\nköhécselés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét (larynx) alkotó porcokat!",
+      "question_type": "open",
+      "correct_answer": "- pajzsporc\n- gyűrűporc\n- kannaporcok\n- gégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a belső és külső légzés lényegét!\nBelső légzés:\n\nKülső légzés:",
+      "question_type": "open",
+      "correct_answer": "A vérben, a szövetekben és a sejtekben lejátszódó oxidációs folyamatot\nnevezzük belső légzésnek.\nA tüdőben történik a gázcsere: az oxigén és a szén-dioxid kicserélődése a\nvér és a légköri levegő között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!\nÍrja a megfelelő betegség mellé jellemző tüneteinek\nsorszámát!\n1. éles fájdalom a deréktájon\n2. szemhéj, arc, kéz ödémája\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe,\nvagy a nagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\nVesekövesség:\nGlomerulonephritis acuta:",
+      "question_type": "matching",
+      "correct_answer": "...1, 4, 5...\n..2, 3, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból az emésztőrendszer alsó szakaszának részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "vakbél\néhbél\nvégbél\nharánt vastagbél",
+      "options": [
+        "vakbél",
+        "éhbél",
+        "szigmabél",
+        "végbél",
+        "patkóbél",
+        "haránt vastagbél",
+        "csípőbél"
+      ]
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Írja le, hol kezdődik az alábbi tápanyagok bontása!",
+      "question_type": "fill_in",
+      "correct_answer": "szájüreg\ngyomor\nvékonybél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a cukorbetegség tünetei közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "a beteg sokat iszik, állandóan szomjas\nkínzó éhségérzet\njó étvágy mellett fogyás\nbőséges vizeletürítés\nizomgyengeség, idegbénulások\nszáraz bőr, bőrviszketés\nnehezen gyógyuló sebek\nnemi- és fogamzóképesség csökkenése\nmagas vércukorszint\nvizeletben cukor és aceton megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Írja le a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatát!",
+      "question_type": "open",
+      "correct_answer": "- a vizelet gyűjtése\n- a vizelet tárolása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renális) akut urémia okai közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- terhességi vesebaj (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsók\n- gombamérgezés\n- vércsoport összeférhetetlenség\n- görcsös állapot (lázas eclampsia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nvagy latinul!",
+      "question_type": "open",
+      "correct_answer": "- külső hashártya által borított réteg-perimetrium\n- középső izomréteg-myometrium\n- belső nyálkahártya réteg-endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele-módszer alapján!\n\nIdőtartam: nap\n\nNaegele-módszer: az utolsó menstruáció első napjához hozzáadunk napot, majd visszaszámolunk hónapot\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "280\n\n7\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség kialakulásáért felelős\nokok közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége\na nemi szervek fejlődési rendellenessége\nnemi szervek, főleg a méhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH folliculusstimuláló hormon\nLH luteinizáló hormon\nLTH luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Jellemezze a hormonokat!\nÍrjon három /3/ fontos tulajdonságot!",
+      "question_type": "open",
+      "correct_answer": "a belső elválasztású mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nmár alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Ismertesse a tetániás állapotot a megadott\nszempontok alapján!\n\nLényege:\nOka:\nTünetei: Írjon négyet /4/!:\n-\n-\n-\n-\n-\nGyógyítása, ellátása:",
+      "question_type": "open",
+      "correct_answer": "...a vérszérum Ca szintjének csökkenése következtében alakul ki...\n...a mellékpajzsmirigy csökkent működése...\na kéz és láb ujjainak zsibbadása az első jel\na kéz őzfej-tartása (hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban is görcs alakul ki: „ördögi vigyor\"\n(risus sardonicus)\nszapora szívműködés\ngégeizmok görcse, ami fulladást eredményezhet\n... Ca adása intravénásan...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "N/A",
+      "points": 0,
+      "question_text": "(A tünetekre: 0,5-0,5 pont; a többi részre: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhid\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Társítsa a féltekék fehérállományát összekapcsoló pályarendszerek nevét azok feladatával!\n\n1. asszociációs rostok\n2. kommisszurális rostok\n3. projekciós rendszer\n\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik.\nEzen pályák útján vetülnek ki az impulzusok az agykéreghez,\nilletve a leszálló rendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei (gyrusai) között létesítenek összeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n\n1. ...; 2. ...; 3. ...",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q028_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\nparalysis: ...\naphasia: ...\ntremor: ...\nhypokinesis: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q029_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Ismertesse a bőr feladatait!",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Mindkét szemben a látott tárgyról külön-külön kép keletkezik, de\na két szem összehangolt működése révén egy látóérzet jön létre,\nígy a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q031_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 3,
+      "question_text": "Sorolja fel a szürkehályog (cataracta) kialakulásának lehetséges okait! Írjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "- az anya terhesség alatti vírusfertőzése\n- öregedés\n- anyagcsere-betegségek miatt kialakuló\n- szövődményes (más szemelváltozás miatt kialakuló lencsehomály)\n- sérülés\n- sugárzás\n- kémiai ártalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q032_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.*",
+      "points": 4,
+      "question_text": "Ismertesse az égés (combustio) fokozatait és tüneteit!\nÍrjon egy-egy /1-1/ tünetet!",
+      "question_type": "open",
+      "correct_answer": "- I. fokú égés: bőrpír, égő fájdalom\n- II. fokú égés: hólyagok (bullák), égő, heves fájdalom\n- III. fokú: a bőr mélyebb rétegei elpusztulnak\n- IV. fokú égés: teljes elszenesedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q033_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.",
+      "points": 3,
+      "question_text": "Írja le, hogyan helyezi el a sérülteket az alábbi\nesetekben?\norrvérzés esetén:\ntüdővérzés esetén:\ngyomorvérzés esetén:",
+      "question_type": "fill_in",
+      "correct_answer": "...ülő helyzet, előre hajtott fej ...\n...félülő helyzet (nyugalom)...\n...felhúzott térdekkel fektetni (hányás esetén stabil oldalfekvés)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_januar_16_II_q034_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ olyan okot, amely\neszméletvesztéshez vezethet!\n- kémiai kórokok\n- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere folyamatok ártalma\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "kémiai kórokok\n- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere folyamatok ártalma",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le, mely szervben találhatók az alábbi\nanatómiai képletek!\ncsontos labyrinthus: ...\nBowman-tok: ...\nHis-köteg: ...\nLangerhans-szigetek: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fül\nvese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok\nfeladataival! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. T-lymphocyta\n2. B-lymphocyta\n3. granulocyta és monocyta\n\nA. fagocitózis\nB. sejtes immunválasz\nC. humorális immunválasz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...B...\n2.- ...C...\n3.- ...Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Soroljon fel az élő kórokok közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\negysejtű állatok/protozoonok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya feladatai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a csonttörés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbi szempontok szerint!\n\nTünetei: Írjon kettőt!\n\n\n\n\nKezelése: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "Lényege: a combcsont ízületi feje nem illeszkedik az ízvápába\n\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\nmozgáskorlátozottság\na farredők ráncaszimmetriája\n\ngyermekeknél speciális pelenkázás (terpesz nadrág)\nPavlik-kengyel alkalmazása\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa az ereket az alábbi szempontok szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalisok\n5. vena cava inferior\nkisvérkör erei: ... , .... \nnagyvérkör erei: ..., ..., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi fogalmakat és mennyiségeket!\nA pulzustérfogat (verőtérfogat) fogalma:\n\nA pulzustérfogat mennyisége nyugalomban:\n\nA perctérfogat fogalma:\n\nA perctérfogat mennyisége nyugalomban:",
+      "question_type": "fill_in",
+      "correct_answer": "Egy összehúzódás során a nagyerekbe kilökött vér mennyisége.\nKb.65-75 ml.\nEgy perc alatt továbbított vérmennyiség.\nKb. 4,5-5 liter/perc.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség\nlegfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdőödéma\n- véres köpet\n- cianózis\n- bőséges éjszakai vizeletürítés\n- köhögés\n- látható hasfali vénatágulat\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntelt nyaki vénák\ntüdőödéma\ncianózis\nköhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\n\nHonnan erednek a hangszalagok?\n\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\n\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "három\na kannaporcok elülső nyúlványairól\naz orri szakaszt\na nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légutakba jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdőödéma\nC. tüszős mandulagyulladás\nD. gége alatti nyálkahártya\nduzzanata\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési\nhang",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2....; Β.- ...3....; C.- ...1....; D.- ...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományában található\nképleteket feladatukkal!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. commissuralis rostok\n2. projekciós rendszer\n3. asszociációs rostok\n\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, illetve a leszálló\nrendszereken keresztül a periféria felé.\n\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\n\nC. A két félteke szimmetrikus helyeit kötik össze.\n\n1.- ... , 2.- ... , 3.- ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő\nbetegséghez! Írja a betegségek mellé a helyes válasz\nsorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham:: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4., 6....\n1., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Nevezze meg a tápcsatorna/emésztőrendszer alsó szakaszának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "vakbél\nfelszálló vastagbél\nharánt vastagbél\nleszálló vastagbél\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely tápanyagok bontása kezdődik a szájüregben?\n...\nMely tápanyagok bontása kezdődik a gyomorban?\n...\nHol termelődik az epe?\n...\nHol tárolódik az epe?\n...\nMi az epe feladata?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "szénhidrátok\nfehérjék\na májban\naz epehólyagban\na zsírcseppek emulgeálása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel a gyomorfekély kialakulásában szerepet\njátszó tényezők közül hatot!",
+      "question_type": "open",
+      "correct_answer": "egyes gyógyszerek\nfertőzés (Helicobacter pylori)\nétrendi hibák (koffein, fűszerek, rendszertelen étkezés)\nfokozott sav- és pepszintermelés\ndohányzás\nörökletes tényezők\néletmódbeli tényezők\nidegrendszeri tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMi a vesében lévő Malpighi-test feladata?\nMi a feladata a vesecsatornáknak?\nTartalmaz-e az elsődleges vizelet cukrot?\nTartalmaz-e az elsődleges vizelet nagymolekulájú fehérjét?\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "fill_in",
+      "correct_answer": "...a szűrés (filtráció) ...\n...visszaszívás, kiválasztás...\n...igen, tartalmaz...\n...nem tartalmaz....\n...a gerincvelő alsó szakaszán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei\nközül hármat!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) elhelyezkedését, részeit,\nfeladatait!\n\nElhelyezkedése:\n...a kismedence közepén, a hólyag és a végbél között található...\n\nRészei:\n- méhfenék\n- méhtest\n- méhnyak\n\nFeladatai:\n- a megtermékenyített petesejt befogadása (beágyazódás)\n- az embrió/magzat fejlődésének biztosítása",
+      "question_type": "open",
+      "correct_answer": "...a kismedence közepén, a hólyag és a végbél között található...\nméhfenék\nméhtest\nméhnyak\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q021_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 8,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regeneratio/regeneráció\nnövekedés – proliferatio/proliferáció\nelválasztás – secretio/szekréció\nlelökődés - menstruatio/menstruáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "a belső elválasztású mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\nmár alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_aprilis_04_II_eumii_180404_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Ismertesse az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "az ingerek felvétele\naz ingerek ingerületté alakítása\naz ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  }
+]

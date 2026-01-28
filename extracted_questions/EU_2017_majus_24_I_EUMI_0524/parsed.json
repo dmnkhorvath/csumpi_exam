@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz a zavart\nelőidéző okokat!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel\noliguria: ...\npolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....\n2., 3., 5., 7., 8....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége: \nFajsúlya: \nÖsszetétele: Írjon négyet!\n- víz\n- ásványi anyagok\n- cukor\n- aminosavak\n- festékanyagok",
+      "question_type": "fill_in",
+      "correct_answer": "napi 180 l\n1010 g/l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző kóros légzési formával! Írja a betegségek sorszámát a megfelelő csoporthoz!\n\n1. hyperglykaemiás kóma\n2. veseelégtelenség\n3. mellhártyagyulladás\n4. balszívfél-elégtelenség\n\ndyspnoe: ...., ....\nKussmaul-légzés: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 1., 2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\n...\nHonnan erednek a hangszalagok?\n...\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\n...\nMi a gégefedő feladata?\n...\nHol található a légzés irányításának központja?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "három\na kannaporcok elülső nyúlványairól\naz orri szakaszt\nnyeléskor zárja a gégebemenetet\na nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül hármat!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség\nlegfontosabb tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdőödéma\ncianózis\nköhögés",
+      "options": [
+        "nehézlégzés",
+        "telt nyaki vénák",
+        "tüdőödéma",
+        "véres köpet",
+        "cianózis",
+        "bőséges éjszakai vizeletürítés",
+        "köhögés",
+        "látható hasfali vénatágulat"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a leírt jellemzők alapján a betegségeket!\nA B12-vitamin nem tud felszívódni a gyomorban termelődő intrinszik faktor\nhiánya miatt.\n...\nA kóros (éretlen) fehérvérsejtek száma emelkedett, funkciójukat nem tudják\nellátni.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vészes vérszegénység\nleukémia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szervezet anyagcsere-folyamatait\nemelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést\na szervezet hőközpontjának működését stimulálják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a meghatározott\nszempontok szerint! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt-szaporulat\n5. melegség\n\ngyulladás helyi tünetei: ...\ngyulladás általános tünetei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép, de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két\nszemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Soroljon fel a belső vérzésre utaló tünetek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nLényege:\n-\n\nTünetei: Írjon hármat!\n-\n-\n-\n-\n-\n\nElsősegélynyújtó feladata: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a hőközpont funkciózavara\nfejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40°C fölött van\ntesthőmérséklet-csökkentés hűtéssel\nfolyadékpótlás\norvosi segítség hívása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyvérzés (apoplexia cerebri) tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nféloldali bénulás (hemiplegia)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Ismertesse a bőr feladatait és járulékos részeit!\nÍrjon hármat-hármat!\nFeladatai:\n-\n-\n-\n-\nJárulékos részei:\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás\nszőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nk\nülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűk mellé a helyes válasz sorszámát!\nA. lúdtalp\nB. csonttörés\nC. csontvelőgyulladás\nD. gerincferdülés\n1. cipőbe helyezett betét, lábboltozat erősítése\n2. nyugalomba helyezés, rögzítés\n3. izomerő növelése, fűző viselése\n4. célzott antibiotikus kezelés",
+      "question_type": "matching",
+      "correct_answer": "A.- ...1...., Β.- ...2...., C.- ...4...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Ismertesse a herék feladatát!",
+      "question_type": "open",
+      "correct_answer": "hímivarsejtek (spermiumok) képzése\nférfi nemi hormon (tesztoszteron) termelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Ismertesse az izomműködés élettanával kapcsolatos\nfogalmak jelentését!\nKüszöbinger:\n...\nKontrakció:\n...",
+      "question_type": "open",
+      "correct_answer": "az a minimális ingererősség, melyre az izom összehúzódással válaszol...\negy izomrost összehúzódása inger hatására....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó\nneuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó köteg\n2. oldalköteg\n3. elülső-oldalsó köteg",
+      "question_type": "matching",
+      "correct_answer": "1.-...C..., 2.-A..., 3.-B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek: ...\nCowper-mirigy: ...\nbarlangos test: ...\nsárgatest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Ismertessen a HIV-fertőzés megelőzésének lehetőségei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gumi óvszer (kondom) használata\ntartós párkapcsolat\nsteril tű használata\nkábítószer-fogyasztás elkerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi vitaminokat a megadott\nszempontok szerint! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. A-vitamin\n2. K-vitamin\n3. B-vitamin\n4. E-vitamin\n5. C-vitamin\n6. D-vitamin\n\nvízben oldódó vitaminok:...\n\nzsírban oldódó vitaminok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5.... 1., 2., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőjükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. fibroma\n2. myoma\n3. angioma\n4. osteoma\nA. érdaganat\nB. csontszöveti daganat\nC. izomszöveti daganat\nD. rostos kötőszöveti daganat",
+      "question_type": "matching",
+      "correct_answer": "D; C; A; B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Basedow-kór (hyperthyreosis) tünetei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívműködés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\nnyirkos tenyér és talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_majus_24_I_EUMI_0524_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Soroljon fel az idült székrekedés (obstipatio) okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\ngyenge bél- és hasfalizomzat\nmozgásszegény életmód\na székelési inger gyakori akaratlagos elnyomása\nstressz\ncsekély folyadékfogyasztás",
+      "options": []
+    }
+  }
+]

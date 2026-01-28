@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a simaizmot és a harántcsíkolt izmot a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n| Szempontok | simaizom | harántcsíkolt izom |\n|---|---|---|\n| helye | zsigeri szervek és erek\nfala |  |\n| irányítás |  | akaratlagos és reflexes |\n| összehúzódás |  | gyors |\n| erőkifejtés mértéke |  | jelentős erőkifejtés |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | simaizom | harántcsíkolt izom |\n|---|---|---|\n| helye |  | vázizmok |\n| irányítás | akarattól független |  |\n| összehúzódás | lassú, hullámszerű |  |\n| erőkifejtés mértéke | viszonylag nagy\nerőkifejtés |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Ismertesse az elsődleges teendőket fertőző betegség előfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "- a fertőzés forrásának ártalmatlanná tétele\n- a terjedés megakadályozása\n- a fertőzésnek kitett személyek ellenálló képességének fokozása\n- jelentési kötelezettség esetén a fertőző betegség bejelentése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Húzza alá az arckoponya páratlan csontjait!\n- felső állcsont\n- rostacsont\n- orrcsont\n- könnycsont\n- ekecsont\n- állkapocs\n- szájpadcsont\n- járomcsont\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "rostacsont\nekecsont\nállkapocs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a petyhüdt bénulást a megadott szempontok alapján!\nLényege: ...az izmok működésének teljes vagy részleges hiánya...\nTünetei: Írjon hármat!\n- a mozgásfejlődés visszamaradása\n- a szellemi fejlődés visszamaradása\n- mozgászavar\n- beilleszkedési zavar\nGyógyításának lehetőségei: Írjon kettőt!\n- az alapbetegség kezelése\n- gyógytorna\n- fizioterápia",
+      "question_type": "open",
+      "correct_answer": "az izmok működésének teljes vagy részleges hiánya...\na mozgásfejlődés visszamaradása\na szellemi fejlődés visszamaradása\nmozgászavar\nbeilleszkedési zavar\naz alapbetegség kezelése\ngyógytorna\nfizioterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Nevezze meg a fehérvérsejtek három nagy csoportját!",
+      "question_type": "open",
+      "correct_answer": "granulocyták\nlymphocyták\nmonocyták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- szívelégtelenség\n- a coronaria keringési zavarai\n- agyi trombózis\n- arterioszklerózis\n- agyvérzés\n- vesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a tüdőtágulás lényegét!\n...A tüdőhólyagocskák (alveolusok) rugalmasságának hiányában az elhasznált levegő a tüdőből nem tud kiürülni, ami légzési nehézséghez, légzésképtelenséghez vezethet...",
+      "question_type": "open",
+      "correct_answer": "A tüdőhólyagocskák (alveolusok) rugalmasságának hiányában az elhasznált levegő a tüdőből nem tud kiürülni, ami légzési nehézséghez, légzésképtelenséghez vezethet...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi meghatározásokat a betegségekhez! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. A hörgők nyálkahártyájának gyulladásos betegsége.",
+      "question_type": "matching",
+      "correct_answer": "D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul az alsó légutakat!",
+      "question_type": "open",
+      "correct_answer": "gége\nlégcső\ntüdő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a refluxbetegség lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- gyomorégés\n- nyelőcsőtáji-, mellkasi égő érzés\n- savas felböfögés\n- mellkasi fájdalom\n- idült köhögés\n- rekedtség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőrendszer szakaszaihoz a szerveket! Irja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. garat\n2. csípőbél\n3. gyomor\n4. szájüreg\n5. patkóbél\n6. nyelőcső\n\nAz emésztőrendszer felső szakasza: ...\nAz emésztőrendszer középső szakasza: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elsődleges vizeletből visszaszívódó/kiválasztódó anyagok\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- víz\n- Na-ion\n- K-ion\n- Cl-ion\n- karbamid\n- cukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a veseeredetű (renalis) akut uraemia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- terhesség alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Írja le a férfi nemi szervek latin, vagy magyar megfelelőjét! Egészítse ki a\ntáblázatot!\n\n| Férfi nemi szervek megnevezése |  |\n|---------|---------|\n| magyarul | latinul |\n| herezacskó |  |\n| here |  |\n| mellékhere |  |\n| penis |  |\n| ondóhólyag |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Férfi nemi szervek megnevezése |  |\n|---------|---------|\n| magyarul | latinul |\n|  | scrotum |\n|  | testis |\n|  | epididymis |\n|  | hímvessző |\n|  | vesicula seminalis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a női nemi szervek gyulladásos betegségei közül!",
+      "question_type": "open",
+      "correct_answer": "szeméremtest-gyulladás (külső nemi szervek)\nhüvelygyulladás\nnyakcsatorna-gyulladás\nméhgyulladás\npetefészek-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez hatásukat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. parathormon\n2. szomatosztatin\n3. szomatotrop hormon\n4. melatonin\n\nA. gátolja a testnövekedést\nB. befolyásolja a bőr színét, gátolja a nemi mirigyek és a pajzsmirigy\nműködését\nC. emeli a vér kalcium-, és foszfátszintjét\nD. serkenti a csontok hosszirányú növekedését\n\n1.-......, 2.-......, 3.-......, 4.-......",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-A..., 3.-...D...., 4.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n-fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó kérdésekre!\nHol található az agyban a beszéd motoros központja?",
+      "question_type": "fill_in",
+      "correct_answer": "...az egyik féltekében a Sylvius-féle árok fölött...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- tremor: ...\n- nystagmus: ...\n- ataxia: ...\n- hiperkinézis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "akarattól független remegés...\nszemtekerezgés, a szemgolyó akaratlan ingamozgása...\na mozgások összerendezésének zavara, egyensúlyzavar...\nkórosan fokozott mozgástevékenység...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a középfül részeit!\n- dobüreg\n- ívjáratok\n- üllő\n- kengyel\n- csiga\n- dobhártya\n- Corti-szerv\n- fülkagyló\n- kalapács\n- fülkürt",
+      "question_type": "multiple_choice",
+      "correct_answer": "üllő\nkengyel\ndobüreg\nkalapács\nfülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szürke hályog kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- genetikai betegségek\n- ionizáló sugárzás\n- cukorbetegség\n- gyógyszerek\n- szemsérülés\n- hormon-, és anyagcserezavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Csoportosítsa a tüneteket/jellemzőket a megadottak szerint! Irja a\nsorszámokat a megfelelő helyre!\n\n1. „rugalmas rögzítettség\"\n2. duzzanat\n3. az ízület működése megszűnik/mozgásképtelenség\n4. lilás elszíneződés\n5. az ízületi működés csökkenése\n6. az ízületi fej az ízületen kívül tapintható\n\na rándulás jellemzői: ...\na ficam jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5.\n1., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_08_I_eumi_210908_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettő olyan esetet, amikor nincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "az élettel összeegyeztethetetlen sérülés\nhosszas haldoklás után beállt halál\na halál biztos jeleinek megjelenése",
+      "options": []
+    }
+  }
+]

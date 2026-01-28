@@ -1,0 +1,330 @@
+[
+  {
+    "file": "EU_2001_februar_22_teszt_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel a szív rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q002_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 1,
+      "question_text": "Határozza meg a lép elhelyezkedését az emberi\nszervezetben!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q003_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 8,
+      "question_text": "Írja le a felnőtt ember fogainak nevét és azok számát!\nTöltse ki a táblázatot!\nA fogak megnevezése\nA fogak száma",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Sorolja fel a gyulladás helyi tüneteit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q005_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "Húzza alá a felsorolásból az inzulin hatását!\n- a vércukorszintet emeli\n- a vércukorszintet csökkenti\n- a testnövekedést gátolja\n(Csak az egy helyes válasz aláhúzása fogadható el! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vércukorszintet csökkenti",
+      "options": [
+        "a vércukorszintet emeli",
+        "a vércukorszintet csökkenti",
+        "a testnövekedést gátolja"
+      ]
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol történik a petesejt érése?\n-\nMely szerv biztosítja a petesejt továbbjutását a méh felé?\n-\nHol termelődnek a spermiumok?\n-",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Határozza meg, melyik agyfélteke irányítja az alábbi\nképességeket!\nA. logikus, tudományos gondolkodás:\n\nB. művészi, zenei érzék, térbeli gondolkodás:\n",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Nevezze meg az agykoponyának és az arckoponyának az ábrán jelölt csontjait magyarul! Válaszát írja a számok mellé! (Helyes válaszonként 0,5 - 0,5 pont adható!)\n1.-\n2.-\n3.-\n4.-\n5.-\n6.-\n7.-\n8.-",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9*.",
+      "points": 6,
+      "question_text": "Soroljon fel a hashártyagyulladás tünetei közül hatot (6)!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Írja le a vizeletkiválasztó és elvezető rendszer részeit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11*.",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden az érzékszervek feladatát!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Ismertesse az emésztőrendszer feladatát!\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13*.",
+      "points": 4,
+      "question_text": "Soroljon fel az agyrázkódás (commotio cerebri)\njellegzetes tünetei közül négyet (4)!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Mely szerv feladata az epesavtermelés?",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Határozza meg, hol találhatók az alábbi anatómiai képletek az emberi szervezetben?\nCorti-szerv:\nMalpighi-test:\nGraaf-tüsző:",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Írja a nyilak mellé az égés kiterjedésének\n%-os becslését a „9-es szabály\" szerint!",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17*.",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát a megadott szempontok szerint! oka:\ntünetei - Írjon ötöt (5)!:",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi ideig élnek a vörösvértestek?",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Fogalmazza meg, mi a különbség a produktív és az\nimproduktív\nköhögés között!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket a rájuk jellemző tünetekkel!\nÍrja a számok mellé a megfelelő betű jelét!\n1. epekövesség (cholelithiasis)\n2. hasnyálmirigy-gyulladás (pancreatitis acuta)\n3. hashártyagyulladás (peritonitis)\nA. jellegzetes jobb oldali, a hátba kisugárzó fájdalom\nB. fájdalom, izomvédekezés (défense musculaire),\nbélműködés leállása\nC. bőséges étkezés után hirtelen kezdődő, erős gyomortáji\nfájdalom, a bal bordaív alatt a hátba sugárzik\n1.-.....\n2.- .....\n3.- .....",
+      "question_type": "matching",
+      "correct_answer": "1.- A\n2.- C\n3.- B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Válassza ki, mely anyagokat NEM tartalmazhat az\negészséges ember vizelete! Húzza alá a helyes válaszokat!\n- víz\n- cukor\n- NaCl\n- genny\n- fehérje\n- húgysav",
+      "question_type": "multiple_choice",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22*.",
+      "points": 4,
+      "question_text": "Soroljon fel a shock tünetei közül négyet (4)!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23*.",
+      "points": 2,
+      "question_text": "Határozza meg az elsősegélynyújtás célját!\n-\n-",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24*.",
+      "points": 4,
+      "question_text": "Ismertesse a csontvázrendszer szerepét! Írjon négyet (4)!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Írja le az ösztrogén hormon hatásait!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q026_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26*.",
+      "points": 7,
+      "question_text": "Soroljon fel a cukorbetegség tünetei közül hetet (7)!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2001_februar_22_teszt_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 2,
+      "question_text": "Húzza alá a felsoroltak közül a szem fénytörő közegeit!\nsárgafolt\nínhártya\nszaruhártya\nérhártya\nüvegtest\ncsarnokvíz",
+      "question_type": "multiple_choice",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

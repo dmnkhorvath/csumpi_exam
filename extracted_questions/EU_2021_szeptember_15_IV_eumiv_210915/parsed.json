@@ -1,0 +1,318 @@
+[
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe a betegség szakaszait a betegség lefolyásának megfelelően!\nÍrja le a sorszámokat a megfelelő sorrendben!\n1. kifejlődés (manifesztáció) szakasza\n2. lappangás (inkubáció)\n3. szövődmények megjelenése\n4. bevezető szakasz (prodromum)\n5. kimeneteli szakasz",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 1., 5., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan helyet az emberi testben ahol hámszövet található!",
+      "question_type": "open",
+      "correct_answer": "- a bőr felszíni rétege\n- az emésztőrendszer nyálkahártyájának külső felszíne\n- a légzőrendszer nyálkahártyájának külső felszíne\n- a kiválasztó rendszer nyálkahártyájának külső felszíne\n- az üreges szervek belső felszíne\n- a vér- és nyirokerek belső felszíne",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az agykoponya csontjait!\n- felső állcsont\n- homlokcsont\n- ékcsont\n- falcsont\n- könnycsont\n- szájpadcsont\n- halántékcsont\n- nyakszirtcsont\n- járomcsont\n- ekecsont\n(Helyes válaszonként 1-1 pont adható! Több aláhúzás esetén a megoldás érvénytelen!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nékcsont\nfalcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse az arthrosist a megadott szempontok alapján!",
+      "question_type": "open",
+      "correct_answer": "Lényege: ...a porc fokozatos elvékonyodása, rugalmasságának csökkenése, majd fokozatos felszívódása...\nKialakulásának lehetséges okai: Írjon kettőt!\n- genetikai eredet\n- sérülés\n- gyulladásos ízületi betegségek\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n- mozgásterápia\n- fizioterápia\n- diéta\n- gyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a folyadék-, és elektrolit-háztartás zavarainak magyar és latin\nelnevezését! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. a víz mennyisége a normálisnál kevesebb\n\n2. a víz mennyisége a normálisnál több\n\n3. az ozmolaritás csökken\n\n4. az ozmolaritás nő",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...A., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg a légutak allergiás betegségeit!",
+      "question_type": "open",
+      "correct_answer": "- szénanátha\n- gégevizenyő\n- tüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a kalcium hiánya a véralvadásra az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "a véralvadás ideje elhúzódik...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer képleteire vonatkozó táblázat hiányzó részeit!\n\n| A légzőrendszer képletei |  |\n|---|---|\n| magyarul | latinul |\n| arcüreg |  |\n| légcső | trachea |\n| tüdőhólyag |  |\n| tüdőkapu | hilus |\n| rostacsont üregei |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer képletei |  |\n|---|---|\n| magyarul | latinul |\n|  | sinus frontalis |\n|  |  |\n|  | alveolus |\n|  |  |\n|  | cellulae ethmoidales |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt tényezőt, ami befolyásolja a szervezet teljes energia-\nszükségletét!",
+      "question_type": "open",
+      "correct_answer": "- szellemi aktivitás\n- fizikai aktivitás\n- testtömeg\n- életkor\n- külső hőmérséklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőszervi betegségeket a megadott szempontok\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. salmonellosis\n2. köszvény\n3. bélelzáródás\n4. cukorbetegség\n5. hastífusz\n6. vérhas\n\nAnyagcserezavar, -betegség: ...., .....\nFertőzéses bélbetegség: ...., ...., .....\nAkut hasi katasztrófa: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n1., 5., 6.\n3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\n- A női húgycső mintegy 20 cm hosszú.\n- A férfi húgycső hossza kb. 25 cm.\n- A húgyhólyag normál űrtartalma 200-300 ml.\n- A húgyhólyag fenekén, egy kör alakú területen a nyálkahártya teljesen\nredőzött.\n- A húgyvezeték kb. 5 mm vastagságú és 10 cm hosszú cső.\n- A húgyhólyag kimeneti nyílását erős, gyűrű alakú, akaratunktól függő\nzáróizom fogja körül.\n- A vizelet az urétereken keresztül jut cseppenként a húgyhólyagba.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A húgyvezeték feladata a vizelet eljuttatása a vesemedencéből a hólyagba.\nA női húgycső mintegy 20 cm hosszú.\nA férfi húgycső hossza kb. 25 cm.\nA húgyhólyag normál űrtartalma 200-300 ml.\nA vizelet az urétereken keresztül jut cseppenként a húgyhólyagba.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a női klimax lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- alvászavarok\n- fejfájás\n- ingerlékenység, depresszió\n- hőhullámok\n- szédülés\n- elhízás\n- csontritkulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse nephrosis szindróma lehetséges okait és tüneteit! Írjon kettőt-kettőt!\n\nLehetséges okai:\n- \n- \n- \n\nTünetei:\n- \n- \n- \n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "allergiás kórképek\nfertőzés\nautoimmun betegség\n\nnagyfokú proteinuria\nhypalbuminaemia\ntestszerte nagyfokú ödéma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a férfi belső nemi szerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": [
+        "here",
+        "mellékhere",
+        "ondóvezeték",
+        "ondózsinór",
+        "ondóhólyag",
+        "dülmirigy"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Ismertesse a mineralokortikoidok (aldoszteron) hatását!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a vesecsatornákban a víz és a nátrium visszaszívását\n- fokozzák a kloridion visszatartását\n- fokozzák a káliumion ürítését",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a szervezetben!\nhipofízis: ...\ntobozmirigy: ...\ncsecsemőmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a középső koponyagödörben, a töröknyeregben...\na koponya belsejében...\na gátorüregben, a szegycsont mögött...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel a tetániás roham lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor\" (risus sardonicus)\n- szapora szívműködés\n- a gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a receptorok működésének törvényszerűségeit!",
+      "question_type": "open",
+      "correct_answer": "- alkalmazkodás\n- Weber–Fechner-törvény\n- specifikus érzékelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. VIII. agyideg\t\t\tA. távolító ideg\n2. X. agyideg\t\t\tB. bolygóideg\n3. VI. agyideg\t\t\tC. egyensúlyozó és hallóideg\n4. II. agyideg\t\t\tD. sodorideg\n5. IV. agyideg\t\t\tE. látóideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B..., 3.-...A., 4.-...E...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg, mit jelent a szem adaptációja!",
+      "question_type": "open",
+      "correct_answer": "...Az ideghártyának és a pupillának a megváltozott fényviszonyokhoz való\nalkalmazkodása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 1,
+      "question_text": "A szívfrekvencia (pulzusszám) nyugalomban:",
+      "question_type": "multiple_choice",
+      "correct_answer": "60-80/perc",
+      "options": [
+        "100-120/perc",
+        "60-80/perc",
+        "40-50/perc"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse az idült középfülgyulladást a megadott szempontok szerint!\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n- \n- \n- \n- \n\nLehetséges szövődményei: Írjon hármat!\n- \n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "genny leszívása\nfülcsepp alkalmazása\na fül szárazon tartása\nesetlegesen műtét\nbelsőfül-gyulladás\nagyhártyagyulladás\narcbénulás\njóindulatú daganat kialakulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Írja le a sebellátás menetét!",
+      "question_type": "open",
+      "correct_answer": "- a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\n- a seb környékének megtisztítása\n- a sebszélek fertőtlenítése\n- a seb steril fedése, a kötés rögzítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_15_IV_eumiv_210915_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nA lenyelt, gyomorba került marószer esetén tilos a beteg ...\nAz eszméletlen beteget - ha nincs ellenjavallat -\nhelyezzük el.\nLégúti idegentest eltávolítása esetén a ... műfogás alkalmazható.\nOrrvérzés esetén a beteget nyugalomba helyezzük, majd a fejét ...\nhajtjuk.\nBelső vérzés gyanúja esetén a beteget... helyezzük el.",
+      "question_type": "fill_in",
+      "correct_answer": "hánytatása\nstabil oldalfekvésben\nHeimlich-féle\nelőre\nsokk-fektetésben",
+      "options": []
+    }
+  }
+]

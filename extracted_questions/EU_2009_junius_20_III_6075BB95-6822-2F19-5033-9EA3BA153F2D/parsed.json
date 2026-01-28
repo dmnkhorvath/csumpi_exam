@@ -1,0 +1,422 @@
+[
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat jellemzőikkel!\nÍrja a számokat a megfelelő betűjelhez!\nA: részarányos (normosthenias) alkat\nB: sovány (asthenias) alkat\nC: kövérkés (hypersthenias) alkat\nD: kevert típus\n\n1. hajlamos a légzőszervi és emésztőszervi krónikus betegségekre\n2. alkati tulajdonságai kevertek\n3. teste arányos, ellenállóképessége jó\n4. keringési és cukorbetegségre hajlamos alkat\n\nA: ...; B: ...; C: ...; D: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3; 1; 4; 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás felsorolt helyi tüneteinek\nlétrejöttét!\nTöltse ki a táblázatot!\n\n| Helyi tünet | Az elváltozás oka |\n|-------------|-------------------|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Helyi tünet | Az elváltozás oka |\n|-------------|-------------------|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik, és hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Soroljon fel az izzadmányos gyulladás megjelenési\nformái közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- savós\n- rostonyás\n- gennyes\n- üszkös\n- vérzéses gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse a hasizmok feladatát!\nÍrjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "összehúzódás: törzset előre hajlítják, alsó végtagokat emelik\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizelet-, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségek latin nevét lényegükkel!\nÍrja a betegség számát a megfelelő meghatározás mellé!\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\nA csigolyaívek záródásának hiánya: ...\nA csontok mésztartalmának, és szerves állományának csökkenése: ...\nMeszes felrakódások keletkezése az ízületekben: ...\nA napfény ultraibolya sugarainak hiánya miatt kialakuló D-vitamin hiány\nkövetkeztében elmarad a mészsók beépülése a csontokba: ...",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadási\nfaktorokat!",
+      "question_type": "open",
+      "correct_answer": "- fibrinogén\n- protrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\nHogyan hat a Ca hiánya az izomműködésre az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "- Ca hiányában megnő a véralvadási idő\n- Ca hiányában izomgörcsök lépnek fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a magas vérnyomás (hipertónia) szövődményei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\ncoronariakeringési zavarok\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?",
+      "question_type": "open",
+      "correct_answer": "három",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Határozza meg a tüdőtágulat (emphysema pulmonum) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A léghólyagok és a közöttük lévő sövény fala elvékonyodik, átszakad és egy közös üreggé olvad egybe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül az orr feladatait!\n- belélegzett levegő előmelegítése, párásítása\n- belélegzett levegő mechanikus tisztítása\n- légúti reflexek központja\n- koponya súlyának csökkentése\n- hangok képzése\n- hangszalagok rögzítése\n- ízek érzékelése\n- szagok érzékelése\n(Csak a 4 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "belélegzett levegő előmelegítése, párásítása\nbelélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nsomatostatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának szerepét!",
+      "question_type": "open",
+      "correct_answer": "- a táplálék összekeverése a gyomornedvvel\n- a gyomortartalom vékonybélbe juttatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- görcsös hasi fájdalom\n- hányinger, hányás\n- bélsárhányás\n- székletürítés hiánya\n- „néma has”\n- beesett arc\n- száraz, lepedékes nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n...\nHonnan indul ki a húgyvezeték (ureter)?\n...\nHonnan indul ki a húgycső (urethra)?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\na vesemedencéből...\na húgyhólyagból...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Húzza alá azokat az anyagokat, amelyeket a normál\nvizelet nem tartalmaz!\nkarbamid\nhúgysav\nepefesték (bilirubin)\nfoszforsav\ngenny\ncukor\nsó\nurobilin\nfehérje\nvíz",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi betegségeket, illetve állapotokat a\nrájuk jellemző kóros vizelettel! Írja a sorszámokat a\nmegfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence gyulladás\nD. sárgaság\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben",
+      "question_type": "matching",
+      "correct_answer": "Α:...3...;\nB: ...1...;\nC: ...2...;\nD: ...4...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Ismertesse mindkét nemnél az elsődleges és a\nmásodlagos nemi jelleget meghatározó tényezőket!\nElsődleges nemi jelleg:\n\nMásodlagos nemi jelleg:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A nemi szervek határozzák meg, eszerint férfi és női nemi jelleget\nkülönböztetünk meg.\nA nemi érés (pubertás) során alakul ki, a nemi mirigyek által termelt\nhormonok hatására (mély hang, férfias alkat, szőrzet, emlők fejlődése).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Csoportosítsa a várandósság jeleit!\nÍrjon egy-egy /1-1/ példát mindegyikre!\n1. Gyanújelek:\n- émelygés\n- hányinger, hányás\n- hangulatváltozás\n- szagoktól undorodás\n- fokozott étvágy\n2. Valószínűségi jelek:\n- menstruáció elmaradása\n- bővebb hüvelyváladék\n- livid hüvely\n- pozitív terhességi teszt\n3. Biztos jelek:\n- magzatmozgás\n- magzati szívhangok",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Ismertessen a női meddőség okai közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "- nemi szervek fejletlensége, fejlődési rendellenessége\n- nemi szervek, főleg a méhkürt gyulladásos elzáródása\n- endokrin- és anyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely belső elválasztású mirigy termeli a kalcitonint?\nHol termelődik az aldoszteron?\nHol termelődik a progeszteron?",
+      "question_type": "open",
+      "correct_answer": "- pajzsmirigy\n- a mellékvese kéregállományában\n- a petefészekben (a sárgatest termeli)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- somatostatin",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a tetánia kialakulásának okait, tüneteit,\nkezelését!\nOkai:\n- a vérszérum Ca - szintjének csökkenése\n- a mellékpajzsmirigy csökkent működése\nTünetei: Írjon hármat /3/!\n- kéz-lábujjak zsibbadása\n- őzfej kéztartás\n- „ördögi vigyor\"-mimikai izmok görcse\n- szapora szívműködés\n- gégeizmok görcse (fulladás)\nKezelése:\nCa-injekció adása intravénásan",
+      "question_type": "open",
+      "correct_answer": "a vérszérum Ca - szintjének csökkenése\na mellékpajzsmirigy csökkent működése\nkéz-lábujjak zsibbadása\nőzfej kéztartás\n„ördögi vigyor\"-mimikai izmok görcse\nszapora szívműködés\ngégeizmok görcse (fulladás)\nCa-injekció adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\nhomloklebeny\nékcsonti lebeny\nrostacsonti lebeny\nfali lebeny\nnyakszirtlebeny\nalsó lebeny\nhalántéklebeny",
+      "question_type": "fill_in",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirtlebeny\nhalántéklebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 2,
+      "question_text": "Határozza meg az időfaktor és a magas időfaktor\nfogalmát az elsősegélynyújtásban!",
+      "question_type": "open",
+      "correct_answer": "Időfaktor: azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a sérült\nállapota\nMagas az időfaktor: ha rövid időn belül nagymértékben súlyosbodik a\nsérült állapota",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 3,
+      "question_text": "Jellemezze a szimpatikus és a paraszimpatikus\nidegrendszer funkcióit a megadott szempontok szerint!\nÍrjon két-két /2-2/ funkciót szempontonként!\n\nÁltalános jellemző:\n- a vegetativ idegrendszer akaratunktól függetlenül működik\n- a két rendszer élettani hatása egymással ellentétes\n\nSzimpatikus idegrendszer:\n-készenléti funkció\n- a szervezet teljesítőképességét növeli\n\nParaszimpatikus idegrendszer:\n-helyreállító folyamatokban van szerepe\n- a szervezet nyugalmi fázisát biztosítja",
+      "question_type": "open",
+      "correct_answer": "a vegetativ idegrendszer akaratunktól függetlenül működik\na két rendszer élettani hatása egymással ellentétes\nkészenléti funkció\na szervezet teljesítőképességét növeli\nhelyreállító folyamatokban van szerepe\na szervezet nyugalmi fázisát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 3,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét és írjon a tünetei közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "az agyszövetet tápláló artéria megreped, a hozzá tartozó területen anyagcserezavar és oxigénhiány alakul ki\ntudatzavar\nféloldali bénulás\nlégzészavar\nbeszédzavar\nincontinentia\nérzészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q029_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(A lényegére 1 pont,a tünetekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q030_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 4,
+      "question_text": "Ismertesse a bőr feladatát és járulékos részeit!\nFeladatai:\n- \n- \n- \n- \nJárulékai:\n- \n- \n- \n-",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás\nszőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nköröm",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q031_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Mindkét szemben a látott tárgyról külön-külön kép keletkezik,\nde a két szem összehangolt működése révén egy látóérzet jön létre,\nígy a tárgyakat két szemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q032_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.*",
+      "points": 3,
+      "question_text": "Ismertesse az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\n\nTünetei: Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- gennykeltő baktériumok jutnak be az emlőbe\n- emlőfájdalom\n- emlőduzzanat\n- élénkpiros bőrszín\n- lokális bőrmelegség\n- láz\n- hidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q033_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen beteget!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q034_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és a keringésmegállás lehetséges\nokait!\n\nLégzésmegállás okai:\n\nKeringésmegállás okai:\n",
+      "question_type": "open",
+      "correct_answer": "- légutak elzáródása\n- légköri levegő összetételének megváltozása\n- légzőközpont bénulása\n- szívmegállás\n- kamraremegés\n- nagyfokú, gyors vérvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_junius_20_III_6075BB95-6822-2F19-5033-9EA3BA153F2D_q035_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "34.*",
+      "points": 2,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezéseket!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszermérgezés (altatók)\n- alkoholmérgezés (etil-alkohol)\n- gázmérgezések (szén-monoxid, szén-dioxid, klórgáz)\n- marószermérgezés (savak, lúgok)",
+      "options": []
+    }
+  }
+]

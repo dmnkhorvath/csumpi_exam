@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Sorolja fel a sejt életjelenségeit!",
+      "question_type": "open",
+      "correct_answer": "anyagcsere\nsejtmozgás\ningerlékenység\nsejtnövekedés\nsejtosztódás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a helyes megállapításokat!\n- Vannak olyan betegségek, amelyek csak az egyik, vagy csak a másik nemben\nfordulnak elő.\n- A patológia, vagy betegség az az állapot, amikor az életfolyamatok a\nnormálistól tartósan és jelentősen eltérnek.\n- Az etiológia, vagy kóroktan a betegségek kiváltó tényezőivel és a kórokok\njellemzőivel foglalkozó tudomány.\n- A fájdalom megélése, megítélése teljesen objektív.\n- Transsudatio során a kisvénákban uralkodó nyomás növekedése miatt lép ki\nfolyadék az érből.\n- A savós gyulladások általában jóindulatú szöveti elváltozások.\n- A sejtpusztulással, tömegcsökkenéssel járó progresszív elváltozások közé\ntartoznak a daganatok és a túltengések.\n- A szervezet körülírt részének pusztulását degenerációnak nevezzük.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Vannak olyan betegségek, amelyek csak az egyik, vagy csak a másik nemben\nfordulnak elő.\nA patológia, vagy betegség az az állapot, amikor az életfolyamatok a\nnormálistól tartósan és jelentősen eltérnek.\nAz etiológia, vagy kóroktan a betegségek kiváltó tényezőivel és a kórokok\njellemzőivel foglalkozó tudomány.\nTranssudatio során a kisvénákban uralkodó nyomás növekedése miatt lép ki\nfolyadék az érből.\nA savós gyulladások általában jóindulatú szöveti elváltozások.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "- homlokcsont\n- ékcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse az arthrosis okait és gyógyításának, kezelésének lehetőségeit!\nKialakulásának lehetséges okai: Írjon kettőt!\n- genetikai eredet\n- sérülés\n- gyulladásos ízületi betegségek\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n- mozgásterápia\n- fizioterápia\n- diéta\n- gyógyszeres kezelés\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "genetikai eredet\nsérülés\ngyulladásos ízületi betegségek\nmozgásterápia\nfizioterápia\ndiéta\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a vér egyes alkotórészeihez a rájuk jellemző funkciót! Írja a\nbetűjelek mellé a helyes válasz sorszámát!\n\nA. monocyták\t\t\t\t\t1. véralvadás\nB. vérplazma\t\t\t\t\t2. oxigén megkötése\nC. vérlemezkék\t\t\t\t\t3. fagocitózis\nD. vörösvérsejt (hemoglobin)\t\t\t4. immunglobulinok termelése\nE. B-lymphocyták\t\t\t\t5. hormonok szállítása",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., В.-...5...., C.-...1...., D.-...2...., E.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a balszívfél-elégtelenség jellegzetes tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés\n- orthopnoe\n- tüdőödéma\n- fáradékonyság\n- köhögés, köhécselés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Nevezze meg és jellemezze a köhögés két típusát!",
+      "question_type": "open",
+      "correct_answer": "1. Produktív köhögés: a beteg az ingerlő váladékot köpet formájában kiköhögi.\n2. Improduktív köhögés: köpetürítéssel nem járó, „száraz” köhögés.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orrmelléküregek feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belégzett levegő előmelegítése\n- a belégzett levegő párásítása\n- a belélegzett levegő mechanikus tisztítása\n- hangok képzése\n- szagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 1,
+      "question_text": "A szív ingerképzési és ingerületvezetési rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, Tawara-szárak, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Purkinje-rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. nukleáz\n2. ptialin\n3. tripszin\n4. pepszin\n5. lipáz\n6. elasztáz\n\nSzájüregben található enzim: ......\nGyomorban található enzim: ......\nHasnyálban található enzim: .........\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n4\n1., 3., 5., 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Írjon le a nyelőcsőszűkület lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- gyulladás\n- marószeres mérgezés utáni hegesedés\n- daganat\n- fejlődési rendellenesség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a veseműködés idegi szabályozására vonatkozó mondatok\nhiányzó részeit!\n\nAz idegi szabályozás a vese ... viselkedésére hat. Erősebb idegi\ningerek hatására a glomerulusokhoz vezető arteriolák ..., ezért a\nglomerulusban csökken a ..., ami miatt... a szűrés, így\na kiválasztott vizelet mennyisége ... fog.",
+      "question_type": "fill_in",
+      "correct_answer": "ereinek, szűkülnek, vérnyomás, csökken, csökkenni",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a terhességi vesebajt a megadott szempontok szerint!\nLényege: ...\nMegjelenési ideje: ...\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "a terhességi toxaemián belül kialakuló veseelváltozás, létrejöttében immunmechanizmusok játszanak szerepet...\na terhesség késői szakaszában...\nsószegény étrend\ngyógyszeres kezelés\na szülést követően a tünetek megszűnnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a páratlan szerveket!\n- prosztata\n- mellékhere\n- méh\n- herezacskó\n- petefészek\n- petevezeték\n- ondóhólyag\n- hímvessző\n- here\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "prosztata\nmellékhere\nherezacskó\nhímvessző",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a hüvelygyulladást a megadott szempontok szerint!\nA betegség kórokozója: Írjon kettőt!\nA betegség jellegzetes tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- gomba\n- baktérium\n- Trichomonas (protozoon)\n- kóros hüvelyi váladék (eltérő színű és állagú)\n- viszkető érzés\n- égő fájdalom\n- fájdalmas vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 6,
+      "question_text": "Soroljon fel az adrenalin és a noradrenalin hatásai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a szívösszehúzódások számát (emelik a pulzusszámot)\n- fokozzák a szívműködés erejét\n- emelik a légzésszámot\n- szűkítik a perifériás ereket, így emelik a vérnyomást\n- lassítják a bélműködést\n- mobilizálják a tárolt glikogént\n- emelik a vércukorszintet\n- tágítják a pupillát",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő szürkeállományának részeihez a hozzájuk tartozó\nneuronokat! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. elülső szarv\nA. mozgató neuronok\n2. hátsó szarv\nB. vegetatív neuronok\n3. oldalszarv\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...C...., 3.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a megadott tünetek alapján a hormonális betegségeket!\n- Tünetek: a csontok végi része megvastagodott, nagy orr, megvastagodott ajak\nés fül, erős állkapocs, hosszú ujjak, mély hang.\nA betegség neve: ...\n- Tünetek: zsírlerakódás a törzsön, a hát felső részén, nagy, kerek arc\n(holdvilágarc), vékonynak tűnő végtagok, kékeslilás csíkok (striák) a hason,\nvállon, felkaron, vagy a combon.\nA betegség neve: ...\n- Tünetek: bő vizelés, napi 3-20 1, alacsony sűrűségű vizelet, olthatatlan\nszomjúságérzés, sok folyadék fogyasztása.\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "acromegalia\nCushing-szindróma\ndiabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertessen az epilepsziás nagyroham lezajlásának jellemzői közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- bevezető tünetekkel kezdődik: fejfájás, szédülés, szívdobogásérzés, hőhullámok, ingerlékenység, lehangoltság, szorongás, aurajelenség\n- hirtelen kitörő tónusos generalizált roham jelentkezik\n- a beteg elesik, elvágódik\n- rövid légzésszünet áll be\n- klónusos generalizált rángások jelentkeznek, amelyek percekig is eltarthatnak\n- a roham után mély alvás jelentkezhet\n- a tudat fokozatosan tisztul fel\n- a beteg nem emlékszik a rohamra és az azt követő időszakra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kancsalság lényegét!",
+      "question_type": "open",
+      "correct_answer": "A két szem összehangolt, párhuzamos működésének sérülése következtében a\nszemtengelyek keresztezik egymást, így az ideghártya különböző pontjaira vetül\na kép, ami homályos látást eredményez.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Nevezze meg a szem ingerfelvevő receptorait!",
+      "question_type": "open",
+      "correct_answer": "- fényre érzékeny pálcikák\n- színre érzékeny csapok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n| Anatómiai képletek |  |\n|---|---|\n| magyarul | latinul |\n| emlő |  |\n|  | chorioidea |\n| ínhártya |  |\n|  | corium |\n| bőr alatti kötőszövet |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---|---|\n|  | mamma |\n| érhártya |  |\n|  | sclera |\n| irha |  |\n|  | subcutis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Csoportosítsa az elsősegélynyújtással kapcsolatos megállapításokat a\nmegadottak szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. Az ájulásnak minden esetben van valamilyen előjele.\n2. A légúti idegentest eltávolítása során a Rautek-féle műfogást kell alkalmazni.\n3. A lenyelt, gyomorba került marószer esetén tilos a beteg hánytatása.\n4. A légzésmegállás egyik leggyakoribb oka a nyúltvelői légzőközpont\nbénulása.\n5. A légző, eszméletlen gerincsérültet stabil oldalfekvésben kell elhelyezni.\n\nHamis állítás: ...\n\nIgaz állítás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_05_III_eumiii_230405_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Írja le a sebellátás menetét!\n- a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\n- a seb környékének megtisztítása\n- a sebszélek fertőtlenítése\n- a seb steril fedése, a kötés rögzítése",
+      "question_type": "open",
+      "correct_answer": "a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\na seb környékének megtisztítása\na sebszélek fertőtlenítése\na seb steril fedése, a kötés rögzítése",
+      "options": []
+    }
+  }
+]

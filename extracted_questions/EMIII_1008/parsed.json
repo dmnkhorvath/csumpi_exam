@@ -1,0 +1,289 @@
+[
+  {
+    "file": "EMIII_1008_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az alkati típusokra vonatkozó helyes\nmegállapításokat!\n- A normostheniás alkatot a keskeny csípő és a fejlett izomzat jellemzi.\n- Az atletikus alkatra a széles váll és csípő, valamint a betegségekre való hajlam\na jellemző.\n- A hyperstheniás alkatú embereknél gyakoriak a gyulladásos betegségek,\ngörcsök, valamint az érelmeszesedés és az agyvérzés.\n- Az astheniás alkatot erős csontozat, és rugalmas izomzat jellemzi.\n- A leptoszom alkat hajlamos az alacsony vérnyomásra és a székrekedésre.\n- A piknikus alkatúak hajlamosak a magas vérnyomásra és a koszorúér\nmegbetegedéseire.\n- A piknikus alkat hízásra, pocakosodásra hajlamos, széles vállal és keskeny\ncsípővel rendelkezik.\n- Az astheniás alkatúakra a gyengén fejlett izomzat és az erős csontozat\njellemző.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "A hyperstheniás alkatú embereknél gyakoriak a gyulladásos betegségek,\ngörcsök, valamint az érelmeszesedés és az agyvérzés.\nA leptoszom alkat hajlamos az alacsony vérnyomásra és a székrekedésre.\nA piknikus alkatúak hajlamosak a magas vérnyomásra és a koszorúér\nmegbetegedéseire.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa sejtosztódási formákhoz leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. mitózis\n2. meiózis\n3. amitózis\nA. direkt sejtosztódás, a magban kezdődik\nB. indirekt sejtosztódás, a sejt vizet vesz fel és megduzzad\nC. felező sejtosztódás, az ivarsejtekre jellemző\n1.-......, 2.-......, 3.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az egészségi állapotot meghatározó tényezők közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- az egészségügyi ellátórendszer működése\n- genetikai tulajdonságok\n- környezeti tényezők\n- életmód\n- egészségmagatartás\n- társadalmi helyzet, jövedelmi viszonyok\n- társas támogatottság\n- kultúra",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a discopathia lényegét, kialakulásának lehetséges okait!\n\nLényege:\n\nKialakulásának lehetséges okai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...a csigolyák közti porcok elfajulása, deformálódása...\nmozgáshiány\na gerinc statikai hibája\ntrauma",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Sorolja fel az arckoponya üregeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "szájüreg\nszemüreg\norrüreg\narcüreg\nhomloküreg",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Rendezze az anatómiai képleteket a megadottak szerint! Írja a sorszámokat\na megfelelő helyre!\n1. vena cava superior\n2. aorta\n3. jobb kamra\n4. arteria pulmonalis dextra et sinistra\n5. bal kamra\n6. vena pulmonalis\n\nA kisvérkörhöz tartozó anatómiai képletek: ...\nA nagyvérkörhöz tartozó anatómiai képletek: ...\n(Helyes válaszonként 1-1 pont adható. Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6....\n1., 2., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a jobbszívfél-elégtelenség jellegzetes tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\ncianózis\na vizelet mennyisége csökken\nboka,- lábszárödéma, hasvízkór\néjszakai vizelés",
+      "options": [
+        "telt nyaki vénák",
+        "cianózis",
+        "a vizelet mennyisége csökken",
+        "köhögés",
+        "tüdőödéma",
+        "kisvérköri pangás",
+        "nyugalmi dyspnoe",
+        "a vizelet mennyisége emelkedik",
+        "boka,- lábszárödéma, hasvízkór",
+        "éjszakai vizelés"
+      ]
+    }
+  },
+  {
+    "file": "EMIII_1008_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel magyarul a gége porcai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formához! Írja a sorszámokat a megfelelő helyre!\n\n1. súlyos anyagcserezavarok\n2. emphysema pulmonum\n3. urémiás kóma\n4. cor pulmonale\n5. pneumonia\n\ndyspnoe: ...\nKussmaul-légzés: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Párosítsa a vitaminokat feladataikkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. B6-vitamin\n2. P-vitamin\n3. A-vitamin\n4. E-vitamin\n5. K-vitamin\nA. a nemi mirigyek normál működéséhez szükséges\nB. a C-vitamin hatását támogatja\nC. hámvédő, és a látóbíbor alkotásában vesz részt\nD. a normál véralvadáshoz szükséges\nE. fehérjék lebontása\n1.-......, 2.-......, 3.-......, 4.-......, 5.-........",
+      "question_type": "matching",
+      "correct_answer": "E\nB\nC\nA\nD",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a székrekedés lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\nmozgásszegény életmód\na székelési inger gyakori akaratlagos elnyomása\nstressz\ncsekély folyadékfogyasztás\npajzsmirigy-alulműködés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a vizeletürítés reflexközpontja?",
+      "question_type": "fill_in",
+      "correct_answer": "...a gerincvelő alsó szakaszán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó- és elvezető rendszer képleteinek magyar vagy\nlatin megfelelőjét! Egészítse ki a táblázatot!\n\nA vizeletkiválasztó- és elvezető rendszer képletei\n| magyarul | latinul |\n|---------|---------|\n|  |  |\n|  |  |\n|  |  |\n|  |  |\n|  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---------|---------|\n| vese | ren |\n| húgycső | urethra |\n| húgyhólyag | vesica urinaria |\n| húgyvezeték | ureter |\n| vesekapu | hilus renalis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a külső női nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "nagyajkak\nkisajkak\ncsikló",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- fizikai és szellemi teljesítőképesség csökken\n- pszichés változások\n- androgén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertessen a tiroxin és trijód-tironin hormonok hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák az anyagcsere-folyamatokat\n- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását\n- fokozzák a szervezet oxigénfelhasználását\n- növelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- szükségesek a szellemi funkciókhoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. testszerte vizenyő\n2. kékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\n3. nőknél fokozott szőrképződés\n4. nagy, kerek arc (holdvilágarc)\n5. gyér pulzus, alacsony testhőmérséklet, fázékonyság\n6. durva, hideg tapintatú bőr\n\nA Cushing-szindróma tünetei: ...., ...., .... \n\nA mixödéma tünetei: ...., ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4.\n1., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Egészítse ki a gerincvelővel kapcsolatos mondatokat!\nKét idegsejt... kapcsolódik egymáshoz.\nA gerincvelő... tartalmazza az idegsejteket, míg a\n... az idegrostokat.\nA szaglás kérgi központja a ... található.\nA mozgás koordinációját a ... végzi.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szinapszissal\nbelső szürkeállománya\nkülső fehérállománya\nhalántéklebenyben\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyvérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tudatzavar (somnolentia, sopor, coma)\n- hemiplegia (féloldali bénulás)\n- légzészavar\n- beszédzavar\n- érzészavar\n- incontinentia\n- nyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- ívjáratok\n- Corti-szerv\n- hallócsontok\n- hallóideg receptorai\n- kengyel\n- csiga\n- dobhártya\n- fülkagyló",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nCorti-szerv\nhallóideg receptorai\ncsiga",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel a carcinoma mammae lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- az emlőbimbó behúzódása\n- behúzódások az emlő bőrén – narancshéj tünet\n- ekcémának tűnő elváltozás az emlőbimbón\n- az emlő bőre az ellenoldalihoz képest duzzadt, kemény\n- véres váladék ürülése az emlőbimbóból\n- csomó(k) a hónaljban\n- fekélyképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészségkárosodás három alapvető\njellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "váratlanul, hirtelen következik be\na sérülés vagy betegség az életet veszélyezteti\nmagas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIII_1008_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettő olyan esetet, amikor nincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- az élettel összeegyeztethetetlen sérülés\n- hosszas haldoklás után beállt halál\n- a halál biztos jeleinek megjelenése",
+      "options": []
+    }
+  }
+]

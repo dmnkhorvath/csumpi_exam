@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nSzív:...\nMáj: ...\nGyomor:...\nTüdő: ...\nLép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás felsorolt helyi tüneteinek\nlétrejöttét! Töltse ki a táblázatot!\n\n| Helyi tünet | Az elváltozás oka |\n|-------------|-------------------|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Helyi tünet | Az elváltozás oka |\n|-------------|-------------------|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik és hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket és a tüneteket!\nÍrja a tünetek mellé a hozzájuk tartozó betegség számát a\npontozott vonalra!\nBetegségek:\n1. köszvény\n2. dongaláb\n3. veleszületett csípőficam\n4. lúdtalp\n5. csontvelőgyulladás\nTünetek:\nAlsó végtagok hosszkülönbsége, ráncasszimetria, később bicegő, kacsázó\njárás: ...\nMagas láz, fájdalom, mozgásképtelenség, csonthártya alatti tályog, amely\náttörve a lágyrészeket sipolyt képez: ...\nCsillapíthatatlan időszakos ízületi fájdalom, gyulladás: ...\nLógó lábfej, befelé néző talp: ...\nA láb boltozatainak ellapulása, a láb terhelhetőségének csökkenése, lábfej-,\ntérd-, csípő-, derékfájdalom: ...",
+      "question_type": "matching",
+      "correct_answer": "3\n5\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt /5/ lehetőséget a szívinfarktus\nrizikófaktorainak csökkentésére!",
+      "question_type": "open",
+      "correct_answer": "dohányzás elhagyása\nrendszeres testmozgás\nkoleszterinszegény táplálkozás\nmagas vérnyomás kezeltetése\ncukorbetegség kezeltetése\nhajszolt életmód kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző\nfeladatokkal! Írja a betűk mellé a megfelelő sorszámot!\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma\n1. a szervezet védekezésében vesz\nrészt\n2. reverzibilisen megköti az oxigént\n3. hormonok szállítása\n4. véralvadásban vesz részt",
+      "question_type": "matching",
+      "correct_answer": "Α: ...2...; Β: ...1...; C: ...4.; D: ...3...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi mondatokhoz tartozó helyes\nválaszokat!\nAz orrmandula itt helyezkedik el:\n- gége\n- garat\nA fülkürt ide nyílik:\n- garat orri szakasza\n- garat gégei szakasza\nA tüdő saját vérellátását biztosító erek:\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\nA légutak legfelső részébe került idegen anyagok eltávolítása:\n- tüsszentés\n- köhögés\nA paraszimpatikus idegrendszer hatása a légzésszámra:\n- csökkenti\n- emeli\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "garat\ngarat orri szakasza\narteria és vena bronchialis\ntüsszentés\ncsökkenti",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\n megadott szempontok alapján!\nLényege:\n A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\n kishörgők nyálkahártyájának duzzanata kísér.\nRohamot kiváltó allergének: Írjon négyet /4/!\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\nTünetei: Írjon négyet /4/!\n- hirtelen jelentkező nehézlégzés (nehezített kilégzés)\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- köhögés kezdetén száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\n kishörgők nyálkahártyájának duzzanata kísér.\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\n- hirtelen jelentkező nehézlégzés (nehezített kilégzés)\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- köhögés kezdetén száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Lényegére: 2 pont; okra és tüneteire: 0,5-0,5 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg | ptialin, maltáz |  |\n| gyomor |  |  |\n| gyomor | kimozin |  |\n| vékonybél |  |  |\n| vékonybél | tripszin |  |\n| vékonybél | amiláz, maltáz, laktáz |  |\n| vékonybél |  |  |\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg |  | szénhidrát |\n| gyomor | pepszin | fehérje |\n| gyomor |  |  tejfehérje |\n| vékonybél | lipáz | zsír |\n| vékonybél |  | fehérje |\n| vékonybél |  | szénhidrát |\n| vékonybél | lipáz | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Írja le a fogszuvasodás lényegét és okait!\nLényege:\n\nOkai:",
+      "question_type": "open",
+      "correct_answer": "a fogzománc és a dentinállomány pusztulása\nfluorhiányos ivóvíz\nnem megfelelő szájhigiéné\na mészanyagcsere zavara",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat!\nÍrja a megfelelő csoporthoz az előidéző ok számát!\nOliguria: ...\nPolyuria: ...\n\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel a tubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyarul és latinul!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regenerációs fázis\nnövekedés - proliferációs fázis\nelválasztás - szekréciós fázis\nlelökődés - menstruációs fázis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Válaszoljon a hererák betegséggel kapcsolatos\nalábbi kérdésekre!\n\nA betegség lényege:\n\nA betegség tünetei:\n- a here tapintatának megváltozása\n- kisebb-nagyobb csomók megjelenése\n\nA betegség gyógyításának lehetőségei:\n- a here műtéti eltávolítása\n- kemoterápia\n- radikális nyirokhálózat eltávolítás",
+      "question_type": "open",
+      "correct_answer": "Gyakran a fiatal életévekben kezdődő olyan rosszindulatú daganatos\nelváltozás a herében, amely a nyirokerek és a keringés útján terjed.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "endokrin (belső elválasztású) mirigyek termelik\nspeciális felépítésű kémiai anyagok\na vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez.\nalacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetaniás állapotot!",
+      "question_type": "open",
+      "correct_answer": "Lényege:\nA vérszérum Ca szintjének csökkenése következtében kialakuló spontán\nizomgörcsök, izomrángások.\n\nOka:\nA mellékpajzsmirigy csökkent működése. Leggyakrabban strúma műtét után\nfordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\n\nTünetei: Írjon négyet /4/!\n- a kéz és láb ujjainak zsibbadása az első jel\n- a kéz őzfejtartása (hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban is görcs alakul ki: „ördögi vigyor\" (risus\nsardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet\n\nGyógyítása, ellátása:\n- Ca adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- rostacsonti lebeny\n- fali lebeny\n- nyakszirti lebeny\n- alsó lebeny\n- halántéki lebeny\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nékcsonti lebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Jellemezze az agytályogot (abcessus cerebri) a megadott szempontok alapján!\nA betegség keletkezésének oka, kialakulásának lehetősége:\nTünetek: Írjon négyet /4/!\nGyógyítás:",
+      "question_type": "open",
+      "correct_answer": "az agy bakteriális fertőzése\naz agytályog (abscessus cerebri) a középfül vagy az orr-\nmelléküregek gyulladásainak közvetlen átterjedése útján\nkeletkezhet vagy koponya-, és agytraumák esetén, valamint\nmetasztatikus úton jöhet létre\nrossz közérzet\nláz\nagyi nyomásfokozódás tünetei\ngóctünetek\nepilepsziás roham\nkórházi (idegsebészeti) ellátás, ha a gyógyszeres kezelés nem\nhatásos, műtéti megoldás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Az okra, kialakulásra: 3 pont, a tünetekre: 0,5-0,5 pont, okra, gyógyításra. 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon két /2/ jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "csontátépülés következtében a kengyel talpa rögzül az ovális\nablakhoz\nnőknél gyakoribb, mint férfiaknál\nkínzó fülzúgást és vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 1,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját! 1 pont",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q024_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 1,
+      "question_text": "Határozza meg mellkaskompressziónál a\nmellkas lenyomási mélységét cm-ben kifejezve!",
+      "question_type": "fill_in",
+      "correct_answer": "4-5 cm",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_I_EUMI_0319_q025_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 7,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések\ntípusait! Írjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "file": "EU_2003_november_04_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nszív - cor\nmáj - hepar\ngyomor- gaster\ntüdő - pulmo\nlép - lien",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket, a meghatározott\nszempontok szerint! Írja a sorszámot a megfelelő\ncsoporthoz!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt szaporulat\n5. melegség\n6. vörösvérsejt süllyedés gyorsulás\n7. fájdalom\n8. működés csökkenés (kiesés)\n\nA gyulladás helyi tünetei: ...2, 3, 5, 7, 8...\nA gyulladás általános tünetei: ...1, 4, 6...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!\n- homlokcsont\n- falcsont\n- ékcsont\n- halántékcsont\n- nyakszirtcsont\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) szövődményei közül négyet /4/!\n- szívelégtelenség\n- coronaria keringési zavarok\n- agyi thrombosis\n- arteriosclerosis\n- agyvérzés\n- vesekárosodás",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írjon három /3/ olyan okot, mely a szervezet folyadék-elektrolit háztartás egyensúlyának felborulásához vezethet!\n- hányás\n- hasmenés\n- nagyfokú izzadás\n- vérplazma vesztés",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Nevezze meg a vastagbél szakaszait!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szénanátha tünetei közül ötöt /5/!\n- vérbő kötőhártya\n- duzzadt orrnyálkahártya\n- orrdugulás\n- gyakori tüsszentés\n- nagy mennyiségű vízszerű orrváladék ürítés",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\nHonnan erednek a hangszalagok?\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\nMi a gégefedő feladata?\nHol található a légzés irányításának központja?",
+      "question_type": "open",
+      "correct_answer": "három\na kannaporcok nyúlványairól erednek\naz orri szakaszt\nnyeléskor zárja a gégebemenetet\na nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg az ábra alapján a sérv részeit!\nVálaszát írja a sorszámok mellé!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegséggel! Írja a betűk mellé a megfelelő sorszámot!\n\nA: C-vitamin\nB: A-vitamin\nC: K-vitamin\nD: B₁-vitamin\nE: B12-vitamin\nF: D-vitamin\n\n1. angolkór\n2. scorbut\n3. farkasvakság\n4. vészes vérszegénység\n5. beri -beri\n6. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "A - ...2... B - ...3... C - ...6... D - ...5... E - ...4... F - ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q012_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 1,
+      "question_text": "Húzza alá az alábbiak közül, azokat a helyeket, testrészeket, ahol a vese eredetű oedema megjelenik!\n- boka\n- szem körül\n- arc\n- keresztcsont\n- tüdő",
+      "question_type": "multiple_choice",
+      "correct_answer": "boka\nszem körül\narc",
+      "options": [
+        "boka",
+        "szem körül",
+        "arc",
+        "keresztcsont",
+        "tüdő"
+      ]
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi betegségeket illetve állapotokat a\nrájuk jellemző kóros vizelettel! Írja a sorszámokat a\nmegfelelő betűjelhez!\n\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence gyulladás\nD. sárgaság",
+      "question_type": "matching",
+      "correct_answer": "A - ...3...\nB - ...1...\nC-...2...\nD - ...4...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül\nhármat /3/!\n- a menstruáció elmaradása\n- a hüvely szederjes elszíneződése\n- bővebb hüvelyi váladék\n- felpuhult méhnyak\n- a terhességi próbák pozitívvá válása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\n- a hasüregben\nMi a herezacskó szerepe?\n- a herék működéséhez szükséges, a testhőmérsékletnél alacsonyabb\nhőmérséklet biztosítása\nMi építi fel a hímvessző állományát?\n- három barlangos test\nHol található a sárgatest?\n- a petefészek kéregállományában\nMi a széles méhszalag feladata?\n- a méhet és a petefészket rögzíti\nMennyi a spermiumok élettartama a női szervezetben?\n- 1-2 nap",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": [
+        "érhártya",
+        "szívárványhártya",
+        "sugártest"
+      ]
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt hormonokat a\ntermelődésük helye szerint! Írja a sorszámot a megfelelő\ncsoporthoz!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse a Progresszív stroke (PS) lényegét és írjon a\ntünetei közül hármat /3/!\n\nLényege: az agyszövetet tápláló artéria megreped, a hozzá tartozó\nterületen anyagcserezavar és oxigén hiány alakul ki.\n\nTünetei:\n- tudatzavar\n- féloldali bénulás\n- légzészavar\n- beszédzavar\n- inkontinencia\n- érzészavarok",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q019_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(A lényegére 1 pont, a tünetekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Nevezze meg a vegetatív idegrendszer két fő részét!\n- szimpatikus idegrendszer\n- paraszimpatikus idegrendszer\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát és írjon a fajtái közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Fogalmára: 1 pont; fajtáira: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Ismertesse, hogy tömeges baleset esetén telefonhíváskor, milyen információkat kell közölnie! Írjon ötöt /5/!\n- a bejelentő adatai\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e műszaki mentés\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit!\n- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_november_04_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábra alapján a belső fül részeit!\nVálaszát írja a számok mellé!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

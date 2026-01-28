@@ -1,0 +1,338 @@
+[
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Rendelje a latin kifejezéseket magyar leírásuk mellé!\nÍrja a meghatározás mellé a megfelelő számot!\nLatin kifejezések:\n1. myoma\n2. lipoma\n3. papilloma\n4. carcinoma\n5. sarcoma\nMagyar leírásuk:\nIzomszövet eredetű jóindulatú daganat: ...\nHámszövet eredetű rosszindulatú daganat: ...\nHámszövet eredetű jóindulatú daganat: ...\nZsírszövet eredetű jóindulatú daganat: ...\nKötőszövet eredetű rosszindulatú daganat: ...",
+      "question_type": "matching",
+      "correct_answer": "1\n4\n3\n2\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és ideg ellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "koronavarrat\nnyílvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségek latin nevét lényegükkel!\nÍrja a betegség számát a megfelelő meghatározás mellé!\n1. osteoporosis\n3. spina bifida\n2. rachitis\n4. arthrosis\nA csigolyaívek záródásának hiánya: ....\nA csontok szervetlen és szerves állományának csökkenése: ....\nAz ízületi porc kopása:....\nD-vitamin hiány következtében elmarad a mészsók beépülése a csontokba:\n....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt /5/ lehetőséget a szívinfarktus\nrizikófaktorainak csökkentésére!",
+      "question_type": "open",
+      "correct_answer": "dohányzás elhagyása\nrendszeres testmozgás\nkoleszterinszegény táplálkozás\nmagas vérnyomás kezeltetése\ncukorbetegség kezeltetése\nhajszolt életmód kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nKinek a szervezetében termelődhet anti-D ellenanyag?\nMi a nyirok?\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?",
+      "question_type": "open",
+      "correct_answer": "Azoknak az Rh negatív egyéneknek a szervezetében, akiknek valamilyen\nokból D antigén jutott a vérükbe.\nA nagyvérkör kapilláris hálózatának területén képződő folyadék, amely a\nvérplazmából származik.\nA bal vénás szögletben a vénákba ömlik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi betegségek lényegét!\nVészes vérszegénység (anaemia perniciosa): a  vitamin nem tud\na gyomorban termelődő intrinszik faktor hiánya miatt.\nLeukémia: kóros,  fehérvérsejtek képződnek korlátlan\nmennyiségben a szervezetben, melyek funkciójukat nem tudják ellátni.\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "B12- felszívódni\néretlen",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\n\nHonnan erednek a hangszalagok?\n\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\n\nMi a gégefedő feladata?\n\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "...három...\n...a kannaporcok elülső nyúlványairól...\n...az orri szakaszt...\n...nyeléskor zárja a gégebemenetet...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet\nönmaga előállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Indokolja meg röviden, miért nem bontja a zsírokat a gyomorban lévő lipáz enzim!",
+      "question_type": "open",
+      "correct_answer": "A gyomorban savas a vegyhatás, a lipáz pedig csak lúgos közegben fejti ki hatását.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\n\nLényege:\nA hörgők falában lévő simaizomzat rohamokban fellépő görcse,\nmelyet a kishörgők nyálkahártyájának duzzanata kísér.\n\nRohamot kiváltó allergének: Írjon négyet /4/!\n- virágpor\n- szőr\n- toll\n- kémiai anyag\n- étel\n\nTünetei: Írjon négyet /4/!\n- hirtelen jelentkező nehézlégzés (nehezített kilégzés)\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- köhögés kezdetén száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse,\nmelyet a kishörgők nyálkahártyájának duzzanata kísér.\n\nvirágpor\nszőr\ntoll\nkémiai anyag\nétel\n\nhirtelen jelentkező nehézlégzés (nehezített kilégzés)\nlégzési segédizmok segítségével próbál levegőhöz jutni a beteg\nrövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\nköhögés kezdetén száraz, majd üvegszerű, tapadós (szívós nyák) ürül\nszapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Lényegére: 2 pont; okra és tüneteire: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a cukorbetegség tünetei közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "fokozott szomjúságérzet\nkínzó éhségérzet\njó étvágy mellett fogyás\nbőséges vizeletürítés\nizomgyengeség, idegbénulások\nszáraz bőr, bőrviszketés\nnehezen gyógyuló sebek\nnemi aktivitás- és fogamzóképesség csökkenése\nmagas vércukorszint\nvizeletben cukor és aceton megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Rendelje a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat!\nÍrja a megfelelő csoporthoz az előidéző ok számát!\nOliguria: ...\nPolyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!\nÍrja a megfelelő betegség mellé a jellemző tüneteinek\nsorszámát!\n1. éles fájdalom a deréktájon\n2. szemhéj, arc, kéz ödémája\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a nagyajkakba\nsugárzik\n6. a vizeletben fehérje jelenhet meg\nVesekövesség: ...1, 4, 5...\nGlomerulonephritis acuta: ...2, 3, 6...",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Ismertesse a méh (uterus) részeit!",
+      "question_type": "open",
+      "correct_answer": "- méhfenék\n- méhtest\n- méhnyak (cervix)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyarul és latinul!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regenerációs fázis\nnövekedés - proliferációs fázis\nelválasztás - szekréciós fázis\nlelökődés - menstruációs fázis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\n\nHipofízis: \nCsecsemőmirigy: \nHasnyálmirigy: \n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a koponya alapon az ékcsont árkában helyezkedik el\na gátor üregben a szegycsont mögött helyezkedik el\na patkóbél homorulatában helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- endokrin (belső elválasztású) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- alacsony koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\nMilyen bőr tünete van az Addison-kóros betegnek?\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)......az arc duzzadt, kifejezéstelen......a bőr fokozottan pigmentált (sötét elszíneződésű)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományát összekapcsoló képletek nevének számát feladatuk betűjelével!\n1. Asszociációs rostok\n2. Commissuralis rostok\n3. Projekciós rendszer\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, ill. a leszálló\nrendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n1...; 2...; 3...",
+      "question_type": "matching",
+      "correct_answer": "B; C; A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Jellemezze az agytályogot (abcessus cerebri) a megadott szempontok alapján!\nA betegség keletkezésének oka, kialakulásának lehetősége:\n- az agy bakteriális fertőzése\n- az agytályog (abscessus cerebri) a középfül vagy az orr-\nmelléküregek gyulladásainak közvetlen útján\nkeletkezhet vagy koponya-, és agytraumák esetén, valamint\nmetasztatikus úton jöhet létre\nTünetek: Írjon négyet /4/!\n- rossz közérzet\n- láz\n- agyi nyomásfokozódás tünetei\n- góctünetek\n- epilepsziás roham\nGyógyítás:\n- kórházi (idegsebészeti) ellátás, ha a gyógyszeres kezelés nem\nhatásos, műtéti megoldás",
+      "question_type": "open",
+      "correct_answer": "az agy bakteriális fertőzése\naz agytályog (abscessus cerebri) a középfül vagy az orr-\nmelléküregek gyulladásainak közvetlen átterjedése útján\nkeletkezhet vagy koponya-, és agytraumák esetén, valamint\nmetasztatikus úton jöhet létre\nrossz közérzet\nláz\nagyi nyomásfokozódás tünetei\ngóctünetek\nepilepsziás roham\nkórházi (idegsebészeti) ellátás, ha a gyógyszeres kezelés nem\nhatásos, műtéti megoldás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Az okra, kialakulásra: 3 pont, a tünetekre: 0,5-0,5 pont, okra, gyógyításra. 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q025_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q026_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 1,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját!",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q027_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 7,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezések típusait! Írjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_marcius_19_II_EUMII_0319_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 2,
+      "question_text": "Ismertesse a sérültek elhelyezési módját az alábbi\nesetekben!\n\nOrrvérzés esetén:\n...ülő helyzet, előre döntött fej ...\n\nLégmell esetén:\n...félülő helyzet (nyugalom)...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej\nfélülő helyzet (nyugalom)",
+      "options": []
+    }
+  }
+]

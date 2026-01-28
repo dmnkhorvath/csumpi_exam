@@ -1,0 +1,306 @@
+[
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megfelelőjét! Egészítse ki\na táblázatot!\n\n| Anatómiai képletek |\n|---------|---------|\n| magyarul | latinul |\n| szívizom |  |\n|  | vena cava superior |\n| vér |  |\n|  | medulla ossium |\n| gyomor |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |\n|---------|---------|\n| magyarul | latinul |\n|  | myocardium |\n| felső űrös/felső üres visszér |  |\n|  | sanguis |\n| csontvelő |  |\n|  | gaster/ventriculus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg az immunitás típusait a megadott felosztás szerint!\nveleszületett immunitás:\n\nszerzett immunitás:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- faji\n- anyai\n- fertőző betegség átvészelése\n- védőoltások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a felső ugróízület (bokaízület) alkotásában részt vevő\ncsontokat!",
+      "question_type": "open",
+      "correct_answer": "- sípcsont (tibia)\n- szárkapocscsont (fibula)\n- ugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a Scheuermann-féle betegség lényegét, tüneteit!\nA betegség lényege:\n...a csigolyatestek elkeskenyednek, elvesztik szilárdságukat...\nPanaszok, tünetek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "a hát fájdalmas fáradékonysága\na háti szakasz fokozott görbülete\na hát merevsége\nmozgáskorlátozottság\na terhelhetőség csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket, leírásokat a megadott szempontok szerint!\nÍrja a sorszámokat a megfelelő helyre!\n1. A periféria felől, a hajszálér területéről a szív irányába szállítják a vért.\n2. Faluk rendkívül vékony, csak endothel sejtekből állnak.\n3. A vért a szívből a periféria felé juttatják.\n4. Itt történik meg az oxigén és a tápanyagok leadása a sejtek felé a sejt közötti\ntérbe, valamint a szén-dioxid és az anyagcseretermékek felvétele.\n5. Erőteljes összehúzódásra képesek, így továbbítják a vért a periféria felé.\n6. A felületesen elhelyezkedő fajtájukban a visszafolyás megakadályozására\nfélhold alakú vagy zsebes billentyűk találhatók.\nVerőerek jellemzői: ...3., 5....\nVisszerek jellemzői: ... 1., 6....\nHajszálerek jellemzői: ... 2., 4....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Ismertesse az haemophilia lényegét!",
+      "question_type": "open",
+      "correct_answer": "Nemhez kötött, recesszíven öröklődő vérzékenység típus. A betegséget nők\nörökítik, de mindig csak a férfi utódokon jelenik meg.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő anatómiai képleteket!\n- pajzsmirigy\n- csecsemőmirigy\n- máj\n- tüdők\n- szív\n- hörgők\n- aortaív ágai\n- nyelőcső\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "csecsemőmirigy\nszív\naortaív ágai\nnyelőcső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a jellegzetes köpetekhez a megfelelő betegségeket! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. bőséges, szilvalészerű köpet\n2. üvegszerű, tapadós köpet\n3. gennyes köpet\n4. barnásvörös köpet\n5. élénkpiros színű, véres köpet",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-A., 3.-...B...., 4.-...D, 5.-E....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga\nelőállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos alábbi kérdésekre!\nA szervezet hány %-a víz?\nAz összvíztartalom hány %-a van a sejten belül?\nMi az exsiccosis?",
+      "question_type": "open",
+      "correct_answer": "60-70%-a...\n50%...\na víztartalom drasztikus csökkenése, kiszáradás...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a húgysavanyagcsere-zavar (köszvény) lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- általában éjszaka jelentkező váratlan, erős fájdalom egy, vagy több ízületben\n- az érintett ízület érintésre fájdalmas\n- az érintett ízület gyulladt, a bőr az ízület felett vörös, feszes és fényes\n- hidegrázás\n- láz\n- rossz közérzet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Henle-kacs\n- myelinhüvelyek\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- Malpighi-test\n- elsődleges kanyarulatos csatorna\n- Bartholin-mirigy\n- neurocyta",
+      "question_type": "multiple_choice",
+      "correct_answer": "Henle-kacs\nmásodlagos kanyarulatos csatorna\nMalpighi-test\nelsődleges kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a veseeredetű (renalis) akut uraemia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- terhesség alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a terhesség gyanújelei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- émelygés\n- hányinger, hányás\n- fokozott nyálelválasztás\n- kedélyállapot-változás\n- egyes szagoktól undorodás\n- hízás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. luteotrop hormon\n2. kalcitonin\n3. trijód-tironin\n4. adrenalin\n5. noradrenalin\n6. folliculus stimuláló hormon\n\npajzsmirigy: ...., ....\nmellékvese velőállománya: ...., ....\nhipofízis elülső lebenye: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n4., 5.\n1., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertessen a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "baktérium\na vizeletürítés károsodása\nvisszaáramlás a prosztata kivezetőcsöveiben\nimmunrendszeri tényezők\nkémiai anyagok\nlelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bronzkór (Addison-kór) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fáradékonyság, gyengeség\nsötét foltok a bőrön (ott is, ahol nem éri napfény)\nsötét szeplők\nétvágycsökkenés, fogyás\nhasi fájdalom\nalacsony vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Egészítse ki az agyidegekkel kapcsolatos táblázat hiányzó részeit!\n| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|----------------------------------|\n| VII. agyideg      |                                  |\n| I. agyideg       |                                  |\n| X. agyideg       |                                  |\n| IV. agyideg      |                                  |\n| VIII. agyideg     |                                  |\n| V. agyideg       |                                  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|----------------------------------|\n|                    | arcideg                          |\n| I. agyideg       | szaglóideg                         |\n|                    | bolygóideg                         |\n| IV. agyideg      | sodorideg                         |\n|                    | egyensúlyozó és hallóideg        |\n| V. agyideg       | háromosztatú ideg                 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a szaglórendszer fáradékonyságának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ember szaglórendszere fáradékony, bizonyos idő eltelte után az adott szagot\nmár nem érzi, hozzászokik a szaghoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöb alatti inger:\n...\nküszöbinger:\n...\nmaximális stimulus:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "olyan gyenge inger, amelyre az idegrost nem válaszol...\nolyan erősségű inger, amely idegimpulzust vált ki...\naz a legnagyobb inger, amely egy idegköteg valamennyi rostját ingerületbe hozza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a bőrbetegségeket jellemzőjükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. övsömör\n2. fényérzékenység okozta\nbőrreakció\n3. gennyes bőrgyulladás\n4. szemölcs\n5. orbánc",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...E...., 3.-...C...., 4.-...D...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a fül toxikus ártalmainak lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "nekrotikus gyulladást okozó fertőző betegségek\ngyógyszerek\nipari anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a felnőtteknél légúti idegentest esetén javasolt ellátás\nlépéseit! Írja a sorszámokat a pontozott vonalakra!\n... az illető megnyugtatása\n... hasi lökések (Heimlich-féle műfogás) alkalmazása\n... biztonságos környezet kialakítása\n... köhögésre biztatás\n... háti ütések alkalmazása\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n5\n1\n3\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_21_XIX_eumxix_210621_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertessen a sokk kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "durva, nagy roncsolással járó trauma\nkiterjedt égés\nnagyfokú vérveszteség\nnagyfokú folyadékveszteség",
+      "options": []
+    }
+  }
+]

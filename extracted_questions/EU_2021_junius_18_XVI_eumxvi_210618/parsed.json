@@ -1,0 +1,337 @@
+[
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n1. túltengés (hypertrophia)\n2. túlburjánzás (hyperplasia)\n3. sorvadás (atrophia)\n4. elhalás (necrosis)\nA. a szövetek sejtjei számukban gyarapodnak\nB. a kifejlett szerv tömegének csökkenése\nC. a szervezet körülírt részének pusztulása\nD. a szövetek sejtjei megnövekednek",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...A..., 3.-...B...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg a szövet fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Egy adott funkció ellátására specializálódott azonos alakú és azonos működésű\nsejtek és a köztük lévő sejt közötti állomány alkotják a szövetet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Nevezze meg azokat az eseteket, amikor Rh-negatív egyénbe Rh-pozitív\nvörösvérsejtek juthatnak!",
+      "question_type": "open",
+      "correct_answer": "- tévesztéses transzfúzióval\n- a terhesség során, amennyiben Rh-negatív anyának Rh-pozitív a magzata",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Soroljon fel a csontdaganatok lehetséges tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- napszaktól függetlenül jelentkező fájdalom\n- fényes, feszülő bőr érrajzolattal\n- mozgatási zavar\n- tartósan meglévő duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Csoportosítsa a csontok folytonos összeköttetéseit a megadott szempontok\nszerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. térdízület\n2. keresztcsont\n3. koponya varratai\n4. csigolyák között\n\ncsontos összeköttetés: ......\nkötőszövetes összeköttetés: .......\nporcos összeköttetés: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n1., 3.\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul az izmok járulékos részeit!",
+      "question_type": "fill_in",
+      "correct_answer": "nyálkatömlő\ninhüvely\nizompólya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Húzza alá az angina pectoris jellemző tüneteit!\n- torokfájdalom\n- jobb bordaív alatti görcsös, a jobb lapocka tájára sugárzó fájdalom\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik: hátba, bal karba, vállba\n- halálfélelem\n- túlzott nyugalom\n- hideg, verítékes bőr\n- száraz, meleg bőr\n- szapora, elnyomható pulzus\n- bénulások\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szegycsont mögötti fájdalom (szorító, nyomásérzés)\na fájdalom kisugárzik: hátba, bal karba, vállba\nhalálfélelem\nhideg, verítékes bőr\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a nyirokcsomók szerkezetét és szerepét!\nSzerkezetük:\n- \n- \n- \n- \nSzerepük: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "kéregállomány\nvelőállomány\nodavezető nyirokér\nelvezető nyirokér\nlymphocytatermelés\nvédekező működés a fagocitáló sejtek révén\na nyirokerek és a nyirokcsomók szerepet játszanak a rosszindulatú daganatok\nterjedésében is, mert gyakran itt képződnek először áttétek (metasztázis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. fehérjék\nA. kollagenáz, elasztáz\n2. szénhidrátok\nB. lipáz\n3. zsírok\nC. tripszin\n4. kötőszöveti rostok\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...B...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Ismertesse a vegetatív idegrendszer légzőrendszerre gyakorolt hatásait!\nszimpatikus hatás:\n- \n- \nparaszimpatikus hatás:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a bronchusok tágulnak\na légzés fokozódik\na bronchusok szűkülnek\na légzésszám csökken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Nevezzen meg hatot a végbélgyulladás lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- Crohn-betegség\n- colitis ulcerosa\n- hőártalom\n- vegyiártalom\n- aranyér\n- fisztulák, berepedések\n- baktériumfertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a pyelonephritis acuta lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "borzongás, hidegrázás, magas láz\nvesetájéki érzékenység\nkínzó és gyakori vizelési inger\nrossz közérzet\nhányinger, hányás\nzavaros, gennyes vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Ismertesse a légzésvizsgálatnál alkalmazott hármas érzékelés lényegét!",
+      "question_type": "open",
+      "correct_answer": "- szemünkkel látjuk a mellkas és a has emelkedését-süllyedését\n- fülünkkel a szájnál halljuk a légzést/a levegő áramlását\n- arcunkkal érzékeljük a levegő áramlását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a vesekapu (hilus renalis) képletei közül!",
+      "question_type": "open",
+      "correct_answer": "veseartéria\nvesevéna\nhúgyvezeték\nnyirokerek\nidegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá a terhesség valószínűségi jeleit!\n- bővebb hüvelyváladék\n- fokozott nyálelválasztás\n- émelygés\n- hányinger, hányás\n- menstruáció elmaradása\n- livid (szederjes) hüvely\n- kedélyállapot-változás\n- pozitív terhességi teszt\n- egyes szagoktól undorodás\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!",
+      "question_type": "multiple_choice",
+      "correct_answer": "bővebb hüvelyváladék\nmenstruáció elmaradása\nlivid (szederjes) hüvely\npozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Írja le a szakkifejezések magyar, vagy latin megnevezését! Egészítse ki a\ntáblázatot!\n\n| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n| fájdalmas menstruáció |  |\n| herevízsérv |  |\n| terhesség |  |\n| mellékhere-gyulladás |  |\n| menstruáció hiánya |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n|  | dysmenorrhoea |\n|  | hydrokele testis |\n|  | graviditas |\n|  | epididymitis |\n|  | amenorrhoea |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. diabetes insipidus\n2. gigantismus\n3. Basedow-kór\n4. myxoedema\n5. acromegalia\n6. Addison-kór\n\nAz endokrin mirigy alulműködése okozza: ...\nAz endokrin mirigy túlműködése okozza: ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Ismertesse a parathormon hatását!",
+      "question_type": "open",
+      "correct_answer": "- emeli a vér calcium-, és foszfátszintjét\n- a csontokból calcium-, és foszfátionokat szabadít fel\n- aktivizálja a csontpusztító sejteket (osteoclastokat)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a neuroglia feladatai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az idegrendszer támasztó eleme\n- térkitöltő\n- elhatároló, elválasztó\n- részt vesz az idegszövet anyagcseréjében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Írja le a reciprok beidegzés elvének lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Amikor egy mozgás végrehajtására serkentő impulzus halad a működtető\nizomhoz, akkor az antagonista (ellentétes) izomnak gátló utasítást kell\nkapnia....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Sorolja fel a tudat világosságának zavarait!",
+      "question_type": "open",
+      "correct_answer": "- ködös állapot/delirium\n- homályállapot/tenebrositas\n- Ganser-tünetcsoport",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertesse a szemtengelyferdülés lényegét és tüneteit!\nLényege:\n\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...A szaruhártya és a szemlencse görbülési hibája...\n- homályos, életlen látás\n- hunyorgás\n- fejfájás\n- fáradtság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Nevezzen meg az afta kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "vírusos, vagy bakteriális fertőzés\nstressz\nvitaminhiány\nfolsavhiány\nkialvatlanság\nelhanyagolt szájhigiéné",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XVI_eumxvi_210618_q027_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 6,
+      "question_text": "Egészítse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| metszett | bőséges |  |  |\n| zúzott |  |  |  |\n| horzsolt |  |  |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| metszett |  | ritka/kicsi | kicsi |\n| zúzott | kicsi | nagy | nagy |\n| horzsolt | kicsi | nagy | nagy |",
+      "options": []
+    }
+  }
+]

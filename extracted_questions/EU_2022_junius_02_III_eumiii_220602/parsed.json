@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi reakciókat a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. túltengés\n2. fibrines gyulladás\n3. idült produktív gyulladás\n4. sorvadás\n5. fájdalom\n\nA szervezet jelző reakciója: ......\nSzöveti elváltozásban/működésváltozásban megnyilvánuló reakció: ......\nA szervezet védekező reakciója: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n1., 4\n2., 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja le, mely szervben találhatók az alábbi anatómiai képletek!\n- ínhártya: ...\n- Malpighi-test: ...\n- Langerhans-szigetek: ...\n- Tawara-szár: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szem\nvese\nhasnyálmirigy\nszív",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Nevezze meg a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a ferde nyakat a megadott szempontok szerint!\nLényege:\nKialakulásának lehetséges okai: Írjon kettőt!\nGyógyításának/kezelésének lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "...az egyik oldali fejbiccentő izom zsugorodása...\nfejlődési rendellenesség\nizomsérülés\nnyaki gerincferdülés\nmozgásterápia\nfizikoterápia\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a keringés szervrendszerére vonatkozó meghatározásokat!\nFiziológiás körülmények között a szív elsődleges ingerképző központja a\n... pitvar falában elhelyezkedő .... Innen terjed szét az\ningerület a ..., és éri el a pitvar-kamrai határ közelében\nelhelyezkedő atrioventricularis csomót/AV-csomót. A pitvar-kamrai csomóból\nindul ki a ..., amely két ... oszlik.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "jobb sinuscsomó pitvarokra His-köteg/His-nyaláb Tawara-szárra",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a jobbszívfél-elégtelenség legfontosabb\ntüneteit!\n- habos, „szilvalészerű” köpet\n- boka-, lábszár ödéma\n- köhögés\n- bőséges éjszakai vizeletürítés (nicturia)\n- hasvízkór\n- telt nyaki vénák\n- nehézlégzés\n- tüdőödéma\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "boka-, lábszár ödéma\nbőséges éjszakai vizeletürítés (nicturia)\nhasvízkór\ntelt nyaki vénák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Ismertesse a mellhártyagyulladás lényegét és tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Lényege:...A mellhártyát izgató tényezők, vagy daganat hatására a mellhártyán\ngyulladás alakul ki....\nLehetséges tünetei:\nmély légvételkor és köhögéskor fokozódó fájdalom\nszapora, felületes légzés\na beteg oldalon a mellkaskitérés akadályozott\nhallgatózáskor jellegzetes nyikorgó dörzszörej",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer képleteire vonatkozó táblázat hiányzó részeit!\n\n| A légzőrendszer képletei |  |\n|---------|---------|\n| magyarul | latinul |\n| arcüreg | sinus maxillaris |\n| légcső |  |\n| tüdőhólyag | alveolus |\n| tüdőkapu |  |\n| rostacsont üregei | cellulae ethmoidales |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer képletei |  |\n|---------|---------|\n|  |  |\n|  | trachea |\n|  |  |\n|  | hilus |\n|  |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a vitaminokat a feladataikkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. A-vitamin\n2. C-vitamin\n3. B12-vitamin\n4. E-vitamin\n\nA. a vörösvérsejtek képződéséhez szükséges\nB. hámvédő, a látóbíbor alkotásában is részt vesz\nC. a nemi mirigyek normál működéséhez szükséges\nD. antioxidáns, a sejtek működésének szabályozásában, a szervezet\nellenállóképességének fokozásában vesz részt\n\n1.-......, 2.-......, 3.-......, 4.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...D...., 3.-A..., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot az exsiccosis lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- szomjúság érzés\n- gyengeség\n- száraz, lepedékes nyelv\n- szapora pulzus\n- alacsony vérnyomás\n- a bőr elveszíti a feszességét\n- csecsemőknél besüppedt kutacsok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. a vérplazma fehérjementes szűrlete\n2. szalmasárga színű, jellegzetes szagú\n3. fajsúlya: 1020-1025 g/l (1001-1040)\n4. fajsúlya: 1010 g/l\n5. a glomerulusokban képződik\n6. a tubulusokban képződik\n\nElsődleges vizelet jellemzői: ...\nVégleges vizelet jellemzői: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a vesekőképződésre hajlamosító tényezők közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vizeletpangás\n- a vizelet fertőződése\n- kőképző anyagok felszaporodása\n- hibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol helyezkedik el a magzati életben a here?",
+      "question_type": "fill_in",
+      "correct_answer": "a hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Ismertesse a méhnyakrák jellemzőit, gyógyításának lehetőségeit!\nTünetei/jellemzői: Írjon hármat!\nGyógyításának lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- eleinte semmilyen panaszt sem okoz\n- folyás\n- véres váladékozás\n- közösülés után jelentkező vérzés\n- műtét\n- kemoterápia\n- besugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Nevezze meg a pajzsmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- tiroxin\n- trijód-tironin\n- calcitonin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse az óriásnövést a megadott szempontok szerint!\nOka:\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "...A növekedési hormont termelő szövetek szaporodása és fokozott hormontermelése jóindulatú daganat következtében...\n- az átlagot meghaladó testmagasság\n- a felső végtag aránytalan hosszúsága\n- végtagfájdalmak, ujjak zsibbadása\n- durva, ügyetlen mozgás és kézmozdulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a vércukorszintet emelő hormonokat!\n- glükagon\n- adrenalin\n- inzulin\n- szomatosztatin\n\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": [
+        "glükagon",
+        "adrenalin",
+        "inzulin",
+        "szomatosztatin"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Párosítsa az éberségi zavarokhoz leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. sopor\nA. kóros aluszékonyság, a beteg ébreszthető,\nde magára hagyva elalszik\n2. kóma\nB. megnehezül a külvilág ingereinek\nfelfogása, bizonytalanná válik a felismerés\nés a tájékozódás\n3. kábultság\nC. mély alvás, a beteg csak erős ingerre reagál\n4. somnolentia\nD. eszméletlenség, a beteg nem ébreszthető, a\ntudatos pszichés tevékenység hiányzik",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...B...., 4.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon négy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a melanoma lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nnedvedzés\nviszketés\nvérzés\nkifekélyesedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul a szemgolyó részeit a megadottak szerint!\nA szem középső burkának részei:\n- \n- \n- \nA szem védőkészülékei:\n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest\n- szemhéj\n- kötőhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Írja le a sebellátás menetét!",
+      "question_type": "open",
+      "correct_answer": "- a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)\n- a seb környékének megtisztítása\n- a sebszélek fertőtlenítése\n- a seb steril fedése, a kötés rögzítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_02_III_eumiii_220602_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Határozza meg az égett területek felmérésére szolgáló 9-es szabály alapján\na megadott testfelületek nagyságát! Egészítse ki a táblázatot!\n\n| Testfelület | A felület nagysága |\n|-------------|-------------------|\n| fej         |                   |\n| hát         |                   |\n| két felső végtag |                   |\n| két alsó végtag |                   |\n| gáttájék    |                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Testfelület | A felület nagysága |\n|-------------|-------------------|\n| fej         | 9%                |\n| hát         | 2 x 9%            |\n| két felső végtag | 2 x 9%            |\n| két alsó végtag | 2 x 2 x 9%        |\n| gáttájék    | 1%                |",
+      "options": []
+    }
+  }
+]

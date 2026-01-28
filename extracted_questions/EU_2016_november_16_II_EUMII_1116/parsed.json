@@ -1,0 +1,297 @@
+[
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat jellemzőikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n1. gyenge ellenálló képesség, légzőszervi- és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési- és cukorbetegségre való hajlam\nΑ.- ...... , Β.- ...... , C.- ...... , D.- ......",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás helyi tüneteinek létrejöttét!\nTöltse ki a táblázatot!\n| a gyulladás helyi tünete | az elváltozás oka |\n|---------|---------|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| a gyulladás helyi tünete | az elváltozás oka |\n|---------|---------|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik és hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Soroljon fel a csonthártya (periosteum) feladatai\nközül kettőt!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a csonttörés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a spondylarthritis\nankylopoetica (SPA) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek gyulladásos megbetegedése miatti\ndegeneratív elváltozás, mely végül a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\nkisvérkör erei: ... , ...\nnagyvérkör erei: ... , ... , ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző\nkóros légzési formákkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. súlyos anyagcserezavarok (pl. hyperglykaemiás coma, veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás\n\nA. dyspnoe\nB. Cheyne-Stokes-légzés\nC. Kussmaul-légzés\n\n1. - ...., 2. - ...., 3. - ....",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő\nszerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\ncsecsemőmirigy\naortaív ágai",
+      "options": [
+        "szív",
+        "tüdők",
+        "csecsemőmirigy",
+        "aortaív ágai",
+        "pajzsmirigy",
+        "máj"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Nevezze meg a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó\nneuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó köteg\n2. oldalköteg\n3. elülső-oldalsó köteg\n\nA. vegetatív neuronok\nB. mozgató neuronok\nC. érzőneuronok\n\n1.-... ..., 2.-... ..., 3.-...",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a sclerosis multiplex tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nérzészavar\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit!\nEgészítse ki a táblázatot!\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|-----------------------|-----------------|-----------------------|\n| szájüreg             | ptialin, maltáz |                       |\n| gyomor              |                 |                       |\n|                       |                 | zsír                  |\n| vékonybél            | tripszin        |                       |\n|                       | amiláz, maltáz, laktáz |                       |\n|                       |                 | zsír                  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|-----------------------|-----------------|-----------------------|\n|                       |                 | szénhidrát            |\n| gyomor              | pepszin         | fehérje               |\n|                       | lipáz           |                       |\n| vékonybél            |                 | fehérje               |\n|                       |                 | szénhidrát            |\n|                       | lipáz           |                       |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "véres, nyákos széklet\nfájdalmas székletürítés\ngörcsös hasi fájdalom\nétvágytalanság\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a zöldhályog tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "szem belső nyomása kórosan emelkedett\nlátásélesség romlása\nlátótérkiesés\nfejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\nKrónikus urémia:\nVesekövesség:",
+      "question_type": "open",
+      "correct_answer": "A veseállomány pusztulása következtében a csökkent vagy működésképtelen vesefunkciók krónikus állapot kialakulásához vezetnek.\nA vese üregrendszerében különböző oldott sók kő formájában kicsapódnak, innen a húgyvezetékbe, illetve a húgyhólyagba jutva akadályozhatják, vagy teljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a leggyakrabban előforduló\nmérgezések típusai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezések\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények általi mérgezés\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!\n- kreatinin\n- húgysav\n- bilirubin\n- urobilinogén\n- cukor\n- fehérje\n- karbamid",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nurobilinogén\nkarbamid",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nés latinul!\n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "külső hashártya által borított réteg - perimetrium\nközépső izomréteg - myometrium\nbelső nyálkahártyaréteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztatamegnagyobbodás\ntünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q021_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 7,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely belső elválasztású mirigy termeli a kalcitonint?\n...\nHol termelődik az aldoszteron?\n...\nMi az androgének feladata?\n...\nHol termelődik a progeszteron?\n...\nMi a szomatosztatin hatása?\n...\nHogy nevezzük a csecsemőmirigy hormonját?\n...\nHol termelődik a glükagon?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a pajzsmirigy\na mellékvese kéregállományában\na másodlagos férfi nemi jelleg kialakítása\na petefészekben\na testnövekedést gátolja\ntimozin\na hasnyálmirigyben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Nevezze meg a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach-kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges harántcsíkolt izom\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\n- működését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom összehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_november_16_II_EUMII_1116_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  }
+]

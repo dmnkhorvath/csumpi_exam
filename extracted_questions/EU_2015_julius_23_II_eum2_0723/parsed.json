@@ -1,0 +1,318 @@
+[
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok\nfeladataival! Írja a fehérvérsejt típusának sorszáma mellé\nfeladata betűjelét!\n\n1. T-lymphocyta\n2. B-lymphocyta\n3. granulocyta és monocyta\n\na. fagocitózis\nb. sejtes immunválasz\nc. humorális immunválasz\n\n1.: ......\n2.: ......\n3.: ......",
+      "question_type": "matching",
+      "correct_answer": "1.: ...b...\n2.: ...c...\n3.: ...a...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Írja az alábbi latin kifejezések mellé magyar\njelentésüket!\n| Latin | Magyar |\n|---------|---------|\n| akut |  |\n| krónikus |  |\n| morbus |  |\n| reverzíbilis |  |\n| benignus |  |\n| degeneráció |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Latin | Magyar |\n|---------|---------|\n|  | heveny |\n|  | idült |\n|  | betegség |\n|  | visszafordítható |\n|  | jóindulatú |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Sorolja fel a szabad felső végtag csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "felkarcsont\norsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\nsipoly\nfájdalom\nalakváltozás, duzzanat\nizomsorvadás\nmozgáskiesés\nX- láb\nvérömleny\nvérmérgezés\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás, duzzanat\nmozgáskiesés\nvérömleny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a lép feladatait a felsoroltak közül!\n- lymphocyták képzése\n- a vörösvértestek lebontása\n- vérlemezkék lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lymphocyták képzése\na vörösvértestek lebontása\nvérlemezkék lebontása\nvér raktározása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Sorolja fel az elsősegélynyújtó teendőit szén-monoxid-mérgezés esetén, ha a sérült eszméletlen!\nÍrjon két /2/ teendőt!",
+      "question_type": "open",
+      "correct_answer": "- szabad légút biztosítása\n- oxigén belélegeztetés\n- stabil oldalfektetés\n- újraélesztés (klinikai halál állapotában)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső és alsó részébe került idegen anyag, és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\nszűkülnek",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia kialakulásának lehetséges\nokai közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "alsó végtagok trombózisa\nhasi műtét után\nszülés utáni gyermekágyas időszak\nkismedencei műtét után\npitvari trombózis\nhosszan tartó fekvő betegség (szívbetegség)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Válaszoljon a szervezet vízháztartásával kapcsolatos\nalábbi kérdésekre!\n\nA szervezet hány %-a víz?\n\nAz össz víztartalomból hány % van sejten belül?\n\nMi az exsiccosis?",
+      "question_type": "open",
+      "correct_answer": "60-70%-a\n50%\nKiszáradás. A víztartalom csökkenése, amely a szervezet működésének\nsúlyos zavarát, esetleg pusztulását eredményezheti.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás)\nkiváltó okai közül hatot/6/!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegen test\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ alkotóelemet, amelyet a normál\nvizelet tartalmaz!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi szervek elhelyezkedését a szervezetben!\nVesék: ...\nProsztata: ...\nMéh: ...",
+      "question_type": "fill_in",
+      "correct_answer": "közvetlenül a gerinc két oldalán, a XII. háti és a II. ágyéki csigolya magasságában, a hashártya mögött helyezkednek el...\na húgyhólyag alatt helyezkedik el...\na kismedencében középen, a húgyhólyag és a végbél között helyezkedik el...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Ismertesse a gennyes vesemedence gyulladás\n(pyelonephritis acuta) okát, tüneteit!\nOka: Írjon kettőt /2/!\n- \n- \n- \nTünetei: Írjon kettőt /2/!\n- \n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "bakteriális\naszcendáló fertőzés\nhematogén fertőzés\nmagas láz, hidegrázás\nkínzó, gyakori vizelési inger\nhányinger, hányás\nvesetáji fájdalom\nrossz közérzet\ngennyes, zavaros vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\nMi a szerepe a sárgatesthormonnak?",
+      "question_type": "open",
+      "correct_answer": "a méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Ismertesse a carcinoma mammaet az alábbi\nszempontok szerint!\n\nTünetei: Írjon kettőt /2/!\n\nMegelőzése:",
+      "question_type": "open",
+      "correct_answer": "az emlő állományának rosszindulatú daganatos elfajulása\ntapintható csomó az emlőben\nnarancshéj behúzódás a bőrön\nbefordult mellbimbó\na mellbimbó váladékozása\nszűrővizsgálattal, önvizsgálattal",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó\nalábbi kérdésekre!\nHol kereszteződik a piramispálya nagy része?\nHol található az agyban a beszéd motoros központja?\nMely lebenyben találhatók a látóközpontok?\nHol található a hallás kérgi központja?\nHogy nevezzük az idegrendszer támasztószövetét?",
+      "question_type": "fill_in",
+      "correct_answer": "a nyúltvelőben\naz egyik féltekében a Sylvius-féle árok fölött\na nyakszirti lebenyben\na halánték lebenyben\nneuroglia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Húzza alá a helyes válaszokat!\n\nHol tárolódik az oxitocin nevű hormon?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin nevű hormon?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetaniás\nállapotot!\nLényege:\nOka:\nTünetei: Írjon négyet /4/!\n-\na kéz és láb ujjainak zsibbadása\n-\na kéz őzfejtartása (hüvelykujj és a kézujjak kúpot képeznek)\n-\na mimikai izmokban is görcs alakul ki: „ördögi vigyor\" (risus\nsardonicus)\n-\nszapora szívműködés\n-\ngégeizmok görcse, ami fulladást eredményezhet\nGyógyítása, ellátása:\n(A lényegre, okára, gyógyításra, ellátásra helyes válaszonként 1 -1 pont, a tünetekre 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A vérszérum Ca szintjének csökkenése.\nA mellékpajzsmirigy csökkent működése. Leggyakrabban strúma műtét után\nfordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\nCa adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": [
+        "szemgolyó",
+        "szemtengely",
+        "szemmozgató izmok",
+        "a szem védőkészülékei",
+        "szemcsatorna",
+        "könnykészülék"
+      ]
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!\nÍrjon két /2/ jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- csontátépülés következtében a belső fülben a kengyel talpa rögzül az ovális ablakhoz\n- nőknél gyakoribb, mint férfiaknál\n- kínzó fülzúgást és vezetéses halláscsökkenést okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_julius_23_II_eum2_0723_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Társítsa a sokk fajtáit azok lényeges jellemzőivel!\nÍrja a sokk fajtájának száma mellé a megfelelő betűjelet!\n\n1. Hypovolaemiás sokk\na. akut értágulat vezet a vérelosztás hirtelen\nzavarához\n2. Disztributív sokk\nb. a szív munkájának elégtelensége miatt alakul\nki\n3. Kardiogén sokk\nc. az érpálya akut beszűkülése miatt alakul ki\n4. Obstruktív sokk\nd. a keringő vérmennyiség akut csökkenése\nokozza",
+      "question_type": "matching",
+      "correct_answer": "1... d... 2....a... 3... b ... 4....c...",
+      "options": []
+    }
+  }
+]

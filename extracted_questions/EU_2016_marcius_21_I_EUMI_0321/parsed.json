@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt hormonokat\ntermelődésük helye szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. progeszteron\n2. inzulin\n3. glükagon\n4. tiroxin\n5. kalcitonin\n\nHasnyálmirigy: ...\nPajzsmirigy: ...\nPetefészek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3\n4, 5\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Írja az alábbi latin kifejezések mellé a magyar\njelentésüket!\nregeneráció: ...\nhypertrophia: ...\natrophia:...\nnecrosis: ...\nhypoplasia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a szövetek újraképződése\ntúltengés\nsorvadás\nelhalás\ncsökkent értékű fejlődés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott\nszempontok szerint! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\n\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 2, 4...3, 5, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Párosítsa az összetartozó elemeket!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. lymphocyták termelődési helye\n2. a vörösvérsejtek képzésének helye\n3. a vörösvérsejtek lebontásának\nhelye\n1.-... ..., 2.-... ..., 3.-... ...",
+      "question_type": "matching",
+      "correct_answer": "B, A, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportokra vonatkozó táblázatot!\n| Vörösvérsejtben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---------|---------|---------|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvérsejtben található agglutinogén | A szérumban található agglutinin | Vércsoport neve |\n|---------|---------|---------|\n|  |  | 0 |\n|  |  | AB |\n|  |  | A |\n|  |  | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Ismertesse az orr – garatmandula feladatát!",
+      "question_type": "open",
+      "correct_answer": "helyi védekezés\nimmunvédekezés a lymphocyta termelés révén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a tbc megelőzésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdőödéma\nC. gége alatti nyálkahártya duzzanata\nD. tüszős mandulagyulladás\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési hang\nΑ.- ...; B. ...; C.- ...; D.- ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2\n3\n4\n1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél részeit magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "patkóbél - duodenum\néhbél - jejunum\ncsípőbél - ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel a májzsugorodás (cirrhosis hepatis) tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "haspuffadás\nnyomásérzékenység a jobb bordaív alatt\ntesttömeg-csökkenés\nfakó, enyhén sárga színű bőr\nbőrviszketés\nhasvízkór\nbőrön csillag alakú értágulatok\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "gyakori, sürgető vizelési inger\négő, csípő érzéssel kísért, kis mennyiségű vizelet ürítése\ngyakori görcsös alhasi fájdalom\na vizeletben vér jelenik meg\na vizeletben genny jelenik meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége: \nFajsúlya: \nÖsszetevői: Írjon négyet!",
+      "question_type": "fill_in",
+      "correct_answer": "napi 180 l\n1010 g/l\nvíz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele - módszer alapján!",
+      "question_type": "fill_in",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a carcinoma mammae-t az alábbi\nszempontok szerint!\n\nTünetei: Írjon hármat!\n\n\n\n\nMegelőzése: Írjon egyet!\n\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Lényege: az emlő állományának rosszindulatú daganatos elfajulása\ntapintható csomó az emlőben\nnarancshéj-behúzódás a bőrön\nbefordult mellbimbó\na mellbimbó váladékozása\nszűrővizsgálattal\nönvizsgálattal",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három nemi érintkezés útján terjedő\nbetegséget!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (syphilis)\nherpes genitalis\nAIDS",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Ismertesse az oxitocin hormon termelődésének helyét és\nszerepét!\n\nTermelődés helye:\n-\n\nSzerepe:\n-",
+      "question_type": "open",
+      "correct_answer": "az agyalapi mirigy (hypophysis) hátsó lebenye\n\nerős méhösszehúzódásokat vált ki (szülést beindítja)\naz emlőkből a tej kiürülését segíti (szülés után)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Mi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a timozin?\n- a hypophysisben\n- a csecsemőmirigyben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- melatonint\n- ösztrogént",
+      "question_type": "multiple_choice",
+      "correct_answer": "a csontok hosszirányú növekedésének serkentése\na csecsemőmirigyben\na testnövekedést gátolja\nmelatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 6,
+      "question_text": "Ismertesse a sclerosis multiplex tüneteit!\nÍrjon hatot!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nérzészavar\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- látótér\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szürkehályog (cataracta) kialakulásának\nlehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "veleszületett (az anya terhesség alatti vírusfertőzése okozza)\nanyagcsere-betegségek (pl. diabétesz.)\nszövődményes (más szemelváltozás következtében alakul ki)\nsérülés\nsugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Sorolja fel a sebek fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_21_I_EUMI_0321_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket és a tünetek észlelésekor az elsősegélynyújtó teendőit!\nTünetek: Írjon négyet!\n- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavartság\nTeendők: Írjon kettőt!\n- sokk-fektetés (hanyatt fekvő helyzet, 20º - os szögben felpolcolt alsó végtagokkal)\n- folyadékpótlás\n- mentőhívás",
+      "question_type": "open",
+      "correct_answer": "sápadtság\nhideg, nyirkos bőr\nszapora, elnyomható pulzus (filiformis)\nfájdalom\nszomjúságérzés\nnyugtalanság, zavartság\nsokk-fektetés (hanyatt fekvő helyzet, 20º - os szögben felpolcolt alsó végtagokkal)\nfolyadékpótlás\nmentőhívás",
+      "options": []
+    }
+  }
+]

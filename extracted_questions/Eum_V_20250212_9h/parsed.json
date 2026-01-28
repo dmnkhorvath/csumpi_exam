@@ -1,0 +1,283 @@
+[
+  {
+    "file": "Eum_V_20250212_9h_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi reakciókat a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. idült produktív gyulladás\n2. fibrines gyulladás\n3. sorvadás\n4. túltengés\n5. fájdalom\n\nA szervezet jelző reakciója: .....\nSzöveti elváltozásban/működésváltozásban megnyilvánuló reakció: .....\nA szervezet védekező reakciója: .....\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n3., 4\n1., 2",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa a magyar kifejezéseket latin megfelelőikkel! Írja a betűjelek mellé\na helyes válasz sorszámát!\n\nA. tapintás\nB. hallgatózás\nC. kopogtatás\nD. megtekintés\n\n1. inspectio\n2. percussio\n3. palpatio\n4. auscultatio",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., Β.-...4...., С.-...2...., D.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való\nelmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Egészítse ki a keringés szervrendszerére vonatkozó meghatározásokat!\n\nFiziológiás körülmények között a szív elsődleges ingerképző központja a\n... pitvar hátsó falában elhelyezkedő .... Innen terjed szét\naz ingerület a ..., és éri el a pitvar-kamrai határ közelében\nelhelyezkedő atrioventricularis csomót/AV-csomót. A pitvar-kamrai csomóból\nindul ki a ..., amely két ... oszlik.",
+      "question_type": "fill_in",
+      "correct_answer": "jobb\nsinuscsomó\npitvarokra\nHis-köteg/His-nyaláb\nTawara-szárra",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a sinus bradycardia lehetséges okait!",
+      "question_type": "open",
+      "correct_answer": "hányinger, hányás\ncsökkent pajzsmirigyműködés\nidőskor",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gátorüregben (mediastinum) elhelyezkedő anatómiai képletek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "szív\ncsecsemőmirigy\naz aortaív ágai\nnyelőcső\naorta descendens\nnervus vagus\nfő nyirokvezeték",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a jellegzetes köpetekhez a megfelelő betegségeket! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. bőséges, szilvalészerű köpet\n2. barnásvörös köpet\n3. élénkpiros színű, véres köpet\n4. üvegszerű, tapadós köpet\n5. gennyes köpet\n\nA. tüdőasztma\nB. tüdőtályog\nC. tüdővizenyő\nD. tüdőgyulladás\nE. tuberkulózis",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D..., 3.-E., 4.-А., 5.-B....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Nevezze meg a tápanyagokat funkciójuk szerint! Írjon csoportonként egy-egy példát! Egészítse ki a táblázatot!\n\n| Tápanyagok csoportjai | funkció szerint | egy-egy példa megnevezése* |\n|-----------------------|-----------------|-----------------------------|\n| sejtépítők            |                 |                             |\n| energiaszolgáltatók    |                 |                             |\n| biokatalizátorok      |                 |                             |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| Tápanyagok csoportjai | funkció szerint | egy-egy példa megnevezése* |\n|-----------------------|-----------------|-----------------------------|\n|                       |                 | fehérjék, zsírok, ásványi sók |\n|                       |                 | zsírok, szénhidrátok        |\n|                       |                 | ásványi sók, vitaminok      |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőszervi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. dysenteria\n2. salmonellosis\n3. typhus abdominalis\n4. ascariasis\n5. oxyuriasis\n6. taeniasis\n\nFérgek okozta fertőzés: ...., ...., .....\nFertőzéses bélbetegség: ...., ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "4., 5., 6.....\n1., 2., 3.....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Párosítsa a kórtani kifejezésekhez leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. oliguria\n2. polyuria\n3. asthenuria\n4. anuria\n5. hyposthenuria\n6. pyuria\n\nA. a vizelet mennyisége 500 ml alatt van naponta\nB. a vizelet mennyisége meghaladja a 2000 ml-t naponta\nC. az a működési állapot, amikor a vesék sem hígítani, sem koncentrálni nem\ntudnak\nD. genny megjelenése a vizeletben\nE. a vizelet mennyisége 100 ml alatt van naponta\nF. a vese hígító- és koncentrálóképességének csökkenése",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α...., 2.-...B...., 3.-...C...., 4.-...E..., 5.-F...., 6.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik szervben tárolódnak a spermiumok?\nHol fejlődnek a herék a magzati életben?\nHol termelődnek a spermiumok a herék szerkezetén belül?\nHol termelődik a tesztoszteron?\nHol helyezkedik el a prosztata?",
+      "question_type": "fill_in",
+      "correct_answer": "...a mellékherékben...\n...a hasüregben...\n...a herecsatornák falának hámjában...\n...a herék Leydig-féle sejtjeiben...\n...a húgyhólyag alatt...",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a meddőség lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "genetikus tényezők\nhormonális tényezők\nanyagcsere-betegségek\nkörnyezeti tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az endokrin rendszerre vonatkozó helyes megállapításokat!\n- A növekedési hormon a pubertás időszakában termelődik, kb. 21 éves korig.\n- A calcitonin csökkenti a vér kálciumszintjét.\n- Az FSH férfiaknál leállítja a herékben az ondósejtek képződését.\n- Az LH hatására indul meg a tejelválasztás a szülést követően.\n- Az LTH a szülés után megindítja és fenntartja az emlőmirigyben a tejelválasztást.\n- A parathormon hatása a calcitoninnal ellenkezű hatású.\n- A pajzsmirigy termeli az aldoszteront és a calcitonint.\n- Az oxitocin hatását terhesség alatt a magas progeszteronszint gátolja, ezért nem vált ki erős méhösszehúzódásokat.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A calcitonin csökkenti a vér kálciumszintjét.\nAz LTH a szülés után megindítja és fenntartja az emlőmirigyben a tejelválasztást.\nA parathormon hatása a calcitoninnal ellenkezű hatású.\nAz oxitocin hatását terhesség alatt a magas progeszteronszint gátolja, ezért nem vált ki erős méhösszehúzódásokat.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel az acromegalia lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a csontok végi részének megvastagodása\n- megnagyobbodott orr\n- megvastagodott ajak és fül\n- megerősödött állkapocs és szemöldökiv\n- előreugró áll\n- nagy, durva nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon négy jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sclerosis multiplex lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulás\nmozgászavar\nincontinentia\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!\n\nA. csiga\nB. kengyel\nC. ívjáratok\nD. dobüreg\nE. fülkürt\nF. Corti-szerv\n\nközépfül részei: ...\n\nbelső fül részei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "B., D., E....\nA., C., F....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- szürkehályog során a szem belnyomása emelkedik\n- a zöldhályog észrevétlenül kialakuló szembetegség\n- távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\n- heveny fülkürtgyulladás esetén jó hatású a hidegterápia alkalmazása\n- Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken\n- heveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\n- a psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat\n- az övsömör oka a bakteriális fertőződés",
+      "question_type": "multiple_choice",
+      "correct_answer": "távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\nheveny fülkürtgyulladás esetén jó hatású a hidegterápia alkalmazása\nheveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\na psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a testfelületekhez a 9-es szabály szerinti százalékos értékeiket!\nÍrja a sorszámok mellé a megfelelő betűjelet!\n1. két alsó végtag és a gáttájék\nA. 9%\n2. két felső végtag\nB. 27%\n3. fej\nC. 18%\n4. mellkas elöl és gáttájék\nD. 10%\n5. egy felső végtag és egy alsó végtag\nΕ. 37%",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-...C...., 3.-A..., 4.-...D...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_V_20250212_9h_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel az alacsony vércukorszint lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- émelygő éhségérzet\n- fejfájás\n- ideges feszültség\n- sápadtság, hideg verejtékezés\n- feszes pulzus\n- remegés\n- súlyos esetben eszméletvesztés",
+      "options": []
+    }
+  }
+]

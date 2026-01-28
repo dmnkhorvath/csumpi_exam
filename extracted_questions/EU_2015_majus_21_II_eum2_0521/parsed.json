@@ -1,0 +1,350 @@
+[
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a\ntáblázatot a megadott szempontok alapján!\n\n| az izom típusa | hol található | az izomműködés jellege, funkciója |\n|---|---|---|\n| simaizom |  |  |\n| harántcsíkolt izom |  |  |\n| szívizom |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az izom típusa | hol található | az izomműködés jellege, funkciója |\n|---|---|---|\n|  | a zsigeri szervek és erek falában | lassan húzódik össze, lassan fárad ki és kisebb erőkifejtésre képes, mint a vázizmok |\n|  | vázizmokban, amely a szervezet mozgásának aktív résztvevői | összehúzódása és elernyedése gyors, hamarabb kifárad, általában jelentősebb erőkifejtésre képes |\n|  | csak a szívben | működésére a rövid összehúzódás és az azt követő némileg hosszabb elernyedés jellemző |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a jóindulatú daganatok jellemzőit!\n- növekedése lassú\n- növekedése gyors\n- átszövi a környezetet, összenő vele\n- környezettől élesen elhatárolódik\n- sejtjei és szerkezete hasonlít a kiinduló szövet sejtjeihez\n- metasztázist okoz\n- kifekélyesedik\n- a kiújulása általában ritka\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "növekedése lassú\nkörnyezettől élesen elhatárolódik\nsejtjei és szerkezete hasonlít a kiinduló szövet sejtjeihez\na kiújulása általában ritka",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a spondylarthritis\nankylopoetica (SPA) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A csigolyák közötti kisízületek gyulladásos megbetegedése miatti\ndegeneratív elváltozás, mely végül a gerinc teljes merevedéséhez vezet.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul és írja le röviden a mozgásrendszert érintő alábbi sérülések lényegét!",
+      "question_type": "open",
+      "correct_answer": "repedés, szakadás - az izmok, inak, szalagok szakadása\nránulás - amikor erőbehatásra az ízületi fej elhagyja az ízületi árkot, de magától visszatér\nficam - amikor erőbehatásra az ízületi fej az ízületi árkon kívülre kerül, és magától nem tér vissza\ncsonttörés - amikor hirtelen erő behatásra (trauma) a csont folytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvérsejtek képzése?\n...\nHol történik a vörösvértestek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben...\na vörös csontvelőben...\na lépben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg az ABO - vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 | - |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A | anti B |\n| B | B | anti A |\n| AB | AB | - |\n| 0 |  | anti A, anti B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Ismertesse az orr – garatmandula feladatát!",
+      "question_type": "open",
+      "correct_answer": "helyi védekezés\nimmunvédekezés a lymphocyta termelés révén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\naz alábbiak szerint!\nLényege: a szívizomzat ék alakú elhalása\nOka: thrombus miatt a coronariaág elzáródása",
+      "question_type": "open",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szervezet gázcseréjének biztosítása, az oxigén felvétele és továbbítása, a szén - dioxid (CO2) leadása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Sorolja fel a gégét alkotó porcokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporcok\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül az orr feladatait!\n- belélegzett levegő előmelegítése, párásítása\n- belélegzett levegő mechanikus tisztítása\n- légúti reflexek központja\n- koponya súlyának csökkentése\n- hangok képzése\n- hangszalagok rögzítése\n- ízek érzékelése\n- szagok érzékelése\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "belélegzett levegő előmelegítése, párásítása\nbelélegzett levegő mechanikus tisztítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az\nalábbi betegségeket!\n\nHosszú időn át fennálló légzőszervi betegség (pl.: hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében a megváltozott\nnyomás hatására - a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale...\nlégmell (pneumothorax)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\nÍrja a tápanyagok számát a megfelelő helyre!\n\n1. víz felszívódása\n2. zsírok felszívódása\n3. nincs tápanyag felszívódás\n4. ásványi anyagok felszívódása\n5. szénhidrátok felszívódása\n6. fehérjék felszívódása\n\nGyomorban: ......\nVékonybélben: ......\nVastagbélben: ......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertessen a cukorbetegeknél előforduló alacsony\nvércukorszint (hypoglykaemia) kialakulásának okai közül\nkettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "a szükségesnél nagyobb mennyiségű inzulin adagolása\nelmarad az inzulin beadását követően a kellő mennyiségű szénhidrát\nfogyasztása\nintenzív fizikai munkavégzés, mely fokozza a szénhidrát felhasználását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Ismertesse a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "idegi szabályozás - a vese ereinek viselkedésére hat\nhormonális szabályozás - az ADH-hormon és az aldoszteron végzi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol keletkezik az elsődleges vizelet?\n\nHonnan indul ki a húgyvezeték (ureter)?\n\nHonnan indul ki a húgycső (urethra)?\n\nÉlettani körülmények között tartalmaz-e fehérjét a végleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben...\na vesemedencéből...\na húgyhólyagból...\nnem...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia okai közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "terhességi vesebaj (toxaemia)\nglomerulonephritis acuta\nnehézfémsók\ngombamérgezés\nvércsoport összeférhetetlenség\ngörcsös állapot (lázas eclampsia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\nMi a herezacskó szerepe?\nMi építi fel a hímvessző állományát?\nHol található a sárgatest?\nMi a széles méhszalag feladata?\nMennyi a spermiumok élettartama a női szervezetben?",
+      "question_type": "open",
+      "correct_answer": "...a hasüregben...\n...a herék működéséhez szükséges, a test hőmérsékleténél alacsonyabb\nhőmérséklet biztosítása...\n...három barlangos test...\n...a petefészek kéregállományában...\n...a méhet és a petefészket rögzíti...\n...1-2 nap...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség okai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nnemi szervek, elsősorban a méhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|  | Adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | Adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Sorolja fel a Basedow-kór (hyperthyreosis) tüneteit!\nÍrjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívverés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\nnyirkos tenyér-talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q025_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 1,
+      "question_text": "Ismertesse röviden a sclerosis multiplex lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az idegsejt myelinhüvelyének pusztulásával járó kórkép.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a binokuláris látás lényegét!",
+      "question_type": "open",
+      "correct_answer": "A látott tárgyról mindkét szemben külön-külön keletkezik kép,de a két szem\nösszehangolt működése révén egy látóérzet jön létre, így a tárgyakat két\nszemmel is egynek látjuk.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 2,
+      "question_text": "Soroljon fel az övsömör (herpes zoster) jellemzői közül kettőt /2/!\n- féloldalon deréktájon elhelyezkedő borsónyi hólyagok csoportja\n- az idegek lefutásának megfelelően jelenik meg (leggyakrabban a háti idegek mentén)\n- a hólyagok megjelenése előtti napokban az érintett terület már fájdalmas",
+      "question_type": "open",
+      "correct_answer": "féloldalon deréktájon elhelyezkedő borsónyi hólyagok csoportja\naz idegek lefutásának megfelelően jelenik meg (leggyakrabban a háti\nidegek mentén)\na hólyagok megjelenése előtti napokban az érintett terület már\nfájdalmas",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2015_majus_21_II_eum2_0521_q029_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges okait!\r\nÍrjon hármat - hármat /3-3/!\r\nLégzésmegállás lehetséges okai:\r\n- légútelzáródás\r\n- légköri levegő összetételének megváltozása\r\n- légzőközpont bénulás\r\n- mellkasfal összenyomódás\r\nKeringésmegállás lehetséges okai:\r\n- szívmegállás\r\n- kamraremegés\r\n- nagyfokú, gyors vérvesztés\r\n- súlyos, traumás agysérülés\r\n- anafilaxia",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont bénulás\nmellkasfal összenyomódás\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  }
+]

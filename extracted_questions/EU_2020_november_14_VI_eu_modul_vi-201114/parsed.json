@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szövetek típusait!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő-, és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján a fertőzés lefolyásának szakaszait!\n\nA fertőzés és a betegség kialakulása között eltelt idő:\n...\n\nAz általános tünetek megjelenésének szakasza:\n...\n\nA jellegzetes klinikai tünetek megjelenésének ideje:\n...\n\nA tünetek lezajlása után következő szakasz:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "lappangás (inkubáció)\nprodromalis (bevezető) szakasz\nkifejlődés (manifesztáció) szakasza\na lábadozás szakasza",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Írja le az alábbi betegségeket latinul!\n- tüdőgyulladás: ...\n- érelmeszesedés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "pneumonia\narteriosclerosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Nevezze meg magyarul a vállöv (függesztőöv) csontjait!",
+      "question_type": "fill_in",
+      "correct_answer": "kulcscsont\nlapockacsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. angolkór\nB. csonttörés\nC. gerincferdülés\nD. lúdtalp\n1. izomerő növelése, fűző viselése\n2. cipőbe helyezett betét, lábboltozat erősítése\n3. D-vitamin adása\n4. nyugalomba helyezés, rögzítés\nΑ.-........, В.-........, С.-........, D.-........\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3\n4\n1\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hasizmok funkciói közül hármat!",
+      "question_type": "open",
+      "correct_answer": "összehúzódás\naz állandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Egészítse ki a vércsoportokra vonatkozó táblázatot!\n| antigének a vörösvértestek felszínén | antitestek a vérszérumban | vércsoport |\n|---------|---------|---------|\n| - | anti-A, anti-B |  |\n| AB | - |  |\n| A | anti-B |  |\n| B | anti-A |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| antigének a vörösvértestek felszínén | antitestek a vérszérumban | vércsoport |\n|---------|---------|---------|\n|  |  | 0 |\n|  |  | AB |\n|  |  | A |\n|  |  | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a cor pulmonale (tüdő eredetű szívbetegség) négy jellemző\ntünetét!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés\n- légszomj\n- cianózis\n- dobverőujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a sinus bradycardia lehetséges okait!\n- láz\n- vírusfertőzések\n- csökkent pajzsmirigyműködés\n- hányinger, hányás\n- agynyomás fokozódása\n- kávé, tea fogyasztása\n- vérszegénység\n- idős kor\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csökkent pajzsmirigyműködés\nhányinger, hányás\nagynyomás fokozódása\nidős kor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megfelelő betegséghez! Irja a\nsorszámokat a megfelelő helyre!\n\n1. fogyás, rossz közérzet\n2. üvegszerű, tapadós köpet\n3. hosszan elnyúló, sípoló kilégzés\n4. véres köpet\n\ntüdőasztma: ...., ....\ntuberkulózis: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az epe?\nHol sűrűsödik be a májepe?\nMely tápanyagok bontása kezdődik a szájüregben?\nMely tápanyagok bontása kezdődik a gyomorban?",
+      "question_type": "fill_in",
+      "correct_answer": "...a májban...\n...az epehólyagban...\n...szénhidrátok...\n...fehérjék...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel az aranyérbetegség hajlamosító tényezői/lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- mozgásszegény életmód\n- salakszegény étrend\n- idült székrekedés\n- terhesség\n- nehéz tárgyak emelése\n- kismedencei daganatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Ismertesse a vese koncentrációs munkájának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Amikor a szervezettől megvonjuk a folyadékot, a vizelet besűrűsödik, mert a\nvesék kevesebb folyadékban választják ki ugyanazt a bomlástermék mennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Írjon le a pyelonephritis acuta lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "borzongás, hidegrázás, magas láz\nvesetájéki érzékenység\nkínzó és gyakori vizelési inger\nrossz közérzet\nhányinger, hányás\nzavaros, gennyes vizelet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Nevezze meg a veseműködés szabályozásának formáit!",
+      "question_type": "open",
+      "correct_answer": "idegi szabályozás\nhormonális szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a terhesség gyanújelei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "émelygés\nhányinger, hányás\nfokozott nyálelválasztás\nkedélyállapot-változás\negyes szagoktól undorodás\nhízás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a méhnyakrák jellemzőit, gyógyításának lehetőségeit!\nTünetei/jellemzői: Írjon hármat!\n-\n-\n-\n-\nGyógyításának lehetőségei: Írjon kettőt!\n-\n-\n-\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "eleinte semmilyen panaszt sem okoz\nfolyás\nvéres váladékozás\nközösülés után jelentkező vérzés\nműtét\nkemoterápia\nbesugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a mellékvese kéregállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- mineralokortikoidok (aldoszteron)\n- glükokortikoidok (kortizol)\n- androgén hormonok (férfi nemi hormonok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. remegés\n2. éhségérzet\n3. acetonszagú lehelet\n4. bőséges vizeletürítés\n5. bőr sápadt, verítékes, hideg\n6. a bőr száraz, meleg, piros\n\nMagas vércukorszint (hyperglykaemia) tünetei: ...., ...., ......\n\nAlacsony vércukorszint (hypoglykaemia) tünetei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 6.\n1., 2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Nevezze meg az idegrendszer két fő funkcionális részét!",
+      "question_type": "open",
+      "correct_answer": "szomatikus, akarattól függő, cerebrospinalis idegrendszer\nautonóm, akarattól független, vegetativ idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Egészítse ki az agyidegekkel kapcsolatos táblázat hiányzó részeit!\n\n| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|-----------------------------------|\n| I. agyideg        |                                   |\n| V. agyideg        |                                   |\n| XI. agyideg       |                                   |\n| III. agyideg      |                                   |\n| IX. agyideg        |                                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az agyideg száma | Az agyideg megnevezése magyarul |\n|--------------------|-----------------------------------|\n|                    | szaglóideg                        |\n|                    | háromosztatú ideg                 |\n|                    | járulékos ideg                    |\n|                    | szemmozgató ideg                  |\n|                    | nyelv-garat ideg                   |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Sorolja fel a tudat világosságának zavarait!",
+      "question_type": "open",
+      "correct_answer": "ködös állapot/delirium\nhomályállapot/tenebrositas\nGanser-tünetcsoport",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Írja le a normál szem látását jellemző két fogalom jelentését!\nKözelpont:\n...\nTávolpont:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "A legközelebbi pont, amelyről maximális akkomodációval éles kép keletkezik\naz ideghártyán....\nAz a legtávolabbi pont, ahonnan még a beeső sugarak az ideghártyán éles\nképet hoznak létre....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Sorolja fel az emlőt felépítő képleteket!",
+      "question_type": "open",
+      "correct_answer": "zsírszövet\nkötőszövet\nvérerek\nnyirokerek\ntejmirigyek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. horzsolt seb\nA. horgas, kampós eszköz\n2. csonkolt seb\nB. éles tárgy\n3. szakított seb\nC. gépek, sínen haladó járművek\n4. vágott seb\nD. súrlódás, esés, csúszás\n\n1.-...., 2.-...., 3.-...., 4.-....",
+      "question_type": "matching",
+      "correct_answer": "D, C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_VI_eu_modul_vi-201114_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 4,
+      "question_text": "Ismertesse a tömeges baleset fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Olyan esemény, amikor azonos helyen és időben, azonos baleseti mechanizmus, vagy egyéb azonos egészségkárosító tényező több személy sérülését, vagy betegségét okozza. Öt, vagy annál több személyt érintő eseményt tömegesnek kell tekinteni.",
+      "options": []
+    }
+  }
+]

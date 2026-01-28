@@ -1,0 +1,284 @@
+[
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő-és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg, hogy mit jelent a sporadikus\nmegbetegedés!",
+      "question_type": "open",
+      "correct_answer": "Egy járványveszélyes betegség (pl.: hastífusz) önmagában, térben és\nidőben elszigetelten, szórványosan fordul elő valahol.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi felsorolásból a jóindulatú daganatok jellemzőit!\n- növekedése lassú\n- növekedése gyors\n- átszövi a környezetet, összenő vele\n- környezettől élesen elhatárolódik\n- sejtjei és szerkezete hasonlít a kiinduló szövet sejtjeihez\n- metasztázist okoz\n- kifekélyesedik\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "növekedése lassú\nkörnyezettől élesen elhatárolódik\nsejtjei és szerkezete hasonlít a kiinduló szövet sejtjeihez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann - betegséget az alábbi\nszempontok szerint!\nA. A betegség megjelenésére jellemző életkor:\n...\nB. A betegség oka:\n...\nC. A betegség lényege: Írjon kettőt /2/!\n- \n- \n- \n*D. A betegség terápiája: Írjon kettőt /2/!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "serdülőkor...\nismeretlen...\na csigolyatest fejlődési zavarai\na csigolyatestek elkeskenyednek elvesztik szilárdságukat\na csigolyák ék alakúvá deformálódnak\ntorna\núszás\nfűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá a vörös csontvelő feladatait!\n- hézagpótló szerep\n- vörösvértestek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvértestek képzése\nlymphocyták képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot! Írja be a magyar, illetve a latin megfelelőt!\n\n|  |  |\n|---|---|\n| orr | nasus |\n| garat |  |\n|  | larynx |\n|  | trachea |\n|  | pulmo |",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|\n|  |  |\n|  | pharynx |\n| gége |  |\n| légcső |  |\n| tüdő |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes állításokat!\n- a vérnyomás értéke megegyezik az arteria brachialisban uralkodó nyomással\n- a systoles nyomás normál értékei: 130 -140 Hgmm\n- a dyastoles nyomás normál értékei: 75-90 Hgmm\n- a pulzust a vena radialison számoljuk\n- a pulzus száma megegyezik a szívösszehúzódások számával\n- a nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\n- a kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\n- a vénák oxigén dús vért szállítanak\n- a vér pH értéke: 7,34 – 7,42 között mozog\n- a vörösvértestek élettartama 220 nap\n(Csak a hat /6/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke megegyezik az arteria brachialisban uralkodó nyomással\na systoles nyomás normál értékei: 130 -140 Hgmm\na dyastoles nyomás normál értékei: 75-90 Hgmm\na pulzus száma megegyezik a szívösszehúzódások számával\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na vér pH értéke: 7,34 – 7,42 között mozog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "inzulin\nglükagon\nszomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Nevezze meg a szájüreg fejlődési rendellenességeit, és azok fennállása esetén jelentkező nehézségeket, problémákat!\nNehézségek/problémák: Írjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nyúlajak - ajakhasadék\nfarkastorok - szájpadhasadék\nszopási, táplálkozási nehézségek\nnyelési nehézség, képtelenség\nfogzási rendellenességek\nhangképzési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q013_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 8,
+      "question_text": "Válaszoljon a vesével kapcsolatos feladatokra!\nNevezze meg a vese működési egységét!\nIsmertesse a nephron részeit!\nÍrja le a tubulusok felépítését!",
+      "question_type": "open",
+      "correct_answer": "...a nephron...\nMalpighi-test\nglomerulus\nkanyarulatos csatorna\nBowman-tok\nelsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Csoportosítsa a vizelet mennyiségének zavaraihoz a zavart előidéző okokat! Írja a megfelelő csoporthoz az előidéző ok számát!",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q015_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 8,
+      "question_text": "Sorolja fel a külső és a belső férfi nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a férfi klimax jellemzőit! Írjon négyet/4/!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- potencia-és ejakulációs zavarok kísérik\n- fizikai teljesítőképesség csökken\n- jellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Soroljon fel a méhnyakrák diagnosztizálására alkalmas módszerek közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "kolposzkópos vizsgálat\nszövettani vizsgálat\nbimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|  | Adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | Adrenalin, noradrenalin hatása |\n|---------|---------|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Nevezze meg az agyvelő és gerincvelő burkait magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "kemény agyburok - dura mater\npókhálóhártya- arachnoidea\nlágy agyhártya - pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Egészítse ki a kóros elváltozásokra/hibás működésre vonatkozó táblázatot! Írja be a latin, illetve magyar megfelelőt!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n| atrophia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  | bénulás |\n|  | remegés (akarattól független) |\n|  | izomtónus fokozódás |\n|  | beszédzavar |\n|  | izomsorvadás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\ncsontos labirintus\nhallócsontok\nhártyás labirintus\ndobhártya\n(Csak a két /2/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": [
+        "dobüreg",
+        "csontos labirintus",
+        "hallócsontok",
+        "hártyás labirintus",
+        "dobhártya"
+      ]
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Ismertesse az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\n\nTünetei: Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2013_majus_10_II_F0664CDE-A0B9-228A-349B-28976A8C6433_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezze meg az égés (combustio) fokozatait és tüneteit, jellemzőit!\nÍrjon a fokozat mellé egy-egy /1-1/ tünetet, jellemzőt!\n- I. fokú égés- bőrpír, égő fájdalom, hám érintettség\n- II. fokú égés- hólyagok (bullák), égő, heves fájdalom, hám és\nirha egy része sérül\n- III. fokú égés-fájdalom hiánya, irha teljes mélysége sérül\n- IV. fokú égés - teljes elszenesedés, bőr alatti szövetállomány is\nsérül",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

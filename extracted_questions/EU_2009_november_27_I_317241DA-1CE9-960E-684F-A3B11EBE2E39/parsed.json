@@ -1,0 +1,423 @@
+[
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel az ízületek alkotórészei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "ízületi árok\nízületi tok\nízületi porc\nízületi szalagok\nízületi nedv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Ismertesse az alábbi fogalmak lényegét!\nHypoplasia: \nAtrophia: \nNecrosis:",
+      "question_type": "fill_in",
+      "correct_answer": "csökkent értékű fejlődés\nsorvadás, a sejtek állománya kevesbedik\nelhalás, szervek-szövetek-sejtek körülírt elpusztulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk\njellemző kóros légzéshanggal! Írja a számok mellé a\nhelyes válasz betűjelét!\n\n1. szörcsölő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű\n\nA. tüdőasztma\nB. tüdőödéma\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata\n\n1.- ...; 2.- ...; 3.- ...; 4.- ...",
+      "question_type": "matching",
+      "correct_answer": "B\nC\nA\nD",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseit!\nÍrjon mindegyikre egy-egy /1-1/ példát!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes összeköttetés pl.: koponya kutacsai\n- porcos összeköttetés pl.: medencecsont csontjai között\n- csontos összeköttetés pl.: korábbi kötőszövetes vagy porcos\nösszeköttetés elcsontosodása-keresztcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá az anyagcserezavar miatt kialakuló\nmozgásszervi betegségeket!\n- ferdenyak\n- köszvény\n- nyitott gerinc\n- angolkór\n- csontvelőgyulladás\n- csontritkulás\n(Csak a 3 helyes válasz aláhúzása fogadható el! Több válasz aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köszvény\nangolkór\ncsontritkulás",
+      "options": [
+        "ferdenyak",
+        "köszvény",
+        "nyitott gerinc",
+        "angolkór",
+        "csontvelőgyulladás",
+        "csontritkulás"
+      ]
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Ismertesse a Scheuermann-betegséget az alábbi\nszempontok szerint!\nA. Életkor, amelyben a betegség jelentkezik:\nB. A betegség oka:\nC. A betegség lényege:\n- csigolyatestek elkeskenyednek\nelvesztik szilárdságukat\nD. A betegség terápiája: /Írjon kettőt /2/!/\ntorna\núszás\n-",
+      "question_type": "open",
+      "correct_answer": "serdülőkorban\nismeretlen\nfűző",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Az „A-B\" részre: 0,5-0,5 pont; a „C-D\" részre: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Hol termelődnek a lymphocyták?\n- Hol történik a vörösvértestek képzése?\n- Hol történik a vörösvértestek lebontása?",
+      "question_type": "open",
+      "correct_answer": "- a nyirokrendszerben\n- a vörös csontvelőben\n- a lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q009_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 1,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges\nanyagok közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "vitaminok (B1, В12, С)\nvas\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hypovolaemiás shock okai közül hármat /3/! 3 pont",
+      "question_type": "open",
+      "correct_answer": "- vérzés\n- víz- és sóvesztés\n- nagyfokú hányás\n- hasmenés\n- izzadás\n- szomjazás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Húzza alá a gátor üregben (mediastinum) elhelyezkedő szerveket!\n- szív\n- tüdők\n- máj\n- aortaív ágai\n- hörgők\n- nyelőcső\n- fő nyirokér\n- bolygóideg (nervus vagus)\n- csecsemőmirigy\n- pajzsmirigy\n(Csak a hat helyes válasz aláhúzása esetén adható pont! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\ntüdők\naortaív ágai\nhörgők\nnyelőcső\nbolygóideg (nervus vagus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "A légutak középső és alsó részébe került idegen anyag és az\nott keletkezett váladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\n\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\n\nA szimpatikus idegrendszer hatása a légzésszámra:\n- csökken\n- emelkedik\n\nA paraszimpatikus idegrendszer hatása a bronchusokra:\n- szűkülnek\n- tágulnak",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\n\nnyúltvelő\n\nemelkedik\n\nszűkülnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket, illetve állapotokat a rájuk\njellemző kóros légzési formákkal! Írja a sorszám mellé\na megfelelő betűjelet!\n1. hyperglykaemiás kóma\n2. tüdőödéma\n3. idegrendszeri károsodás\nA. dyspnoe\nB. Cheyne-Stokes-légzés\nC. Kussmaul-légzés\n1.- ...; 2.- ...; 3.- ...",
+      "question_type": "matching",
+      "correct_answer": "C\nΑ\nΒ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Nevezze meg a fog ábrán látható részeit!",
+      "question_type": "fill_in",
+      "correct_answer": "...zománc...\n...dentin...\n...pulpa üreg...\n...gyökércsatorna...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegséggel! Írja a betűk mellé a megfelelő sorszámot!\n\nA. C-vitamin\nB. A- vitamin\nC. K-vitamin\nD. B₁- vitamin\nE. B12- vitamin\nF. D- vitamin\n\n1. angolkór\n2. skorbut\n3. farkasvakság\n4. vészes vérszegénység\n5. beriberi\n6. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "A.- ...2... B. ...3... C.- ...6... D.- ...5... E.-...4... F.- ...1...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a székrekedéshez (obstipációhoz) vezethető okok közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\ngyenge bél és hasfalizomzat\nülő életmód\nmozgáshiány\na székelési inger gyakori elnyomása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel a tubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "- elsődleges kanyarulatos csatorna\n- Henle-kacs\n- másodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Húzza alá azokat az anyagokat az alábbiak közül,\namelyeket a normál vizelet tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- fehérje\n- víz\n(Csak a hat helyes válasz aláhúzása fogadható el! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nurobilin\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez a megfelelő\ntüneteket! Írja a betegségek mellé a jellemző tünetek\nsorszámát!\n\n1. éles fájdalom a deréktájon\n2. szemhéj, arc, kéz ödémája\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. a fájdalom a comb belső oldalára, illetve a herékbe,\nvagy a nagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\n\nvesekövesség:\nglomerulonephritis acuta:",
+      "question_type": "matching",
+      "correct_answer": "...1, 4, 5...\n...2, 3, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését,\nfeladatát!",
+      "question_type": "open",
+      "correct_answer": "Részei:\n- méhfenék\n- méhtest\n- méhnyak (cervix)\n\nElhelyezkedése:\n- a kismedence közepén\n- a hólyag és a végbél között található\n\nFeladata:\n- a megtermékenyített petesejt befogadása\n- a petesejt-beágyazódás lehetőségének biztosítása\n- az embrió fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Írja le a rejtettheréjűség lényegét és gyógyítási\nlehetőségeit!\n\nLényege:\n- a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba,\n- a lágyékcsatornában tapinthatóak\n- a hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\n\nGyógyításának lehetőségei:\n- hormonkezelés végezhető 5-7 éves kor között\n- eredménytelenség esetén sebészi úton történő lehozataluk szükséges\na pubertás kor előtt\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a herék a magzati élet utolsó hetében nem szálltak le a herezacskókba,\na lágyékcsatornában tapinthatóak\n- a hiba rendszerint spontán rendeződik a növekedés során, de ha a\npubertás kezdetéig a herék nem szállnak le a herezacskóba, akkor\nsterilitás lehet a következménye\n\nhormonkezelés végezhető 5-7 éves kor között\neredménytelenség esetén sebészi úton történő lehozataluk szükséges\na pubertás kor előtt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ olyan betegséget, amely\nférfiaknál a húgycső felőli felszálló fertőzés következménye\nlehet!",
+      "question_type": "open",
+      "correct_answer": "- prosztatagyulladás\n- heregyulladás\n- mellékhere-gyulladás\n- vesemedence-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának a hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- adrenalin\n- noradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Ismertesse az antidiuretikus hormon (ADH) jellemzőit!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "- a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza\n(befolyásolja a szervezet só- és vízháztartását, és az ürített vizelet mennyiségét)\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatása miatt nevezik vazopresszinnek is, mert emeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Sorolja fel a Basedow-kór (hyperthyreosis) tüneteit!\nÍrjon hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "- kidülledt szemek\n- szapora szívverés\n- jó étvágy melletti fogyás\n- hasmenés\n- magas vérnyomás\n- állandó hőemelkedés\n- izgatottság (tenyér-talp verejtékes)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Írja le, hogy a gerincvelő egyes szarvai milyen típusú\nneuronokat tartalmaznak!\n\nhátsó szarv: ...\noldalsó szarv: ...\nelülső szarv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "érző neuronok...\nvegetativ neuronok...\nmozgató neuronok...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nSzerepe:\n\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "az idegrendszer támasztószövete\n\ngátat képez a véráram és az idegszövet határán\ncsak bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot - enged át\na vérből",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q028_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 0,
+      "question_text": "(Szerepére: 1 pont, feladatára: 2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q029_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 3,
+      "question_text": "Csoportosítsa a megadott betegségekhez az alábbiakban felsorolt tüneteket/állapotokat! Írja a megadott betegségekhez a tünetek/állapotok sorszámát!\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, „vadászkutyafekvés\"\n2. magas láz\n3. heves fejfájás 5. rángógörcs\n6. fénykerülés\n\nagyhártyagyulladás:\nepilepsziás nagyroham:",
+      "question_type": "fill_in",
+      "correct_answer": "...2, 3, 4, 6...\n...1, 5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- csontos labirintus\n- hallócsontok\n- hártyás labirintus\n- dobhártya\n(Csak a két helyes válasz aláhúzása fogadható el! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": [
+        "dobüreg",
+        "csontos labirintus",
+        "hallócsontok",
+        "hártyás labirintus",
+        "dobhártya"
+      ]
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q031_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.*",
+      "points": 2,
+      "question_text": "Ismertesse a bőr szerepét és jelentőségét feladatait!\nÍrjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "védelem a mechanikai hatásoktól\nhőszabályozás\nzsírraktározás\nérzékszerv (tapintás)\ngátolja a kórokozók szervezetbe jutását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q032_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 2,
+      "question_text": "Sorolja fel a szürke hályog (cataracta) kialakulásának lehetséges okait! Írjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "- terhesség alatti vírusfertőzés (veleszületett)\n- időskor\n- anyagcsere-betegségek\n- más szemelváltozás (szövődményes)\n- sérülés\n- sugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q033_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\r\nÍrjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\r\n- ügyetlenné vált mozgás\r\n- bénulások\r\n- beszédzavar\r\n- kipirult arc\r\n- zavart tudat\r\n- eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2009_november_27_I_317241DA-1CE9-960E-684F-A3B11EBE2E39_q034_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.*",
+      "points": 5,
+      "question_text": "Ismertesse a sebellátásra vonatkozó tilalmakat!\nÍrjon ötöt /5/!\n- sebbe nyúlni tilos\n- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- más által felhelyezett, szakszerű kötést eltávolítani tilos\n- a sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

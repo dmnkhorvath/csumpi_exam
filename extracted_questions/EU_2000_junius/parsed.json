@@ -1,0 +1,338 @@
+[
+  {
+    "file": "EU_2000_junius_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt /5/ a fogamzásgátlás módszerei közül!\n- naptár-módszer\n- megszakított közösülés\n- mechanikai módszerek (hüvelyi pesszárium, spermicid krém)\n- kémiai módszerek (krém, zselé - spermaölő hatással)\n- hormonális fogamzásgátlók\n- méhen belüli eszközök (IUD)\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q002_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen sérültet!\n- stabil oldalfekvésben",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik szívüregből indul ki az arteria pulmonalis?\n- jobb kamrából\nHol található a szívcsúcs lökés helye?\n- a test bal oldalán az 5. bordaközben\nMelyik szívüregből indul ki az aorta?\n- a bal kamrából\nMelyik billentyűk helyezkednek el a pitvar-kamrai határokon?\n- a vitorlás billentyűk\nHogyan nevezzük a szív ingerképző és ingerületvezető rendszerének\nirányító csomóját?\n- színusz (sinus) csomó\nHol található, mely testrészen az arteria carotis communis?\n- a nyakon",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg az ábrán jelölt csontokat!\n(Válaszát írja a számok mellé a pontozott vonalra!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Soroljon fel négy /4/ jellegzetes tünetet, amely\nvesemedence-gyulladásra utalhat!\n- láz\n- vesetáji érzékenység\n- sűrű vizelési inger\n- a vizelet zavaros, gennyes",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Válassza ki, mely anyagokat NEM tartalmazhat az\negészséges ember vizelete! Húzza alá a helyes válaszokat!\n- víz\n- NaCl\n- fehérje\n- karbamid\n- kreatinin\n- cukor\n- genny\n- húgysav\n- epefesték",
+      "question_type": "multiple_choice",
+      "correct_answer": "cukor\ngenny\nepefesték",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q007_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden, hogy mi a szerepe a gégefedőnek!\n- nyeléskor elzárja a gégebemenetet (így megakadályozza, hogy a",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a rájuk jellemző köpettel!\n(Írja fel az egymáshoz tartozó szám- és betűpárokat!)\n\n1./ gennyes\nA./ tüdőasztma\n2./ bőséges, szilvalészerű\nB./ tüdőtályog\n3./ üvegszerű, tapadós\nC./ tuberkulozis (TBC)\n4./ élénkpiros\nD./ tüdővizenyő",
+      "question_type": "matching",
+      "correct_answer": "1-... B ... 2-... D... 3-... A ... 4-... C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Ismertesse a vér (sanquis) szerepét!\n- tápanyaggal látja el a sejteket\n- oxigént és egyéb anyagokat szállít\n- a bomlástermékeket elszállítja a sejtekből\n- immunvédekezésben vesz részt\n- részt vesz a szervezet hőszabályozásában\n- a szervezet belső milliőjének állandóságát biztosítja",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Nevezze meg az égés egyes fokozatainak tüneteit!\nI. fokú égés: bőrpír, steril gyulladás\nII. fokú égés: bullák, heves fájdalom\nIII. fokú égés: kiterjedt és mélyebb, összefolyó hólyagok, könnyen\nmegnyílnak, alapjuk főtt húshoz hasonló\nIV. fokú égés: elszenesedés, durva pusztulás\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\nHol történik a vörösvértestek képzése?",
+      "question_type": "open",
+      "correct_answer": "- a nyirokrendszerben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Írjon három /3/ olyan okot, amely a vérrög (thrombus)\nkeletkezésében játszik szerepet!\n- az érbelhártya sérülése\n- a keringés lassulása\n- a vér összetételének megváltozása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiakban felsoroltak közül a máj\nfeladatait!\nepetermelés\nvizeletkiválasztás\nvérraktár\nepesavak termelése\nhőszabályozás\na magzati életben vérképzés",
+      "question_type": "open",
+      "correct_answer": "epetermelés\nvérraktár\nepesavak termelése\na magzati életben vérképzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Sorolja fel, hogyan történhet ma hazánkban a tüdő\nTBC (tuberculosis) megelőzése!\n(Nevezzen meg négy /4/ megelőzési módot!)\n- rendszeres tüdőszűrés (évente egyszer)\n- tisztasági (higiénés) szabályok betartása\n- védőoltások\n- fertőző források felkutatása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábrán látható számokkal jelölt belsőelválasztású mirigyeket magyarul!\n(Válaszát írja a számok mellé a pontozott vonalra!)\n1. tobozmirigy",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbiakban megadott szempontok szerint!\nlényege: a comb fejecs nem illeszkedik az ízvápába\ntünetei: (Írjon hármat /3/!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont, tünetekre: 0,5-0,5 pont, kezelésére: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Csoportosítsa az alábbiakban megnevezett kórfolyamatok okait! (Írja a csoportokhoz a megfelelő számot!)\n\n1. ülő életmód\n2. bélférgesség\n3. enterális fertőzés\n4. rostszegény táplálkozás\n5. vaskészítmények szedése\n6. funkcionális izgalom\n\nA. Hasmenés:\nB. Székrekedés:",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 6 ...\n1, 4, 5 ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol történik a peteérés?\n- a petefészekben\nMi az ovulatio?\n- tüszőrepedés\nHol termelődnek a hímivarsejtek?\n- a herékben\nHol helyezkedik el a prostata?\n- a húgyhólyag alatt",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Sorolja fel a vesék feladatát!\n- vizelet képzése\n- homeostasis fenntartása\n- vízben oldódó, hasznosíthatatlan anyagcseretermék\nkiválasztása a vérből",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Milyen elváltozás történik a szimpatikus és paraszimpatikus hatásra? Egészítse ki a táblázatot!\n\n|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| szív | teljesítménye fokozódik | teljesítménye csökken |\n| vérnyomás | emelkedik | csökken |\n| légzésszám | fokozódik | lassul |\n| gyomor-bélmozgás | lassul | fokozódik |\n| vércukorszint | emelkedik | csökken |\n| pupilla | tágul | szűkül |",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Rendezze a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! (Írja a megadott betegségekhez a\ntünetek sorszámát!)\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, \"vadászkutyafekvés\"\n2. magas láz\n5. rángógörcs\n3. heves fejfájás\n6. rövid légzésszünet áll be\n\nagyhártyagyulladás:\n\nepilepsias nagy roham:",
+      "question_type": "fill_in",
+      "correct_answer": "...2, 3, 4 ...\n...1, 5, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse röviden a heveny középfülgyulladást (otitis media acuta) az alábbiakban megadott szempontok szerint!\noka: felülfertöződés más orr-garat fertőzésektől, pl. coccusok\ntünetei:\n- hirtelen jelentkező szúró, lüktető fájdalom a fülben\n- fülzúgás\n- láz",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q024_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Az okára: 1 pont, tüneteire: 0,5-0,5 pont, a szövődményeire: 0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q025_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 8,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik hormon termelődése fokozott a megszületéskor\ngigantizmus esetén?\n- Somatotrop hormon (STH)\nMelyik a legjellegzetesebb elváltozás az arcon acromegalia esetén?\n- az orr megnagyobbodása\nMennyi lehet a napi vizelet mennyisége Diabetes inspidus esetén?\n- napi 3-20 liter\nHogyan nevezzük a szem jellegzetes elváltozását Basedow-kór esetén?\n- exsophtalmus (kidülledt szem)\nMilyen jellegzetességeket figyelhetünk meg egy myxoedemás\nbeteg arcán?\n- duzzadt, kifejezéstelen\nMilyen a bőre az Addison-kóros betegnek?\n- sötét (bronz színű) az egyébként is pigmentált helyeken\nMiért veszélyes a vér Ca tartalmának kóros csökkenése?\n- mert tetania keletkezik\nMelyik az a hormon, amely az emlőmirigyek működését és a\ntej kiürülését serkenti?\n- oxitocin",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Sorolja fel a szem fénytörő közegeit!\n- szaruhártya\n- csarnokvíz\n- szemlencse\n- üvegtest\n(Helyes válaszonként 0,5 - 0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Írjon a hashártyagyulladás tünetei közül ötöt /5/!\n- erős fájdalom\n- az egész has felett diffúz nyomásérzékenység\n- izomvédekezés\n- hányinger, hányás\n- meteorizmus\n- jellegzetes arc (Hippokratesi arckifejezés)\n- shock tünetei\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2000_junius_q028_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 5,
+      "question_text": "Nevezze meg, mely szervekben találhatóak az alább\nfelsorolt szervrészek!\n\nsugártest: - szem\nfélkörös ívjáratok: - fül\ncorti szerv: - fül\nízlelő bimbó: - ízlelőszerv (nyelv)\nverejtékmirigy: - bőr\n\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

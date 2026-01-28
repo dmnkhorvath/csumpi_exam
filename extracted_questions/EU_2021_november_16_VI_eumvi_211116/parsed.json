@@ -1,0 +1,301 @@
+[
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Ismertesse az aktív és a passzív immunizálás lényegét!\nAktív immunizálás: ...az immunizáció létrehozása érdekében \nelölt kórokozókat (antigént) juttatnak a szervezetbe védőoltások révén, amivel a\ntermészetes fertőzést próbálják utánozni, így serkentik a szervezet saját\nvédekezőképességét, amivel a fertőzések kivédhetővé válnak...\nPasszív immunizálás: ...a védőoltással már kész ellenanyagot (antitestet)\njuttatnak a szervezetbe, így hozzák létre az immunitást...",
+      "question_type": "open",
+      "correct_answer": "gyengített, vagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA fertőzéstől a betegség kialakulásáig tartó szakasz:\n- lappangási szakasz\n- bevezető szakasz\nA jellegzetes klinikai tünetek megjelenése, amelyek alapján felállítható a kórisme:\n- kimeneteli szakasz\n- kifejlődés szakasza\nA kórfolyamatok kialakulásának mechanizmusa, kórfejlődés:\n- patogenezis\n- prodromalis szak\nCsoportosítja a betegségeket kiváltó tényezőket, leírja a kórokok jellemzőit és az általuk kiváltott betegségek jellegét:\n- etológia\n- etiológia\nA szöveti sejtek számukban való gyarapodása:\n- hyperplasia\n- hypertrophia\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási szakasz\nkifejlődés szakasza\npatogenezis\netiológia\nhyperplasia",
+      "options": [
+        "lappangási szakasz",
+        "bevezető szakasz",
+        "kimeneteli szakasz",
+        "kifejlődés szakasza",
+        "patogenezis",
+        "prodromalis szak",
+        "etológia",
+        "etiológia",
+        "hyperplasia",
+        "hypertrophia"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Sorolja fel a hasizmok fajtáit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a gerincferdülés kezelésének lehetőségeit! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- izomerő növelése úszással\n- a görbület korrekciója gyógytornával\n- manuális medicina (fűző)\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a fehérvérsejt fajtáihoz jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. monocyták\n2. T-lymphocyták\n3. agranulocyták\n4. B-lymphocyták\n5. neutrophil granulocyták\n\nA. ellenanyagokat, immunglobulinokat termelnek\nB. a plazmájukban nincsenek szemcsék\nC. a legnagyobb fehérvérsejtek, magvuk nagy, bab alakú, fagocitáló\nképességűek\nD. fagocitózisra nem képesek, a beültetett transzplantátum kilökődéséért\nfelelősek\nE. a szervezetbe került baktériumokat felismerik és fagocitálják\n\n1.-......, 2.-......, 3.-......, 4.-......, 5.-......",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...B...., 4.-...A..., 5.-...Ε....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a lúdtalp kialakulásának lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- korai járatás gyermekkorban\n- hirtelen testsúlynövekedés\n- túlterhelés (pl. álló foglalkozásúaknál)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a tüdővizenyő lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "súlyos dyspnoe\nköhögés, és szörcsögő légzés\nszapora, alig tapintható pulzus\nhideg verítékezés\ncianózis\n„szilvalészerű” köpetürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszerre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. a hörgőcskék végén találhatóak a léghólyagok, melyek szőlőfürtszerűen\nrendeződnek el\n2. a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n3. a tüdő lebenyekre tagolódik, a jobb tüdő három lebenyből, a bal tüdő pedig\nkét lebenyből áll\n4. a légzőközpont az agytörzs területén található\n5. a légzést akaratlagosan nem tudjuk szabályozni\n6. a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja\n\nIgaz állítás: ...\nHamis állítás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.\n2., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Ismertesse a nátha lényegét és lehetséges tüneteit!\nLényege:\nTünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...az orrnyálkahártya heveny gyulladása...\nhig orrváladék ürülése\ngyakori tüsszentés\nlégzés szájon keresztül\nfejfájás\nhőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a salmonellosisra vonatkozó helyes megállapításokat!\n- oka vírusfertőzés\n- bakteriális eredetű megbetegedés\n- lappangási ideje 6-10 nap\n- lappangási ideje 12-48 óra\n- jellemző tünetei a görcsös hasi fájdalom, láz, hasmenés\n- jellemző tünete a nagy tömegű, zsíros fényű, bűzös széklet ürítése\n- a fertőzés átvészelése életre szóló védettséget ad\n- a fertőzésen átesettek kórokozó-hordozókká válhatnak\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "bakteriális eredetű megbetegedés\nlappangási ideje 12-48 óra\njellemző tünetei a görcsös hasi fájdalom, láz, hasmenés\na fertőzésen átesettek kórokozó-hordozókká válhatnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Párosítsa a vitaminokhoz legfőbb étrendi forrásaikat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. C-vitamin\n2. D-vitamin\n3. A-vitamin\n4. B6-vitamin\n5. B₁-vitamin\n\nA. gabonamagvak héja, máj, hús\nB. csipkebogyó, zöld növények, gyümölcsök\nC. hús, olajos magvak, élesztő, tej\nD. halmáj, tojássárgája, tej, vaj\nE. máj, tej, sárgarépa, sütőtök",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...D...., 3.-...E., 4.-C., 5.-..A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó- és elvezető rendszer képleteinek latin, vagy\nmagyar megfelelőjét! Egészítse ki a táblázatot!\n\n| A vizeletkiválasztó- és elvezető rendszer képletei |  |\n|---------|---------|\n| magyarul | latinul |\n| vese |  |\n| húgycső |  |\n| vese kapu |  |\n| húgyvezeték |  |\n| húgyhólyag |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| A vizeletkiválasztó- és elvezető rendszer képletei |  |\n|---------|---------|\n|  | ren |\n|  | urethra |\n|  | hilus renalis |\n|  | ureter |\n|  | vesica urinaria |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a pyelonephritis acuta lehetséges okait és gyógyításának\nlehetőségeit!\n\nKialakulásának lehetséges okai: Írjon kettőt!\n- felszálló fertőzés\n- véráram útján történő fertőzés (hematogén fertőzés)\n- a nyirokutak közvetítésével a bélcsatornából bejutott kórokozók\n\nGyógyításának/kezelésének lehetőségei: Írjon hármat!\n- a lázas időszakban ágynyugalom biztosítása\n- bőséges folyadékbevitel\n- antibiotikumos kezelés\n- a vizeletpangást okozó elváltozás megszüntetése\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "felszálló fertőzés\nvéráram útján történő fertőzés (hematogén fertőzés)\na nyirokutak közvetítésével a bélcsatornából bejutott kórokozók\na lázas időszakban ágynyugalom biztosítása\nbőséges folyadékbevitel\nantibiotikumos kezelés\na vizeletpangást okozó elváltozás megszüntetése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Nevezze meg magyarul a férfi belső nemi szerveket!",
+      "question_type": "fill_in",
+      "correct_answer": "- here\n- mellékhere\n- ondóvezeték\n- ondózsinór\n- ondóhólyag\n- dülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a Chlamydia-fertőzés tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "vizeléskor égő érzés\nnőknél vízszerű folyás\nférfiaknál nyákos húgycsőfolyás\nalhasi fájdalom\nízületi panaszok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMi gátolja a terhesség alatt az oxitocin hatását?",
+      "question_type": "open",
+      "correct_answer": "...a magas progeszteronszint...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a mellékpajzsmirigy csökkent működésének lehetséges\nokai közül!",
+      "question_type": "open",
+      "correct_answer": "- a mellékpajzsmirigy hiánya\n- a szerv nem megfelelő működése\n- a szerv szövetének pusztulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Írja le az acromegalia lényegét!",
+      "question_type": "open",
+      "correct_answer": "A növekedési hormon a növekedés befejeződése után túlzottan termelődik, és mivel a testméretek már nem tudnak változni, ezért a csontok deformálódnak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. hypothalamus\n2. nyúltvelő\n3. hálózatos sejtrendszer (formatio reticularis)\n4. híd\n5. thalamus\n\nagytörzs: ...\n\nköztiagy: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt az agytályog kialakulásának lehetséges okai közül!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "középfülgyulladás szövődménye\naz orrmelléküregek gyulladásainak közvetlen átterjedése\nkoponya-, és agytraumák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Írja le a rühességgel (scabies) kapcsolatos ismereteit a megadott\nszempontok szerint!\nLényege:\nTerjedési módja:\nLegjellemzőbb tünetei:",
+      "question_type": "open",
+      "correct_answer": "...A bőrben élősködő rühatka a bőr felső rétegébe fúrt járatokba teszi le petéit,\namik néhány napon belül kikelnek....\n...Közvetlen érintkezéssel emberről emberre, testi kontaktus útján terjed....\nvakarási nyomok a testhajlatokban, övtájékon\nfinom zegzugos vonalrajzolat, apró járatok a bőrben\nelsősorban éjszaka jelentkező kínzó, heves viszketés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- érhártya\n- szivárványhártya\n- sugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Állítsa sorrendbe a szájból-szájba lélegeztetés menetét! Írja a sorszámokat\na pontozott vonalakra!\n...____ a száj kinyitása, 2 befúvás elvégzése\n...____ a mellkas mozgásának ellenőrzése\n...____ mellkaskompresszió után a fej hátrahajtása, az áll kiemelése\n...____ az orrnyílás zárása\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n4\n1\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_VI_eumvi_211116_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Egészítse ki a sebekkel kapcsolatos táblázat hiányzó részeit!\n\n| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott |  | ritka/kicsi | kicsi |\n| horzsolt | kicsi |  |  |\n| metszett |  | ritka/kicsi | kicsi |",
+      "question_type": "fill_in",
+      "correct_answer": "| A seb fajtája | Vérzés mennyisége | Fertőzésveszély foka | Fájdalom mértéke |\n|---|---|---|---|\n| vágott | bőséges |  |  |\n| horzsolt |  | nagy | nagy |\n| metszett | bőséges |  |  |",
+      "options": []
+    }
+  }
+]

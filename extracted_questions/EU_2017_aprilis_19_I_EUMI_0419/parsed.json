@@ -1,0 +1,299 @@
+[
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbiakban felsorolt hormonokat\ntermelődésük helye szerint!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n\n1. progeszteron\n2. inzulin\n3. glükagon\n4. tiroxin\n5. kalcitonin\n\nhasnyálmirigy: ...., .... \npajzsmirigy: ...., .... \npetefészek: .....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n4., 5.\n1.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja az alábbi latin kifejezések mellé a magyar\njelentésüket!\nhypertrophia: ...\natrophia: ...\nnecrosis: ...\nhypoplasia: ...",
+      "question_type": "fill_in",
+      "correct_answer": "túltengés\nsorvadás\nelhalás\ncsökkent értékű fejlődés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nKinek a szervezetében termelődhet anti-D ellenanyag?\n...\nMi a nyirok?\n...\nHová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?\n...",
+      "question_type": "open",
+      "correct_answer": "Azoknak az Rh-negatív egyéneknek a szervezetében, akiknek D-antigén\njutott a vérükbe valamilyen okból. ...\nA nagyvérkör kapillárishálózatának területén képződő folyadék, amely a\nvérplazmából származik. ...\n...A bal vénás szögletben a vénákba ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal!\nÍrja a meghatározásokhoz a helyes válasz sorszámát!\n\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA csigolyaívek záródásának hiánya: ......\nA csontok szervetlen és szerves állományának csökkenése: ......\nAz ízületi porc kopása: ......\nD-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba:\n........",
+      "question_type": "fill_in",
+      "correct_answer": "...3....\n...1....\n...4....\n...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Soroljon fel a tüdőgyulladás (pneumonia) lehetséges\ntünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "magas, nehezen csillapítható láz, vagy teljes láztalanság\nszapora, nehezített légzés\nmellkasi fájdalom\nhátfájdalom\nfejfájás\nszapora pulzus\nköhögés (improduktív, produktív)\ngyengeség, levertség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Indokolja meg röviden, miért nem bontja a zsírokat a\ngyomorban lévő lipáz enzim!",
+      "question_type": "open",
+      "correct_answer": "A gyomorban savas a vegyhatás, a lipáz pedig csak lúgos közegben fejti ki\nhatását.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\nnyelőcső\naortaív ágai",
+      "options": [
+        "szív",
+        "tüdők",
+        "hörgők",
+        "nyelőcső",
+        "pajzsmirigy",
+        "aortaív ágai"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő 5 pont\nkórképhez!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\nBalszívfél-elégtelenség: ... , ,...\nJobbszívfél-elégtelenség: ... , ,....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.,\n1., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi vesebetegségek lényegét!\n\nKrónikus urémia:\n\nVesekövesség:\n\n(Helyes válaszonként 2-2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A veseállomány pusztulása következtében a csökkent vagy működésképtelen\nvesefunkciók krónikus állapot kialakulásához vezetnek.\n\nA vese üregrendszerében különböző oldott sók kő formájában kicsapódnak,\ninnen a húgyvezetékbe, illetve a húgyhólyagba jutva akadályozhatják, vagy\nteljesen elzárhatják a vizelet útját.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyeket a normál vizelet NEM tartalmaz!\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- fehérje\n- víz\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor\nfehérje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő\nbetegségekkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. C-vitamin\n2. A-vitamin\n3. K-vitamin\n4. B₁-vitamin\n5. B12-vitamin\n6. D-vitamin\nA. angolkór\nB. skorbut\nC. farkasvakság\nD. vészes vérszegénység\nE. beriberi\nF. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-C., 3.-F...., 4.- ...E..., 5.-...D...., 6.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q014_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 8,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és\nlelökődésének fázisait magyar és latin kifejezésekkel!",
+      "question_type": "open",
+      "correct_answer": "újraképződés - regeneratio/regeneráció\nnövekedés – proliferatio/proliferácio\nelválasztás – secretio/szekréció\nlelökődés - menstruatio/menstruáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő\nbetegséghez! Írja a betegségek mellé a helyes\nválasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, \"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham:: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4., 6.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "- a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a szervezet só- víz háztartását és az ürített vizelet mennyiségét)\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Soroljon fel a zöldhályog tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "a szem belső nyomása kórosan emelkedett\nlátásélesség romlása\nlátótérkiesés\nfejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertessen öt fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Nevezze meg a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach - kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Sorolja fel a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_I_EUMI_0419_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a jóindulatú daganatokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "papilloma\nlipoma\nmyoma",
+      "options": [
+        "papilloma",
+        "sarcoma",
+        "lipoma",
+        "myoma",
+        "carcinoma",
+        "osteoma",
+        "leukaemia",
+        "lymphoma"
+      ]
+    }
+  }
+]

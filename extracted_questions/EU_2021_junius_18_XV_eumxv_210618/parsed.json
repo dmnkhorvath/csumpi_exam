@@ -1,0 +1,303 @@
+[
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladások klasszikus tüneteit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- bőrpír\n- duzzanat\n- melegség\n- fájdalom\n- működészavar/funkciókárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Soroljon fel a kötőszövet feladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- kitölti az egyes szervek közti tereket\n- összeköti a szerveket\n- védelmet nyújt a mechanikai ártalmakkal szemben\n- védelmet nyújt a kémiai ártalmak ellen\n- védelmet nyújt a fertőzések ellen\n- védelmet nyújt az idegen anyagok lerakódása ellen\n- zsírt tárol",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa az izmokat jellemzőjükkel! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. felkarizom\n2. hasizom\n3. a láb izmai\n\nA. főleg széles, lapos izomból áll\nB. rövid kicsi izmokból áll\nC. feszítőizma a musculus triceps",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-..A..., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a reumás láz lényegét és lehetséges tüneteit!\nLényege:\n...általában hetekkel korábban lezajlott gyulladás (pl. mandulagyulladás) után\njelentkező betegség...\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "láz\nfejfájás\nizzadás\na nagyízületek fájdalmas gyulladása\nerős mellkasi fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse\nki a táblázatot!\n\n| Anatómiai képletek |\n|---------|---------|\n| magyarul | latinul |\n| szívsövény |  |\n|  | tonsilla |\n| gátorüreg |  |\n|  | sanguis |\n| szívbillentyűk |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |\n|---------|---------|\n| magyarul | latinul |\n|  | septum cordis |\n| mandula |  |\n|  | mediastinum |\n| vér |  |\n|  | valvulae |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat a visszértágulatok (varix, varicositas) kialakulására\nhajlamosító tényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- öröklődés\n- életmód\n- foglalkozás (pl. ápolónő, fodrász, pincér)\n- nem (pl. nőknél gyakoribb)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orrmelléküregek feladatait!\n- a belégzett levegő előmelegítése\n- oxigéncsere\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- hangok képzése\n- szagok érzékelése\n- légnyomás biztosítása\n- a belégzett levegő hűtése\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 6,
+      "question_text": "Ismertesse a gégevizenyő lehetséges okait és tüneteit!\nOkai: Írjon kettőt!\n- maró gázok, gőzök belégzése\n- rovarcsípés\n- a gége sérülése, gyulladása\nTünetei: Írjon négyet!\n- gyorsan fokozódó fulladásérzés\n- gégetáji nyelési fájdalom\n- sípoló belégzés\n- rekedtség\n- szederjes bőr",
+      "question_type": "open",
+      "correct_answer": "maró gázok, gőzök belégzése\nrovarcsípés\na gége sérülése, gyulladása\ngyorsan fokozódó fulladásérzés\ngégetáji nyelési fájdalom\nsípoló belégzés\nrekedtség\nszederjes bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0",
+      "points": 1,
+      "question_text": "A következők közül melyik nem a szív ingerképző-ingervezető rendszerének része?",
+      "question_type": "multiple_choice",
+      "correct_answer": "His-köteg",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak",
+        "Purkinje-rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. tripszin\n2. amiláz\n3. kimozin\n4. nukleáz\n5. pepszin\nhasnyál enzimjei: ...\ngyomornedv enzimjei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....\n3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorrák lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- étvágytalanság\n- gyors fogyás\n- teltségérzés\n- húsundor\n- gyomortáji fájdalom\n- vérszegénység (rejtett vérzés következtében)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\nΑ.-......, В.-......, С.-......, D.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "3, 1, 2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a vesék feladatát, szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sók kiürítése\n- a vízben oldható hasznosíthatatlan anyagok kiürítése\n- a só-, és vízháztartás szabályozása\n- a homeosztázis fenntartása\n- hormontermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Írja le a rejtettheréjűség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a hasüregben maradnak, vagy a lágyékcsatornában tapinthatóak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. menstruáció elmaradása\n2. bővebb hüvelyváladék\n3. hányinger, hányás\n4. pozitív terhességi teszt\n5. kedélyállapot változás\n6. fokozott nyálelválasztás\n\nA várandósság valószínűségi jelei: ...\nA várandósság gyanújelei: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\nHol termelődik a timozin?\n- a hypophysisben\n- a csecsemőmirigyben\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csecsemőmirigyben\na melatonint",
+      "options": [
+        "a hypophysis hátsó lebenyében",
+        "a hypophysis elülső lebenyében",
+        "a hypophysisben",
+        "a csecsemőmirigyben",
+        "a melatonint",
+        "az ösztrogént"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Sorolja fel az inger feltételes ingerré válásának feltételeit!",
+      "question_type": "open",
+      "correct_answer": "- az inger felvételére alkalmas receptorok\n- a feltételes inger alkalmazásának egybe kell esnie a feltétlen ingerrel, vagy meg kell előznie azt (megerősítés)\n- megfelelő számú társításnak kell történnie",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a diabetes insipidus megbetegedés lényegét és tüneteit!\nA betegség lényege: Az antidiuretikus hormon (ADH) termelődésének\ncsökkenése, vagy hiánya következtében kialakuló anyagcsere-betegség.\nJellemző tünetei:\n1. ...olthatatlan szomjúságérzés...\n2. ...nagy mennyiségű folyadékfogyasztás...\n3. ...alacsony sűrűségű, nagy mennyiségű vizelet ürítése...",
+      "question_type": "open",
+      "correct_answer": "antidiuretikus hormon (ADH) termelődésének\ncsökkenése, vagy hiánya következtében kialakuló anyagcsere-betegség.\nolthatatlan szomjúságérzés...\nnagy mennyiségű folyadékfogyasztás...\nalacsony sűrűségű, nagy mennyiségű vizelet ürítése...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\n- agnózia: ...\n- afázia: ...\n- rigor: ...\n- akinézis: ...",
+      "question_type": "open",
+      "correct_answer": "az érzékelt tárgyak, vagy lények fel nem ismerése, a felismerés, a megismerés zavara...\nbeszédzavar, a beteg nem tudja gondolatait szóban, vagy írásban kifejezni...\njellemző izomtónus-fokozódás az extrapiramidális rendszer megbetegedéseinél...\na mozgástevékenység korlátozottsága, vagy hiánya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Határozza meg a reflexív fogalmát!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a könnymirigygyulladás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- duzzadt és vörös felső szemhéj\n- nagymértékű könnyezés\n- gennyképződés\n- fájdalom\n- nyomásérzékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg a bőr járulékos részeit!",
+      "question_type": "open",
+      "correct_answer": "szőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor közlendő információkat/adatokat!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai (név, telefonszám)\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e egyéb segítség (pl. műszaki mentés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_18_XV_eumxv_210618_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Nevezze meg a légzés- és keringésmegállás lehetséges okait! Írjon hármat-\nhármat!\nLégzésmegállás lehetséges okai:\n- \n- \n- \n- mellkasfal összenyomódása\nKeringésmegállás lehetséges okai:\n- \n- \n- \n- súlyos, traumás agysérülés",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés",
+      "options": []
+    }
+  }
+]

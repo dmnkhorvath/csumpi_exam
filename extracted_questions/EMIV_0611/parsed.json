@@ -1,0 +1,312 @@
+[
+  {
+    "file": "EMIV_0611_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. spirométer\n2. H2-kilégzési teszt\n3. EKG\n4. EEG\n5. biopszia\nA. légzésfunkció\nB. a szív elektromos aktivitása\nC. laktózérzékenység\nD. agyi elektromos tevékenység\nE. szövetmintavétel",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-C., 3.-...B...., 4.-...D...., 5.-...E....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a sejthártya funkciói közül!",
+      "question_type": "open",
+      "correct_answer": "- elválasztja a sejtet a körülötte lévő tértől\n- biztosítja a sejt védelmét\n- fenntartja a sejt alakját\n- részt vesz az anyagcsere folyamatokban\n- szerepe van az ingerületvezetésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\n\nMelyik szervet nevezzük primer limfoid szervnek, amely a lymhocyták\nműködését is befolyásolja?\n...\n\nHogyan nevezzük a magban kezdődő direkt sejtosztódást?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "...a thymust/a csecsemőmirigyet...\n...amitózis...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel az arckoponya csontjai közül négyet magyarul!",
+      "question_type": "open",
+      "correct_answer": "- felső állcsont\n- járomcsont\n- rostacsont\n- orrcsont\n- állkapocs\n- ekecsont\n- könnycsont\n- szájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari csomó",
+        "sinuscsomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EMIV_0611_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a Scheuermann-féle betegséget az alábbi szempontok szerint!\n\nA betegség lényege:\n...\n\nPanaszok, lehetséges tünetek: Írjon hármat!\n- \n- \n- \n- \n- \n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n- \n- \n-",
+      "question_type": "open",
+      "correct_answer": "a csigolyatestek elkeskenyednek, elvesztik szilárdságukat...\na hát fájdalmas fáradékonysága\na háti szakasz fokozott görbülete\na hát merevsége\nmozgáskorlátozottság\na terhelhetőség csökkenése\ngyógytorna\núszás\nfűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul a szív saját ereit (szívizmot ellátó erek)!",
+      "question_type": "fill_in",
+      "correct_answer": "- arteria coronaria dextra\n- arteria coronaria sinistra\n- sinus coronarius",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\na coronaria keringési zavarai\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol helyezkednek el a hangszalagok?\n...\nA garat mely szakaszába nyílik a fülkürt?\n...\nHol található a belégző és kilégző központ?\n...\nHány lebenyből áll a jobb tüdő?\n...\nMi a gégefedő feladata?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a pajzsporc és a kannaporcok között\naz orri szakaszba\na nyúltvelőben\nhárom\nnyeléskor zárja a gégebemenetet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Írjon le a tüszős mandulagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nyeléskor erősödő fájdalom\n- magas láz, hidegrázás\n- a garatképletek nyálkahártyája vörös\n- a mandula lepedékes\n- a nyelv bevont\n- kellemetlen szájszag",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EMIV_0611_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. magnézium\n2. cink\n3. szelén\n4. nátrium\n5. vas\n6. kalcium\n\nmikroelemek: ...., ...., .....\n\nmakroelemek: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5.\n1., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a vörösvérsejtek fokozott szétesése miatt kialakuló sárgaság\nlehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- helytelen vércsoportú transzfúzió adása\n- mérgezések\n- baktériumfertőzések\n- anyai-magzati vér Rh-inkompatibilitása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze az elsődleges és a végleges vizelet jellemzőit a megadott\nszempontok alapján! Töltse ki a táblázatot!\n\n| Szempont | Elsődleges vizelet | Végleges vizelet |\n|---|---|---|\n| Mennyisége |  |  |\n| Fajsúlya |  |  |\n| Fehérjét tartalmaz? |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempont | Elsődleges vizelet | Végleges vizelet |\n|---|---|---|\n| Mennyisége | 160-180 liter/nap | 1-1,5 liter/nap |\n| Fajsúlya | 1010 g/l | 1020-1025 g/l (1001–1040) |\n| Fehérjét tartalmaz? | nem | nem |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vesekelyhek a vesemedencébe torkollanak.\n- A vese a hasüreg elülső alsó részében helyezkedik el.\n- A vesekapun a veseartéria belép, a vesevéna pedig kilép.\n- Anatómiailag a vesét három nagy részre oszthatjuk.\n- A vesekapun a vesevéna belép, a veseartéria pedig kilép.\n- A vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vesekelyhek a vesemedencébe torkollanak.\nA vesekapun a veseartéria belép, a vesevéna pedig kilép.\nA vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Párosítsa a menstruációs ciklus fázisait az időtartamukkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n1. menstruáció\n2. regeneráció\n3. szekréció\n4. proliferáció\n\nA. kb. 2-3 nap a menstruációt követően\nB. kb. 3-5 nap\nC. kb. 10 nap\nD. a ciklus 14. napja",
+      "question_type": "matching",
+      "correct_answer": "1.-...B....,\n2.-...Α....,\n3.-...C...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hererákbetegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a here tapintatának megváltozása\n- csomók megjelenése a herében\n- tompa fájdalom az alhasban vagy az ágyékban\n- folyadékgyülem a herében\n- here megnagyobbodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Egészítse ki a Langerhans-szigetek sejtjeivel és hormonjaival kapcsolatos\ntáblázat hiányzó részeit!\n\n| Langerhans-szigetek |\n|---------|---------|\n| sejtjei | hormonjai |\n| α-sejtek |  |\n| β-sejtek |  |\n\nA hormonok hatása*\nÍrjon kettőt-kettőt!",
+      "question_type": "fill_in",
+      "correct_answer": "| Langerhans-szigetek |\n|---------|---------|\n| sejtjei | hormonjai |\n|  | glükagon |\n|  | inzulin |\n\n- az inzulinnal ellentétes hatású, növeli a\nvércukorszintet\n- mozgósítja a májban tárolt glükogént\n- elősegíti a glükogén lebontását\n\n- szabályozza a szénhidrátok, fehérjék és\nzsírok anyagcseréjét\n- a sejtekbe juttatja a cukrot\n- csökkenti a vércukorszintet",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a tünetek alapján a betegségeket!\n- Tünetek: a csontok végi része megvastagodott, nagy orr, megvastagodott ajak\nés fül, erős állkapocs, hosszú ujjak, mély hang.\nA betegség neve: ...\n- Tünetek: zsírlerakódás a törzsön, a hát felső részén, nagy, kerek arc\n(holdvilágarc), vékonynak tűnő végtagok, kékeslilás csíkok (striák) a hason,\nvállon, felkaron, vagy a combon.\nA betegség neve: ...\n- Tünetek: bő vizelés, napi 3-20 1, alacsony sűrűségű vizelet, olthatatlan\nszomjúságérzés, sok folyadék fogyasztása.\nA betegség neve: ...",
+      "question_type": "fill_in",
+      "correct_answer": "acromegalia...\nCushing-szindróma...\ndiabetes insipidus...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Húzza alá az idegrendszerre vonatkozó helyes megállapításokat!\n- A hallás kérgi központja a halántéki lebenyben helyezkedik el.\n- A látóközpontok a nyúltvelőben találhatóak.\n- A gerincvelőt egy rétegű burok veszi körül.\n- Az agytörzset a nyúltvelő, a híd és a középagy alkotja.\n- Az idegsejtek csak egynyúlványúak lehetnek.\n- A neuroglia az idegszövet sejtközötti állománya, az idegrendszer támasztó\neleme.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A hallás kérgi központja a halántéki lebenyben helyezkedik el.\nAz agytörzset a nyúltvelő, a híd és a középagy alkotja.\nA neuroglia az idegszövet sejtközötti állománya, az idegrendszer támasztó\neleme.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a koponyaalap sérüléseihez! Írja a\nsorszámokat a megfelelő helyre!\n1. liquor és vércsurgás az orrból\n2. liquor és vércsurgás a garatban\n3. liquor és vércsurgás a fülből\n4. vérömleny a tarkón\n5. pápaszem-haematoma\n6. vérömleny a fül mögött\nelülső scala törése: ...1., 5....\nközépső scala törése: ...3., 6....\nhátsó scala törése: ...2., 4....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5.\n3., 6.\n2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin vagy magyar megnevezését! Egészítse ki a\ntáblázatot!\n\n|  |  |\n|---|---|\n| magyarul | latinul |\n| szem |  |\n| kötőhártya |  |\n| szaruhártya |  |\n| felhám |  |\n| bőr alatti kötőszövet |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|\n|  | oculus |\n|  | conjunctiva |\n|  | cornea |\n|  | epidermis |\n|  | subcutis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Párosítsa a bőrbetegségekhez jellemzőiket! Írja a betűjelek mellé a helyes\nválasz sorszámát!\n\nA. seborrhoea\nB. pyoderma\nC. psoriasis\nD. scabies\n\n1. A könyök- és térdtájékon, a hajlatokban, és a hajas fejbőrön lencse, vagy\npénzérme nagyságú felrakódások.\n\n2. Fokozott faggyútermelés, megváltozik a termelt faggyú összetétele is, a\nfejbőrön lemezes hámlás látható.\n\n3. Fekély, gennyképződés, bűzös váladékozás, szövetelhalás, az érintett terület\nvizenyős és duzzadt.\n\n4. Vakarási nyomok a testhajlatokban, az övtájékon, finom zegzugos\nvonalrajzolat, apró járatok láthatóak a bőrben.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...3...., С.-...1...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi mondatokat!\nLégúti idegentest eltávolítása esetén a ... műfogás alkalmazható.\nHarapott seb esetén a vérzés mennyisége ..., a ... foka pedig igen nagy.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Heimlich-féle\nváltozó\nfertőzésveszély",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_0611_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a hypothermia lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- hideg, sápadt, száraz bőr\n- gyengeség\n- zavart tudat\n- aluszékonyság, ami eszméletvesztéshez vezet\n- lassú, felületes légzés\n- lassú, gyengülő pulzus (szívmegállás is bekövetkezhet)",
+      "options": []
+    }
+  }
+]

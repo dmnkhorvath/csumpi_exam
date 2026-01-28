@@ -1,0 +1,331 @@
+[
+  {
+    "file": "EMIV_1008_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Írja le a fertőző betegségek előfordulási módjainak lényegét!\nSporadikus: ...\nEpidémiás: ...",
+      "question_type": "open",
+      "correct_answer": "A fertőző betegségek térben és időben látszólag egymástól\nfüggetlenül fordulnak elő....\nEgy fertőző betegség bizonyos területen rövid időn belül jóval\nnagyobb számban fordul elő, mint általában....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sejtorganellumok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sejtközpont\nmitokondriumok\nendoplazmatikus retikulum\nGolgi-apparátus\nriboszómák\nlizoszómák",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyaki csigolyák\nhátcsigolyák\nágyéki csigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór kialakulásának okait és megelőzésének lehetőségét!\nLehetséges okai: Írjon négyet!\nMegelőzése:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "D-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek\nMagyarországon újszülöttkortól 3 éves korig kötelező a D-vitamin adása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!\nZsebes billentyűk:\n...\nKéthegyű vitorlás billentyű:\n..\nHáromhegyű vitorlás billentyű:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben\na bal pitvar és a bal kamra között\na jobb pitvar és a jobb kamra között",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vérkeringés kórtanára vonatkozó helyes\nmegállapításokat!\n- A balszívfél-elégtelenség jellemzője a kis vérköri pangás, ami nehézlégzést\nokoz.\n- A sinuscsomó működési zavara paroxismalis tachycardiát okoz, amit a 90-\n100/perc feletti szívfrenkvencia jellemez.\n- A hyperaemia lényege a kórosan emelkedett szisztolés és diasztolés nyomás,\namely az arteriolák elsődleges szűkületén alapul.\n- Trombózisnak nevezzük azt, amikor a vér az érpályán belül megalvad.\n- Reumás szívgyulladás Streptococcus okozta utóbetegségként is kialakulhat.\n- Sinus tachycardia során a pulzus szabályos ütemű és a percenkénti ingerek\nszáma tartósan 90/perc feletti.\n- A szívbelhártya-gyulladás fő tünete a súlyos dyspnoe, a szörcsölő köhögés, a\nszapora pulzus és a híg, halvány rózsaszínű, habos „szilvalészerű\" köpet\nürítése.\n- Sinus tachycardia során a pulzus szabálytalan ütemű és a percenkénti ingerek\nszáma rohamszerűen 150/perc feletti.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A balszívfél-elégtelenség jellemzője a kis vérköri pangás, ami nehézlégzést\nokoz.\nSinus tachycardia során a pulzus szabályos ütemű és a percenkénti ingerek\nszáma tartósan 90/perc feletti.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EMIV_1008_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a megadott szempontok\nalapján!\nLényege:\nLehetséges tünetei: Írjon hármat!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\nhirtelen jelentkező nehézlégzés\nlégzési segédizmok segítségével történő légvétel\nrövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\na köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós) nyák ürülése\nszapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- inzulin\n- glükagon\n- szomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő tünetekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. P-vitamin\n2. B6-vitamin\n3. A-vitamin\n4. B12-vitamin\n5. K-vitamin\n\nA. idegrendszeri tünetek, görcsök\nB. hajhullás, a hámszövet sorvadása\nC. ínyvérzés\nD. véralvadási zavar\nE. vészes vérszegénység",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...B...., 4.-...E...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írjon a májzsugorodás (cirrhosis hepatis) kialakulásának lehetséges okára\nkét példát!",
+      "question_type": "open",
+      "correct_answer": "- túlzott alkoholfogyasztás\n- anyagcsere betegség\n- epeutak, epehólyag idült gyulladása\n- krónikus vénás pangás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 1,
+      "question_text": "A szív ingerképzõ és ingerületvezetõ rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje rostok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Nevezze meg az elsődleges vizelet jellemzőit a megadott szempontok\nalapján!\n\nNapi mennyisége: ...\nFajsúlya: ...\nÖsszetétele:* Írjon négyet!\n- víz\n- ásványi anyagok\n- cukor\n- aminosavak\n- festékanyagok",
+      "question_type": "fill_in",
+      "correct_answer": "160-180 l...\n1010 g/l...",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző kóros vizelettípussal! Írja\na sorszámokat a megfelelő betűjelhez!\n\nA. vesemedence-gyulladás\nB. glomerulonephritis\nC. sárgaság\nD. cukorbetegség\n\n1. fehérjevizelés\n2. gennyvizelés\n3. acetonvizelés\n4. bilirubin a vizeletben\n\nA.-........, Β.-........, С.-........, D.-........\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "2, 1, 4, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh falának rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső, hashártya által borított réteg\n- középső izomréteg\n- belső nyálkahártyaréteg",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan betegséget, amely férfiaknál a húgycső felől\nfelszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence- és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Írjon le a méhnyakrák gyógyításának lehetőségei közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "műtét\nkemoterápia\nbesugárzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a hipofízis elülső lebenyének hormonjai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- növekedési hormon/szomatotrop hormon (STH)\n- tireotrop hormon (TSH)\n- adrenokortikotrop hormon (ACTH)\n- luteinizáló hormon (LH)\n- luteotrop hormon (LTH)\n- folliculus stimuláló hormon (FSH)\n- melanocitastimuláló hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Írja le a bronzkór (Addison-kór) lényegét és lehetséges okait!\nLényege:\n...A mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\ncsökkent termelődése következtében kialakuló betegség....\nOkai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\ncsökkent termelődése következtében kialakuló betegség....\nfertőző betegség (pl. tbc)\ntumor\nautoimmun folyamatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer részeit! Írja a\nsorszámokat a megfelelő helyre!\n\n1. agyvelő\n2. agyidegek\n3. gerincvelő\n4. gerincvelői idegek\n\nkörnyéki vagy perifériás idegrendszer része: ...., ....\nközponti idegrendszer része: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n1., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse az agytályogot a megadott szempontok alapján! Írjon két-két\nválaszt a szempontokhoz!\n\nKialakulásának lehetősége:\n- a középfül vagy az orr-melléküregek gyulladásainak közvetlen átterjedése\n- koponya- és agytraumák\n- metasztatázis talaján\n\nGyógyítása:\n- kórházi (idegsebészeti) ellátás\n- gyógyszeres kezelés\n- műtéti megoldás\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a középfül vagy az orr-melléküregek gyulladásainak közvetlen átterjedése\nkoponya- és agytraumák\nmetasztatázis talaján\nkórházi (idegsebészeti) ellátás\ngyógyszeres kezelés\nműtéti megoldás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n|Anatómiai képletek| |\n|---------|---------|\n|magyarul|latinul|\n|emlő| |\n| | |\n|ínhártya| |\n| |corium|\n|ideghártya| |\n",
+      "question_type": "fill_in",
+      "correct_answer": "|Anatómiai képletek| |\n|---------|---------|\n| |mamma|\n|érhártya|chorioidea|\n| |sclera|\n|irha| |\n| |retina|\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes\nmegállapításokat!\n- szürkehályog során a szem belnyomása emelkedik\n- az ideghártyaleválása fájdalommal jár\n- a zöldhályog észrevétlenül kialakuló szembetegség\n- távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\n- heveny fülkürtgyulladás esetén jó hatású a hidegterápia alkalmazása\n- Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken\n- heveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\n- seborrhoea során fokozódik a faggyútermelés és megváltozik a termelt\nfaggyú összetétele is\n- a psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat\n- az övsömör oka a bakteriális fertőződés",
+      "question_type": "multiple_choice",
+      "correct_answer": "a zöldhályog észrevétlenül kialakuló szembetegség\ntávollátás során a szemgolyó hossztengelye az átlagosnál rövidebb\nheveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik\nseborrhoea során fokozódik a faggyútermelés és megváltozik a termelt\nfaggyú összetétele is\na psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Ismertessen a napszúrás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozódó fejfájás\n- szédülés\n- hányinger\n- látászavar\n- hőemelkedés, esetleg láz\n- fénykerülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q026_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 5,
+      "question_text": "Határozza meg az égett területek felmérésére szolgáló 9-es szabály alapján a megadott testfelületek nagyságát! Egészítse ki a táblázatot!\n\n| Testfelület | A felület nagysága |\n|-------------|-------------------|\n| fej         |                   |\n| hát         |                   |\n| két felső végtag |                   |\n| két alsó végtag |                   |\n| gáttájék    |                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Testfelület | A felület nagysága |\n|-------------|-------------------|\n|             | 9%                |\n|             | 2 x 9%            |\n|             | 2 x 9%            |\n|             | 2 x 2 x 9%        |\n|             | 1%                |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMIV_1008_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Írja le a mandulák feladatát!",
+      "question_type": "open",
+      "correct_answer": "helyi védekezés\nimmunvédekezés a lymphocyta termelés révén",
+      "options": []
+    }
+  }
+]

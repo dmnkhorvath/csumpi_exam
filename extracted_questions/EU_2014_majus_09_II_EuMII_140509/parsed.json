@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\nSzív: ...\nMáj: ...\nGyomor: ...\nTüdő: ...\nLép: ...",
+      "question_type": "fill_in",
+      "correct_answer": "cor\nhepar\ngaster v. ventriculus\npulmo\nlien",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel az élő kórokozók közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\negysejtű állatok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Ismertesse a hasizmok fajtáit és feladatait!",
+      "question_type": "open",
+      "correct_answer": "Hasizmok fajtái:\n- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom\nHasizmok feladatai:\n- összehúzódás: törzs előre hajlítása, alsó végtagok emelése\n- állandó hasi nyomás biztosítása\n- hasi légzés (főleg férfiaknál)\n- hasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott\nszempontok szerint! Írja a csoportok mellé a\nmegfelelő számot!\n\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 2, 4...\n3, 5, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "tápanyaggal látja el a sejteket\noxigént és egyéb anyagokat szállít a sejtekhez. (pl. hormonok)\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze az immunvédekezésnek\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá a beteg jellemző tüneteit/panaszait angina\npectoris esetén!\n- torokfájdalom\n- szegycsont mögötti fájdalom (szorító, nyomásérzés)\n- a fájdalom kisugárzik: hátba, bal karba, vállba\n- jobb bordaív alatti görcsös, a jobb lapocka tájára sugárzó fájdalom\n- halálfélelem\n- túlzott nyugalom\n- hideg, verítékes bőr\n- száraz, meleg bőr\n- szapora, elnyomható pulzus\n- bénulások\n\n(Csak az öt /5/ helyes válasz aláhúzása fogadható el! Több válasz aláhúzása esetén a megoldás\nérvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szegycsont mögötti fájdalom (szorító, nyomásérzés)\na fájdalom kisugárzik: hátba, bal karba, vállba\nhalálfélelem\nhideg, verítékes bőr\nszapora, elnyomható pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\n\nHonnan erednek a hangszalagok?\n\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\n\nMi a gégefedő feladata?\n\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "...három...\n...a kannaporcok elülső nyúlványairól...\n...az orri szakaszt...\n...nyeléskor zárja a gégebemenetet...\n...a nyúltvelőben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a betegségek mellé a megfelelő tünet számát!\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n3. levertség, fáradékonyság\n4. üvegszerű, tapadós köpet\nTüdőasztma: ...\nTuberkulózis: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4\n2, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Ismertesse a férfi klimax jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "természetes állapot az öregedés folyamatában\nhormonális változás hatására alakul ki\ncsökken a nemi vágy\npotencia- és ejakulációs zavarok kísérik\nfizikai teljesítőképesség csökken\njellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás)\nkiváltó okai közül hatot /6/!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegen test\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Csoportosítsa a vizelet mennyiségének zavaraihoz\na zavart előidéző okokat! Írja a megfelelő csoporthoz\naz előidéző ok számát!\nOliguria: ...\nPolyuria: ...\n1. csökkent folyadékbevitel\n2. cukorbetegség\n3. ödémák kiürülése\n4. hányás, hasmenés\n5. diabetes insipidus\n6. ödéma képződése\n7. vízhajtó adása\n8. fokozott folyadékbevitel",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 6\n2, 3, 5, 7, 8",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNefron:...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\nÍrja a tápanyagok számát a megfelelő helyre!\n1. Víz felszívódása\n2. Zsírok felszívódása\n3. Nincs tápanyag felszívódás\n4. Ásványi anyagok felszívódása\n5. Szénhidrátok felszívódása\n6. Fehérjék felszívódása\nGyomorban: ......\nVékonybélben: ......\nVastagbélben: ......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2, 5, 6\n1, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség okai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nnemi szervek, főleg a méhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Ismertesse a hormonok sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- endokrin (belső elválasztású) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- alacsonyabb koncentrációban is kifejtik hatásukat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely hormon felelős a tejelválasztás szabályozásáért?\nMely hormon szabályozza a tej kiürülését az emlőből?\nHol termelődik az ADH hormon?\nHol tárolódik az ADH hormon?\nMely betegség alakul ki az ADH hiányakor?",
+      "question_type": "open",
+      "correct_answer": "prolaktin (luteotrop hormon)\n oxytocin\n hypothalamusban\n a hypophysis hátulsó lebenyében\n diabetes insipidus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg az agyvelő és gerincvelő burkait magyarul\nés latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "kemény agyburok - dura mater\npókhálóhártya - arachnoidea\nlágy agyhártya - pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q018_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 7,
+      "question_text": "Ismertesse a sclerosis multiplex (SM) tüneteit!\nÍrjon hét /7/ tünetet!",
+      "question_type": "open",
+      "correct_answer": "látászavar\nakadozó beszéd\nspasticus bénulások\nmozgászavarok\nincontinentia\nérzészavarok\nnyelési zavar\nnystagmus (szemtekerezgés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemmozgató izmok\na szem védőkészülékei\nkönnykészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Soroljon fel az övsömör (herpes zoster) jellemzői közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "féloldalon elhelyezkedő borsónyi hólyagok csoportja alakul ki\naz idegek lefutásának megfelelően jelenik meg (leggyakrabban a háti\nidegek mentén)\na hólyagok megjelenése előtti napokban az érintett terület már\nfájdalmas",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q021_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen beteget!",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q022_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 7,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nA kültakaró folytonosságának megszakadása, illetve hiánya.\nFajtái: Írjon hatot /6/!\n- vágott seb\n- szúrt seb\n- harapott seb\n- horzsolt seb\n- zúzott seb\n- lőtt seb\n- roncsolt seb",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_majus_09_II_EuMII_140509_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Fogalmára: 1 pont; fajtáira: 1-1 pont adható!)„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

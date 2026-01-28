@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi reakciókat a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. fájdalom\n2. idült produktív gyulladás\n3. sorvadás\n4. fibrines gyulladás\n5. túltengés\n\nA szervezet védekező reakciója: ...\n\nA szervezet jelző reakciója: ...\n\nSzöveti elváltozásban/működésváltozásban megnyilvánuló reakció: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n1....\n3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan helyet az emberi testben, ahol hámszövet található!",
+      "question_type": "open",
+      "correct_answer": "a bőr felszíni rétege\naz emésztőrendszer nyálkahártyájának külső felszíne\na légzőrendszer nyálkahártyájának külső felszíne\na kiválasztó rendszer nyálkahártyájának külső felszíne\naz üreges szervek belső felszíne\na vér-, és nyirokerek belső felszíne",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az arthrosis lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "az ízület rugalmasságának csökkenése\nízületi fájdalom\nízületi merevség\naz ízület nyomásérzékenysége\nmozgáskorlátozottság, az ízület mozgásterjedelmének beszűkülése\nízületi recsegés, ropogás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Sorolja fel az agykoponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyílvarrat\npikkelyvarrat\nlambdavarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a lép feladatait!\n- glükogén raktározása\n- méreganyagok kiválasztása\n- vörösvérsejtek lebontása\n- lymphocyták képzése\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- vérlemezkék lebontása",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvérsejtek lebontása\nlymphocyták képzése\nvér raktározása\nvérlemezkék lebontása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges felépítésű harántcsíkolt izom, mely sejtekből épül fel\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: küszöb feletti\ningerre maximális összehúzódással válaszol, küszöb alatti ingerre nem\nreagál\n- a refrakter stádiuma hosszabb, mint a vázizmoké\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás: ...\nReziduális levegő: ...",
+      "question_type": "fill_in",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l)....\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l)....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a betegségeket és a rájuk jellemző köpetformát! Írja a\nsorszámok mellé a megfelelő betűjelet!\n\n1. tüdővizenyő\nA. nyálkás köpet\n2. légcsőgyulladás\nB. üvegszerű, tapadós köpet\n3. légúti fertőzés\nC. szilvalészerű köpet\n4. tüdőtuberkulózis\nD. élénkpiros színű köpet\n5. tüdőasztma\nE. nyálkás-gennyes köpet",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-.Α., 3.-..E..., 4.-...D...., 5.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá azokat a tüneteket, amelyek emésztőrendszeri daganatos\nmegbetegedésre utalhatnak!",
+      "question_type": "multiple_choice",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nvérszegénység\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a máj funkciói közül hatot!",
+      "question_type": "open",
+      "correct_answer": "epetermelés\nepesavképzés\na vérfesték átalakítása epefestékké\naz epefesték lebontása\nvérplazmafehérjék képzése\nméregtelenítés\nraktározás (vas, nehézfémek)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a felső légutakat!",
+      "question_type": "open",
+      "correct_answer": "orr, orrüreg\norrmelléküregek\ngarat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Ismertesse a pangásos vesebetegség lényegét és kialakulásának okait!\nLényege: \nKialakulásának okai:\n1. ...\n2. ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Pangásos vese akkor keletkezik, ha a vesevénában valamilyen okból\na nyomás fokozódik.\ncardialis decompensatio...\na vénás vér elfolyása akadályozott...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Sorolja fel a vizeletelvezető rendszer részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "vesepiramisok gyűjtőcsatornái\nvesekelyhek\nvesemedence\nhúgyvezeték\nhúgyhólyag\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az alábbi anatómiai képleteket!\n- hímvessző: ...\n- dülmirigy:...\n- here: ...\n- herezacskó: ...",
+      "question_type": "fill_in",
+      "correct_answer": "penis\nprostata\ntestis\nscrotum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- fizikai és szellemi teljesítőképesség csökken\n- pszichés változások\n- androgén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Csoportosítsa a hormonokat termelődésük helye szerint! Irja a\nsorszámokat a megfelelő helyre!\n\n1. progeszteron\n2. inzulin\n3. glükagon\n4. tiroxin\n5. kalcitonin\n\nhasnyálmirigy: ...2., 3....\npetefészek: ...1....\npajzsmirigy: ...4., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Cushing-szindróma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "zsírlerakódás a törzsön, a hát felső részén\nnagy, kerek arc (holdvilágarc)\nvékonynak tűnő végtagok\naz izomtömeg és az izomerő csökkenése\nnehezen gyógyuló bőrsérülések\nkékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon\nnőknél fokozott szőrképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n1. oldalszarv\nA. mozgató neuronok\n2. elülső szarv\nB. érző neuronok\n3. hátsó szarv\nC. vegetatív neuronok",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg az agyi vérellátási zavarok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "transient ishaemic attack (ΤΙΑ)\nprolongált ischaemiás neurológiai deficit (PRIND)\nprogresszív stroke (PS)\nagyi érelmeszesedés\nsubarachnoidealis vérzés\nagytrombózis\nagyembólia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- szemcsatorna\n- könnykészülék\n- látótér\n- pupilla-váz\n- a szem védőkészülékei\n- szemgolyó\n- szemtengely\n- szemmozgató izmok",
+      "question_type": "multiple_choice",
+      "correct_answer": "könnykészülék\na szem védőkészülékei\nszemgolyó\nszemmozgató izmok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a psoriasist a megadott szempontok szerint! Írjon hármat-hármat!",
+      "question_type": "open",
+      "correct_answer": "legjellemzőbben a könyök-, térdtájékon, a hajlatokban, és a hajas fejbőrön\nfordul elő az elváltozás\nlencse, vagy pénzérme nagyságú felrakódások a bőrön\ngyulladásos alapon vastag, viaszcseppszerű, pikkelyes elváltozás\na felrakódás leválása után fénylő, vörös, érzékeny felület marad vissza\ngyógyszeres kezelés\nkenőcsök helyi alkalmazása\nfénykezelés\npszichés támogatás\ndiéta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_08_VI_eumvi_210608_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Ismertesse az égett területek felmérésére szolgáló 9-es szabályt! Egészítse ki a táblázatot!\n\n| Testfelület | A felület nagysága |\n|---|---|\n| fej |  |\n| mellkas és hasfal elöl |  |\n| hát |  |\n| két felső végtag |  |\n| két alsó végtag |  |\n| gáttájék |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Testfelület | A felület nagysága |\n|---|---|\n| fej | 9% |\n| mellkas és hasfal elöl | 2 x 9% |\n| hát | 2 x 9% |\n| két felső végtag | 2 x 9% |\n| két alsó végtag | 2 x 2 x 9% |\n| gáttájék | 1% |",
+      "options": []
+    }
+  }
+]

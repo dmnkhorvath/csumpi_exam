@@ -1,0 +1,371 @@
+[
+  {
+    "file": "EU_2002_oktober_24_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Sorolja fel a szív rétegeit magyarul!\n- szívbelhártya\n- szívizom\n- szívburok",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMelyik ér indul ki a szív bal kamrájából?\n...aorta...\nMelyik szívüregből indul ki a kisvérkör?\n...jobb kamra...\nHol található az artéria radialis?\n...a csuklón...\nMelyik szívüregbe lép be a négy tüdővéna?\n...bal pitvar...",
+      "question_type": "fill_in",
+      "correct_answer": "aorta\njobb kamra\na csuklón\nbal pitvar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Nevezze meg a négy fő vércsoportot!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Sorolja fel, hogyan történhet ma hazánkban a tüdő\nTBC (tuberculosis) megelőzése!\n(Nevezzen meg négy /4/ megelőzési módot!)\n- rendszeres tüdőszűrés (évente egyszer)\n- tisztasági (higiénés) szabályok betartása\n- védőoltások alkalmazása\n- fertőző források felkutatása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q005_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "Húzza alá a felsorolásból az inzulin hatását!\n- a vércukorszintet emeli\n- a vércukorszintet csökkenti\n- a testnövekedést gátolja\n(Csak az egy helyes válasz aláhúzása fogadható el! Több válasz esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vércukorszintet csökkenti",
+      "options": [
+        "a vércukorszintet emeli",
+        "a vércukorszintet csökkenti",
+        "a testnövekedést gátolja"
+      ]
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Írja az ábrán jelölt számok mellé a koponya csontjainak nevét magyarul!\n\n1. ... ékcsont...\n2. ...falcsont...\n3. ...homlokcsont...\n4. ...orrcsont...\n5. ...járomcsont...\n6. ...állkapocs/alsó állcsont...\n7. ...nyakszirtcsont\n8. ...halántékcsont...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Sorolja fel a máj feladatait!\n(Írjon négyet /4/!)\n- epetermelés\n- epesavtermelés\n- epefesték termelése\n- vérraktár\n- magzati életben szerepe van a vérképzésben",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Nevezze meg a betegségeket rövid jellemzésük alapján!\nA. A láb hosszanti és haránt boltozatának ellapulása, mely\na láb terheléscsökkenésével, lábfej, térd, csípő, derék\nfájdalmával jár.\n...lúdtalp (pes planus)...\nB. A csigolyák záródási hibája. A gerinc felett kitüremkedő\nburok agyvizet illetve gerincvelőt tartalmaz. A gerinc-\nvelő károsodása miatt érzészavar, bénulás, incontinentia\nlép fel.\nnyitott gerinc (spina bifida)...\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Jellemezze a jóindulatú (benignus) daganatokat tulajdonságaik alapján! (Írjon négyet /4/!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az alábbiakban megadott szempontok szerint!\nlényege: a comb fejecs nem illeszkedik az ízvápába\ntünetei: (Írjon hármat /3/!)\n- hosszkülönbség a végtagok között\n- a végtag kifelé fordul,\n- mozgáskorlátozottság\n- ráncasszimetria\n- járás kialakulása után billenő csípő\nkezelése:\n- korai felismerés\n- Pavlik-kengyel\n- műtét",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "NA",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont, tünetekre: 0,5-0,5 pont, kezelésére: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel a hashártyagyulladás tünetei közül hatot/6/!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMilyen vegyhatású a gyomornedv?\nMilyen tápanyagot bontanak a nyálban lévő enzimek?\nMely tápanyagot bontja a lipáz nevű enzim?\nHogyan nevezzük a fehérjék építőköveit?\nHová ömlik a hasnyálmirigy nedve?",
+      "question_type": "open",
+      "correct_answer": "savanyú\nszénhidrátot\nzsírokat\naminosavak\na patkóbélbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Határozza meg a hasnyálmirigy elhelyezkedését\naz emberi testben!\n\nA hasnyálmirigy az ágyéki csigolya magasságában, a patkóbél\nhomorulatában helyezkedik el.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Jellemezze röviden az alsóvégtagi mélyvénás gyulladást\n(mélyvénás tromboflebitisz) az alábbiak szerint!\n\nTünetei: (Írjon hármat /3/!)\n- a láb megdagad, megvastagszik\n- a járó beteg a láb fáradtságát, nehézségét érzi\n- tachycardia (szapora pulzus)\n- hőemelkedés, láz\n\nLehetséges veszélyes szövődménye: tüdőembólia",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 3,
+      "question_text": "Tünetekre:",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Sorolja fel az izmok járulékos részeit!\n- nyálkatömlő / bursa\n- ínhüvely / vagina tendinis",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Nevezze meg a szem részeit az ábra alapján magyarul\nvagy latinul! Válaszát írja a nyilak mellé!\n1.... szemlencse\n(lens)...\n2. ... szaruhártya\n(cornea)...\n3. ... pupilla\n4. ...szivárványhártya\n(iris)...\n5.... inhártya (sclera)...\n6. ... érhártya\n(chorioidea)...\n7....üvegtest\n(corpus vitreum)...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Soroljon fel a bőr feladatai közül hármat /3/!\n- ingerfelvétel (érzékszerv)\n- védelem\n- hőszabályozás\n- mirigyei révén kiválasztó szerv",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg röviden, hogy mi az idegrendszer feladata!\n- a szervek működésének irányítása\n- a működés összehangolása\n- a környezethez való alkalmazkodás biztosítása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Ismertesse röviden a heveny középfülgyulladást (otitis\nmedia acuta) az alábbiakban megadott szempontok szerint!\n\nTünetei: (Írjon négyet /4/!)\n- hirtelen jelentkező szúró, lüktető fájdalom a fülben\n- fülzúgás\n- láz\n- fejfájás\n- bő savós, gennyes váladék\n\nszövődménye lehet: csecsnyúlvány-gyulladás (mastoiditis)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 2,
+      "question_text": "Sorolja fel a nefron részeit!\n- Malpighi test\n- tubulus (vesecsatorna)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Ismertesse az elsődleges vizelet jellemzőit!\n- mennyisége napi: 180 l\n- fajsúlya: 1010\n- a vérplazma fehérjementes szűrlete",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMikor jelenik meg aceton a vizeletben?\n...cukorbetegség esetén...\nMely testrészeken jelenik meg a veseeredetű (oedema) ödéma?\n...arcon, szem körül, csuklón...\nMilyen a lehelete az urémiás (uraemia) betegnek?\n...vizelet szagú...",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Sorolja fel a külső és a belső férfi nemi szerveket magyarul!\nKülső nemi szervek:\n- herezacskó\n- hímvessző\nBelső nemi szervek:\n- here\n- mellékhere\n- ondóvezeték\n- ondózsinór\n- ondóhólyag\n- dülmirigy",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Írja le, milyen változás történik a szimpatikus és\nparaszimpatikus hatásra! (Egészítse ki a táblázatot!)\n\n|  | szimpatikus hatás | paraszimpatikus hatás |\n|---|---|---|\n| szív | teljesítménye fokozódik | teljesítménye csökken |\n| vérnyomás | emelkedik | csökken |\n| légzésszám | fokozódik | lassul |\n| gyomor-bélmozgás | lassul | fokozódik |\n| vércukorszint | emelkedik | csökken |\n| pupilla | tágul | szűkül |",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! (Írja a megadott betegségekhez a\ntünetek sorszámát!)\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, \"vadászkutyafekvés\"\n2. magas láz\n5. rángógörcs\n3. heves fejfájás\n6. rövid légzésszünet áll be\n\nagyhártyagyulladás:\n\nepilepsziás nagy roham:",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q028_11pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 11,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik hormon termelődése fokozott gigantizmus esetén?\n-\nMelyik a legjellegzetesebb elváltozás az arcon acromegalia esetén?\n-\nMennyi lehet a napi vizelet mennyisége Diabetes insipidus esetén?\n-\nHogyan nevezzük a szem jellegzetes elváltozását Basedow-kór esetén?\n-\nMilyen jellegzetességeket figyelhetünk meg egy myxoedemás beteg arcán?\n-\nMilyen a bőre az Addison-kóros betegnek?\n-\nMiért veszélyes a vér Ca tartalmának kóros csökkenése?\n-\nMelyik az a hormon, amely az emlőmirigyek működését és a tej kiürülését serkenti?\n-\nHol történik a peteérés?\n-\nMi az ovulatio?\n-\nHol termelődnek a hímivarsejtek?\n-",
+      "question_type": "open",
+      "correct_answer": "Somatotrop hormon (STH)\naz orr megnagyobbodása\nnapi 3-20 liter\nexophthalmus (kidülledt szem)\nduzzadt, kifejezéstelen\nsötét (bronz színű) az egyébként is pigmentált helyeken\nmert tetania keletkezik\noxitocin\na petefészekben\ntüszőrepedés\na herékben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q029_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 2,
+      "question_text": "Határozza meg az elsősegélynyújtás céljait!\n- az élet megmentése\n- további egészségkárosodás megakadályozása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2002_oktober_24_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül az eszméletlen sérült\nállapotának jellemzőit!\n- van légzése\n- nincs légzése\n- van szívműködése\n- nincs szívműködése",
+      "question_type": "multiple_choice",
+      "correct_answer": "",
+      "options": [
+        "van légzése",
+        "nincs légzése",
+        "van szívműködése",
+        "nincs szívműködése"
+      ]
+    }
+  }
+]

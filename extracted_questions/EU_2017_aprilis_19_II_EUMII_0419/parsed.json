@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alkati típusokat a jellemzőikkel!\nÍrja a sorszámokat a megfelelő betűjelhez!\nA: részarányos (normostheniás) alkat\nB: sovány (astheniás) alkat\nC: piknikus (hyperstheniás) alkat\nD: kevert alkati típus\n1. gyenge ellenálló képesség, légzőszervi- és emésztőszervi betegségekre\nvaló hajlam\n2. ilyen típusú a legtöbb ember\n3. arányos test, jó ellenálló képesség\n4. alacsony, zömök test, keringési - és cukorbetegségre való hajlam\nΑ.- ...., В.- ...., C.- ...., D.- ....",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Indokolja a gyulladás helyi tüneteinek létrejöttét!\nTöltse ki a táblázatot!\n\n| a gyulladás helyi tünete | az elváltozás oka |\n|---|---|\n| pirosság |  |\n| duzzanat |  |\n| melegség |  |\n| fájdalom |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| a gyulladás helyi tünete | az elváltozás oka |\n|---|---|\n|  | a kórok köré vér áramlik |\n|  | az erekből folyadék lép ki |\n|  | a szövetek sejtjeinek anyagcseréje fokozódik és hő termelődik |\n|  | a feszülő szövetek ingerlik a fájdalomérző receptorokat |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse röviden a veleszületett csípőficamot az\nalábbi szempontok szerint!\nLényege:\nTünetei: Írjon kettőt!\n-\n-\n-\n-\nKezelése: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\nmozgáskorlátozottság\na farredők ráncaszimmetriája\ngyermekeknél speciális pelenkázás (terpesznadrág)\nPavlik-kengyel alkalmazása\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a megfelelő\nértípushoz! Írja a megadott csoportokhoz a helyes válasz\nsorszámát!\n\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\n\nanasztomózis: ......\nkollaterális érösszeköttetés: ......\nvégartéria: ......",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2., 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadásért\nfelelős fehérjéket!",
+      "question_type": "open",
+      "correct_answer": "fibrinogén\nprotrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a vér egyes alkotórészeit a rájuk jellemző\nfeladatokkal! Írja a betűjelek mellé a helyes válasz\nsorszámát!\nA. vörösvérsejt (hemoglobin)\nB. fehérvérsejt\nC. vérlemezkék\nD. vérplazma\n1. immunvédekezés\n2. az oxigén reverzibilis megkötése\n3. a hormonok szállítása\n4. véralvadás",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.- ...1...., C.- ...4...., D.- ...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Soroljon fel az idült orrnyálkahártya-gyulladás lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "orrmelléküreg-gyulladás\norrsövényferdülés\norrgaratmandula-túltengés\nszennyezett levegő, dohányfüst",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó\ntáblázatot a magyar, illetve a latin megfelelőkkel!\n\n| A légzőrendszer részei |  |\n|---|---|\n| magyar megnevezés | latin megnevezés |\n|  |  |\n| garat |  |\n|  | larynx |\n| légcső |  |\n| tüdő |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzőrendszer részei |  |\n|---|---|\n| magyar megnevezés | latin megnevezés |\n| orr | nasus |\n|  | pharynx |\n| gége |  |\n|  | trachea |\n|  | pulmo |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Nevezze meg a légutak allergiás betegségeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "szénanátha\ngégevizenyő\ntüdőasztma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q011_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 7,
+      "question_text": "Ismertesse a májzsugorodást (cirrhosis hepatis) az alábbiakban megadott szempontok szerint!\nLényege:\nOka: Írjon kettőt!\n-\n-\n-\nTünetek: Írjon négyet!\n-\n-\n-\n-\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "A májsejtek pusztulásával járó krónikus betegség.\ntúlzott alkoholfogyasztás\nfertőzés\nepeutak, epehólyag idült gyulladása\nhaspuffadás\nnyomásérzékenység a jobb bordaív alatt\ntesttömeg-csökkenés\nfakó, enyhén sárga színű bőr\nbőrviszketés\nhasvízkór\ncsillag alakú értágulatok a bőrön\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vesemedence-gyulladás tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél részeit latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "- duodenum\n- jejunum\n- ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Húzza alá a felsorolásból a nephron részeit!\n- Malpighi-test\n- Bartholin-mirigy\n- neurocyta\n- Bowman-tok\n- Henle-kacs\n- myelinhüvelyek\n- elsődleges kanyarulatos csatorna\n- másodlagos kanyarulatos csatorna\n- Langerhans-szigetek\n- kötőhártya\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Malpighi-test\nBowman-tok\nHenle-kacs\nelsődleges kanyarulatos csatorna\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Ismertesse a hererák betegséget az alábbi szempontok\nszerint!\n\nA betegség lényege:\n\nA betegség tünete: Írjon egyet!\n-\n-\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "Rosszindulatú daganatos elváltozás a herében, amely a nyirokerek és a\nkeringés útján terjed.\na here tapintatának megváltozása\ncsomók megjelenése a here felszínén\na here műtéti eltávolítása\nkemoterápia\nradikális nyirokhálózat-eltávolítás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések\ntípusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezés\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények okozta mérgezés\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\n\nMi a szerepe a sárgatesthormonnak?\n\nHol található a sárgatest?\n\nMi a széles méhszalag feladata?\n\nMely hormon felelős a női nemi jelleg kialakulásáért?",
+      "question_type": "open",
+      "correct_answer": "...a méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására...\n...a petefészek kéregállományában...\n...a méhet és a petefészket rögzíti...\n...az ösztrogén...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes megállapításokat!\na diabetes insipidus tünete a vizeletmennyiség csökkenése\naz óriásnövés oka a növekedési hormon túltermelődése\na strúma a mellékvese megnagyobbodásával járó kórkép\naz acromegalia a csontvégek meghosszabbodását jelenti\na mellékpajzsmirigy fokozott működése miatt jön létre a tetánia\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú\na Basedow-kór (hyperthyreosis) esetén a pulzus gyér, a vérnyomás\nalacsony\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az óriásnövés oka a növekedési hormon túltermelődése\naz acromegalia a csontvégek meghosszabbodását jelenti\na cukorbetegség (diabetes mellitus) oka inzulinhiány\na hyperglykaemias kómánál a lehelet aceton szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Sorolja fel a belső elválasztású (endokrin) mirigyek jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "nincs kivezető csövük\nváladékaik a hormonok\na hormonok a vérbe ürülnek, a mirigytől távol fejtik ki hatásukat\nváladéktermelésüket elválasztásnak nevezzük",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "nyaki idegek\nmellkasi idegek\nágyéki idegek\nkeresztcsonti idegek\nfarkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai: ...\nLátószerv receptorai: ...\nSzaglószerv receptorai: ...\nÍzlelőszerv receptorai: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám-sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Ismertesse a könnykészülék részeit és feladatát!\nRészei:\n-\n-\nFeladata:\n-",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nfolyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_aprilis_19_II_EUMII_0419_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy tünettel/jellemzővel!\n\n| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés |  |\n| II. fokú égés |  |\n| III. fokú égés |  |\n| IV. fokú égés |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az égés fokozatai | tünetek/jellemzők |\n|---|---|\n| I. fokú égés | bőrpír, égő fájdalom, hám érintettség |\n| II. fokú égés | hólyagok (bullák), égő, heves fájdalom, a hám és az irha egy része sérül |\n| III. fokú égés | fájdalom hiánya, az irha teljes mélysége sérül |\n| IV. fokú égés | teljes elszenesedés, a bőr alatti szövetállomány is sérül |",
+      "options": []
+    }
+  }
+]

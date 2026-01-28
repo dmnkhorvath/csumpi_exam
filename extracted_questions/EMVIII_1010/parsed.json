@@ -1,0 +1,309 @@
+[
+  {
+    "file": "EMVIII_1010_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan helyet az emberi testben ahol hámszövet található!",
+      "question_type": "open",
+      "correct_answer": "- a bőr felszíni rétege\n- az emésztőrendszer nyálkahártyájának külső felszíne\n- a légzőrendszer nyálkahártyájának külső felszíne\n- a kiválasztó rendszer nyálkahártyájának külső felszíne\n- az üreges szervek belső felszíne\n- a vér- és nyirokerek belső felszíne",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg a szervezet egészséges, normális állapotának fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Az egészséges vagy normális állapot egy viszonylagos egyensúlyi állapot, amelyben a szervezet – egyéni eltérés és tűrőképesség alapján – alkalmazkodik környezete változásaihoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. ékcsont\n2. rostacsont\n3. orrcsont\n4. halántékcsont\n5. ekecsont\n6. falcsont\nAz agykoponya csontjai: ...\nAz arckoponya csontjai: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6....\n2., 3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- izomsorvadás\n- alakváltozás\n- duzzanat\n- fájdalom\n- X- láb\n- fekély\n- mozgáskiesés\n- vérmérgezés\n(Csak 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "alakváltozás\nduzzanat\nfájdalom\nmozgáskiesés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a fehérvérsejt fajtáihoz jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. B-lymphocyták\n2. neutrophil granulocyták\n3. T-lymphocyták\n4. agranulocyták\n5. monocyták\n\nA. a plazmájukban nincsenek szemcsék\nB. ellenanyagokat, immunglobulinokat termelnek\nC. a legnagyobb fehérvérsejtek, magvuk nagy, bab alakú, fagocitáló\nképességűek\nD. a szervezetbe került baktériumokat felismerik és fagocitálják\nE. fagocitózisra nem képesek, a beültetett transzplantátum kilökődéséért\nfelelősek",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...D...., 3.-E..., 4.-...A..., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sinus tachycardia (szapora szívverés) lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- lázas állapot\n- pajzsmirigy túlműködés\n- szívelégtelenség\n- vérszegénység\n- egyes gyógyszerek szedése, pl. Atropin\n- élvezeti szerek fogyasztása (kávé, tea)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Mi emeli a légzési perctérfogatot, a légzésszámot?\n- a légzőközponton áthaladó vér szén-dioxid nyomásának növekedése\n- a légzőközponton áthaladó vér szén-dioxid nyomásának csökkenése",
+      "question_type": "multiple_choice",
+      "correct_answer": "a légzőközponton áthaladó vér szén-dioxid nyomásának növekedése",
+      "options": [
+        "a légzőközponton áthaladó vér szén-dioxid nyomásának növekedése",
+        "a légzőközponton áthaladó vér szén-dioxid nyomásának csökkenése"
+      ]
+    }
+  },
+  {
+    "file": "EMVIII_1010_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az alábbi betegségeket!\nVálaszát írja a pontozott vonalra!\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében a megnövekedett\nnyomás hatására a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (pneumothorax)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EMVIII_1010_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. pepszin\n2. tripszin\n3. amiláz\n4. kimozin\n5. nukleáz\ngyomornedv enzimjei: ......\nhasnyál enzimjei: ......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a fekélyes vastagbélgyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- véres, nyákos széklet\n- kínzó székelési inger\n- görcsös hasi fájdalom\n- étvágytalanság\n- láz, hőemelkedés\n- vérszegénység",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa a szervekhez jellemzőjüket, leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. húgycső\n2. vese\n3. húgyhólyag\n4. húgyvezeték\n\nA. a húgyhólyagból a külvilágba vezeti a vizeletet\nB. a nyálkahártya redőzöttsége a szerv nagyfokú befogadóképességét teszi\nlehetővé\nC. lúdtoll vastagságú, kb. 30 cm hosszú, nyálkahártyával bélelt, izmosfalú cső\nD. kb. 10-12 cm hosszú, tömör tapintatú, három tok veszi körül",
+      "question_type": "matching",
+      "correct_answer": "1.-...Α...., 2.-.D., 3.-B..., 4.-..C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a szakkifejezések latin vagy magyar megnevezését! Egészítse ki a táblázatot!\n\n| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n| petevezeték |  |\n|  | ovarium |\n| nagyajkak |  |\n|  | retroflexio uteri |\n| szeméremtest-gyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---|---|\n|  | tuba uterina |\n| petefészek |  |\n|  | labium majus |\n| a méh kóros hátrahajlása |  |\n|  | vulvitis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fogamzásgátlás módszerei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- természetes módszerek\n- mechanikai módszerek\n- kémiai módszerek\n- méhen belüli eszközök\n- hormonális készítmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat a hormonok tulajdonságai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belső elválasztású (endokrin) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- már alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Jellemezze a gerincvelőt az alábbi szempontok szerint!\nElhelyezkedése: ...\nSzakaszai:",
+      "question_type": "fill_in",
+      "correct_answer": "a csigolyák által határolt gerinccsatornában helyezkedik el...\nnyaki\nmellkasi/háti\nágyéki\nkeresztcsonti\nfarkcsonti",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg az idegrendszer egyes területeit a megadott jellemzők alapján!\nAkaratunktól független működésű, a belső szervek működését irányítja, anatómiailag és működés tekintetében két részre osztható:\n...\nKözponti része az agytörzsben és a gerincvelő szakrális részében található, az agytörzsi részt főképp a X. agyideg magva, kisebb részt a III., VII. és IX. agyideg magvai képviselik:\n...\nKözponti része a gerincvelő háti és ágyéki szakaszán van, környéki részét képezi a gerinc két oldalán húzódó határlánc:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "vegetativ idegrendszer\nparaszimpatikus idegrendszer\nszimpatikus idegrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Mi az üvegtest feladata?\n- a szem állandó alakjának biztosítása\n- az ideghártya táplálása\n\nHol helyezkedik el az egyensúlyozó rendszer receptora?\n- a hátsó koponyagödörben\n- a belső fülben\n\nMilyen színű a dobhártya?\n- világosbarna színű\n- szürkésfehér színű\n\nMi építi fel az irhát?\n- kötőszöveti rostok\n- kötőszöveti rost és zsír",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szem állandó alakjának biztosítása\na belső fülben\nszürkésfehér színű\nkötőszöveti rostok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget/állapotot, amely lábszárfekély\nkialakulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "- keringési zavar\n- cukorbetegség\n- beidegzési zavarok\n- egyes bőrbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 2,
+      "question_text": "Nevezze meg a szem ingerfelvevő receptorait!",
+      "question_type": "open",
+      "correct_answer": "- fényre érzékeny pálcikák\n- színre érzékeny csapok",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertesse a tömeges baleset fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Tömeges balesetnek minősül az az esemény, amely során közel azonos helyen, időben és okból több sérültet, beteget kell ellátni, függetlenül azok állapotának súlyosságától....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Írjon le a koponyaűri vérzés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- rövid ideig tartó eszméletvesztést követő feltisztulás, később ismét eszméletvesztés\n- fejfájás\n- szédülés\n- hányás\n- fokozódó zavartság\n- egyenlőtlen pupillák (a vérzés oldalán az agynyomás-fokozódásával párhuzamosan a pupilla tágul)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMVIII_1010_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Nevezze meg azokat az eseteket, amikor Rh-negatív egyénbe Rh-pozitív\nvörösvérsejtek juthatnak!",
+      "question_type": "open",
+      "correct_answer": "- tévesztéses transzfúzióval\n- a terhesség során, amennyiben Rh-negatív anyának Rh-pozitív a magzata",
+      "options": []
+    }
+  }
+]

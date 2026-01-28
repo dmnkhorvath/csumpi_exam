@@ -1,0 +1,298 @@
+[
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a szövetek típusaihoz a megadott jellemzőket/feladatokat! Írja a\nsorszámokat a megfelelő betűjelhez!\n\nA. hámszövet\nB. kötő- és támasztószövet\nC. izomszövet\nD. idegszövet\n\n1. a test felszínét borítja, a testüregeket béleli\n2. összehúzódásra képes\n3. a szervezet információs rendszerét építi fel\n4. kitölti a szervek közti tereket, összeköti a szerveket, szöveteket, a test vázát\nalkotja",
+      "question_type": "matching",
+      "correct_answer": "Α.-...1...., В.-...4...., C.-...2...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja le magyarul az alábbi latin kifejezések jelentését!\nhiperfunkció: ...\nhipofunkció: ...\nafunkció: ...\ndiszfunkció: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fokozott működés\ncsökkent működés\na működés hiánya\nrendellenes működés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse a növekedési hormon (STH) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sejtek méretükben megnagyobbodnak\n- a sejtek számukban megszaporodnak\n- a csontok hosszirányban növekednek\n- a csontok vastagodnak\n- a lágy szövetek, zsigerek megnagyobbodnak\n- segíti a fehérjeszintézist",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a Scheuermann-féle betegség tüneteit és gyógyításának\nlehetőségeit!\n\nPanaszok, tünetek: Írjon négyet!\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- mozgáskorlátozottság\n- a terhelhetőség csökkenése\n- gyógytorna\n- úszás\n- fűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a helyes válasz sorszámát a\nmegfelelő helyre!\n\n1. vérzés\n2. anafilaxia\n3. vérmérgezés\n4. égés\n5. mellékvese-elégtelenség\n6. folyadékvesztés\n\nhypovolaemiás sokk okai: ...., , ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a gégevizenyő lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "maró gázok, gőzök belégzése\nrovarcsípés\na gége sérülése, gyulladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!\nZsebes billentyűk:\n...\nKéthegyű vitorlás billentyű:\n..\nHáromhegyű vitorlás billentyű:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a kamrákból kiinduló nagyartériák szájadékában és a fő visszerekben\na bal pitvar és a bal kamra között\na jobb pitvar és a jobb kamra között",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orrmelléküregek feladatait!\n- a belégzett levegő előmelegítése\n- oxigéncsere\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- hangok képzése\n- szagok érzékelése\n- légnyomás biztosítása\n- a belégzett levegő hűtése\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\noxigéncsere\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. A-vitamin\nA. vészes vérszegénység\n2. B₁-vitamin\nB. skorbut\n3. B12-vitamin\nC. beriberi\n4. K-vitamin\nD. farkasvakság\n5. C-vitamin\nE. véralvadási zavar",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-A., 4.-E...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Soroljon fel a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nSzénhidrátok: ...\nZsírok: ...\nFehérjék: ...",
+      "question_type": "fill_in",
+      "correct_answer": "egyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin\naminosavak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- a menstruáció elmaradása\n- a hüvely szederjes elszíneződése\n- bővebb hüvelyi váladék\n- pozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Ismertesse a terhességi vesebajt a megadott szempontok szerint!\nJellemző tünetei: Írjon négyet!\nKezelésének lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a terhesség második felében jelentős testsúlynövekedés\nnagyfokú ödémaképződés\nhipertónia\nproteinuria\neclampsiás görcsroham\nsószegény étrend\ngyógyszeres kezelés\na terhesség megszűnésével elmúlik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi anatómiai képletek elhelyezkedését a szervezetben!\nbarlangos test: ...\nsárgatest: ...\nBartholin-mirigyek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a hímvessző állományában...\na petefészekben...\na hüvelybemenet közelében...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan betegséget, amely férfiaknál a húgycső felől\nfelszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-, és vesegyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi tüneteket a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. éhségérzet\n2. a bőr száraz, meleg, piros\n3. bőséges vizeletürítés\n4. acetonszagú lehelet\n5. remegés\n6. bőr sápadt, verítékes, hideg\n\nAlacsony vércukorszint (hypoglykaemia) tünetei: ...., ...., ......\nMagas vércukorszint (hyperglykaemia) tünetei: ...., ...., ......\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5., 6....2., 3., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q018_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 7,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét, tüneteit!\nLényege: az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.\nLehetséges tünetei: Írjon négyet!\n- tudatzavar\n- bénulások\n- légzészavar\n- beszédzavar\n- incontinentia\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "az agyszövet állományában kialakult vérzés miatt az érintett területen anyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul ki.\ntudatzavar\nbénulások\nlégzészavar\nbeszédzavar\nincontinentia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- ékcsonti lebeny\n- fali lebeny\n- rostacsonti lebeny\n- nyakszirti lebeny\n- halántéki lebeny\n- alsó lebeny\n\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nékcsonti lebeny\nfali lebeny\nhalántéki lebeny",
+      "options": [
+        "homloklebeny",
+        "ékcsonti lebeny",
+        "fali lebeny",
+        "rostacsonti lebeny",
+        "nyakszirti lebeny",
+        "halántéki lebeny",
+        "alsó lebeny"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Sorolja fel az arckoponya üregeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "szájüreg\nszemüreg\norrüreg\narcüreg\nhomloküreg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nSzaglószerv receptorai:...\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szaglóhám-sejtek\nCorti-szerv\nszőrsejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Soroljon fel az övsömör tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "bőrérzékenység az ideg lefutása mentén\nfájdalmas bőrkiütések (folyadékkal telt hólyagok)\nviszketés\nhidegrázás\nláz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Határozza meg a rándulás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Külső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_julius_13_I_eumi_200713_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Ismertesse a sérülés következtében kialakult légmellet a megadott szempontok szerint!\n\nLényege:\n\nFajtái:\n- zárt\n- nyitott\n- szelepes",
+      "question_type": "open",
+      "correct_answer": "A mellüreg megnyílásakor levegő jut a mellüregbe.",
+      "options": []
+    }
+  }
+]

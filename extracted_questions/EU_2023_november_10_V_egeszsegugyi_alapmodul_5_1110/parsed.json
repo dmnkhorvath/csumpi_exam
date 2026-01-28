@@ -1,0 +1,327 @@
+[
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi táblázatot!\n| Tudományterület | Vizsgálódási terület |\n|---------|---------|\n| makroszkópos anatómia |  |\n| mikroszkópos anatómia |  |\n| élettan |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Tudományterület | Vizsgálódási terület |\n|---------|---------|\n|  | szabad szemmel látható képletek |\n|  | szabad szemmel nem látható képletek |\n|  | egészséges szervezet működése |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Írja le magyarul az alábbi latin szakkifejezések jelentését!\nhiperfunkció: ...\nhipofunkció: ...\nafunkció: ...\ndiszfunkció: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fokozott működés\ncsökkent működés\na működés hiánya\nrendellenes működés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. lúdtalp\n1. nyugalomba helyezés, rögzítés\n2. cipőbe helyezett betét, lábboltozat\nerősítése\nB. csonttörés\nC. angolkór\n3. izomerő növelése, fűző viselése\nD. gerincferdülés\n4. D-vitamin adása",
+      "question_type": "matching",
+      "correct_answer": "A.-...2...., B.-...1...., C.-...4...., D.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a felső ugróízület (bokaízület) alkotásában részt vevő csontokat\nmagyarul!",
+      "question_type": "open",
+      "correct_answer": "sípcsont\nszárkapocscsont\nugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertesse a reumás lázat a megadott szempontok szerint!\n\nLényege:\n...\njelentkező betegség...\n\nGyógyításának lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "általában hetekkel korábban lezajlott gyulladás (pl. mandulagyulladás) után\ngyógyszeres kezelés\nágynyugalom\nszükség esetén a garatmandula eltávolítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q006_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 7,
+      "question_text": "Nevezze meg az ABO - vércsoportrendszer elemeit! Egészítse ki a táblázatot!\n\n| Vércsoport típusa | Antigének a vörösvértestek felszínén | Antitestek a vérszérumban |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Antigének a vörösvértestek felszínén | Antitestek a vérszérumban |\n|---|---|---|\n| A | A | anti-B |\n| B | B | anti-A |\n| AB | AB | - /nincs |\n| 0 | - /nincs | anti-A, anti-B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a helyi vértelenség (ischaemia) lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az artériák szűkülete, összenyomatása vagy elzáródása miatt egy adott területen\na szövetek nem kapnak elég vért.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a megadott szempontok\nalapján!\n\nLényege:\n\nTünetei: Írjon négyet!\n\n- hirtelen jelentkező nehézlégzés\n- légzési segédizmok segítségével történő légvétel\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós) nyák ürülése\n- szapora pulzus\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az alábbi betegségeket!\nVálaszát írja a pontozott vonalra!\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében - a megváltozott nyomás\nhatására - a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (pneumothorax)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő anyagot! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. víz\n2. szénhidrátok\n3. zsírok\n4. alkohol\n5. ásványi anyagok\n6. fehérjék\n\ngyomor: ......\nvékonybél: .........\nvastagbél: .........\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4\n2., 3., 6.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Ismertesse a gyomor perisztaltikus mozgásának szerepét!",
+      "question_type": "open",
+      "correct_answer": "- a táplálék összekeverése a gyomornedvvel\n- a gyomortartalom továbbítása a vékonybélbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a terhesség valószínűségi jeleit!\n- egyes szagoktól undorodás\n- hányinger, hányás\n- pozitív terhességi teszt\n- émelygés\n- livid (szederjes) hüvely\n- kedélyállapot-változás\n- bővebb hüvelyváladék\n- fokozott nyálelválasztás\n- menstruáció elmaradása\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "pozitív terhességi teszt\nlivid (szederjes) hüvely\nbővebb hüvelyváladék\nmenstruáció elmaradása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. érgomolyag\n2. Bowman-tok\n3. Henle-kacs\n4. másodlagos kanyarulatos csatorna\n5. glomerulus\n6. elsődleges kanyarulatos csatorna\n\nMalpighi-test része: ...\ntubulus része: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nehézfémsó mérgezés\n- gombamérgezés\n- terhességi vesebaj\n- glomerulonephritis acuta\n- nem csoportazonos vér adása\n- várandósság alatti mérgezéses állapot (toxaemia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q017_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 1,
+      "question_text": "Nevezzen meg egyet a szomatosztatin termelődésének helyéből!",
+      "question_type": "open",
+      "correct_answer": "hasnyálmirigy\n- agy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "fill_in",
+      "correct_answer": "a hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a felsorolt hormonok hatását! Egészítse ki a táblázatot!\n| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n|               | nő                                      |\n| FSH           | férfi                                     |",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           | - a test növekedésének szabályozása\n- fokozza a fehérjeszintézist                                      |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó\n- emeli a vérnyomást                                       |\n|               | - megindítja a tüszőérést\n- a petefészekre hat nő                                      |\n| FSH           | - fenntartja az ondósejtek képződését\n- a herékben megindítja az ondósejtek képződését férfi                                     |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Húzza alá az agyféltekék lebenyeit!\n- homloklebeny\n- fali lebeny\n- nyakszirti lebeny\n- rostacsonti lebeny\n- alsó lebeny\n- halántéki lebeny\n- ékcsonti lebeny\n- kisagyi lebeny\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homloklebeny\nfali lebeny\nnyakszirti lebeny\nhalántéki lebeny",
+      "options": [
+        "homloklebeny",
+        "fali lebeny",
+        "nyakszirti lebeny",
+        "rostacsonti lebeny",
+        "alsó lebeny",
+        "halántéki lebeny",
+        "ékcsonti lebeny",
+        "kisagyi lebeny"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Ismertesse az agyhártyagyulladást a megadott szempontok szerint!\nLehetséges ok: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "baktériumok\nvírusok\ngombák\nparaziták\nazonnali intenzív kórházi ellátás\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit! Írja a betűjeleket a megfelelő\nhelyre!\nA. ívjáratok\nB. üllő\nC. kalapács\nD. csiga\nE. kengyel\nközépfül részei: ...\nbelső fül részei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "B., C., E....\nA., D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a siketség lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "terhesség alatti rubeolafertőzés\nszülési sérülés\nközépfülgyulladások\ntoxikus ártalmak\nagyhártyagyulladás\nskarlát\nmumpsz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettő olyan esetet, amikor nincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "az élettel összeegyeztethetetlen sérülés\nhosszas haldoklás után beállt halál\na halál biztos jeleinek megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Írja le a diabetes insipidus megbetegedés jellemző tüneteit!",
+      "question_type": "open",
+      "correct_answer": "...olthatatlan szomjúságérzés...\n...nagy mennyiségű folyadékfogyasztás...\n...alacsony sűrűségű, nagy mennyiségű vizelet ürítése (polyuria)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_10_V_egeszsegugyi_alapmodul_5_1110_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges okait! Írjon hármat -\nhármat!\n\nLégzésmegállás lehetséges okai:\n- légútelzáródás\n- légköri levegő összetételének megváltozása\n- légzőközpont-bénulás\n- mellkasfal összenyomódása\n\nKeringésmegállás lehetséges okai:\n- szívmegállás\n- kamraremegés\n- nagyfokú, gyors vérvesztés\n- súlyos, traumás agysérülés",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés",
+      "options": []
+    }
+  }
+]

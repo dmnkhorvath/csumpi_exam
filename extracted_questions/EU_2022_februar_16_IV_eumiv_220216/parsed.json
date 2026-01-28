@@ -1,0 +1,287 @@
+[
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki az anatómiai síkokkal, irányokkal kapcsolatos táblázatot! A megfelelő oszlopba tegyen egy „X\"-et!\n\n|  | síkot jelöl | irányt jelöl |\n|----------|----------|----------|\n| medialis |  |  |\n| sagittalis |  |  |\n| lateralis |  |  |\n| frontalis |  |  |\n| distalis |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | síkot jelöl | irányt jelöl |\n|----------|----------|----------|\n| medialis |  | X |\n| sagittalis | X |  |\n| lateralis |  | X |\n| frontalis | X |  |\n| distalis |  | X |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Sorolja fel a betegségek kialakulását, lefolyását módosító tényezőket!",
+      "question_type": "open",
+      "correct_answer": "- nem\n- életkor\n- alkat\n- társadalmi és szociális körülmények",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül az arckoponya csontjait!\n- könnycsont\n- szájpadcsont\n- halántékcsont\n- nyakszirtcsont\n- rostacsont\n- ekecsont\n- felső állcsont\n- homlokcsont\n- ékcsont\n- falcsont",
+      "question_type": "multiple_choice",
+      "correct_answer": "könnycsont\nszájpadcsont\nrostacsont\nekecsont\nfelső állcsont\nhomlokcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel a reumás láz lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- láz\n- fejfájás\n- izzadás\n- a nagyízületek fájdalmas gyulladása\n- erős mellkasi fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, mely a véráramba jutva embóliát okozhat!",
+      "question_type": "open",
+      "correct_answer": "- thrombus\n- zsír\n- csontvelő\n- magzatvíz\n- gáz\n- levegő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Rendezze az érfal rétegeihez jellemzőiket! Írja a sorszámokat a megfelelő\nhelyre!\n\n1. sejtjei plazmint termelnek\n2. az érfalat tápláló saját ereket tartalmazza\n3. simaizomsejtekből és rugalmas rostokból áll\n4. kötőszövetből épül fel\n5. lapos endothel sejtekből áll\n\nAz érfal külső rétegének jellemzői: ...., ....\nAz érfal középső rétegének jellemzői: .....\nAz érfal belső rétegének jellemzői: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.\n3.\n1., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Írja le a tüdőasztma (asthma bronchiale) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\nMelyik szervben közös a táplálék és a levegő útja?\ngarat\ngége\nHány lebenyből áll a jobboldali tüdőfél?\nkettő\nhárom\nMelyik porc a nagyobb?\npajzsporc\ngyűrűporc\nMi alkotja a légcső és a hörgők nyálkahártyahámját?\ncsillószőrös laphám\ncsillőszőrös hengerhám",
+      "question_type": "multiple_choice",
+      "correct_answer": "garat\nhárom\npajzsporc\ncsillőszőrös hengerhám",
+      "options": [
+        "garat",
+        "gége",
+        "kettő",
+        "három",
+        "pajzsporc",
+        "gyűrűporc",
+        "csillószőrös laphám",
+        "csillőszőrös hengerhám"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a szénanátha lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "vérbő kötőhártya\nduzzadt orrnyálkahártya\norrdugulás\ngyakori tüsszentés\nnagy mennyiségű vízszerű orrváladék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez a jellemző tüneteiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. gyomordaganat\nA. fogyás, húsundor, vérszegénység\n2. epehólyag-gyulladás\nB. friss, vércsíkos széklet\n3. aranyérbetegség\nC. éles, görcsös gyomortáji fájdalom\n4. gyomorfekély\nD. jobb bordaív alatti heveny fájdalom",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...D...., 3.-...B...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Nevezze meg az emésztőrendszer középső szakaszának részeit magyarul!",
+      "question_type": "multiple_choice",
+      "correct_answer": "gyomor\npatkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a sorszámokat a megfelelő helyre!\n1. heveny és krónikus veseelégtelenséghez vezető vesebetegségek\n2. nagyfokú ödémaképződés\n3. diabetes mellitus\n4. fokozott hányás, hasmenés\n5. diabetes insipidus\n6. krónikus veseelégtelenség\n\nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...\nCsökkent vizeletelválasztás (oliguria) okai: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5., 6....\n1., 2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Ismertesse a fitymaszűkület lényegét, gyógyításának lehetőségeit!\nLényege:\n\nGyógyítása:",
+      "question_type": "open",
+      "correct_answer": "A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak\nrészlegesen húzható hátra a makkról.\n- a fityma tágítása\n- a fityma eltávolítása\n- a fitymafék átvágása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Határozza meg a nephron fogalmát és fő részeit!\nFogalma:\n...\nFő részei:",
+      "question_type": "open",
+      "correct_answer": "A vese működési egysége a nephron....\nMalpighi-test\ntubulusok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a szakkifejezések latin, vagy magyar megnevezését! Egészítse ki a\ntáblázatot!\n\n| Szakkifejezések |  |\n|---|---|\n| magyarul | latinul |\n| petevezeték |  |\n|  | ovarium |\n| nagyajkak |  |\n|  | retroflexio uteri |\n| szeméremtest-gyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---|---|\n|  | tuba uterina |\n| petefészek |  |\n|  | labium majus |\n| a méh kóros hátrahajlása |  |\n|  | vulvitis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyeket a szervezetben található helyükkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hypothalamus\n2. hypophysis\n3. glandula pinealis\n4. glandula thyreoidea\n\nA. a nyak elülső részén, a pajzsporc alatt\nB. a koponya belsejében\nC. a III. agykamra fenekét, oldalfalát képezi\nD. a középső koponyagödörben, a töröknyeregben\n\n1.-... , 2.-... , 3.-... , 4.-...",
+      "question_type": "matching",
+      "correct_answer": "C, D, B, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel az acromegalia tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a csontok végi részének megvastagodása\n- megnagyobbodott orr\n- megvastagodott ajak és fül\n- megerősödött állkapocs és szemöldökiv\n- előreugró áll\n- nagy, durva nyelv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a paraszimpatikus idegrendszeri hatásra\nbekövetkező változásokat!\n- a pupilla tágul\n- a pupilla szűkül\n- a vérnyomás csökken\n- a vérnyomás emelkedik\n- a szívfrekvencia csökken\n- a szívfrekvencia nő\n- a vázizomzat tónusa fokozódik\n- a vázizomzat tónusa ellazul\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a pupilla szűkül\na vérnyomás csökken\na szívfrekvencia csökken\na vázizomzat tónusa ellazul",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex kezelési lehetőségei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszeres kezelés\n- szövődmények megelőzése\n- mozgásterápia\n- aktív és passzív tornáztatás\n- táplálkozásreform\n- káros szokások elhagyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Írja le az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "- az ingerek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel a carcinoma mammae lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- az emlőbimbó behúzódása\n- behúzódások az emlő bőrén – narancshéj tünet\n- ekcémának tűnő elváltozás az emlőbimbón\n- az emlő bőre duzzadt, kemény\n- véres váladék ürülése az emlőbimbóból\n- csomó(k) a hónaljban\n- fekélyképződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a súlyos vérzés ellátásának lépéseit! Írja a sorszámokat a\npontozott vonalakra!\n... .... az artéria elszorítása az artériás nyomóponton/direkt nyomás\n... .... a sérült nyugalomba helyezése, pozícionálása\n... .... biztonságos környezet megteremtése\n... .... mentő hívása\n... .... nyomókötés felhelyezése\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2\n1\n5\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_IV_eumiv_220216_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a hypothermia lehetséges tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- hideg, sápadt, száraz bőr\n- zavart tudat\n- aluszékonyság, ami eszméletvesztéshez vezet\n- lassú, felületes légzés\n- lassú, gyengülő pulzus (szívmegállás is bekövetkezhet)",
+      "options": []
+    }
+  }
+]

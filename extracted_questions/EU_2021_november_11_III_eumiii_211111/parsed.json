@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa a fertőző betegségek előfordulási módjaihoz jelentésüket! Írja\na betűjelek mellé a helyes válasz sorszámát!\nA. epidémiás\nB. endémiás\nC. sporadikus\nD. pandémiás\n1. A járvány, több országra, esetleg egy egész kontinensre, vagy az egész\nvilágra kiterjed.\n2. A fertőző betegségek térben és időben elszórtan, látszólag egymástól\nfüggetlenül fordulnak elő.\n3. Egy fertőző betegség bizonyos területen rövid időn belül jóval nagyobb\nszámban fordul elő, mint általában.\n4. A fertőző betegség egy bizonyos területen tartósan, rendszeresen előfordul.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...4...., С.-...2...., D.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a sejt életjelenségeit!",
+      "question_type": "open",
+      "correct_answer": "anyagcsere\nsejtmozgás\ningerlékenység\nsejtnövekedés\nsejtosztódás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Írja le a magzati koponya sajátosságait!",
+      "question_type": "open",
+      "correct_answer": "- kötőszövetes lemezei kb. 1-1,5 éves korig fokozatosan csontosodnak el\n- a homlokcsont és a két falcsont közt található kötőszöveti lemez a papírsárkány alakú nagykutacs\n- a nyakszirtcsont és a két falcsont közt található a háromszög alakú kiskutacs",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a csonttuberkulózist a megadott szempontok szerint!\nOka:\nA betegség lényege:\nTerjedése:\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "tbc-baktérium...\n...elsősorban a mellkasi és ágyéki csigolyákat érintő deformitással, csontosodással gyógyuló betegség...\n...cseppfertőzéssel terjed...\n- kiterjedt szövetelhalás\n- kóros csonttörés\n- a csigolyák deformitása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai képletek latin, vagy magyar megnevezését! Egészítse ki\na táblázatot!\n\n| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n| szív |  |\n| gátorüreg |  |\n| vér |  |\n| szívbillentyűk |  |\n| szívburok zsigeri lemeze |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai képletek |  |\n|---------|---------|\n| magyarul | latinul |\n|  | cor |\n|  | mediastinum |\n|  | sanguis |\n|  | valvulae |\n|  | epicardium |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a felületes vénák gyulladásának lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "bőrpír a gyulladt véna felett\nmeleg tapintat\nmegkeményedett és tapintható véna\nnyomásérzékenység\nfájdalom\nhőemelkedés, láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Sorolja fel a légzés megfigyelésének szempontjait!",
+      "question_type": "open",
+      "correct_answer": "- a légzés száma\n- a légzés mélysége\n- a légzés ritmusa\n- a légzés hangja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszerre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. a hörgőcskék végén találhatóak a vízhólyagok, melyek szőlőfürtszerűen\nrendeződnek el\n2. a levegő a szájüregben szűrődik, felmelegszik és párásodik is\n3. a légcső C alakú porcokból álló cső\n4. a tüdő lebenyekre tagolódik, a jobb tüdő két lebenyből, a bal tüdő pedig\nhárom lebenyből áll\n5. a hangszalagok között található a hangrés\n6. a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek",
+      "question_type": "fill_in",
+      "correct_answer": "...3., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszához tartozó anatómiai képleteket!",
+      "question_type": "multiple_choice",
+      "correct_answer": "felszálló vastagbél\nvégbél\nharánt vastagbél\nszigmabél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Soroljon fel a garatmandula-gyulladás tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- láz\n- nyelési fájdalom\n- rossz közérzet\n- vörös és duzzadt szájpadmandulák\n- gombostűfejnyi, lencsényi szürkésfehér pont/folt\n- állszögleti nyirokcsomók duzzanata\n- állszögleti nyirokcsomók mérsékelt fájdalma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 2,
+      "question_text": "Írja le a vesemedence-gyulladás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az egyik, vagy mindkét vese sejt közötti állományának bakteriális fertőzés következtében kialakuló gennyes gyulladása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol képződik az elsődleges vizelet?",
+      "question_type": "fill_in",
+      "correct_answer": "a Malpighi-testben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Írja le a veseműködést szabályozó hormonok hatását!\n- antidiuretikus hormon: ...\n- aldoszteron: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vesecsatornák utolsó szakaszának vízáteresztő képességét biztosítja...\nfokozza a Na-ion és a víz visszaszívását, így csökkenti az ürített vizelet mennyiségét...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Párosítsa a női nemi szervekhez jellemzőiket, leírásukat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. petefészek\n2. petevezeték\n3. nagyajkak\n4. hüvely\n5. méh\nA. a kismedence közepén a hólyag és a végbél\nközött helyezkedik el\nB. a hüvelybemenetet két oldalról körülvevő,\nfőként zsírszövetből álló bőrredők\nC. rugalmas izomcsatorna, amely méhnyakat és\na vulvát köti össze\nD. kb. 12 cm hosszú, páros, hullámos lefutású\ncsatorna, a petesejt továbbítására szolgál\nE. mandula alakú páros szerv, a nagy és a\nkismedence határán helyezkedik el",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-...D...., 3.-...B...., 4.-...C...., 5.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az AIDS lehetséges terjedési módjai közül!",
+      "question_type": "open",
+      "correct_answer": "vér\nondó\nhüvelyváladék\nanyatej\nfertőzött injekciós tű",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Nevezze meg a pajzsmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "tiroxin\ntrijód-tironin\ncalcitonin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ösztrogén és progeszteron hatásait! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. a méhnyálkahártya előkészülése a megtermékenyített petesejt befogadására\n2. a méhizomzat gyarapodása\n3. a regenerációs és proliferációs fázisok irányítása\n4. az emlőmirigy tejelválasztásának fokozása\n5. a terhes méh összehúzódásának megakadályozása\n6. a másodlagos nemi jelleg kialakulása\n\nösztrogén hatása: ...\nprogeszteron hatása: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse az extrapiramidális pályák szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a mozgások harmonikussá tétele\n- az automatikus és kísérő mozgások kivitelezése\n- az izomtónus szabályozása\n- az emocionális reakciókat kísérő mimikai mozgások szabályozása\n- a védekező, a támadási és a menekülési mozgások biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Soroljon fel az agyembólia lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "ütésszerű fejfájás\neszméletvesztés\nepilepsziás rohamok\nféloldali bénulás\nérzészavar\nlátás-, és beszédzavar\ngóctünetek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a szem fénytörő közegeit!\n- sárgafolt\n- szemlencse\n- üvegtest\n- sugártest\n- csarnokvíz\n- könnykészülék\n- szaruhártya\n- érhártya",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemlencse\nüvegtest\ncsarnokvíz\nszaruhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel az orrnyálkahártya-gyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "duzzadt orrnyálkahártya\norrfolyás\ngaratba csurgó váladékozás\ngátolt orrlégzés\nköhögés\nhőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Írja le a sérülés következtében kialakult légmell lényegét, fajtáit!\nLényege:\n...\nFajtái:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "A mellüreg megnyílásakor levegő jut a mellüregbe....\nzárt\nnyitott\nszelepes",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_11_III_eumiii_211111_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet az elsősegélynyújtó teendői közül napszúrás előfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "- sötét, hűvös helyen való elhelyezés\n- magasra polcolt felsőtesttel való fektetés\n- homlokra, tarkóra vizes borogatás felhelyezése\n- folyadékpótlás (kortyonkénti itatás)\n- fejfájás csillapítása",
+      "options": []
+    }
+  }
+]

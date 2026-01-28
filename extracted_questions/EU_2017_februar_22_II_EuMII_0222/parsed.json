@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá a rosszindulatú daganatok jellemzőit!\n- növekedése lassú\n- növekedése gyors\n- átszövi a környező szöveteket, összenő vele\n- környezettől élesen elhatárolódik\n- sejtjei, és szerkezete hasonlít a kiinduló szövet sejtjeihez\n- sejtjei, és szerkezete eltér az ép szövetekétől\n- metasztázist (áttétet) okoz\n- nem újul ki\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "növekedése gyors\nátszövi a környező szöveteket, összenő vele\nsejtjei, és szerkezete eltér az ép szövetekétől\nmetasztázist (áttétet) okoz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\naz alábbiak szerint!\nLényege: \nOka:",
+      "question_type": "fill_in",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "A szervezet gázcseréjének biztosítása, az oxigén felvétele, és a szén-dioxid leadása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a csontokat az alakjuk szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. felkarcsont\n2. csigolya\n3. lapockacsont\n4. ujjperccsontok\n5. medencecsont\n6. combcsont\nhosszú, csöves csontok: ...\nrövid csontok: ...\nlapos csontok:...\nszabálytalan alakú csontok:...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 6.\n4.\n3., 5.\n2.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a veleszületett csípőficamot az alábbi\nszempontok szerint!",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába\nÍrjon kettőt!\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\nmozgáskorlátozottság\na farredők ráncaszimmetriája\nÍrjon kettőt!\ngyermekeknél speciális pelenkázás (terpesz nadrág)\nPavlik-kengyel alkalmazása\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Párosítsa a szívbillentyűket elhelyezkedésükkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. zsebes billentyűk\n2. háromhegyű vitorlás billentyű\n3. kéthegyű vitorlás billentyű",
+      "question_type": "matching",
+      "correct_answer": "1.-...B..., 2.-...A..., 3...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "open",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző\nkóros légzési formákkal! Írja a sorszámok mellé a helyes\nválasz betűjelét!\n\n1. súlyos anyagcserezavarok (pl. hyperglykaemiás coma, veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás\n\nA. dyspnoe\nB. Cheyne-Stokes-légzés\nC. Kussmaul-légzés\n\n1.-... , 2.-..., 3.-...",
+      "question_type": "fill_in",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nbélsárhányás\nszékletürítés hiánya\n„néma has”\nbeesett arc\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa a megadott betegségekhez tüneteiket!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. deréktáji éles fájdalom\n2. ödéma (szemhéjon, arcon, kézen)\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. fájdalom, mely a comb belső oldalára, illetve a herékbe, vagy a\nnagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\n\nVesekövesség: ...\nGlomerulonephritis acuta: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 5\n2, 3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek:...\nCowper-mirigy:...\nbarlangos test:...\nsárgatest:...",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között...\na gát állományában beágyazva...\na hímvessző állományában...\na petefészek kéregállományában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Nevezze meg az emlőgyulladás (mastitis) okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nméhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele - módszer alapján!\n\nIdőtartam: ......nap\n\nNaegele - módszer: az utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot.",
+      "question_type": "fill_in",
+      "correct_answer": "280",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Húzza alá a helyes válaszokat!\n\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\n\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\n\nHol termelődik a tiroxin?\n- a pajzsmirigyben\n- mellékvesékben\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\n\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Határozza meg a reflexív fogalmát és részeit!\nFogalma:\n\nRészei:\n- receptor\n- érző neuron (afferens szár)\n- reflexközpont\n- mozgató neuron (efferens szár)\n- effektor (válasz), végkészülék",
+      "question_type": "open",
+      "correct_answer": "Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Soroljon fel az antidiuretikus hormon (ADH) hatásai közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só- víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. fehérjék\nA. kollagenáz, elasztáz\n2. szénhidrátok\nB. lipáz\n3. zsírok\nC. tripszin\n4. kötőszöveti rostok\nD. amiláz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...C..., 2.- ...D..., 3.- ...B..., 4.- ..Α...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNefron:... \nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "- hámszövet\n- idegszövet\n- izomszövet\n- kötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges harántcsíkolt izom\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\n- működését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom összehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_februar_22_II_EuMII_0222_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát, fajtáit!\nFogalma:\nFajtái: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A kültakaró folytonosságának megszakadása, illetve hiánya.\nvágott seb\nszúrt seb\nharapott seb\nhorzsolt seb\nzúzott seb\nlőtt seb",
+      "options": []
+    }
+  }
+]

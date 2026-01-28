@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Nevezze meg az immunitás típusait a megadott felosztás szerint!\nveleszületett immunitás:\n- \n- \n\nszerzett immunitás:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "faji\nanyai\nfertőző betegség átvészelése után kialakult\nvédőoltások által szerzett",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa a fertőző betegségek előfordulási módjaihoz jelentésüket! Írja\na sorszámok mellé a helyes válasz betűjelét!\n\n1. epidémiás\n2. pandémiás\n3. endémiás\n4. sporadikus\n\nA. A fertőző betegség egy bizonyos területen tartósan, rendszeresen előfordul.\nB. A járvány több országra, esetleg egy egész kontinensre, vagy az egész\nvilágra kiterjed.\nC. Egy fertőző betegség bizonyos területen rövid időn belül jóval nagyobb\nszámban fordul elő, mint általában.\nD. A fertőző betegségek térben és időben elszórtan, látszólag egymástól\nfüggetlenül fordulnak elő.",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B...., 3.-...A...., 4.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Nevezze meg a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "- csípőcsont\n- ülőcsont\n- szeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hasizmok funkciói közül hármat!",
+      "question_type": "open",
+      "correct_answer": "összehúzódás\naz állandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Ismertessen hármat a sokízületi gyulladás gyógyításának, kezelésének\nlehetőségei közül!",
+      "question_type": "open",
+      "correct_answer": "- gyógyszeres kezelés\n- fizioterápia\n- gyógytorna\n- életmódváltás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá a keringés szervrendszerére vonatkozó helyes megállapításokat!\n- a szív a két tüdőfél között, a mellüreg elülső részében, a gátorüreg bal oldalán\nhelyezkedik el\n- a szív jobb kamrájából indul ki a test fő verőere, az aorta\n- a bal pitvar fala kb. 2 mm vastagságú\n- a bal kamra fala kb. 2 mm vastagságú\n- a bal pitvarban vénás vér található\n- a zsebes billentyűk a pitvar-kamrai szájadékoknál találhatóak\n- a myocardium speciális izomszövet, a szív falának középső rétege\n- az epicardium vékony, fénylő réteg, amely a szív üregeit borítja belülről\n- a sinuscsomó a jobb pitvar hátsó falában helyezkedik el, percenként 60-80\ningert bocsájt ki\n- a B-vércsoportú egyén vörösvértestjeinek felszínén B-antigén, a\nvérszérumában pedig anti-A antitest található\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szív a két tüdőfél között, a mellüreg elülső részében, a gátorüreg bal oldalán helyezkedik el\na szív jobb kamrájából indul ki a test fő verőere, az aorta\na bal pitvar fala kb. 2 mm vastagságú\na bal kamra fala kb. 2 mm vastagságú\na bal pitvarban vénás vér található\na zsebes billentyűk a pitvar-kamrai szájadékoknál találhatóak\na myocardium speciális izomszövet, a szív falának középső rétege\naz epicardium vékony, fénylő réteg, amely a szív üregeit borítja belülről\na sinuscsomó a jobb pitvar hátsó falában helyezkedik el, percenként 60-80 ingert bocsájt ki\na B-vércsoportú egyén vörösvértestjeinek felszínén B-antigén, a vérszérumában pedig anti-A antitest található",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Ismertessen a mélyvénás trombózis kialakulásának lehetséges okai, hajlamosító tényezői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- érfalsérülés\n- a vérkeringés lelassulása\n- a láb hosszabb ideig való mozdulatlansága (pl. hosszú repülőút, autóút)\n- nagy műtétek\n- a vér alvadékonyságának fokozódása\n- fogamzásgátló tabletták szedése\n- dohányzás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Egészítse ki a tüdőre vonatkozó alábbi mondatokat!\nA tüdő a mellüregben helyezkedik el, páros szerv, amit a mellhártya ...\nlemeze borít. Az egészséges tüdő színe ...\nA tüdő nagyobb egységekre, .... tagolódik, a jobb tüdőn....\n...., a bal tüdőn ... különíthető el.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "zsigeri\nhalvány rózsaszín\nlebenyekre\nhárom lebeny\nkét lebeny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat a rájuk jellemző\nkóros légzési formához! Írja a sorszámokat a megfelelő helyre!\n\n1. urémiás kóma\n2. cor pulmonale\n3. emphysema pulmonum\n4. súlyos anyagcserezavarok\n5. pneumonia\n\nKussmaul-légzés: ...1., 4....\n\ndyspnoe: ...2., 3., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer enzimeit és azok funkcióját! Egészítse ki\na táblázatot!\n\n| Emésztőrendszer részei | Emésztőenzimek | Tápanyagok bontása |\n|---|---|---|\n| szájüreg |  |  |\n| gyomor | kimozin |  |\n|  |  |  |\n| vékonybél | tripszin |  |\n|  | lipáz |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztőenzimek | Tápanyagok bontása |\n|---|---|---|\n|  | ptiatin, maltáz | szénhidrát |\n|  |  | tejfehérje |\n|  | pepszin | fehérje |\n|  | amiláz | szénhidrát |\n|  |  | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vérzés\n- átfúródás (perforáció)\n- gyomordaganat\n- gyomorkapu-szűkület/pylorusszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi az egészséges ember vizeletének fajsúlya?\nHol termelődik az eritropoetin?\nTartalmaz-e a végleges vizelet élettanilag bilirubint?\nMely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba ágyazva?",
+      "question_type": "fill_in",
+      "correct_answer": "...1020-1025 g/l (1001-1040 g/l)...\n...vesékben...\n...nem tartalmaz....\n...a mellékvese...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a heveny vesegyulladás okát, lehetséges tüneteit!",
+      "question_type": "open",
+      "correct_answer": "autoimmun folyamatok – bakteriális fertőzés utóbetegsége...\náltalános tünetek: gyengeség, fejfájás, étvágytalanság\ntompa deréktáji fájdalom\nszem körüli-, boka-, csuklóödéma\nhőemelkedés, láz\nvizeletben fehérje és vér megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a fogamzással, a terhességgel kapcsolatos\nhelyes megállapításokat!\n- Az érett petesejt az ovulációt követően jut a méhkürtbe, ahol találkozik a\nspermiumokkal.\n- Az érett petesejt az ovulációt követően jut a petefészekbe, ahol találkozik a\nspermiumokkal.\n- A terhesség valószínűségi jelei közé tartozik a fokozott nyálelválasztás.\n- A terhesség gyanújelei közé tartozik az egyes szagokól való undorodás.\n- A terhesség ideje 280 nap, illetve 40 hét.\n- Amennyiben a szülés a 39. hét előtt következik be koraszülésről beszélünk.\n- A szülés megindulásának jele a petefészek rendszeres összehúzódása.\n- A legtöbb szülés esetén szükség van császármetszés végzésére.\n- A szülés után végbemenő hormonális változások felkészítik az anya\nszervezetét a szoptatásra.\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az érett petesejt az ovulációt követően jut a méhkürtbe, ahol találkozik a\nspermiumokkal.\nA terhesség gyanújelei közé tartozik az egyes szagokól való undorodás.\nA terhesség ideje 280 nap, illetve 40 hét.\nA szülés után végbemenő hormonális változások felkészítik az anya\nszervezetét a szoptatásra.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Ismertesse a parathormon hatását!",
+      "question_type": "open",
+      "correct_answer": "- emeli a vér calcium-, és foszfátszintjét\n- a csontokból calcium-, és foszfátionokat szabadit fel\n- aktivizálja a csontpusztító sejteket (osteoclastokat)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Írja le a herevízsérv lényegét és kialakulásának lehetséges okait felnőtt\nférfiak esetén!\n\nLényege: ...A hereburok által termelt folyadék a here és a hereburok között\nfelgyülemlik, ami miatt megnő a here mérete....\n\nKialakulásának lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A hereburok által termelt folyadék a here és a hereburok között\nfelgyülemlik, ami miatt megnő a here mérete....\nsérülés\ngyulladás\nhegesedés\nurológiai műtét szövődménye",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Basedow-kór tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- megnagyobbodott pajzsmirigy\n- nagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\n- szapora szívműködés\n- szívdobogásérzés\n- jó étvágy mellett súlycsökkenés\n- élénk bélmozgás, hasmenés\n- nyirkos tenyér és talp\n- állandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Egészítse ki az agyidegekkel kapcsolatos táblázat hiányzó részeit!\n| Az agyideg száma | Az agyideg megnevezése |\n|---|---|\n|  | magyarul | latinul |\n| VII. agyideg |  | nervus facialis |\n| II. agyideg |  |  |\n| X. agyideg | bolygóideg |  |\n| IV. agyideg |  | nervus trochlearis |\n| VIII. agyideg |  | nervus vestibulocochlearis |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az agyideg száma | Az agyideg megnevezése |\n|---|---|\n|  | magyarul | latinul |\n| VII. agyideg | arcideg |  |\n| II. agyideg | látóideg | nervus opticus |\n| X. agyideg |  | nervus vagus |\n| IV. agyideg | sodorideg |  |\n| VIII. agyideg | egyensúlyozó és hallóideg |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat az idegrendszer lehetséges fejlődési rendellenességei közül!",
+      "question_type": "open",
+      "correct_answer": "- microcephalus\n- encephalokele\n- meningokele\n- syringomyelia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa a szem részeit a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n1. kötőhártya\n2. szivárványhártya\n3. szemhéj\n4. ínhártya\n5. szaruhártya\n6. érhártya\nA szem védőkészülékei: ...., ....\nA szem külső burkának részei: ...., ....\nA szem középső burkának részei: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4., 5., 2., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írja le a scabies legjellemzőbb tüneteit!",
+      "question_type": "open",
+      "correct_answer": "- vakarási nyomok a testhajlatokban, övtájékon\n- finom zegzugos vonalrajzolat, apró járatok a bőrben\n- elsősorban éjszaka jelentkező kínzó, heves viszketés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Nevezze meg a liquorcsurgás helyét koponyaalapi törések esetén a törés\nlokalizációja szerint!\nElülső koponyagödör: ...\nKözépső koponyagödör: ...\nHátsó koponyagödör: ...",
+      "question_type": "fill_in",
+      "correct_answer": "liquorcsurgás az orrból...\nliquorcsurgás a fülből...\nliquorcsurgás a garat hátsó falán...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_aprilis_04_I_eumi_230404_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Párosítsa a fogalmakhoz a hozzájuk tartozó leírást! Írja a sorszámok mellé\na helyes válasz betűjelét!\n1. félig ülő helyzet\n2. Heimlich-féle műfogás\n3. Schanz-gallér\n4. sokk-fektetés\n5. Cramer-sín\n6. stabil oldalfektetés\n\nA. A nyak rögzítésére használatos eszköz.\nB. Célja a légutak szabaddá tételével és szabadon tartásával az eszméletlen\nsérültet megvédeni a fulladástól.\nC. Légúti idegentest eltávolítása esetén alkalmazzuk.\nD. A sérült felsőtestét 40-60°-ban kell megemelni és megtámasztani.\nE. A beteget vízszintes helyzetbe hozzuk, majd az alsó végtagjait megemeljük.\nF. Végtagi csontok törése esetén használatos eszköz.",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...A...., 4.-...E...., 5.-...F...., 6.-...B....",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q001_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 8,
+      "question_text": "Nevezze meg a fül részeit a megadott szempontok szerint!\nkülső fül részei:\n- fülkagyló\n- külső hallójárat\n- dobhártya\n\nközépfül részei:\n- dobüreg\n- hallócsontok\n- fülkürt (Eustach-kürt)\n\nbelső fül részei:\n- csontos labirintus\n- hártyás labirintus\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\n\ndobüreg\nhallócsontok\nfülkürt (Eustach-kürt)\n\ncsontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Határozza meg az antigén fogalmát és az immunrendszer reakcióinak lényegét a megadott szempontok alapján!\n\nAz antigén fogalma:\nAzok az anyagok, amelyek a szervezetbe jutva a szervezet\nimmunrendszerét védekező reakcióra késztetik.\n\nAz immunrendszer reakciói antigén hatására:\n- celluláris immunválasz:\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik,\nközömbösítik az antigént.\n\n- humorális immunválasz:\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek\na vérbe jutva közömbösítik az antigént.",
+      "question_type": "open",
+      "correct_answer": "Azok az anyagok, amelyek a szervezetbe jutva a szervezet immunrendszerét védekező reakcióra késztetik.\n\nAz immunrendszer sejtjeit aktiválja, amelyek a felületükön megkötik, közömbösítik az antigént.\n\nAz immunrendszer sejtjei ellenanyagot, antitestet termelnek, melyek a vérbe jutva közömbösítik az antigént.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Sorolja fel a reflexív részeit!",
+      "question_type": "open",
+      "correct_answer": "receptor\nérző neuron\nreflexközpont\nmozgató neuron\neffektor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q004_14pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 14,
+      "question_text": "Hasonlítsa össze a hypoglykaemiás coma és a\nhyperglykaemiás coma tüneteit a megadott szempontok szerint!\nTöltse ki a táblázatot!\n\n| Szempontok | Hypoglykaemiás coma | Hyperglykaemiás coma |\n|-------------|----------------------|-----------------------|\n| vércukorszint |  |  |\n| arcszín |  |  |\n| bőr tapintata |  |  |\n| légzés típusa |  |  |\n| pulzus |  |  |\n| vérnyomás |  |  |\n| lehelet |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | Hypoglykaemiás coma | Hyperglykaemiás coma |\n|-------------|----------------------|-----------------------|\n| vércukorszint | alacsony | magas |\n| arcszín | sápadt | piros |\n| bőr tapintata | verítékes, hűvös | száraz, meleg |\n| légzés típusa | normál légzés | Kussmaul-típusú |\n| pulzus | szapora, telt | szapora, elnyomható |\n| vérnyomás | normális | csökken |\n| lehelet | normális | acetonszagú |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q005_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 10,
+      "question_text": "Ismertesse a tüdőasztmát a megadott szempontok\nalapján!",
+      "question_type": "open",
+      "correct_answer": "Lényege: rohamokban jelentkező nehézlégzés a kilégzés jellegzetes\nnehezítettségével\n\nOka: a hörgők falában lévő simaizomzat rohamokban fellépő görcse, amit\na kishörgők nyálkahártyájának duzzanata kísér\n\nTünetei: Írjon hetet!\n- hirtelen jelentkező nehézlégzés\n- kínzó, heves köhögés\n- fulladásérzés\n- a légzési segédizmok igénybevétele\n- rövid, kapkodó belégzés\n- hosszan elnyúló, sípoló kilégzés\n- üvegszerű, tapadós köpet\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q006_12pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 12,
+      "question_text": "Sorolja fel a koponyacsontokat magyarul!\nÍrjon tizenkettőt!",
+      "question_type": "open",
+      "correct_answer": "felső állcsont\njáromcsont\nrostacsont\norrcsont\nállkapocs\nekecsont\nkönnycsont\nszájpadcsont\nhomlokcsont\nékcsont\nfalcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Párosítsa a latin kifejezéseket magyar\nmeghatározásukkal! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. myoma\n2. lipoma\n3. papilloma\n4. carcinoma\n5. sarcoma\n\nIzomszövet eredetű jóindulatú daganat: ......\nHámszövet eredetű rosszindulatú daganat: ......\nHámszövet eredetű jóindulatú daganat: ......\nZsírszövet eredetű jóindulatú daganat: ......\nKötőszövet eredetű rosszindulatú daganat: ......",
+      "question_type": "matching",
+      "correct_answer": "1\n4\n3\n2\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol tárolódik az oxitocin?\n- a hypophysis hátsó lebenyében\n- a hypophysis elülső lebenyében\nMi a hatása a szomatotrop (növekedési) hormonnak?\n- a csontok hosszirányú növekedésének serkentése\n- a csontok hosszirányú növekedésének gátlása\nHol termelődik a tiroxin?\n- a pajzsmirigyben\n- mellékvesékben\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a hypophysisben\nMi a szerepe a szomatosztatin hormonnak az emberi szervezetben?\n- a testnövekedést gátolja\n- a testnövekedést fokozza\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az ösztrogént\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a hypophysis hátsó lebenyében\na csontok hosszirányú növekedésének serkentése\na pajzsmirigyben\na csecsemőmirigyben\na testnövekedést gátolja\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "különleges harántcsíkolt izom\nakaratunktól független, ritmusos összehúzódás jellemzi\nműködésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb feletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem reagál\nműködését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom összehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\nvalamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódási helyhez a megfelelő anyagot!\nÍrja a sorszámokat a megfelelő helyre!\n1. víz\n2. zsírok\n3. alkohol\n4. ásványi anyagok\n5. szénhidrátok\n6. fehérjék\ngyomor: ......\nvékonybél: ......\nvastagbél: .......",
+      "question_type": "fill_in",
+      "correct_answer": "3\n2., 5., 6.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Határozza meg az elsődleges vizelet jellemzőit a\nmegadott szempontok alapján!\nMennyisége:\nFajsúlya:\nÖsszetétele: Írjon négyet!\n- víz\n- ásványi anyagok\n- cukor\n- aminosavak\n- festékanyagok",
+      "question_type": "open",
+      "correct_answer": "napi 180 l\n1010 g/l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes\nmegállapításokat!\n- a nyelőcső izmos falú szerv\n- a nyelőcső a garat és gyomor mellett helyezkedik el\n- a nyálmirigyek külső elválasztású mirigyek\n- a nyelőcső feladata a tápanyagok felszívása és továbbítása\n- a nyelés reflexfolyamat\n- a felnőtt ember teljes fogazata: 34 fogból áll\n- a garatot nyálkahártya béleli\n- a nyelvnek csak az ízérzésben van szerepe\n- a nyálelválasztás reflexfolyamat\n- a nyál szénhidrátbontó enzimeket tartalmaz (ptialin, maltáz)\n(Csak a 6 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a nyelőcső izmos falú szerv\na nyelőcső a garat és gyomor mellett helyezkedik el\na nyálmirigyek külső elválasztású mirigyek\na nyelés reflexfolyamat\na garatot nyálkahártya béleli\na nyálelválasztás reflexfolyamat\na nyál szénhidrátbontó enzimeket tartalmaz (ptialin, maltáz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel az akut vesemedence-gyulladás tünetei\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_februar_13_II_eumii_0213_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a spermiumok a herék szerkezetén belül?\nMely férfi nemi szervben tárolódnak a spermiumok?\nHol helyezkedik el a prosztata?\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "fill_in",
+      "correct_answer": "a herecsatornák falának hámjában...\na mellékherékben...\na húgyhólyag alatt...\na hasüregben...",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azok a testidegen anyagok, amelyek a szervezetbe jutva immunválaszt\nváltanak ki, és ennek eredményeként specifikus ellenanyagok, illetve\nimmunsejtek képződnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a fertőzés terjedési módjaira három-három példát!\nközvetlen érintkezés: ...\nközvetett terjedés: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "kézfogás, csók, szexuális érintkezés, állatharapás...\ncseppfertőzés, víz közvetítésével, élelmiszerek által, a talaj közvetítésével, tárgyak közvetítésével, intrauterin fertőzések...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa csontokhoz jellemzőiket/leírásukat! Írja a betűjelek mellé a helyes\nválasz sorszámát!\n\nA. nyakszirtcsont\nB. térdkalács\nC. rostacsont\nD. sípcsont\nE. falcsont\n\n1. négyszögletes, páros csont, a koponyatető kialakításában vesz részt\n2. a bokaízület alkotásában vesz részt\n3. a foramen magnumot határolja\n4. páratlan csont, a szem- és az orrüreg határolásában vesz részt\n5. gesztenye alakú, lapos csont",
+      "question_type": "matching",
+      "correct_answer": "A.-...3...., B.-...5...., C.-4..., D.-.2., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Soroljon fel gerincferdülés lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "az egyik oldali váll, illetve csípő magasabban állása\nsánta járás\nfizikai terhelhetőség csökkenése\nhátfájdalom\nháti, vagy mellkasi bordapúp",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 6,
+      "question_text": "Rendezze az anatómiai képleteket a megadottak szerint! Írja a sorszámokat\na megfelelő helyre!\n1. arteria pulmonalis dextra et sinistra\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. jobb kamra\n6. bal kamra\n\nA kisvérkörhöz tartozó anatómiai képletek: ...\nA nagyvérkörhöz tartozó anatómiai képletek: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Írja le az arterioventricularis (AV) -blokk fajtáinak lényegét!\n- I. fokú AV-blokk: ...minden ingerület átterjed a pitvarról a kamrára, de\n- II. fokú AV-blokk: ...csak minden második ingerület tevődik át a pitvarról a\n- III. fokú AV-blokk: ...az ingerület a pitvarokról egyáltalán nem tevődik át a",
+      "question_type": "open",
+      "correct_answer": "késve...\nkamrára...\nkamrákra...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a légcsőre vonatkozó helyes megállapításokat!\n- C-alakú porcokból álló cső\n- O-alakú porcokból álló cső\n- latin neve: larynx\n- latin neve: trachea\n- a benne elhelyezkedő hangszalagokat a levegő rezegteti meg\n- a gégét a tüdővel köti össze\n- belső felszínét nyálkahártya borítja\n- belső felszínét csillószőrös hengerhám borítja\n- két szimmetrikus főhörgőre ágazik el\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "C-alakú porcokból álló cső\nlatin neve: trachea\na gégét a tüdővel köti össze\nbelső felszínét csillószőrös hengerhám borítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül ötöt magyarul!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Nevezze meg az emésztőrendszer alsó szakaszának részeit latinul!",
+      "question_type": "open",
+      "correct_answer": "- саесит\n- colon ascendens\n- colon transversum\n- colon descendens\n- colon sigmoideum\n- rectum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Írja le a köszvény lényegét!",
+      "question_type": "open",
+      "correct_answer": "A húgysavanyagcsere zavara következtében húgysavkristályok keletkeznek, amelyek az ízületekben felhalmozódva gyulladásos rohamokat okoznak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a vesékre vonatkozó megállapításokat a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n\n1. A hilus renalison lép be a vesevéna a vesébe, a veseartéria pedig kilép.\n2. A hilus renalison lép be a veseartéria a vesébe, a vesevéna pedig kilép.\n3. A vesekelyhek a vesemedencébe torkollanak.\n4. A vese a hasüreg elülső alsó részében helyezkedik el a gerinc két oldalán.\n5. A veséknek alapvető szerepük van a só- és vízháztartás szabályozásában.\n6. A vesék termelik az aldoszteron nevű hormont, ami csökkenti a Na-ion és a\nvíz visszaszívását, és ez növeli az ürített vizelet mennyiségét.\n\nIgaz állítás: ...\n\nHamis állítás: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Ismertesse a veseelégtelenséget a megadott szempontok szerint!\n\nLényege: ...A vesék nem képesek kellő mennyiségű és koncentrációjú vizeletet\ntermelni, a kiválasztandó anyagok visszamaradnak a vérben és mérgezik a\nszervezetet....\n\nA vese eredetű heveny veseelégtelenség lehetséges okai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A vesék nem képesek kellő mennyiségű és koncentrációjú vizeletet\ntermelni, a kiválasztandó anyagok visszamaradnak a vérben és mérgezik a\nszervezetet....\n\nterhességi vesebaj\nnem csoportazonos vér adása\nglomerulonephritis acuta\nmérgezések (pl. gomba, nehézfémsók)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "baktérium\na vizeletürítés károsodása\nvisszaáramlás a prosztata kivezetőcsöveiben\nimmunrendszeri tényezők\nkémiai anyagok\nlelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány rétegből áll az uterus fala?",
+      "question_type": "fill_in",
+      "correct_answer": "három",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az endokrin rendszerre vonatkozó helyes megállapításokat!\nA növekedési hormon a pubertás időszakában termelődik, kb. 21 éves korig.\nA calcitonin csökkenti a vér kálciumszintjét.\nAz FSH férfiaknál leállítja a herékben az ondósejtek képződését.\nAz LH hatására indul meg a tejelválasztás a szülést követően.\nAz LTH a szülés után megindítja és fenntartja az emlőmirigyben a\ntejelválasztást.\nA parathormon hatása a calcitoninnal ellenkező hatású.\nA pajzsmirigy termeli az aldoszteront és a calcitonint.\nAz oxitocin hatását terhesség alatt a magas progeszteronszint gátolja, ezért\nnem vált ki erős méhösszehúzódásokat.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A calcitonin csökkenti a vér kálciumszintjét.\nAz LTH a szülés után megindítja és fenntartja az emlőmirigyben a\ntejelválasztást.\nA parathormon hatása a calcitoninnal ellenkező hatású.\nAz oxitocin hatását terhesség alatt a magas progeszteronszint gátolja, ezért\nnem vált ki erős méhösszehúzódásokat.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Egészítse ki a gerincvelővel kapcsolatos mondatokat!\nA gerincvelő kb. ... vastagságú puha köteg, amely a csigolyák által\nhatárolt ... helyezkedik el. Felső vége a koponyaalapon\nlévő ... magasságában található, majd belépve a koponyába a\n... folytatódik. A gerincvelőt többrétegű burok veszi körül, mely\nrétegek között az ... kering.",
+      "question_type": "fill_in",
+      "correct_answer": "ujjnyi\ngerinccsatornában\nöreglyuk\nnyúltvelőben\nagyvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertessen az arcidegzsába fájdalmának jellegzetességei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a fájdalom féloldalon jelentkezik\n- a fájdalmas oldalon az arc görcsösen összehúzódik\n- a fájdalom pár másodpercig tart, naponta többször ismétlődhet\n- a rohamok napokig, hetekig tartó periódusokban lépnek fel\n- fokozatosan rövidülő, változó hosszúságú fájdalommentes időszakok lehetnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nLátószerv receptorai: ...\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "csapok, pálcikák\nszőrsejtek\nCorti-szerv\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Méniére-betegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- rohamokban jelentkező, forgó jellegű szédülés\n- hányinger, hányás\n- szemtekerezgés\n- fülzúgás/fülcsengés\n- halláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi állapotokhoz a megfelelő fektetési/elhelyezési módot!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. erősen vérző arckoponya sérült\n2. orrvérzés\n3. ájulás\n4. eszméleténél lévő sérült/beteg keringési-, légzési eredetű nehézlégzése, nyílt\nés zárt mellkasi sérülések, bordatörés\n5. jól lélegző, kielégítő keringésű eszméletlen beteg\nA. félig ülő helyzet\nB. hanyatt fekvő helyzet, megemelt alsó végtagokkal, sokkfektetés\nC. hason fektetés, a homlok és a mellkas alá összecsavart plédet, ruhadarabot\ntéve\nD. stabil oldalfektetés\nE. nyugalomba helyezés, a fej előrehajtása",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...E..., 3.-...B...., 4.-A...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_februar_09_V_eumv_0209-230214_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertessen a ficam tünetei/jellemzői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fájdalom, ami nyugalomban is jelentkezik\ndeformitás, durva alakváltozás\naz ízület működése megszűnik/mozgásképtelenség\n„rugalmas rögzítettség\"\naz ízületi fej az ízületen kívül tapintható",
+      "options": []
+    }
+  }
+]

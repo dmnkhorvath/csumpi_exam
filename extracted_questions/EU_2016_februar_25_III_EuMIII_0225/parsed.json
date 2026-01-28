@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg, mely szervben találhatók az alábbi\nanatómiai képletek!\nCsontos labirintus: ...\nBowman-tok: ...\nHis-köteg: ...\nLangerhans-szigetek: ...\nsugártest: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fül\nvese\nszív\nhasnyálmirigy\nszem",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa a latin kifejezéseket magyar megfelelőikkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. ventralis\n2. centralis\n3. inferior\nA. központi\nB. alsó\nC. hasi irányú",
+      "question_type": "matching",
+      "correct_answer": "C, A, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi felsorolásból a vörös csontvelő\nfeladatait!\n- hézagpótló szerep\n- vörösvérsejtek képzése\n- lymphocyták képzése\n- granulocyták képzése\n- vérlemezkék képzése\n- vér raktározása\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "vörösvérsejtek képzése\ngranulocyták képzése\nvérlemezkék képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal!\nÍrja a meghatározásokhoz a helyes válasz sorszámát!\n1. osteoporosis\n2. rachitis\n3. spina bifida\n4. arthrosis\n\nA csigolyaívek záródásának hiánya: ......\nA csontok szervetlen és szerves állományának csökkenése: ......\nAz ízületi porc kopása:......\nD-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba:\n......",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n4\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Nevezzen meg kettő-kettő olyan betegséget, illetve\nállapotot, melyek a vér vegyhatásának alábbi változásaival\njárnak!\n\nAcidosis:\n-\n-\n-\n\nAlkalosis:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "vesebetegség\nkiterjedt tüdőbetegségek (szén-dioxid felszaporodása a vérben)\ncukorbetegség\nnagyfokú hányás\nhasmenés\nlégzészavarok (fokozott szén-dioxid leadás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légmell (pneumothorax) tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fulladásérzés\nfelületes, szapora légzés\nszapora szívműködés\nmellkasi szúró fájdalom\nverejtékezés\ncianózis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a kérdéshez tartozó helyes választ!\nHol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\nMelyek a tüdő saját vérellátását biztosító erek?\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\nMi biztosítja a légutak legfelső részébe került idegen anyagok eltávolítását?\n- a tüsszentés\n- a köhögés\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\ngarat orri szakaszába\narteria és vena bronchialis\na tüsszentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Nevezze meg a tápcsatorna alsó szakaszának részeit magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "vakbél\nfelszálló vastagbél\nharánt vastagbél\nleszálló vastagbél\nszigmabél\nvégbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Egészítse ki a gyomor részeire vonatkozó táblázatot!\nA gyomor részei\n| magyarul | latinul |\n|---|---|\n|  | cardia |\n| gyomoralap |  |\n|  | corpus |\n| gyomorkapu |  |\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n| gyomorszáj |  |\n|  | fundus |\n| test |  |\n|  | pylorus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "terhességi vesebaj (toxaemia)\nglomerulonephritis acuta\nnehézfémsó mérgezés\ngombamérgezés\nvércsoport összeférhetetlenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik az eritropoetin?\nMennyi a végleges vizelet fajsúlya?\nTartalmaz-e élettanilag urobilinogént a végleges vizelet?\nTartalmaz-e élettanilag bilirubint a végleges vizelet?\nMely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba\nágyazva?",
+      "question_type": "fill_in",
+      "correct_answer": "vesékben\n1020-1025\ntartalmaz\nnem tartalmaz\nmellékvese",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Ismertesse a férfiklimax jellemzőit! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- potencia- és ejakulációs zavarok kísérik\n- fizikai teljesítőképesség csökken\n- jellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul a külső és a belső férfi nemi\nszerveket!\nkülső nemi szervek:\n-\n-\nbelső nemi szervek:\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "herezacskó\nhímvessző\nhere\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Basedow-kór (hyperthyreosis) tünetei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "kidülledt szemek\nszapora szívműködés\njó étvágy melletti fogyás\nhasmenés\nmagas vérnyomás\nállandó hőemelkedés\nizgatottság\nnyirkos tenyér és talp, fokozott verejtékezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi, belső elválasztású mirigyek\nelhelyezkedését!\n\nHipofízis: \nCsecsemőmirigy: \nHasnyálmirigy:",
+      "question_type": "fill_in",
+      "correct_answer": "a koponyaalapon az ékcsont árkában\na gátorüregben a szegycsont mögött\na patkóbél homorulatában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- hőemelkedés\n- hányinger\n- sugárhányás\n- látászavarok\n- csillapíthatatlan köhögés\n- szédülés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátászavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Sorolja fel a reflexív részeit!",
+      "question_type": "open",
+      "correct_answer": "receptor\nérző neuron (afferens szár)\nreflexközpont\nmozgató neuron (efferens szár)\neffektor (válasz), végkészülék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit magyarul!\nKülső fül részei:\n-\n-\n-\nKözépfül részei:\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül\nhármat!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\nsebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó\nfeladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "helyzet felmérése\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezése\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_25_III_EuMIII_0225_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 2,
+      "question_text": "Határozza meg a rándulás és a ficam lényegét!\nrándulás:\n...erőbehatásra az ízületi fej elhagyja az ízületi árkot (vápát), de oda\nidőn belül magától visszatér...\nficam:\n...erőbehatásra az ízületi fej elhagyja az ízületi árkot (vápát), de magától\nnem tér oda vissza\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "rövid",
+      "options": []
+    }
+  }
+]

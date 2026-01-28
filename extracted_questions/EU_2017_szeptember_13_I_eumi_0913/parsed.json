@@ -1,0 +1,316 @@
+[
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a meghatározott\nszempontok szerint! Írja a megadott csoportokhoz\na helyes válasz sorszámát!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt-szaporulat\n5. melegség\n\ngyulladás helyi tünetei: ...\ngyulladás általános tünetei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\n\nOka:\n\nTünetei: Írjon kettőt!\n- a csontok lágyak, görbültek\n- gerincferdülés\n- petyhüdt izomzat\n\nA betegség megelőzése: Írjon egyet!\n- D3-vitamin adása\n- helyes táplálás\n- szűrt fényben történő napoztatás",
+      "question_type": "open",
+      "correct_answer": "A D-vitamin hiánya.\n\n- a csontok lágyak, görbültek\n- gerincferdülés\n- petyhüdt izomzat\n\n- D3-vitamin adása\n- helyes táplálás\n- szűrt fényben történő napoztatás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!\n- homlokcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": [
+        "homlokcsont",
+        "falcsont",
+        "halántékcsont",
+        "nyakszirtcsont"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\ncoronaria keringési zavarok\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Csoportosítsa a betegségek jellemzőit, tüneteit a megfelelő 5 pont\nkórképhez!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. nagyvérköri pangás\n2. kisvérköri pangás\n3. boka-, lábszár ödéma, hasvízkór\n4. tüdőödéma\n5. vizelet mennyisége csökken\n\nbalszívfél-elégtelenség: ...\n\njobbszívfél-elégtelenség: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4.,\n1., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légutak középső, és alsó részébe került idegen anyag és az ott keletkezett\nváladék eltávolítására szolgáló reflex:\n- tüsszentés\n- köhögés\nA légzőközpont helye:\n- nyúltvelő\n- kisagy\nA szimpatikus idegrendszer hatására a légzésszám:\n- csökken\n- emelkedik\nA paraszimpatikus idegrendszeri hatásra a bronchusok:\n- szűkülnek\n- tágulnak\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köhögés\nnyúltvelő\nemelkedik\nszűkülnek",
+      "options": [
+        "tüsszentés",
+        "köhögés",
+        "nyúltvelő",
+        "kisagy",
+        "csökken",
+        "emelkedik",
+        "szűkülnek",
+        "tágulnak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a\nmegadott szempontok alapján!\n\nLényege:\nA hörgők falában lévő simaizomzat rohamokban fellépő görcse, amit a\nkishörgők nyálkahártyájának duzzanata kísér.\n\nRohamot kiváltó allergének lehetnek: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, amit a\nkishörgők nyálkahártyájának duzzanata kísér.\n\n- virágpor\n- állat szőr\n- toll\n- kémiai anyag\n- étel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "info",
+      "points": 0,
+      "question_text": "(A betegség lényegére 2 pont, az allergénekre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nkisagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó köteg\nA. vegetatív neuronok\n2. oldalköteg\nB. mozgató neuronok\n3. elülső-oldalsó köteg\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nFogalma:\n\nFeladata: Írjon egyet!\n- mechanikus támasztó, térkitöltő, elhatároló funkció\n- gátat képez a véráram és az idegszövet határán (vér-agy gát)\n\nJellemzője: Írjon egyet!\n- az agyszövet nagyfokú védelmét biztosítja a vérben keringő esetleges\nkáros anyagokkal szemben\n- a vérből bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot -\nenged át\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Az idegszövet sejtközötti állománya, az idegrendszer támasztószövete.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nnefron:...\nelsődleges vizelet: ...\nhomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma fehérjementes szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa a megadott betegségekhez tüneteiket!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. deréktáji éles fájdalom\n2. ödéma (szemhéjon, arcon, kézen)\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. fájdalom, mely a comb belső oldalára, illetve a herékbe, vagy a\nnagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\nvesekövesség: ...1., 4., 5....\nglomerulonephritis acuta: ...2., 3., 6....",
+      "question_type": "fill_in",
+      "correct_answer": "vesekövesség: ...1., 4., 5....\nglomerulonephritis acuta: ...2., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\nMi a szerepe a sárgatesthormonnak?\nHol található a sárgatest?\nMi a széles méhszalag feladata?\nMely hormon felelős a női nemi jelleg kialakulásáért?",
+      "question_type": "open",
+      "correct_answer": "...a méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására...\n...a petefészek kéregállományában...\n...a méhet és a petefészket rögzíti...\n...az ösztrogén...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a hererák betegséget az alábbi szempontok\nszerint!\n\nA betegség lényege:\n\nA betegség tünete: Írjon egyet!\n-\n-\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "Rosszindulatú daganatos elváltozás a herében, amely a nyirokerek és a\nkeringés útján terjed.\na here tapintatának megváltozása\ncsomók megjelenése a here felszínén\na here műtéti eltávolítása\nkemoterápia\nradikális nyirokhálózat-eltávolítás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) kiváltó okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegentest\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Oka: ...a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit...\nTünetei: Írjon kettőt!\n- halláscsökkenés\n- heves, forgó jellegű szédülés\n- hányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki a táblázatot!\n| A hormon neve | A hormon hatása | \n|---------|---------|\n| STH |  |\n| ADH |  |\n| FSH | nő |\n|  | férfi |\n| tiroxin |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása |\n|---------|---------|\n| STH | - a test növekedésének szabályozása\n- fokozza a fehérjeszintézist |\n| ADH | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó\n- emeli a vérnyomást |\n| FSH | - megindítja a tüszőérést\n- a petefészekre hat |\n|  | - fokozza a spermatogenezist\n- a herékben megindítja az ondósejtek képződését |\n| tiroxin | - fokozza az anyagcserét\n- szabályozza a szöveti oxidációt |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nhallószerv receptora: ...\negyensúlyozó szerv receptorai: ...\nlátószerv receptorai: ...\nszaglószerv receptorai: ...\nízlelőszerv receptorai: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám-sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertesse keringésmegállás lehetséges okait!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "szívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_szeptember_13_I_eumi_0913_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "patkóbél\néhbél\ncsípőbél",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 6,
+      "question_text": "Soroljon fel hatot a gyulladás hatására jelentkező általános tünetek közül!",
+      "question_type": "open",
+      "correct_answer": "láz\nfehérvérsejtszám-emelkedés\nvérsejtsüllyedés-gyorsulás\nthrombocyták összetapadása\nC-reaktív proteinszint-emelkedés\nprokalcitoninszint-emelkedés\nétvágytalanság\nfogyás\nfáradékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Nevezze meg a lehetséges sejtosztódási formákat!",
+      "question_type": "open",
+      "correct_answer": "direkt sejtosztódás (amitózis)\nindirekt sejtosztódás (mitózis)\nfelező sejtosztódás (meiózis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa az izmokat jellemzőjükkel! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n1. nagy farizom\n2. deltaizom\n3. hasizom\nA. főleg széles, lapos izomból áll\nB. az injekció izomba történő beadásának gyakori helye\nC. részt vesz a váll jellegzetes alakjának kialakításában",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Definiálja az alábbi fogalmakat!\n- izomtónus: ...\n- antagonista izmok: ...\n- szinergista izmok: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "nyugalomban lévő izom feszülési állapota...\naz izmok működése egymással ellentétes hatású...\negymás működését segítő izmok...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a vér szerepét! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- tápanyaggal látja el a sejteket\n- oxigént és egyéb anyagokat szállít\n- a bomlástermékeket elszállítja a sejtekből\n- részt vesz az immunvédekezésben\n- részt vesz a szervezet hőszabályozásában\n- a szervezet belső miliőjének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Csoportosítsa a sokk lehetséges okait! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n1. anafilaxia\n2. égés\n3. vérmérgezés\n4. vérzés\n5. folyadékvesztés\n6. mellékvese-elégtelenség\n\ndisztributív sokk okai: ...\nhypovolaemiás sokk okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 6....\n2., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul a mozgásrendszer alábbi sérüléseit!\n- ízületi ficam: ...\n- szakadás: ...\n- ízületi rándulás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "luxatio\nruptura\ndistorsio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 3,
+      "question_text": "Sorolja fel magyarul az alsó légutakat!",
+      "question_type": "open",
+      "correct_answer": "gége\nlégcső\ntüdő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa a légzőszervi betegségeket leírásukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. hörghurut\n2. tüdőembólia\n3. tüdővizenyő\n4. mellhártyagyulladás\n5. COPD",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...E...., 3.-...A..., 4.-...C., 5.-..B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Soroljon fel a gyomorfekély lehetséges szövődményei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nátfúródás (perforáció)\ngyomordaganat\ngyomorkapu-szűkület/pylorusszűkület",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső szakaszának részeit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": [
+        "csípőbél",
+        "szájüreg",
+        "gyomor",
+        "patkóbél",
+        "végbél",
+        "vastagbél",
+        "éhbél",
+        "nyelőcső"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 1,
+      "question_text": "A szív melyik üregébe ömlik a vena pulmonalis?",
+      "question_type": "multiple_choice",
+      "correct_answer": "bal pitvar",
+      "options": [
+        "jobb pitvar",
+        "bal pitvar",
+        "jobb kamra",
+        "bal kamra"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a férfi és a női húgycsövet a megadott szempontok alapján!\nTöltse ki a táblázatot!\n\n| Szempontok | férfi húgycső | női húgycső |\n|---|---|---|\n| hossza |  |  |\n| lefutása |  |  |\n| külvilágba nyílás helye |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | férfi húgycső | női húgycső |\n|---|---|---|\n| hossza | 25 cm | 3-4 cm |\n| lefutása | két görbülete van | egyenes |\n| külvilágba nyílás helye | a makk csúcsán | csikló és a hüvely között |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr-, és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- inzulin\n- glükagon\n- szomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Sorolja fel a méhnyálkahártya felépülésének és lelökődésének fázisait latin szakkifejezéssel!",
+      "question_type": "open",
+      "correct_answer": "regeneratio/regeneráció\nproliferatio/proliferáció\nsecretio/szekréció\nmenstruatio/menstruáció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Írja le a rejtettheréjűség lényegét!",
+      "question_type": "open",
+      "correct_answer": "A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a lágyékcsatornában tapinthatóak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző rendszerének sejtjeire jellemző:",
+      "question_type": "multiple_choice",
+      "correct_answer": "spontán depolarizáció",
+      "options": [
+        "gyors Na+-csatornák nagy számban vannak jelen",
+        "a nyugalmi membránpotenciál közel van a Na+-egyensúlyi potenciálhoz",
+        "spontán depolarizáció",
+        "a repolarizációért a feszültségfüggő Na+-csatornák felelősek",
+        "a repolarizációért a feszültségfüggő Ca2+-csatornák felelősek"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja\na sorszámokat a megfelelő helyre!\n\n1. diabetes insipidus\n2. gigantismus\n3. Basedow-kór\n4. myxoedema\n\nAz endokrin mirigy túlműködése okozza: ....\n\nAz endokrin mirigy alulműködése okozza: ....",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Ismertesse a kalcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "- csökkenti a vér kalciumszintjét\n- segíti a Ca-ionok beépülését a csontokba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a Conn-szindróma lényegét!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Írja le a neurogliával kapcsolatos ismereteit! Írjon öt jellemzőt!",
+      "question_type": "open",
+      "correct_answer": "- az idegszövet sejtközötti állománya\n- működése a többi szerv kötőszövetéhez hasonlítható\n- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem\n- a központi és perifériás idegrendszerben is megtalálható, de az idegfolyamatokban nem vesz részt\n- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a neuronoktól\n- a centrális és a perifériális idegrostok hüvelyét építi fel\n(Helyes válaszonként 1-1 pont adható!)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na helyes válasz sorszámát a megfelelő helyre!\n\n1. hálózatos sejtrendszer (formatio reticularis)\n2. híd\n3. hypothalamus\n4. thalamus\n5. nyúltvelő\n\nagytörzs: ...., ...., ....\n\nköztiagy: ...., ....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5.\n3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse a foglalkozási betegségként jelentkező zajártalom lehetséges\ntüneteit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- ingerlékenység\n- türelmetlenség\n- fokozott fáradtságérzés\n- fülcsengés/fülzúgás\n- halláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kancsalság lényegét!",
+      "question_type": "open",
+      "correct_answer": "A két szem összehangolt, párhuzamos működésének sérülése következtében a\nszemtengelyek keresztezik egymást, így az ideghártya különböző pontjaira vetül\na kép, ami homályos látást eredményez.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Nevezze meg az érzékszervek feladatait!",
+      "question_type": "open",
+      "correct_answer": "- az ingerek felvétele\n- az ingerek ingerületté alakítása\n- az ingerület továbbítása a központi idegrendszerhez",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet az elsősegélynyújtó teendői közül napszúrás előfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "- sötét, hűvös helyen való elhelyezés\n- magasra polcolt felsőtesttel való fektetés\n- homlokra, tarkóra vizes borogatás felhelyezése\n- folyadékpótlás (kortyonkénti itatás)\n- fejfájás csillapítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_11_I_eum1-201111_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a rándulás tüneteit!\n- ízületi működés csökkenése\n- duzzanat\n- „rugalmas rögzítettség\"\n- lilás elszíneződés\n- durva alakváltozás\n- csontvégek ropogása\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "ízületi működés csökkenése\nduzzanat\nlilás elszíneződés",
+      "options": []
+    }
+  }
+]

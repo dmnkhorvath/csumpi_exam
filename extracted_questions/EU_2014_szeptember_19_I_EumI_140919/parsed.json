@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Sorolja fel a sejt részeit! Írjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "sejtmembrán\nmitokondrium\nsejtmag\nsejtplazma\nmembrán organellumok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a kórlefolyás meghatározásaihoz tartozó\nhelyes választ!\nA kórokozó behatolásától a tünetek megjelenéséig tartó szakasz:\n- lappangási szakasz\n- bevezető szakasz\nA betegségre jellemző speciális tünetek megjelenése, amelyek alapján\nfelállítható a kórisme:\n- kimeneteli szakasz\n- kifejlődés szakasza\nElhúzódó lefolyású betegség (maximum 4-6 hét):\n- heveny / akut\n- félheveny / szubakut\nA betegség folyamán aktív és nyugalmi szakaszok váltakoznak:\n- heveny / akut\n- idült / krónikus\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "lappangási szakasz\nkifejlődés szakasza\nfélheveny / szubakut\nidült / krónikus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Nevezze meg és jellemezze a csontszövetet felépítő\nállományokat!",
+      "question_type": "open",
+      "correct_answer": "szerves rész (kb. 30-40%) – osszein: ami kötőszöveti rostokból, fehérjét\nés szénhidrátot tartalmazó összetett molekulákból épül fel, a csont\nrugalmasságát adja\nszervetlen rész. (kb. 60-70%): elsősorban kálciumsók alkotják, de\nmintegy 20 különböző elem található benne, a csontok szilárdságát adja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul és ismertesse röviden a\nmozgásrendszert érintő alábbi sérüléseket!",
+      "question_type": "open",
+      "correct_answer": "Ruptura: az izmok, inak, szalagok szakadása\nDistorsio: rándulás, amikor erőbehatásra az ízületi fej elhagyja az\nízületi árkot, de magától visszatér\nLuxatio: ficam, amikor erőbehatásra az ízületi fej az ízületi árkon\nkívülre kerül, és magától nem tér vissza\nFractura: csonttörés, amikor hirtelen erőbehatásra (trauma) a csont\nfolytonossága megszakad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a lymphocyták?\n...\nHol történik a vörösvértestek képzése?\n...\nHol történik a vörösvértestek lebontása?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyirokrendszerben\na vörös csontvelőben\na lépben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg az ABO-vércsoportrendszer elemeit!\nEgészítse ki a táblázatot!\n\n| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A |  |  |\n| B |  |  |\n| AB |  |  |\n| 0 | - |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport típusa | Vörösvértest (Agglutinogén) | Szérum (Agglutinin) |\n|---|---|---|\n| A | A | anti B |\n| B | B | anti A |\n| AB | AB | - |\n| 0 |  | anti A, anti B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség legfontosabb tüneteit!\n- nehézlégzés\n- telt nyaki vénák\n- tüdőödéma\n- cianózis\n- bőséges éjszakai vizeletürítés\n- köhögés\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "nehézlégzés\ntüdőödéma\ncianózis\nköhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó táblázatot! Írja be a magyar, illetve a latin megfelelőt!\n\n|   |   |\n|---------|---------|\n| orr | nasus |\n| garat |  |\n|  | larynx |\n|  | trachea |\n|  | pulmo |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|   |   |\n|---------|---------|\n|  |  |\n|  | pharynx |\n| gége |  |\n| légcső |  |\n| tüdő |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Határozza meg a tüdőtágulat (emphysema pulmonum) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A léghólyagok és a közöttük lévő sövények fala elvékonyodik, majd átszakad és egy közös üreggé egybeolvad.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső\nszakaszának részeit!\n- végbél\n- csípőbél\n- szájüreg\n- gyomor\n- patkóbél\n- vastagbél\n- nyelőcső\n- éhbél\n- garat\n(Csak a négy /4/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet játszó tényezők közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "egyes gyógyszerek (szalicilátok)\nfertőzés (helicobacter pylori)\nétrendi hibák (koffein, fűszerek, rendszertelen étkezés)\nfokozott sav- és pepszintermelés\ndohányzás\nörökletes tényezők\néletmódbeli és idegrendszeri tényezők (szorongás, stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Húzza alá a felsoroltak közül azokat az anyagokat, amelyeket a normál vizelet NEM tartalmaz!\n- karbamid\n- húgysav\n- epefesték (bilirubin)\n- foszforsav\n- genny\n- cukor\n- só\n- urobilin\n- víz\n(Csak a három /3/ helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "epefesték (bilirubin)\ngenny\ncukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!\nÍrja a megfelelő betegségek mellé a jellemző tünetek\nsorszámát a pontozott vonalra!\n1. éles görcsös fájdalom a deréktájon\n2. szemhéj-, arc-, kéz ödéma\n3. magas vérnyomás\n4. kínzó vizelési inger\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a nagyajkakba\nsugárzik\n6. a vizeletben fehérje jelenhet meg\nVeseköves roham: ...\nGlomerulonephritis acuta: ...",
+      "question_type": "matching",
+      "correct_answer": "1, 4, 5\n2, 3, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Sorolja fel a méh falának rétegeit magyarul és latinul!",
+      "question_type": "open",
+      "correct_answer": "a hashártya által borított külső réteg - perimetrium\na középső (legvastagabb) réteg az izomzat - myometrium\na belső réteg a nyálkahártya - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Soroljon fel a méhnyakrák diagnosztizálására alkalmas módszerek közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "kolposzkópos vizsgálat\nszövettani vizsgálat\nbimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ olyan betegséget, amely férfiaknál 3 pont\na húgycső felőli felszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "fill_in",
+      "correct_answer": "FSH - folliculusstimuláló hormon\nLH - luteinizáló hormon\nLTH - luteotrop hormon",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n\n|   | Adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|   | Adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés | gyorsul |\n| légzésszám | emelkedik |\n| vérnyomás | emelkedik |\n| vércukorszint | emelkedik |\n| bélműködés | perisztaltika csökken |\n| pupillák | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Nevezze meg és jellemezze röviden a neuron ideg-\nnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "- terminális idegvégződés: más típusú szövettel képez kapcsolatot\n- intercalaris idegvégződés: az idegnek egy másik idegen van a végződése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó\nalábbi kérdésekre!\n\nMely lebenyben találhatók a látóközpontok?\n\nHol található a hallás kérgi központja?\n\nHogyan nevezzük az idegrendszer támasztószövetét?",
+      "question_type": "fill_in",
+      "correct_answer": "...a nyakszirti lebenyben...\n...a halánték lebenyben...\n.........neuroglia...........",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nItt történik az ingerület átadása egyik idegsejtről a másikra az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q022_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 1,
+      "question_text": "Ismertesse röviden sclerosis multiplex lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az idegsejt myelinhüvelyének pusztulásával járó kórkép.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 6,
+      "question_text": "Sorolja fel a külső- és a középfül részeit!\nKülső fül részei:\n\n\n\nKözépfül részei:\n\n\n",
+      "question_type": "open",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt (Eustach- kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Nevezze meg az emlőgyulladás (mastitis) okát, tüneteit!\nOka:\nTünetei: Írjon négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "gennykeltő baktériumok jutnak be az emlőbe\nemlőfájdalom\nemlőduzzanat\nélénkpiros bőrpír\nlokális bőrmelegség\nláz\nhidegrázás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q025_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 7,
+      "question_text": "Sorolja fel a csonttörés (fractura) tüneteit!\nÍrjon hetet /7/!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2014_szeptember_19_I_EumI_140919_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Határozza meg elsősegélynyújtáskor a sérült fektetési\nmódját az alábbi állapotokban!\n\nEszméletlenség: ...\n\nKlinikai halál (újraélesztéskor): ...\n\nHasi sérülés: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, lábakat térdben felhúzva",
+      "options": []
+    }
+  }
+]

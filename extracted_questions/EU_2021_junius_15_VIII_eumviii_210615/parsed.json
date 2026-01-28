@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a szakkifejezések hiányzó latin, vagy magyar\nmegfelelőjével!\n\n| Szakkifejezések |  |\n|---------|---------|\n| latinul | magyarul |\n| acut |  |\n| chronicus |  |\n| morbus |  |\n| benignus |  |\n| degeneratio |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---------|---------|\n| latinul | magyarul |\n|  | heveny |\n|  | idült |\n|  | betegség |\n|  | jóindulatú |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a sejt életjelenségeit!",
+      "question_type": "open",
+      "correct_answer": "anyagcsere\nsejtmozgás\ningerlékenység\nsejtnövekedés\nsejtosztódás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- homlokcsont\n- ékcsont\n- falcsont\n- halántékcsont\n- nyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel az érett granulocyták három csoportját!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "eosinophil granulocyták\nbasophil granulocyták\nneutrophil granulocyták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Soroljon fel a Scheuermann-féle betegség tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- terhelhetőség csökkenése\n- mozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa a sokk fajtáit jellemzőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. hypovolaemiás sokk\n2. disztributív sokk\n3. kardiogén sokk\n4. obstruktív sokk\nA. akut értágulat vezet a vérelosztás hirtelen zavarához\nB. a szív munkájának elégtelensége miatt alakul ki\nC. az érpálya akut beszűkülése miatt alakul ki\nD. a keringő vérmennyiség akut csökkenése okozza",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...A...., 3.-...B.... 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az atrioventricularis blokk lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Az ingerület átterjedése a pitvarról a kamrákba részben, vagy teljesen gátolt, ami átmeneti és tartós is lehet....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül ötöt magyarul!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá a gégére vonatkozó helyes megállapításokat!\n- latin neve: pharynx\n- latin neve: larynx\n- a hangadás szerve\n- a nyelés szerve\n- egyik porca a gégefedő\n- a hangszalagok a gégefedő és a gyűrűporc között feszülnek\n- a hangszalagok között található a hangrés\n- a kannaporcok kiemelkedő szöglete az „ádámcsutka\"\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "latin neve: larynx\na hangadás szerve\negyik porca a gégefedő\na hangszalagok között található a hangrés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Soroljon fel a nyelvgyulladás kialakulásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "vészes vérszegénység\nvashiányos vérszegénység\nB-vitamin hiánya\nC-vitamin hiánya\nfogbetegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa az emésztőrendszer szakaszaihoz a szerveket! İrja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. szigmabél\n2. csípőbél\n3. patkóbél\n4. haránt vastagbél\n5. felszálló vastagbél\n6. éhbél\n\nAz emésztőrendszer középső szakasza: ...\nAz emésztőrendszer alsó szakasza: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Írja le magyarul, hogy az alábbi esetekben melyik anyag szaporodik fel a\nvizeletben!\n- proteinuria: ...\n- haematuria: ...\n- pyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fehérje\nvér\ngenny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a veseműködés idegi szabályozását a megadott\nszempontok szerint! Töltse ki a táblázatot!\n\n|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| vizelet mennyisége |  |  |\n| vérnyomás |  |  |\n| szűrés |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | gyenge ideginger hatására | erős ideginger hatására |\n|---|---|---|\n| vizelet mennyisége | nő | csökken |\n| vérnyomás | emelkedik | csökken |\n| szűrés | fokozódik | csökken |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg lényegét!\n\nElsődleges nemi jelleg:\n...a\nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n...a\nhormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nnemi érés (pubertás) során alakul ki a nemi mirigyek által termelt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel az antidiuretikus hormon (ADH) hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\nkevesebb víz választódik ki a vizelettel\nnöveli a vizelet fajsúlyát\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású\nemeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a golyvát a megadott szempontok szerint!\nLehetséges tünetei: Írjon hármat!\nGyógyítása:",
+      "question_type": "open",
+      "correct_answer": "- a pajzsmirigy látható megnagyobbodása\n- fulladásérzés\n- nyelési nehezítettség\n- rekedtség\n- fokozott jódbevitel\n- műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi anatómiai képleteket elhelyezkedésük szerint! Írja\na helyes válasz sorszámát a megfelelő helyre!\n\n1. thalamus\n2. hálózatos sejtrendszer (formatio reticularis)\n3. hypothalamus\n4. nyúltvelő\n5. híd\n\nköztiagy: ...., ...\n\nagytörzs: ...., ...., ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n2., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel az agyhártyagyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- heves fejfájás\n- hányás\n- magas láz\n- tarkómerevség\n- vadászkutyafekvés\n- fokozott érzékenység a fény-, zaj-, és fájdalomingerekre",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- fülkagyló\n- dobüreg\n- ívjáratok\n- hallócsontok\n- hallóideg\n- kengyel\n- dobhártya\n- csiga\n- Corti-szerv\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "ívjáratok\nhallócsontok\nhallóideg\ncsiga\nCorti-szerv",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a távollátást a megadott szempontok szerint!\nLényege:\nOka:\nFő tünete:\nKorrigálásának lehetősége:",
+      "question_type": "open",
+      "correct_answer": "A szemben az éles kép az ideghártya mögött keletkezik.\nA szemgolyó hossztengelye rövidebb az átlagosnál.\nA tompalátás.\nGyűjtőlencséjű szemüveg/kontaktlencse alkalmazása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 6,
+      "question_text": "Ismertesse baleset észlelése esetén a mentőhíváskor közlendő információkat/adatokat!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai (név, telefonszám)\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e egyéb segítség (pl. műszaki mentés)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_15_VIII_eumviii_210615_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az artériás nyomópontoknak megfelelő erek közül négyet\nmagyarul!",
+      "question_type": "open",
+      "correct_answer": "halántéki artéria\nállcsonti artéria\nközös nyaki ütőér\nkulcscsont alatti artéria\nfelkari artéria\ncombütőér",
+      "options": []
+    }
+  }
+]

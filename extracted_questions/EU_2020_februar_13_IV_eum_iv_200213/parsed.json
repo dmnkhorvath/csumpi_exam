@@ -1,0 +1,301 @@
+[
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. anterior/ventralis\n2. superior/cranialis\n3. posterior/dorsalis\n4. medialis\n5. proximalis\nA. középsíkhoz közel eső\nB. törzshöz közelebb eső\nC. felső/feji\nD. hátulsó/háti\nE. elülső/hasi",
+      "question_type": "matching",
+      "correct_answer": "1.-...E...., 2.-C...., 3.-D...., 4.-A..., 5.-B...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szívizom jellemzői közül négyet!",
+      "question_type": "open",
+      "correct_answer": "különleges felépítésű harántcsíkolt izom\nrövid összehúzódás és hosszabb elernyedés jellemzi\nakaratunktól függetlenül működik\nnagy erőkifejtésre képes\nnem fárad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a porckorong-elfajulás tüneteit, kezelésének lehetőségeit!\nLehetséges tünetei: Írjon négyet!\n\n\n\n\n\nKezelésének lehetőségei: Írjon kettőt!\n\n\n\n\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "open",
+      "correct_answer": "- érzészavar\n- zsibbadás\n- fájdalom\n- izomvédekezés\n- mozgásterápia\n- fizioterápia\n- gyógyszeres kezelés\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a felső ugróízület (bokaízület) alkotásában részt vevő csontokat!",
+      "question_type": "fill_in",
+      "correct_answer": "- sípcsont (tibia)\n- szárkapocscsont (fibula)\n- ugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a kalcium hiánya a véralvadásra az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "a véralvadás ideje elhúzódik...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a lép feladatait!\n- vörösvérsejtek lebontása\n- glükogén raktározása\n- maltáz termelése\n- vér raktározása\n- C-vitamin tárolása\n- vérlemezkék lebontása\n- méreganyagok kiválasztása\n- lymphocyták képzése\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vörösvérsejtek lebontása\nvér raktározása\nvérlemezkék lebontása\nlymphocyták képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a visszértágulatok (varix, varicositas) kialakulásának\nlehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- az érfal kötőszöveti gyengesége\n- fokozott terhelés\n- a hasűri nyomás fokozódása (pl. terhesség, ascites)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a\nmegadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. szapora, nehezített légzés\n2. gyakori, szúró mellkasi fájdalom\n3. hirtelen jelentkező nehézlégzés\n4. üvegszerű, tapadós köpet ürítése\n5. rövid, kapkodó belégzés után hosszan elnyúló kilégzés\n6. barnásvörös köpet ürítése\ntüdőgyulladás tünetei: ...., ...., .... \ntüdőasztma tünetei: ...., ...., .... \n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 6....\n3., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Egészítse ki a légzőrendszer részeire vonatkozó táblázat hiányzó részeit!\nA légzőrendszer részei\n| magyarul | latinul |\n|---------|---------|\n| garat |  |\n|  | larynx |\n| légcső |  |\n|  | pulmo |",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---------|---------|\n|  | pharynx |\n| gége |  |\n|  | trachea |\n| tüdő |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszer alsó szakaszához tartozó anatómiai\nképleteket!\n- patkóbél\n- felszálló vastagbél\n- szigmabél\n- éhbél\n- csípőbél\n- végbél\n- haránt vastagbél\n- gyomor\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szigmabél\nvégbél\nharánt vastagbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a májzsugorodás (cirrhosis hepatis) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "haspuffadás, hasi fájdalom\nnyomásérzékenység a jobb bordaiv alatt\nfakó, enyhén sárga színű bőr\nhasvízkór\ncsillag alakú/pókhálószerű értágulatok a bőrön\ntág vénás hálózat a hasfalon\nnyelőcsőben vénatágulatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a női húgycső jellemzőit! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- hossza 3-4 cm\n- egyenes lefutású cső\n- a húgyhólyagból való kilépésénél akarattól függetlenül működő záróizom található\n- átfúrja a gátat\n- a szeméremtestben a csikló és a hüvely között nyílik a külvilágba",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi okokat, kórképeket a megadottak szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. diabetes insipidus\n2. fokozott hányás, hasmenés\n3. ödémák kiürülése\n4. nagyfokú ödémaképződés\n5. heveny és krónikus veseelégtelenséghez vezető vesebetegségek\n6. cukorbetegség\n\nCsökkent vizeletelválasztás (oliguria) okai: ...\nFokozott mennyiségű vizeletelválasztás (polyuria) okai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5....\n1., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődnek a spermiumok a herék szerkezetén belül?\n...\nMely férfi nemi szervben tárolódnak a spermiumok?\n...\nHol helyezkedik el a prosztata?\n...\nHol fejlődnek a herék a magzati életben?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a herecsatornák falának hámjában\na mellékherékben\na húgyhólyag alatt\na hasüregben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit! Töltse ki táblázatot!\n\n|  | A csecsemőmirigy |\n|----------|------------------|\n| Hormonja |  |\n| Feladatai Írjon kettőt! |  |\n| Helye a szervezetben |  |\n| Jellemzője Írjon egyet! |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A csecsemőmirigy |\n|----------|------------------|\n| Hormonja | timozin |\n| Feladatai Írjon kettőt! | - a növekedést fokozza\n|  | - a szexuális fejlődést serkenti\n|  | - antitestképzés (nyirokszerv)|\n| Helye a szervezetben | a gátorüreg elülső részében, a szegycsont mögött helyezkedik el |\n| Jellemzője Írjon egyet! | - kisgyermekkorig aktiv\n|  | - serdülőkortól elsorvad |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a mellékvese kéregállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- mineralokortikoidok (aldoszteron)\n- glükokortikoidok (kortizol)\n- androgén hormonok (férfi nemi hormonok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. II. agyideg\n2. IV. agyideg\n3. VI. agyideg\n4. VIII. agyideg\n5. X. agyideg\nA. távolító ideg\nB. látóideg\nC. egyensúlyozó és hallóideg\nD. bolygóideg\nE. sodorideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...Β...., 2.-...E...., 3.-..A..., 4.-C...., 5.-...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Írja le az alábbi kifejezések magyar jelentését!\nparesis: ...\ntremor: ...\nnystagmus: ...\nhypaesthesia: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "az izomerő csökkenése, izomgyengeség...\nakarattól független remegés...\nszemtekerezgés, a szemgolyó akaratlan ingamozgása...\na tapintásérzés csökkenése, zavara...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel az elsődleges sebellátás tilalmai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- a sebben lévő/a sebből kiálló idegen testet eltávolítani tilos\n- sebbe nyúlni tilos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 1,
+      "question_text": "A szívfrekvencia (pulzusszám) nyugalomban:",
+      "question_type": "multiple_choice",
+      "correct_answer": "60-80/perc",
+      "options": [
+        "100-120/perc",
+        "60-80/perc",
+        "40-50/perc"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a heveny fülkürtgyulladást a megadott szempontok szerint!\nKialakulásának okai:\n- \n- \nTünetei: Írjon kettőt!\n- \n- \n- \nGyógyítása: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "orr-, és garatgyulladás\nakadályozott orrlégzés\nteltségérzés a fülben\nfülzúgás\nvezetéses halláscsökkenés\nmelegterápia\ngyógyszeres kezelés\ngondos orrtoalett",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a szem fénytörő közegeit!\n- könnykészülék\n- sárgafolt\n- szemlencse\n- üvegtest\n- sugártest\n- csarnokvíz\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemlencse\nüvegtest\ncsarnokvíz",
+      "options": [
+        "könnykészülék",
+        "sárgafolt",
+        "szemlencse",
+        "üvegtest",
+        "sugártest",
+        "csarnokvíz"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_IV_eum_iv_200213_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\nTünetei: Írjon négyet!\n- \n- \n- \n- \n- \n\nElsősegélynyújtó feladatai: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40 °C fölött is lehet\ntesthőmérséklet-csökkentés hűtéssel (hűtőborogatás)\nfolyadékpótlás (hideg víz itatása)\norvosi segítség hívása",
+      "options": []
+    }
+  }
+]

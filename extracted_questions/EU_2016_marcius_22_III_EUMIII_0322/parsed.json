@@ -1,0 +1,323 @@
+[
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi szövetek típusaihoz a megadott\njellemzőket! Írja a sorszámokat a megfelelő betűjelhez!\n\nA: hámszövet\nB: kötő- és támasztószövet\nC: izomszövet\nD: idegszövet\n\n1. feladata a sejtek, szövetek összekapcsolása, szerepe van a\nszervezet passzív tartásában\n2. a szervezet információs rendszerét építi fel\n3. összehúzódásra képes\n4. a test felszínét borítja, a testüregeket béleli\n\nA.-... , B.- ... , C.- ... , D.- ...",
+      "question_type": "matching",
+      "correct_answer": "4, 1, 3, 2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a jóindulatú daganatokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "papilloma\nlipoma\nmyoma\nosteoma",
+      "options": [
+        "papilloma",
+        "sarcoma",
+        "lipoma",
+        "myoma",
+        "carcinoma",
+        "osteoma",
+        "leukaemia",
+        "lymphoma"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes\nválasz betűjelét!\n\n1. superior\nA. hátsó\n2. anterior\nB. elülső\n3. posterior\nC. felső",
+      "question_type": "matching",
+      "correct_answer": "1.-...C.., 2.-...B..., 3.-...A...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket kezelési lehetőségeikkel!\nÍrja a betűk mellé a helyes válasz sorszámát!\nA. lúdtalp\nB. csonttörés\nC. csontvelőgyulladás\nD. gerincferdülés\n",
+      "question_type": "matching",
+      "correct_answer": "1, 2, 4, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyákat magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt!\nFolytassa a felsorolást!\n\n90%- a víz, ezen belül oldott állapotban találhatók:\n- fehérjék\n- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "question_type": "open",
+      "correct_answer": "zsírok, lipoidok\nszénhidrátok\nvéralvadási faktorok\nfestékanyagok\nnitrogéntartalmú anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Ismertesse a vér szerepét az emberi szervezetben!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "oxigént és tápanyagokat szállít a sejtekhez\na bomlástermékeket elszállítja a sejtekből\nrészt vesz a szervezet hőszabályozásában\nrésze a szervezet védekezőrendszerének\na szervezet belső környezetének állandóságát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos betegségei közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérellátását\nbiztosító ereket!",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q010_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 1,
+      "question_text": "Fogalmazza meg röviden a gégefedő szerepét!",
+      "question_type": "open",
+      "correct_answer": "Nyeléskor lezárja a gégebemenetet, így megakadályozza, hogy a táplálék a légcsőbe jusson.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Írja le magyarul, hogy az alábbi esetekben milyen kóros anyag szaporodik fel a vizeletben!\nProteinuria: ...\nHaematuria: ...\nPyuria: ...",
+      "question_type": "fill_in",
+      "correct_answer": "fehérje\nvér\ngenny",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá azokat a tüneteket, amelyek emésztőrendszeri\ndaganatos megbetegedésre utalhatnak!\n- indokolatlan fogyás\n- láz\n- székelési ritmus megváltozása\n- ízületi fájdalmak\n- nyelési nehézségek\n- gyakori fejfájás\n- véres széklet\n- ,,málnanyelv\" tünet\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "indokolatlan fogyás\nszékelési ritmus megváltozása\nnyelési nehézségek\nvéres széklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel a mechanikus ileus (bélelzáródás) kiváltó okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegentest\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a glomerulonephritis\ntüneteit!\n- vizenyő\n- fehérjevizelés\n- testsúlycsökkenés\n- bilirubin vizelés\n- véres vizelet\n- magas vérnyomás\n- bő vizelés\n- kiszáradás",
+      "question_type": "multiple_choice",
+      "correct_answer": "vizenyő\nfehérjevizelés\nvéres vizelet\nmagas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdők\nvesék\nbőr\nbelek (emésztőrendszer)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel a női meddőség okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége, fejlődési rendellenessége\nméhkürt gyulladásos elzáródása\nendokrin kórképek\nanyagcsere-betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki a táblázatot!\n\n| A hormon neve | A hormon hatása (Írjon egyet-egyet!) |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n| FSH           | nő                                      |\n|               | férfi                                   |\n| tiroxin       |                                       |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása (Írjon egyet-egyet!) |\n|---------------|---------------------------------------|\n| STH           | - fokozza a növekedést\n- fokozza a fehérjeszintézist                                      |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó hatású\n- emeli a vérnyomást                                       |\n| FSH           | - megindítja a tüszőérést\n- a petefészekre hat                                      |\n|               | - fokozza a spermatogenezist\n- a herékben megindítja az ondósejtek képződését                                   |\n| tiroxin       | - fokozza az anyagcserét\n- szabályozza a szöveti oxidációt                                       |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a menstruáció elmaradása\n- a hüvely szederjes elszíneződése\n- bővebb hüvelyi váladék\n- felpuhult méhnyak\n- pozitív terhességi teszt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q019_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 8,
+      "question_text": "Ismertesse az agytályogot (abscessus cerebri) a megadott szempontok alapján!\n\nKialakulásának okai: Írjon kettőt!\n- \na középfül vagy az orrmelléküregek gyulladásainak közvetlen\nátterjedése\n- koponya- és agytraumák\n- metasztázis talaján kialakuló\n\nTünetek: Írjon négyet!\n- rossz közérzet\n- láz\n- agyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\n- góctünetek: érzéskiesés, látótérkiesés, beszédzavar\n- epilepsziás roham\n\nGyógyítás: Írjon kettőt!\n- kórházi (idegsebészeti) ellátás\n- gyógyszeres kezelés\n- műtéti megoldás",
+      "question_type": "open",
+      "correct_answer": "a középfül vagy az orrmelléküregek gyulladásainak közvetlen\nátterjedése\nkoponya- és agytraumák\nmetasztázis talaján kialakuló\nrossz közérzet\nláz\nagyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\ngóctünetek: érzéskiesés, látótérkiesés, beszédzavar\nepilepsziás roham\nkórházi (idegsebészeti) ellátás\ngyógyszeres kezelés\nműtéti megoldás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi, belső elválasztású mirigyek\nelhelyezkedését!",
+      "question_type": "fill_in",
+      "correct_answer": "a koponyaalapon az ékcsont árkában helyezkedik el\na gátor üregben, a szegycsont mögött helyezkedik el\na patkóbél homorulatában helyezkedik el",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nAz ingerület átadása egyik idegsejtről a másikra, az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\n|   |   |\n|---|---|\n| A. kötőhártya | 1. a szem fénytörő közege |\n| B. sárgafolt | 2. a szem védőkészüléke |\n| C. szemlencse | 3. az éleslátás helye |\n| D. érhártya | 4. az ideghártyát táplálja |\n| E. sugártest | 5. csarnokvíz termelése |\nΑ.-......, Β.-......; C.-......, D.-......, Ε.-......\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2..., Β.-...3...; C.-...1..., D.-...4..., Ε.-...5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a látószerv részeit!\n- szemgolyó\n- szemtengely\n- szemmozgató izmok\n- szemcsatorna\n- könnykészülék\n- látóhártya\n(Csak a 3 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szemgolyó\nszemtengely\nszemmozgató izmok\nkönnykészülék\nlátóhártya",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Soroljon fel a csonttörés tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)\nlátható tört csontvégek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Határozza meg az időfaktor fogalmát és a magas\nidőfaktor jellemzőjét!\n\nIdőfaktor:\n\nMagas időfaktor:",
+      "question_type": "open",
+      "correct_answer": "Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a sérült\nállapota.\n\nMagas az időfaktor, ha igen rövid időn belül nagymértékben súlyosbodik a\nsérült állapota.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_marcius_22_III_EUMIII_0322_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Ismertessen az elsődleges sebellátás tilalmai közül\nkettőt!",
+      "question_type": "open",
+      "correct_answer": "a sebszéleket széthúzni tilos\na sebbe kenőcsöt, port juttatni tilos\nközvetlenül a sebre vattát tenni tilos\na sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)\na sebbe nyúlni tilos",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Határozza meg, hogy a kórlefolyás mely szakaszában\njelentkeznek az általános, illetve a betegségre jellemző\ntünetek!\n\náltalános tünetek: ...\nbetegségre jellemző tünetek: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "bevezető szakasz...\na betegség kifejlődésének szakasza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek (emésztőrendszer)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a garat szakaszait!",
+      "question_type": "open",
+      "correct_answer": "orri szakasz\nszáji szakasz\ngégei szakasz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\n\nLényege:\n-\n\nTünetei: Írjon hármat!\n-\n-\n-\n-\n-\n\nElsősegélynyújtó feladata: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a hőközpont funkciózavara\nfejfájás\nrossz közérzet\nzavartság\nforró, kipirult, száraz bőr\ntesthőmérséklet 40°C fölött van\ntesthőmérséklet-csökkentés hűtéssel\nfolyadékpótlás\norvosi segítség hívása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi állításokhoz tartozó helyes\nválaszokat!\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai\nközött zajló gázcsere:\n- belső légzés\n\nA légzőközpont helye:\n- kisagy\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n- külső légzés\n- nyúltvelő\n- gége\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "- külső légzés\n- nyúltvelő\n- fülkürt",
+      "options": [
+        "belső légzés",
+        "külső légzés",
+        "kisagy",
+        "nyúltvelő",
+        "fülkürt",
+        "gége"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q006_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 2,
+      "question_text": "Nevezze meg lényegi meghatározásuk alapján az\nalábbi kórképeket!\n\nHosszú időn át fennálló légzőszervi betegség (pl. hörghurut, tüdőasztma)\nkövetkeztében kialakult szívbetegség.\n...\n\nA mellhártya lemezei közé került levegő következtében - a megváltozott\nnyomás hatására - a tüdő összeesik.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "cor pulmonale\nlégmell (pneumothorax)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés vagy székrekedés)\nfémes szájíz\nszáraz, vastagon lepedékes nyelv\nvizeletszagú lehelet\nmagas vérnyomás\nlesoványodás\nsúlyos vérszegénység, bőr- és nyálkahártya vérzések\nbőrviszketés, sárgás, szürkés bőrszín, száraz bőr\nsavós hártyák gyulladásának tünetei\nlégzőszervi tünetek (Kussmaul-típusú légzés)\ncsonttörések (spontán törések)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Soroljon fel a vérplazma összetevői közül ötöt!\nFolytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- fehérjék",
+      "question_type": "open",
+      "correct_answer": "- zsírok, lipoidok\n- szénhidrátok\n- véralvadási faktorok\n- festékanyagok\n- ionok\n- nitrogéntartalmú anyagok\n- hormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Húzza alá a felsoroltak közül a hipertóniás krízis\ntüneteit!\n- hirtelen 90/50 Hgmm alá zuhan a vérnyomás\n- a vérnyomás hirtelen nagyfokú emelkedése\n- fejfájás\n- ízületi fájdalmak\n- látászavar\n- hányás\n- éhségérzet\n- bénulások\n- hasmenés\n(Helyes válaszonként 1-1 pont adható! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás hirtelen nagyfokú emelkedése\nfejfájás\nlátászavar\nhányás\nbénulások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg az árpa és a jégárpa szembetegségek\nlényegét!\n\nÁrpa:\n\n\nJégárpa:\n",
+      "question_type": "open",
+      "correct_answer": "Gyulladásos duzzanat, melyet a pillavázban elhelyezkedő mirigyek kivezető\nnyílásának elzáródása okoz.\n\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\nhipofízis: ...\ncsecsemőmirigy: ...\nhasnyálmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a koponyaalapon az ékcsont árkában...\na gátorüregben a szegycsont mögött...\na patkóbél homorulatában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukor-\nszintet emelik!\n- inzulin\n- glükagon\n- adrenalin\n- szomatosztatin\n(Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": [
+        "inzulin",
+        "glükagon",
+        "adrenalin",
+        "szomatosztatin"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a heveny izzadmányos (exsudativ) gyulladás formái közül hármat!",
+      "question_type": "open",
+      "correct_answer": "savós\ngennyes\nüszkös\nvérzéses\nfibrines",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n| atrophia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség |\n|  | bénulás |\n|  | remegés (akarattól független) |\n|  | izomtónus-fokozódás |\n|  | beszédzavar |\n|  | izomsorvadás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi\nszervezetben!",
+      "question_type": "fill_in",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a felsorolt hormonok hatását!\nTöltse ki a táblázatot!\n\n| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n| FSH           | nő                                      |\n|               | férfi                                   |\n| tiroxin       |                                       |",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           | - a test növekedésének szabályozása\n- fokozza a fehérjeszintézist                                       |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó\n- emeli a vérnyomást                                       |\n| FSH           | nő - megindítja a tüszőérést\n- a petefészekre hat                                     |\n|               | férfi - fokozza a spermatogenezist\n- a herékben megindítja az ondósejtek képződését                                   |\n| tiroxin       | - fokozza az anyagcserét\n- szabályozza a szöveti oxidációt                                       |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbiak közül a belső fül részeit!\n- dobüreg\n- csontos labirintus\n- hallócsontok\n- hártyás labirintus\n- dobhártya\n(Csak a 2 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": [
+        "dobüreg",
+        "csontos labirintus",
+        "hallócsontok",
+        "hártyás labirintus",
+        "dobhártya"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sebek fajtái közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "szúrt seb\nmetszett seb\nvágott seb\nzúzott seb\nharapott seb\nlőtt seb\nszakított seb\ncsonkolt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\n\nOka:\n...\n\nTünetei: Írjon kettőt!\n-\n-\n-\n\nA betegség megelőzése: Írjon egyet!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "A D-vitamin hiánya. ...\na csontok lágyak, görbültek\ngerincferdülés\npetyhüdt izomzat\nD3-vitamin adása\nhelyes táplálás\nszűrt fényben történő napoztatás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le a rejtettheréjűség lényegét és kezelési\nlehetőségeit!\nLényege:\n\nKezelése: Írjon kettőt!\n- rendszerint spontán rendeződik a növekedés során\n- hormonkezelés végezhető 5-7 éves kor között\n- hormonkezelés eredménytelensége esetén sebészi beavatkozás szükséges\na pubertás kor előtt",
+      "question_type": "open",
+      "correct_answer": "A herék a magzati élet utolsó hetében nem szálltak le a herezacskókba, a\nlágyékcsatornában tapinthatóak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Sorolja fel a koponya varratait magyarul!",
+      "question_type": "open",
+      "correct_answer": "koronavarrat\nnyílvarrat\nlambdavarrat\npikkelyvarrat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Párosítsa az agyféltekék fehérállományában található\nképletekhez a megfelelő meghatározást!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. asszociációs rostok\n2. commissuralis rostok\n3. projekciós rendszer\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, illetve a leszálló\nrendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n1.-.... ..., 2-...., 3-....",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi tápanyagok alapvető\népítőelemeit!\nfehérjék: ...\nszénhidrátok: ...\nzsírok: ...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak...\negyszerű cukrok (monoszacharidok)...\nzsírsavak és glicerin...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "hámszövet\nidegszövet\nizomszövet\nkötő- és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q026_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 6,
+      "question_text": "Nevezze meg a vékonybél részeit magyarul és latinul!",
+      "question_type": "fill_in",
+      "correct_answer": "patkóbél - duodenum\néhbél - jejunum\ncsípőbél – ileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_junius_14_I_EUMI_0614_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 4,
+      "question_text": "Soroljon fel a terhesség valószínűségi jelei közül\nnégyet!",
+      "question_type": "open",
+      "correct_answer": "a menstruáció elmaradása\na hüvely szederjes elszíneződése\nbővebb hüvelyi váladék\nfelpuhult méhnyak\npozitív terhességi teszt",
+      "options": []
+    }
+  }
+]

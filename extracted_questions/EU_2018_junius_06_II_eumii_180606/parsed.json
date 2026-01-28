@@ -1,0 +1,209 @@
+[
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a jóindulatú daganatokat!\npapilloma\nsarcoma\nlipoma\nmyoma\ncarcinoma\nosteoma\nleukaemia\nlymphoma\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "papilloma\nlipoma\nmyoma\nosteoma",
+      "options": [
+        "papilloma",
+        "sarcoma",
+        "lipoma",
+        "myoma",
+        "carcinoma",
+        "osteoma",
+        "leukaemia",
+        "lymphoma"
+      ]
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a heveny izzadmányos (exsudativ) gyulladás formái közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- savós\n- gennyes\n- üszkös\n- vérzéses\n- fibrines",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőikkel! Írja a sorszám mellé a helyes válasz betűjelét!\n1. anterior\nA. alsó\n2. centralis\nB. elülső\n3. inferior\nC. felső\n4. posterior\nD. hasi irányú\n5. superior\nE. hátsó\n6. ventralis\nF. központi",
+      "question_type": "matching",
+      "correct_answer": "B, F, A, E, C, D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 6,
+      "question_text": "Soroljon fel az arckoponya csontjai közül hatot magyarul!",
+      "question_type": "open",
+      "correct_answer": "felső állcsont\n- járomcsont\n- rostacsont\n- orrcsont\n- állkapocs\n- ekecsont\n- könnycsont\n- szájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a nagyvérkör ereit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava superior\nvena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonalis",
+        "vena cava superior",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q006_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 8,
+      "question_text": "Ismertesse az angina pectorisra jellemző fájdalmat a\nmegadott szempontok szerint!\n\nA fájdalom helye:\n...\n\nFájdalom jellege:\n...\n\nFájdalom kisugárzása: Írjon hatot!\n-\n-\n-\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "szegycsont mögött\nszorító, markoló érzés\nnyak bal oldala\nbal váll\nbal kar\nlapockák felé\nhas\ngyomorgödör\nállkapocs, fogak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 5,
+      "question_text": "Soroljon fel a tüdőembólia kialakulására hajlamosító\ntényezők/állapotok közül ötöt!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "alsó végtagok trombózisa\nhasi műtét utáni állapot\nszülés utáni, gyermekágyas időszak\nkismedencei műtét\npitvari trombózis\nhosszan tartó ágynyugalmat igénylő betegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá a jobbszívfél-elégtelenség tüneteit!\n- telt nyaki vénák\n- kisvérköri pangás\n- nehézlégzés nyugalomban is\n- cianózis\n- boka-, lábszárödéma, hasvízkór\n- köhögés\n- tüdőödéma\n- vizelet mennyisége nő\n- vizelet mennyisége csökken\n- éjszakai vizelés\n(Csak az 5 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "telt nyaki vénák\nboka-, lábszárödéma, hasvízkór\nvizelet mennyisége csökken\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "multiple_choice",
+      "correct_answer": "idegsejt\nplazmanyúlvány\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q010_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 8,
+      "question_text": "Soroljon fel a belső elválasztású (endokrin) mirigyek\nközül nyolcat!",
+      "question_type": "open",
+      "correct_answer": "agyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nhere\npetefészkek\ncsecsemőmirigy\ntobozmirigy\nhasnyálmirigy Langerhans-szigetei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q011_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 7,
+      "question_text": "Ismertesse az agyhártyagyulladás (meningitis) lehetséges okait, tüneteit!\nOkai: Írjon kettőt!\n- baktériumok okozta fertőzés\n- vírusok okozta fertőzés\n- gombák okozta fertőzés\n- paraziták okozta fertőzés\nTünetei: Írjon ötöt!\n- heves fejfájás\n- fény- és zajérzékenység\n- magas láz\n- zavart tudat\n- aluszékonyság\n- hányás\n- ,,vadászkutyafekvés\"\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "baktériumok okozta fertőzés\nvírusok okozta fertőzés\ngombák okozta fertőzés\nparaziták okozta fertőzés\nheves fejfájás\nfény- és zajérzékenység\nmagas láz\nzavart tudat\naluszékonyság\nhányás\n,,vadászkutyafekvés\"",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q012_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 8,
+      "question_text": "Ismertesse a progresszív stroke (PS) lényegét és tüneteit!\nLényege:\nTünetei: Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "...az agyszövet állományában kialakult vérzés miatt az érintett területen\nanyagcserezavar és oxigénhiány, ezáltal az agyszövet károsodása alakul\nki...\ntudatzavar\nbénulások\nlégzészavar\nbeszédzavar\nincontinentia\nérzészavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. A-vitamin\n2. B₁-vitamin\n3. B12-vitamin\n4. C-vitamin\n5. D-vitamin\n6. K-vitamin\nA. angolkór\nB. beriberi\nC. farkasvakság\nD. skorbut\nE. véralvadási zavar\nF. vészes vérszegénység",
+      "question_type": "matching",
+      "correct_answer": "1.-... C...., 2.-B., 3.-F., 4D 5A, 6.-Ε....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q014_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 10,
+      "question_text": "Csoportosítsa az alábbi tényezőket a megadott\nszempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. fokozott folyadékbevitel\n2. csökkent folyadékbevitel\n3. folyadék- és elektrolitszabályozás zavarai (pl. diabetes insipidus)\n4. a szervezet fokozott vízleadása izzadás, hányás, hasmenés\nkövetkeztében\n5. ödémák kiürülése\n6. diuretikumok adása\n7. nagyfokú ödémaképződés\n8. cukorbetegség\n9. krónikus veseelégtelenség\n10. heveny és krónikus veseelégtelenséghez vezető vesebetegségek\n\nOliguria okai:...\n\nPolyuria okai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 7., 10....\n1., 3., 5., 6., 8., 9....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Ismertesse az adrenalin és a noradrenalin hatását!\nEgészítse ki az alábbi táblázatot!\n|  | adrenalin, noradrenalin hatása |\n|---|---|\n| szívműködés |  |\n| légzésszám |  |\n| vérnyomás |  |\n| vércukorszint |  |\n| bélműködés |  |\n| pupillák |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | adrenalin, noradrenalin hatása |\n|---|---|\n|  | gyorsul |\n|  | emelkedik |\n|  | emelkedik |\n|  | emelkedik |\n|  | perisztaltika csökken |\n|  | tágulnak |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_junius_06_II_eumii_180606_q016_10pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 10,
+      "question_text": "Csoportosítsa a várandósság jeleit!\nÍrja a tünetek betűjelét a megfelelő helyre!\nA. bővebb hüvelyváladék\nB. fokozott nyálelválasztás\nC. hányinger, hányás\nD. menstruáció elmaradása\nE. magzatmozgás\nF. livid (szederjes) hüvely\nG. émelygés\nH. magzati szívhangok\nI. szagoktól undorodás\nJ. pozitív terhességi teszt\nGyanújelek: ...\nValószínűségi jelek: ...\nBiztos jelek: ...",
+      "question_type": "fill_in",
+      "correct_answer": "B, C, G, I\nA, D, F, J\nE, H",
+      "options": []
+    }
+  }
+]

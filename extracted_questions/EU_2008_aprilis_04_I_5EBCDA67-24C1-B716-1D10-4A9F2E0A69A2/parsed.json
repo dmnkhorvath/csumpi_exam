@@ -1,0 +1,314 @@
+[
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Határozza meg a sejt részeit! Egészítse ki a felsorolást!\n- Membrán organellumok",
+      "question_type": "fill_in",
+      "correct_answer": "- Sejtmembrán\n- Mitochondrium\n- Sejtmag\n- Sejtplazma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Jellemezze az izomszövet típusait! Töltse ki a táblázatot a megadott szempontok alapján!\n\n| az izom típusa | Hol található az izom? | az izomműködés jellege, funkciója |\n|---|---|---|\n| simaizom |  |  |\n| harántcsíkolt izom |  |  |\n| szívizom |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| az izom típusa | Hol található az izom? | az izomműködés jellege, funkciója |\n|---|---|---|\n| simaizom | A zsigeri szervekben és erek falában. | Lassan húzódik össze, lassan fárad ki és kisebb erőkifejtésre képes, mint a vázizmok. |\n| harántcsíkolt izom | A vázizmokban. | Összehúzódása és elernyedése gyors, hamarabb kifárad, általában jelentősebb erőkifejtésre képes. |\n| szívizom | Csak a szívben. | Működésére a rövid összehúzódás és az azt követő némileg hosszabb elernyedés jellemző. |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 2,
+      "question_text": "Ismertesse röviden az autoimmun betegség lényegét!",
+      "question_type": "open",
+      "correct_answer": "- A szervezet védekező rendszere néha – legtöbbször\nmegmagyarázhatatlan okokból – a szervezetet alkotó egyes szöveteket,\nsejtcsoportokat nem „sajátként” értékel, és ellenük immunválasszal\nreagál.\n- Ezekben az állapotokban tulajdonképpen a szervezet egyes szöveteit\naz immunrendszer antigénként értékeli és a szervezet saját szövetei\nellen fordulhat. A jelenséget autoimmunitásnak, az így kialakult kóros\nállapotot pedig autoimmun betegségnek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Töltse ki a kéz és láb csontjainak számára vonatkozó táblázatot!\n\n| kézen |  | lábon |  |\n|---|---|---|---|\n| csontok neve | száma | csontok neve | száma |\n| kéztő |  | lábtő |  |\n| kézközép |  | lábközép |  |\n| ujjperc |  | ujjperc |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| kézen |  | lábon |  |\n|---|---|---|---|\n| csontok neve | száma | csontok neve | száma |\n| kéztő | 8 | lábtő | 7 |\n| kézközép | 5 | lábközép | 5 |\n| ujjperc | 14 | ujjperc | 14 |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden a kérdésekre!\nA felső ugróízületet mely csontok alkotják?\n\nMilyen alakú a felső ugróízület?\n\nMilyen mozgás jön létre benne?\n",
+      "question_type": "open",
+      "correct_answer": "sípcsont\nszárkapocs-csont\nugrócsont\nhengerízület\nhajlítás\nfeszítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Ismertesse az angolkór betegséget a megadott\nszempontok alapján!\nOka:\nTünetei:\nA betegség megelőzése:",
+      "question_type": "open",
+      "correct_answer": "A napfény ultraibolya sugarainak hiánya miatt elmarad a D-vitamin\nképződése (a bőrben levő ergoszterinből nem keletkezik D-vitamin),\nennek hiányában a mészsók nem épülnek be a csontokba.\na csontok lágyak, görbülnek, gerincferdülés, O vagy X láb alakulhat ki\nD3-vitamin adagolásával megelőzhető, hazánkban újszülött kortól\nhárom éves korig minden kisgyermeknek kötelező a D-vitamin adása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Húzza alá az alábbi felsorolásból a szív jobb pitvarával kapcsolódó anatómiai képleteket!\n- felső üres visszér (vena cava superior)\n- tüdőartéria (truncus pulmonalis)\n- alsó üres visszér (vena cava inferior)\n- aorta\n- háromhegyű vitorlás billentyű\n- sinus coronarius, amely a szív saját vénás vérét szállítja.\n- kéthegyű vitorlás billentyű",
+      "question_type": "open",
+      "correct_answer": "felső üres visszér (vena cava superior)\nalsó üres visszér (vena cava inferior)\nháromhegyű vitorlás billentyű\nsinus coronarius, amely a szív saját vénás vérét szállítja.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Határozza meg a szív saját ingerképző és -vezető rendszerének részeit, és azok elhelyezkedését a szívben!\nTöltse ki a táblázatot!\n\n| ingerképző és -vezető rendszer részei | elhelyezkedésük a szívben |\n|---|---|\n| sinus csomó (elsődleges ingerképző központ) |  |\n| pitvar-kamrai csomó (másodlagos ingerképző központ) |  |\n| pitvar-kamrai köteg (HIS-köteg) |  |\n| Tawara-szárak |  |\n| Purkinje-rostok |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| ingerképző és -vezető rendszer részei | elhelyezkedésük a szívben |\n|---|---|\n|  | a jobb pitvar hátsó falában található |\n|  | a szívsövényben, a pitvar és a kamra közötti határon található. |\n|  | a pitvar-kamrai csomóból indul ki |\n|  | a kamrákat elválasztó sövényen húzódik lefelé |\n|  | a kamraizomrostok között |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Nevezze meg a vérplazmában található véralvadási\nfaktorokat!",
+      "question_type": "open",
+      "correct_answer": "fibrinogén\nprothrombin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q010_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 7,
+      "question_text": "Határozza meg az orr melléküregek helyét és szerepét!",
+      "question_type": "open",
+      "correct_answer": "Helyük:\n- ékcsonti üreg (sinus sphenoidalis)\n- homloküreg (sinus frontalis)\n- arcüreg (sinus maxillaris)\n- rostacsonti üregek (cellulae ethmoidales)\nSzerepük:\n- csökkenti a koponya súlyát\n- felmelegíti az orrüregen áthaladó levegőt\n- hangadáskor rezonátorként funkcionál",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Jellemezze a kannaporcot!",
+      "question_type": "open",
+      "correct_answer": "páros porc\nelülső nyúlványairól eredő hangszalagok hosszanti tengely körüli elmozdulásával a hangrést nyitja és zárja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Határozza meg a tápanyagok alapvető építőelemeit!",
+      "question_type": "open",
+      "correct_answer": "- fehérjék\n- szénhidrátok\n- zsírok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Írja le a hányás (vomitus, emesis) folyamatát!",
+      "question_type": "open",
+      "correct_answer": "-A hányást gyakran émelygés, hányinger (nausea) előzi meg.\n-Reflexfolyamat, melynek központja az agytörzsben található.\n-Hányáskor zárt pylorus mellett a gyomor erős perisztaltikus mozgást\nvégez.\n-Mély belégzés után a gégebemenet záródik.\n-A fundus és cardia elernyed.\n-Az erős hasprés a gyomortartalmat a nyelőcsövön keresztül a\nkülvilágba juttatja.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Egészítse ki a gyomorrák tünetsorát!\nÍrjon még négy(4) tünetet!\n- étvágytalanság\n- gyors fogyás",
+      "question_type": "fill_in",
+      "correct_answer": "- teltségérzés\n- húsundor\n- gyomortáji fájdalom\n- vérszegénység (rejtett vérzés következtében)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a Malpighi-testben történő folyamatot!",
+      "question_type": "open",
+      "correct_answer": "A Malpighi-testben szűrés (filtráció) történik. Itt alakul ki az\nelsődleges vizelet.\nAz érgomolyagon belüli vérnyomás viszonylag magas, mert az\nelvezető artéria keresztmetszete szűkebb, mint az odavezető artériáé.\nAz érgomolyagon belüli vérnyomás a plazmát az érfalon keresztül\npróbálja kipréselni a Bowman-tokba.\nEzzel a nyomással szemben hat a vér kolloidozmotikus nyomása,\nmely tulajdonképpen szívó hatás, tehát a folyadékot az érpályán\nbelül tartja.\nSzerepet játszik még a vesetokon belüli nyomás, amelyet a vese belső\nkötőszövetes tokja biztosít, és amely szintén a vérnyomás ellen hat.\nA kétirányú nyomás eredője a filtrációs nyomás, amely hatására a\nvérplazma egy része a glomerulusfalon keresztül a Malpighi-test\nüregrendszerébe jut, ahonnan a vizeletpóluson eltávozik a tubulusok\nfelé.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Sorolja fel azokat az anyagokat, amelyek a vesebeteg\nember vizeletében megjelennek!",
+      "question_type": "open",
+      "correct_answer": "fehérje\nvér\ngenny\ncukor\naceton\nbilirubin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden a férfi nemi működéssel\nkapcsolatos alábbi kérdésekre!\nHol termelődik a tesztoszteron?",
+      "question_type": "fill_in",
+      "correct_answer": "a herék Leydig-féle sejtjeiben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Nevezze meg a gonadotrop hormonokat!",
+      "question_type": "open",
+      "correct_answer": "FSH\nLH\nLTH",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Ismertesse a megadott szempontok alapján a tetániás állapotot!\nLényege:\nOka:\nTünetei: Írjon négyet /4/!:\n- a kéz és láb ujjainak zsibbadása az első jel\na kéz őzfej-tartása (hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban is görcs alakul ki: „ördögi vigyor\"\n(risus sardonicus)\nszapora szívműködés\ngégeizmok görcse, ami fulladást eredményezhet\nGyógyítása, ellátása:\n(A tünetekre, gyógyításra, ellátásra helyes válaszonként 0,5-0,5 pont, a többi részre 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "A tetánia a vérszérum Ca szintjének csökkenése következtében alakul ki.\nA mellékpajzsmirigy csökkent működése. Leggyakrabban struma műtét\nután fordul elő, amikor a mellékpajzsmirigy a műtét közben sérül.\nCa adása intravénásan.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Jellemezze az idegsejtek plazmájában speciális\nfestéssel kimutatható szemcsézettséget mutató\nneuron-alkotóelemet!",
+      "question_type": "open",
+      "correct_answer": "Nissl-szemcsék, tigroid rögök\n\nSzoros összefüggést mutatnak az élő idegsejt anyagcseréjével,\nelsősorban a fehérjeszintézissel.\nAz idegsejtek kifáradásakor a tigroid rögök eltűnnek, majd a pihenés\nsorán újra megjelennek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Társítsa az agyféltekék fehérállományát összekapcsoló\npályarendszerek nevét azok feladatával!\nPályarendszerek neve:\n1. Asszociációs rostok\n2. Kommisszurális rostok\n3. Projekciós rendszer\nFeladataik:\nA. A központi idegrendszer hosszú fel- és leszálló pályái képezik. Ezen\npályák útján vetülnek ki az impulzusok az agykéreghez, ill. a leszálló\nrendszereken keresztül a periféria felé.\nB. Ugyanazon félteke különböző részei, gyrusai között létesítenek\nösszeköttetést.\nC. A két félteke szimmetrikus helyeit kötik össze.\n1.  2.  3. ",
+      "question_type": "matching",
+      "correct_answer": "B\nC\nA",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol van az éleslátás helye az ideghártyán?\nMit érzékelnek az ideghártya csapok nevű receptorai?\nMit érzékelnek az ideghártya pálcikák nevű receptorai?\nMely területen nem találhatók sem csapok, sem pálcikák az ideghártyán?\nHol található a pupilla?",
+      "question_type": "open",
+      "correct_answer": "a sárgafolton\na színeket\na fényt\na vakfolton\na szivárványhártya közepén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Jellemezze röviden az otosclerosis betegséget!",
+      "question_type": "open",
+      "correct_answer": "Csontátépülés következtében a kengyel talpa rögzül az ovális ablakhoz.\nNőknél gyakoribb, mint férfiaknál.\nKínzó fülzúgást és vezetéses halláscsökkenést okoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Sorolja fel a keringés- és légzésmegállás leggyakoribb\nokait! Írjon kettőt-kettőt /2-2/!\n\nA keringésmegállás leggyakoribb okai:\n- \n- \n- \nA légzésmegállás leggyakoribb okai:\n- \n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "kamrafibrilláció\nszívmegállás\na keringő vérmennyiség gyors, nagyfokú elvesztése\na légköri levegő összetételének megváltozása (oxigénhiány)\na légutak elzáródása\na mellkasfal összenyomódása\na nyúltvelői légzőközpont bénulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q025_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Állítsa megfelelő sorrendbe az alapfokú újraélesztés\nlépéseit! Írja le a beavatkozások sorszámát a kipontozott\nhelyre!\n\n1. befúvásos lélegeztetés\n2. beteg/sérült vizsgálata\n3. légútbiztosítás\n4. mellkaskompressziók\n\nA helyes sorrend:...",
+      "question_type": "fill_in",
+      "correct_answer": "2...3...1...4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_aprilis_04_I_5EBCDA67-24C1-B716-1D10-4A9F2E0A69A2_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Határozza meg azokat az eseteket, amikor\nnincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "a halál biztos jeleinek megjelenése esetén: hullafoltok,\nhullamerevség, bomlásnak indult hulla\nélettel összeegyeztethetetlen sérülések esetében\ngyógyíthatatlan betegség, ill. hosszas haldoklás után beállt halál\nesetén\nlegalább félórán át végzett újraélesztési kísérlet eredménytelensége\nesetén",
+      "options": []
+    }
+  }
+]

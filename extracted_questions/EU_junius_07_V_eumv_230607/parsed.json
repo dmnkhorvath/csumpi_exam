@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_junius_07_V_eumv_230607_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sejtorganellumok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sejtközpont\nmitokondriumok\nendoplazmatikus retikulum\nGolgi-apparátus\nriboszómák\nlizoszómák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 3,
+      "question_text": "Határozza meg a betegség fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A betegség (morbus) olyan állapot, amikor az életfolyamatok a normálistól\ntartósan és jelentősen eltérnek, az egyén és környezete közötti egyensúly\nfelbomlik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. homlokcsont\n2. ekecsont\n3. falcsont\n4. szájpadcsont\n5. járomcsont\n6. nyakszirtcsont\nPáros csontok: ...3., 4., 5....\nPáratlan csontok: ...1., 2., 6....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4., 5.\n1., 2., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a fehérvérsejtek három nagy csoportját!",
+      "question_type": "open",
+      "correct_answer": "- granulocyták\n- lymphocyták\n- monocyták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Írjon le a dongaláb megbetegedés gyógyításának, kezelésének lehetőségei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "- korrekció gipszeléssel, tartó- és rögzítősínekkel\n- gyógytorna\n- masszázs\n- ortopédiai cipő alkalmazása\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vérkeringés kórtanára vonatkozó helyes\nmegállapításokat!\n- A hyperaemia lényege a kórosan emelkedett szisztolés és diasztolés nyomás,\namely az arteriolák elsődleges szűkületén alapul.\n- Trombózisnak nevezzük azt, amikor a vér az érpályán belül megalvad.\n- A balszívfél-elégtelenség jellemzője a kis vérköri pangás, ami nehézlégzést\nokoz.\n- A sinuscsomó működési zavara paroxismalis tachycardiát okoz, amit a 90-\n100/perc feletti szívfrenkvencia jellemez.\n- A szívbelhártya-gyulladás fő tünete a súlyos dyspnoe, a szörcsölő köhögés, a\nszapora pulzus és a híg, halvány rózsaszínű, habos „szilvalészerű\" köpet\nürítése.\n- Reumás szívgyulladás Streptococcus okozta utóbetegségként is kialakulhat.\n- Sinus tachycardia során a pulzus szabályos ütemű, de a percenkénti ingerek\nszáma tartósan 90/perc feletti.\n- Sinus tachycardia során a pulzus szabálytalan ütemű és a percenkénti ingerek\nszáma rohamszerűen 150/perc feletti.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Trombózisnak nevezzük azt, amikor a vér az érpályán belül megalvad.\nA balszívfél-elégtelenség jellemzője a kis vérköri pangás, ami nehézlégzést\nokoz.\nReumás szívgyulladás Streptococcus okozta utóbetegségként is kialakulhat.\nSinus tachycardia során a pulzus szabályos ütemű, de a percenkénti ingerek\nszáma tartósan 90/perc feletti.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 2,
+      "question_text": "Írja le a mandulák feladatát!",
+      "question_type": "open",
+      "correct_answer": "- helyi védekezés\n- immunvédekezés (a lymphocyta termelés révén)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "fill_in",
+      "correct_answer": "- pajzsporc\n- gyűrűporc\n- kannaporc\n- gégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa a leírásokhoz a légzőszervi betegségeket! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. a tüdőn belüli légutak tartós beszűkülése\nB. idült jobbszívfél-elégtelenség\nC. rohamszerűen jelentkező légszomjjal járó\nlégúti betegség\nD. a tüdőben savós folyadék foglalja el a levegő\nhelyét\nE. a hörgők nyálkahártyájának gyulladásos\nbetegsége",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., Β.-...5...., С.-...1...., D.-...2...., Ε.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi szakaszainak latin, vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\n| Az emésztőrendszer szakaszai |  |\n|---|---|\n| magyarul | latinul |\n| szigmabél |  |\n| patkóbél |  |\n| vakbél |  |\n| garat |  |\n| nyelőcső |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emésztőrendszer szakaszai |  |\n|---|---|\n| magyarul | latinul |\n|  | colon sigmoideum |\n|  | duodenum |\n|  | caecum |\n|  | pharynx |\n|  | oesophagus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a kiszáradáshoz vezető lehetséges okok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "nagyfokú hányás\nnagyfokú hasmenés\nelégtelen folyadékbevitel\nnagyfokú verejtékezés\nfokozott vizeletürítés\nnagy mennyiségű vérvesztés\nnagyfokú vizenyő (ödéma) képződése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Egészítse ki a kiválasztás szervrendszerére vonatkozó alábbi mondatokat!\nA vizeletkiválasztó- és elvezető rendszer feladata az ... során keletkezett... egy részének eltávolítása.\nA vese ... színű, kb. ... cm hosszú, páros szerv, amely a hasüreg hátsó felső részében, közvetlenül a gerinc két oldalán a ... háti és a ... ágyéki csigolya magasságában helyezkedik el.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "anyagcsere\nsalakanyagok\nvörös/vörösesbarna\n10-12\nXII\nII",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vesekőképződésre hajlamosító tényezők közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizeletpangás\na vizelet fertőződése\nkőképző anyagok felszaporodása\nhibás folyadékfogyasztási és táplálkozási szokások",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg lényegét!\n\nElsődleges nemi jelleg:\n...a\n\nMásodlagos nemi jelleg:\n...a",
+      "question_type": "open",
+      "correct_answer": "nemi szervek határozzák meg, eszerint női és férfi nemi jelleget különbözetünk meg...\nnemi érés (pubertás) során alakul ki a nemi mirigyek által termelt hormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Csoportosítsa a menstruációs ciklus fázisait a hormonokhoz! Írja a\nsorszámokat a megfelelő helyre!\n\n1. menstruációs fázis\n2. proliferációs fázis\n3. szekréciós fázis\n4. regenerációs fázis\n\nprogeszteron: ...., .....\n\nösztrogén: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3....\n\n2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel a genitális herpesz lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a nemi szerveken és környékén égő érzés\n- fájdalom\n- apró hólyagok\n- fájdalmas nyirokcsomó-duzzanat\n- láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertessen az antidiuretikus hormon (ADH) hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\nkevesebb víz választódik ki a vizelettel\nnöveli a vizelet fajsúlyát\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású\nemeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 2,
+      "question_text": "Nevezzen meg kettőt a mellékpajzsmirigy túlműködésének lehetséges okai\nközül!",
+      "question_type": "open",
+      "correct_answer": "- a mellékpajzsmirigy szöveteinek túltengése\n- daganat\n- a vér kalcium-szintjének kóros csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Hasonlítsa össze a vegetatív idegrendszer hatását a megadottak szerint!\nEgészítse ki a táblázatot!\n\n|  | paraszimpatikus hatás | szimpatikus hatás |\n|---|---|---|\n| vérnyomás |  |  |\n| vércukorszint |  |  |\n| légzésszám |  |  |",
+      "question_type": "fill_in",
+      "correct_answer": "|  | paraszimpatikus hatás | szimpatikus hatás |\n|---|---|---|\n| vérnyomás | csökken | emelkedik/nő |\n| vércukorszint | csökken | emelkedik/nő |\n| légzésszám | csökken | emelkedik/nő |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Sorolja fel a tudat világosságának zavarait!",
+      "question_type": "open",
+      "correct_answer": "ködös állapot/delirium\nhomályállapot/tenebrositas\nGanser-tünetcsoport",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az egyensúly-érzékelés folyamatában részt\nvevő anatómiai képleteket!\n- kisagyi központ\n- hátsó központi tekervény\n- thalamus\n- tömlőcske\n- fülkagyló\n- hártyás labirintus\n- I. agyideg\n- VIII. agyideg\n- VII. agyideg\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "kisagyi központ\ntömlőcske\nhártyás labirintus\nVIII. agyideg",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Írja le a fejtetvesség tüneteit és kezelésének lehetőségeit!\nTünetei: Írjon hármat!\n\nKezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "viszketés\nvakarási nyomok\nbőrsérülés\nserkék a hajszálakon\na serkék eltávolítása\ntetűirtó szerek használata\na fertőzött tárgyak, textilek fertőtlenítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Párosítsa a sérülésekhez jellemző tüneteiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. koponyaűri vérzés\n2. koponyaalapi törés (a középső árok törése)\n3. agyrázkódás\n4. agyzúzódás\n\nA. az agyállományban vérzés, szövetpusztulás jön létre, tartós\neszméletlenséggel jár\nB. szédülés, hányinger, hányás, haematoma a fül mögött, a fülből véres liquor\nürül\nC. rövid ideig tartó eszméletvesztés, majd az eszméletre térés után átmeneti\npanaszmentesség észlelhető; később fejfájás, szédülés, hányás, fokozódó\nzavartság után ismét lehet eszméletvesztés, a pupillák egyenlőtlenek\nD. rövid ideig tartó eszméletvesztés, szédülés, fejfájás, hányás, emlékezetzavar",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B...., 3.-...D...., 4.-...A....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_junius_07_V_eumv_230607_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Ismertesse a bordatörés fajtáit és lehetséges tüneteit!\nFajtái:\n- egyszerű\n- sorozatoS\n- ablakos\nLehetséges tünetei: Írjon hármat!*",
+      "question_type": "open",
+      "correct_answer": "egyszerű\nsorozatoS\nablakos\nfelületes légzés\nfulladásérzés\nfájdalom\nhaematoma",
+      "options": []
+    }
+  }
+]

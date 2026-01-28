@@ -1,0 +1,322 @@
+[
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok feladataival! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. T-lymphocyta\nA. fagocitózis\n2. B-lymphocyta\nB. sejtes immunválasz\n3. granulocyta és monocyta\nC. humorális immunválasz\n\n1.- ......\n2.- ......\n3.- .......\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "Β\nC\nΑ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a jóindulatú daganatokat!\n- papilloma\n- sarcoma\n- lipoma\n- myoma\n- carcinoma\n- osteoma\n- leukaemia\n- lymphoma\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "papilloma\nlipoma\nmyoma\nosteoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel az arckoponya csontjai közül ötöt magyarul!",
+      "question_type": "open",
+      "correct_answer": "- felső állcsont\n- járomcsont\n- rostacsont\n- orrcsont\n- állkapocs\n- ekecsont\n- könnycsont\n- szájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az emberi test részeit!\nEgészítse ki a táblázatot!\n\n| Az emberi test részei | Latin megnevezés |\n|-----------------------|-------------------|\n| fej                   |                   |\n| nyak                  |                   |\n| has                   |                   |\n| medence               |                   |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emberi test részei | Latin megnevezés |\n|-----------------------|-------------------|\n|                       | caput             |\n|                       | collum/cervix     |\n|                       | abdomen           |\n|                       | pelvis            |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\nsipoly\nfájdalom\nalakváltozás, duzzanat\nizomsorvadás\nmozgáskiesés\nX- láb\nvérömleny\nvérmérgezés\n(Csak a 4 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás, duzzanat\nmozgáskiesés\nvérömleny",
+      "options": [
+        "sipoly",
+        "fájdalom",
+        "alakváltozás, duzzanat",
+        "izomsorvadás",
+        "mozgáskiesés",
+        "X- láb",
+        "vérömleny",
+        "vérmérgezés"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szívinfarktus rizikófaktorai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nmozgásszegény életmód\nhelytelen táplálkozás\nmagas koleszterinszint\nmagas vérnyomás\nhajszolt életmód (stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hypovolaemiás sokk okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- vérzés\n- nagyfokú hányás\n- hasmenés\n- tartós szomjazás\n- égés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\nHol helyezkedik el az orrmandula?\n- a gégében\n- a garatban\nHová nyílik a fülkürt?\n- garat orri szakaszába\n- garat gégei szakaszába\nMelyek a tüdő saját vérellátását biztosító erek?\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\nMi biztosítja a légutak legfelső részébe került idegen anyagok\neltávolítását?\n- a tüsszentés\n- a köhögés\nHogyan alakul a légzésszám a paraszimpatikus idegrendszer hatására?\n- csökken\n- emelkedik",
+      "question_type": "multiple_choice",
+      "correct_answer": "a garatban\ngarat orri szakaszába\narteria és vena bronchialis\na tüsszentés\ncsökken",
+      "options": [
+        "a gégében",
+        "a garatban",
+        "garat orri szakaszába",
+        "garat gégei szakaszába",
+        "arteria és vena pulmonalis",
+        "arteria és vena bronchialis",
+        "a tüsszentés",
+        "a köhögés",
+        "csökken",
+        "emelkedik"
+      ]
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Soroljon fel a tüdőasztma (asthma bronchiale) tünetei\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "hirtelen jelentkező nehézlégzés\nlégzési segédizmok segítségével próbál levegőhöz jutni a beteg\nrövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\na köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) ürül\nszapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q010_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "Írja le az eszméletlen beteg szakszerű elhelyezési módját!",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfekvés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi tápanyagok alapvető\népítőelemeit!\nFehérjék:...\nSzénhidrátok:...\nZsírok:...",
+      "question_type": "fill_in",
+      "correct_answer": "aminosavak\negyszerű cukrok (monoszacharidok)\nzsírsavak és glicerin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Foglalja össze az emésztéssel kapcsolatos ismereteit! Egészítse ki a táblázatot!\n\n| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n| gyomor | pepszin |  |\n|  | lipáz |  |\n| vékonybél |  | fehérje |\n|  | amiláz, maltáz, laktáz |  |\n|  | lipáz |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Emésztőrendszer részei | Emésztő enzimek | Tápanyagok bontása |\n|---|---|---|\n|  |  | fehérje |\n|  |  | zsír |\n|  | tripszin |  |\n|  |  | szénhidrát |\n|  |  | zsír |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 6,
+      "question_text": "Csoportosítsa a megadott betegségekhez tüneteiket!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n\n1. deréktáji éles fájdalom\n2. ödéma (szemhéjon, arcon, kézen)\n3. magas vérnyomás\n4. gyakori, fájdalmas vizelés\n5. fájdalom, mely a comb belső oldalára, illetve a herékbe, vagy a\nnagyajkakba sugárzik\n6. a vizeletben fehérje jelenhet meg\n\nVesekövesség: ...\nGlomerulonephritis acuta: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4, 5...\n2, 3, 6...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Sorolja fel a vizeletkiválasztó- és elvezető rendszer\nrészeit!",
+      "question_type": "open",
+      "correct_answer": "- vese\n- húgyhólyag\n- húgyvezeték\n- húgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Sorolja fel a meddőség női és férfi okait!\nNői okok: Írjon kettőt!\n- \n- \n- \n-\nFérfi okok: Írjon egyet!\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "nemi szervek fejletlensége\nfejlődési rendellenesség\nméhkürt gyulladásos elzáródása\nendokrin-anyagcsere betegségek\nhormonális\nszervi",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg\nlényegét!\n\nElsődleges nemi jelleg:\n\nMásodlagos nemi jelleg:",
+      "question_type": "open",
+      "correct_answer": "...a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők\nfejlődése)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden a női nemi működésre vonatkozó kérdésekre!\nMi a szerepe a sárgatesthormonnak?\nHol található a sárgatest?\nMi a széles méhszalag feladata?\nMely hormon felelős a női nemi jelleg kialakulásáért?",
+      "question_type": "fill_in",
+      "correct_answer": "...a méhnyálkahártya előkészítése a megtermékenyített petesejt befogadására...\n...a petefészek kéregállományában...\n...a méhet és a petefészket rögzíti...\n...az ösztrogén...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Sorolja fel a belső elválasztású (endokrin) mirigyek\njellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- nincs kivezető csövük\n- váladékaik a hormonok\n- a hormonok a vérbe ürülnek, a mirigytől távol fejtik ki hatásukat\n- váladéktermelésüket elválasztásnak nevezzük",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Írja le a csecsemőmiriggyel kapcsolatos ismereteit a\ntáblázatban megadott szempontok szerint!\n\n|  | A csecsemőmirigy |\n|---|---|\n| hormonja |  |\n| feladatai |  |\n| helye a szervezetben |  |\n| jellemzője Írjon egyet! |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  |  |\n|---|---|\n|  | timozin |\n|  | a növekedést, a szexuális fejlődést serkenti\nantitestképzés (nyirokszerv) |\n|  | a gátorüreg elülső részében helyezkedik el |\n|  | kisgyermekkorig aktív, serdülőkortól elsorvad |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse az agyhártyagyulladás (meningitis)\nlehetséges okait, tüneteit!\nOkai: Írjon kettőt!\n\nTünetei: Írjon négyet!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "baktériumok okozta fertőzés\nvírusok okozta fertőzés\ngombák okozta fertőzés\nparaziták okozta fertőzés\nheves fejfájás, fény- és zajérzékenység\nmagas láz\nzavart tudat\naluszékonyság\nhányás\n„vadászkutyafekvés\"",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Ismertesse a sérültek elhelyezési módját az alábbi\nesetekben!\n\nOrrvérzés esetén:\n...\n\nLégmell esetén:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "ülő helyzet, előre döntött fej ...\nfélülő helyzet (nyugalom)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2..., Β.-...3...; С.-...1..., D.-...4..., Ε.-...5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Ismertesse a belső vérzésre utaló tüneteket és a tünetek\nészlelésekor az elsősegélynyújtó teendőit!\nTünetek: Írjon négyet!\n\nTeendők: Írjon kettőt!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- sápadtság\n- hideg, nyirkos bőr\n- szapora, elnyomható pulzus (filiformis)\n- fájdalom\n- szomjúságérzés\n- nyugtalanság, zavartság\n- sokk-fektetés (hanyatt fekvő helyzet, 20º - os szögben felpolcolt alsó\nvégtagokkal)\n- folyadékpótlás\n- mentőhívás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_julius_11_I_EUMI_0711_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- nyúltvelő\n- híd\n- kisagy",
+      "options": []
+    }
+  }
+]

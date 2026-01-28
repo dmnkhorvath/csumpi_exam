@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Ismertesse a fertőző betegségek lefolyásával kapcsolatos fogalmak jelentését!\ninkubáció: ...\nprodroma: ...\nmanifesztáció: ...\nrekonvaleszcens szak: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "lappangás, a fertőzés és a betegség kialakulása között eltelt idő...\nbevezető szakasz, az általános tünetek megjelenésének szakasza...\nkifejlődés szakasza, kialakulnak a konkrét betegségre jellemző tünetek...\nkimeneteli szakasz, a tünetek lezajlása után következő szakasz...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a simaizmot és a harántcsíkolt izmot a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n\n| Szempontok | simaizom | harántcsíkolt izom |\n|---|---|---|\n| helye | zsigeri szervek és erek fala |  |\n| irányítása |  | akaratlagos és reflexes |\n| összehúzódása |  | gyors |\n| erőkifejtés mértéke |  | jelentős erőkifejtés |",
+      "question_type": "fill_in",
+      "correct_answer": "| Szempontok | simaizom | harántcsíkolt izom |\n|---|---|---|\n| helye |  | vázizmok |\n| irányítása | akarattól független |  |\n| összehúzódása | lassú, hullámszerű |  |\n| erőkifejtés mértéke | viszonylag nagy |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Nevezze meg magyarul az alkar és a vállöv (függesztőöv) csontjait!\nAz alkar csontjai:\n-\n-\nA vállöv (függesztőöv) csontjai:\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "orsócsont\nsingcsont\nkulcscsont\nlapockacsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Ismertesse a Scheuermann-féle betegség lényegét és kezelésének\nlehetőségeit!\n\nA betegség lényege:\n\nKezelésének lehetőségei: Írjon hármat!\n",
+      "question_type": "open",
+      "correct_answer": "...a csigolyatestek elkeskenyedése, szilárdságuk elvesztése....\ngyógytorna\núszás\nfűző viselése\ngyógyszeres kezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Párosítsa a fehérvérsejt fajtáihoz jellemzőiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. B-lymphocyták\n2. neutrophil granulocyták\n3. T-lymphocyták\n4. agranulocyták\n5. monocyták\n\nA. ellenanyagokat, immunglobulinokat termelnek\nB. a plazmájukban nincsenek szemcsék\nC. a legnagyobb fehérvérsejtek, magvuk nagy, bab alakú, fagocitáló\nképességűek\nD. fagocitózisra nem képesek, a beültetett transzplantátum kilökődéséért\nfelelősek\nE. a szervezetbe került baktériumokat felismerik és fagocitálják",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...E...., 3.-...D...., 4.-...B...., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel az angina pectoris lehetséges tünetei, jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- erős nyomó-, szorító-, markoló fájdalom a szegycsont mögött\n- a fájdalom kisugárzik a bal karba, vállba, a gyomorgödörbe, a hát közepébe\n- halálfélelem, nyugtalanság, szorongás\n- a bőr hideg verítékes\n- szapora, elnyomható pulzus\n- a fájdalom percektől negyed óráig is tarthat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg az orrmelléküregeket latinul!",
+      "question_type": "open",
+      "correct_answer": "- sinus frontalis\n- sinus maxillaris\n- sinus sphenoidalis\n- cellulae ethmoidales",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q008_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 6,
+      "question_text": "Csoportosítsa a légzőközpont működését befolyásoló tényezőket a megadottak szerint! Irja a sorszámokat a megfelelő helyre!\n1. a légzőizmok működésének akaratlagos lassítása\n2. a vegetatív idegrendszer paraszimpatikus hatása\n3. a vegetatív idegrendszer szimpatikus hatása\n4. a légzőközponton áthaladó vér szén-dioxid nyomásának emelkedése\n5. ijedtség\n6. fájdalom\n\nGátló tényezők: ...\n\nSerkentő tényezők: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 5....\n3., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a nyelv feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- az ízérzés biztosítása\n- a táplálék keverése nyállal\n- a falat kialakítása, a nyelés megindítása\n- egyes hangok képzése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Ismertessen a garatgyulladás lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- rossz közérzet\n- fáradtság\n- fejfájás\n- láz\n- égő, kaparó kellemetlen érzés a torokban/garatban\n- torokfájás\n- orrnyálkahártya-duzzanat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztásra vonatkozó helyes\nmegállapításokat!",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az aldoszteron fokozza a Na-ion és a víz visszaszívását, így csökken az ürített\nvizelet mennyisége.\nAz ADH hormon a vesecsatornák utolsó szakaszának vízáteresztő képességét\nbiztosítja.\nCsökkent ADH termelés esetén a naponta ürített vizelet mennyisége elérheti\na 8-12 litert is.\nAz ADH a hypothalamusban termelődik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Ismertesse a pyelonephritis acuta lehetséges okait és gyógyításának\nlehetőségeit!\nKialakulásának lehetséges okai: Írjon kettőt!\n\nGyógyításának/kezelésének lehetőségei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- felszálló fertőzés\n- véráram útján történő fertőzés (hematogén fertőzés)\n- a nyirokutak közvetítésével a bélcsatornából bejutott kórokozók\n- a lázas időszakban ágynyugalom\n- bőséges folyadékbevitel\n- antibiotikumos kezelés\n- a vizeletpangást okozó elváltozás megszüntetése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg a nemi érintkezés útján terjedő betegségek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "gonorrhoea\nvérbaj (szifilisz)\nherpes genitalis\nAIDS\nChlamydia-fertőzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Egészítse ki a fogamzással kapcsolatos mondatokat!\nAz érett petesejt az ovulációt követően a ... jut, ahol találkozik a\n... .\nA megtermékenyült petesejt első osztódása a ... történik meg.\nAz utód megnevezése a terhesség első 8 hetében ..., majd a 2. hónaptól\n... .\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "méhkürtbe\nspermiumokkal\npetevezetékben\nembrió\nmagzat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ösztrogén és progeszteron hatásait! Írja a sorszámokat a\nmegfelelő helyre!\n1. a regenerációs és proliferációs fázisok irányítása\n2. a terhes méh összehúzódásának megakadályozása\n3. a méhizomzat gyarapodása\n4. az emlőmirigy tejelválasztásának fokozása\n5. a méhnyálkahártya előkészülése a megtermékenyített petesejt befogadására\n6. a másodlagos nemi jelleg kialakulása\n\nösztrogén hatása: ...\nprogeszteron hatása: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 6....\n2., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a Basedow-kórt a megadott szempontok szerint!\nLényege: ...\nGyakoriságának jellemzője: ...\nGyógyításának, kezelésének, lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "A pajzsmirigy autoimmun túlműködése okozta megbetegedés.....\nElőfordulása a nőknél négyszer gyakoribb, mint a férfiaknál...\ngyógyszeres terápia\nműtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 3,
+      "question_text": "Sorolja fel az inger feltételes ingerré válásának feltételeit!",
+      "question_type": "open",
+      "correct_answer": "- az inger felvételére alkalmas receptorok\n- a feltételes inger alkalmazásának egybe kell esnie a feltétlen ingerrel, vagy meg kell előznie azt (megerősítés)\n- megfelelő számú társításnak kell történnie",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a myasthenia gravis lényegét!",
+      "question_type": "open",
+      "correct_answer": "Autoimmun betegség, az idegsejtek közötti szinapszisban termelődő acetilkolin mennyisége csökken, vagy az elbontóenzim működése fokozott, ami miatt az ideg- és izomingerületi átvitel akadályozott.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöbinger:\n...\nküszöb alatti inger:\n...\nmaximális stimulus:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "olyan erősségű inger, amely idegimpulzust vált ki...\nolyan gyenge inger, amelyre az idegrost nem válaszol...\naz a legnagyobb inger, amely egy idegköteg valamennyi rostját ingerületbe hozza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Húzza alá a felsorolásból a szem részeit!\n- a szem védőkészülékei\n- szemcsatorna\n- könnykészülék\n- pupilla-váz\n- szemgolyó\n- látótér\n- szemmozgató izmok\n- szemtengely\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szem védőkészülékei\nkönnykészülék\nszemgolyó\nszemmozgató izmok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Írja le az anyajegy megfigyelésének szempontjait és a megfigyelés\njelentőségét!\nA megfigyelés szempontjai: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "színe\nmérete\nfelülete\nhatárai\nAz anyajegy bármilyen változása esetén orvosi ellenőrzés szükséges a\nrosszindulatú elfajulás veszélye miatt.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Párosítsa a testfelületekhez a 9-es szabály szerinti százalékos értékeiket!\nÍrja a sorszámok mellé a megfelelő betűjeleket!\n1. mellkas elöl és gáttájék\nA. 9%\n2. fej\nB. 27%\n3. két felső végtag\nC. 18%\n4. két alsó végtag és a gáttájék\nD. 10%\n5. egy felső végtag és egy alsó végtag\nΕ. 37%",
+      "question_type": "matching",
+      "correct_answer": "D, A, C, E, B",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_november_07_I_egeszsegugyi_alapmodul_1_1107_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet az elsősegélynyújtó teendői közül napszúrás előfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "sötét, hűvös helyen való elhelyezés\nmagasra polcolt felsőtesttel való fektetés\nhomlokra, tarkóra vizes borogatás felhelyezése\nfolyadékpótlás (kortyonkénti itatás)\nfejfájás csillapítása",
+      "options": []
+    }
+  }
+]

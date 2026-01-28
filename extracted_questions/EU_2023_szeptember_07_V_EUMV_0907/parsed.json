@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Fogalmazza meg az autoimmunitás lényegét, lehetséges következményét!",
+      "question_type": "open",
+      "correct_answer": "Autoimmunitás során az immunrendszer a saját antigénjei ellen\nindít immunválaszt, a szervezet valamilyen ok miatt idegenként kezeli saját\nsejtjeit, megtámadja azokat....\nAz autoimmunitás káros, ha olyan erős reakció\nindul el, ami károsítja a szöveteket és egy progrediáló betegség (autoimmun\nbetegség) alakul ki.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Egészítse ki az anatómiai síkokkal, irányokkal kapcsolatos táblázatot! A megfelelő oszlopba tegyen „X\"-et!\n\n|   | irányt jelöl | síkot jelöl |\n|----------|-------------|-------------|\n| ventralis |             |             |\n| sagittalis |             |             |\n| horizontalis |             |             |\n| medialis |             |             |\n| distalis |             |             |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|   | irányt jelöl | síkot jelöl |\n|----------|-------------|-------------|\n| ventralis | X |             |\n| sagittalis |             | X |\n| horizontalis |             | X |\n| medialis | X |             |\n| distalis | X |             |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi betegségeket a meghatározásokkal! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. arthrosis\n2. Bechterew-kór\n3. rachitis\n4. spina bifida\n5. osteoporosis\n\nA. a gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák\nösszecsontosodásával jár\nB. D-vitamin-hiány következtében elmarad a mészsók beépülése a csontokba\nC. a csontok szervetlen és szerves állományának csökkenése\nD. a csigolyaívek záródásának hiánya\nE. az ízületi porc kopása\n\n1.-......, 2.-......, 3.-......, 4.-......, 5.-......",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-Α...., 3.-...B...., 4.-...D...., 5.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Soroljon fel a vérplazma összetevői közül hatot! Folytassa a felsorolást!\n- 90%-a víz, ezen belül oldott állapotban találhatók:\n- szénhidrátok",
+      "question_type": "open",
+      "correct_answer": "fehérjék\nzsírok, lipoidok\nvéralvadási faktorok\nfestékanyagok\nionok\nnitrogéntartalmú anyagok\nhormonok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a kamralebegés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A legsúlyosabb ingerképzési zavar. A beteg pulzusa nem tapintható, a kamra\nnem képes továbbítani vért, a szív nem tudja a keringést fenntartani. Az EKG-n\n300-400/perc frekvenciájú szabálytalan hullámok láthatóak.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\n\nMi alkotja a légcső és a hörgők nyálkahártyahámját?\n- csillószőrös laphám\n- csillószőrös hengerhám\n\nMelyik porc a nagyobb?\n- gyűrűporc\n- pajzsporc\n\nMi emeli a légzési perctérfogatot, a légzésszámot?\n- a légzőközponton áthaladó vér szén-dioxid szintjének növekedése\n- a légzőközponton áthaladó vér szén-dioxid szintjének csökkenése\n\nMi emeli a légzésszámot?\n- a vér pH-jának lúgos irányba tolódása\n- a vér pH-jának savas irányba tolódása",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillószőrös hengerhám\npajzsporc\na légzőközponton áthaladó vér szén-dioxid szintjének növekedése\na vér pH-jának savas irányba tolódása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a gégegyulladás jellemző tüneteit és kezelésének lehetőségeit!\nJellemző tünetei:\n\nGyógyításának, kezelésének lehetőségei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "nehézlégzés\nrekedtség\nhangadási képtelenség\nbőséges folyadékfogyasztás\na levegő párásítása\na nyálkahártyát ingerlő hatások kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Nevezze meg az alábbi tápanyagok alapvető építőelemeit!\nZsírok: ...\nFehérjék: ...\nSzénhidrátok: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "zsírsavak és glicerin\naminosavak\negyszerű cukrok (monoszacharidok)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőszervi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. herpes labialis\n2. soor\n3. mumpsz\n4. typhus abdominalis\n5. salmonellosis\n\nBaktérium okozta megbetegedés: ...\nVírus okozta megbetegedés: ...\nGomba okozta megbetegedés: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "4., 5....\n1., 3....\n2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit és gyógyításának\nlehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\ngörcsös fájdalom\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A Malpighi-testben történik a vízvisszaszívás.\n- A vesemedencébe torkollanak a vesekelyhek.\n- A vesét három tok veszi körül.\n- A vesét két tok veszi körül.\n- A vese homloksíkú metszetén kéregállományt, velőállományt,\nvesekelyheket, és vesemedencét látunk.\n- A vizeletkiválasztást hormonok és idegrendszeri hatások nem befolyásolják.\n- A vese alaki, működési és fejlődési egysége a Malpighi-test.\n- A vese alaki, működési és fejlődési egysége a nephron.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vesemedencébe torkollanak a vesekelyhek.\nA vesét három tok veszi körül.\nA vesét két tok veszi körül.\nA vese homloksíkú metszetén kéregállományt, velőállományt,\nvesekelyheket, és vesemedencét látunk.\nA vese alaki, működési és fejlődési egysége a nephron.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan nevezzük egy szóval a hímivarsejtek/spermiumok képzését?",
+      "question_type": "fill_in",
+      "correct_answer": "spermatogenezis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a Chlamydia-fertőzés tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "vizeléskor égő érzés\nnőknél vízszerű folyás\nférfiaknál nyákos húgycsőfolyás\nalhasi fájdalom\nízületi panaszok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a növekedési hormon (STH) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sejtek méretükben megnagyobbodnak\n- a sejtek számukban megszaporodnak\n- a csontok hosszirányban növekednek\n- a csontok vastagodnak\n- a lágy szövetek, zsigerek megnagyobbodnak\n- segíti a fehérjeszintézist",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez a jellemző tüneteiket! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. diabetes mellitus\nB. diabetes insipidus\nC. acromegalia\nD. Basedow-kór\n\n1. olthatatlan szomjúságérzés, alacsony sűrűségű, nagy mennyiségű vizelet\nürítése\n2. megnagyobbodott pajzsmirigy, kidülledt szem, szapora szívműködés\n3. acetonszagú lehelet, magas sűrűségű, nagy mennyiségű vizelet ürítése\n4. a csontok végi része megvastagodott, nagy orr, hosszú ujjak",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., В.-...1...., С.-...4...., D.-...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Nevezze meg a hypothalamusban található központokat!",
+      "question_type": "open",
+      "correct_answer": "- az anyagcsere központja\n- az éhség központja\n- a szomjúság központja\n- a testhőmérséklet központja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Ismertesse a tudat megadott világossági zavarainak jellemzőit!",
+      "question_type": "open",
+      "correct_answer": "tenebrositas: ...a gondolkodás homályos, zavart, a külvilággal megszakad a\nkapcsolat, az észrevevések és az emlékképek összekeverednek, intenzív érzelem-\nmegnyilvánulások, erőszakos cselekmények jelentkezhetnek...\ndelírium: ...a külvilággal való kapcsolat meglazul vagy megszűnik,\ntájékozatlanság, tömeges érzékcsalódások jelentkezhetnek...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alapízeket - az ízérzékelésnek megfelelően - a nyelv területeihez! Írja a sorszámokat a megfelelő helyre!\n\n1. édes\n2. keserű\n3. savanyú\n4. sós\n\na nyelvgyök: ......\na nyelv hegye: ......\na nyelv oldalsó szélei: .......",
+      "question_type": "fill_in",
+      "correct_answer": "2\n1\n3., 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q021_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a szaglószerv fáradékonyságának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Az ember szaglószerve fáradékony, bizonyos idő eltelte után az adott szagot\nmár nem érzi, hozzászokik a szaghoz.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 5,
+      "question_text": "Soroljon fel az afta kialakulásának lehetséges okai/hajlamosító tényezői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "vírusos, vagy bakteriális fertőzés\nstressz\nvitaminhiány\nfolsavhiány\nkialvatlanság\nelhanyagolt szájhigiéné",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Egészítse ki a sérülésekkel kapcsolatos alábbi mondatokat!\nA seb mélységét és ... a sebet okozó ... és a ... határozza meg.\nCsonkolt seb esetén a vérzés mennyisége ..., a fertőzésveszély foka ....",
+      "question_type": "fill_in",
+      "correct_answer": "kiterjedését, tárgy alakja, behatolás ereje, bőséges, nagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2023_szeptember_07_V_EUMV_0907_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négy olyan okot, ami eszméletzavarhoz vezethet!",
+      "question_type": "open",
+      "correct_answer": "fizikai kórokok\nvérkeringési zavar\ngyulladás\ndaganat\nanyagcsere-folyamatok zavarai",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Nevezze meg latinul az alábbi szerveket!\n- tüdő: ...\n- gyomor: ...\n- lép: ...\n- szív: ...\n- máj:...",
+      "question_type": "fill_in",
+      "correct_answer": "pulmo\ngaster/ventriculus\nlien\ncor\nhepar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel az élettelen kórokok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "mechanikai hatások\nelektromos áram\nsugárzó energia\nhőártalom\nlégnyomás változása\nmeteorológiai tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 4,
+      "question_text": "Csoportosítsa a csontok folytonos összeköttetéseit a megadott szempontok szerint! Írja a helyes válasz sorszámát a megfelelő helyre!\n\n1. csigolyák között\n2. koponya varratai\n3. térdízület\n4. keresztcsont\n\nkötőszövetes összeköttetés: ...., .... \nporcos összeköttetés: ......\ncsontos összeköttetés: .......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n1.\n4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg a gerincferdülés lényegét!",
+      "question_type": "open",
+      "correct_answer": "A gerincoszlop oldalirányú görbülete, amely a csigolyák egymáson való\nelmozdulásának, csavarodásának következtében alakul ki.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Soroljon fel a reumás láz lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- láz\n- fejfájás\n- izzadás\n- a nagyízületek fájdalmas gyulladása\n- erős mellkasi fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. fala kb. 15-20 mm vastag\n2. fala kb. 2 mm vastag\n3. vénás vér található benne\n4. artériás vér található benne\n\njobb pitvar jellemzői: ...., .....\nbal kamra jellemzői: ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból a csecsemőmirigyre vonatkozó helyes\nmegállapításokat!\n- Két állománya a fehér és a vörös pulpa.\n- A mellüregben, közvetlenül a szegycsont mögött helyezkedik el.\n- Két lebenyből áll.\n- Legnagyobb fejlettségét időskorban éri el.\n- Pubertás idején sorvadásnak indul.\n- A szervezetben több helyen is megtalálható.\n- Itt zajlik a T-lymphocyták érésének és fejlődésének legfontosabb szakasza.\n- A kiöregedett, károsodott vörösvértestek elsősorban itt esnek szét.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "open",
+      "correct_answer": "A mellüregben, közvetlenül a szegycsont mögött helyezkedik el.\nKét lebenyből áll.\nPubertás idején sorvadásnak indul.\nItt zajlik a T-lymphocyták érésének és fejlődésének legfontosabb szakasza.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Párosítsa a jellegzetes köpetekhez a megfelelő betegségeket! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. bőséges, szilvalészerű köpet\nA. tüdőasztma\n2. üvegszerű, tapadós köpet\nB. tüdőtályog\n3. gennyes köpet\nC. tüdővizenyő\n4. barnásvörös köpet\nD. tüdőgyulladás\n5. élénkpiros színű, véres köpet\nE. tuberkulózis",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-А., 3.-...B...., 4.-...D..., 5.-E....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Ismertesse a vegetatív idegrendszer légzőrendszerre gyakorolt hatásait!\nszimpatikus hatás:\n- \n- \nparaszimpatikus hatás:\n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a bronchusok tágulnak\na légzés fokozódik\na bronchusok szűkülnek\na légzésszám csökken",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Nevezze meg a tápanyagokat funkciójuk szerint! Írjon csoportonként egy-egy példát! Töltse ki a táblázatot!\n\n| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n| sejtépítők |  |\n| energiaszolgáltatók |  |\n| biokatalizátorok |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Tápanyagok csoportjai funkció szerint | egy-egy példa megnevezése* |\n|---------|---------|\n|  | fehérjék, zsírok, ásványi sók |\n|  | zsírok, szénhidrátok |\n|  | ásványi sók, vitaminok |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Nevezze meg a vékonybél szakaszait latinul!",
+      "question_type": "open",
+      "correct_answer": "duodenum\njejunum\nileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi a vizelet fajsúlya?\nTartalmaz-e a végleges vizelet élettanilag urobilinogént?\nTartalmaz-e a végleges vizelet élettanilag bilirubint?\nMely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba ágyazva?\nHol termelődik az eritropoetin?",
+      "question_type": "fill_in",
+      "correct_answer": "1020-1025 g/l (1001-1040 g/l)\ntartalmaz\nnem tartalmaz\na mellékvese\nvesékben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- terhesség alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Határozza meg a méh elhelyezkedését az emberi szervezetben!",
+      "question_type": "open",
+      "correct_answer": "A méh a kismedence közepén, a húgyhólyag és a végbél között helyezkedik el.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Húzza alá a felsorolásból a páros szerveket!\n- herezacskó\n- petefészek\n- dülmirigy\n- méh\n- here\n- ondóhólyag\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "petefészek\nhere\nondóhólyag",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mixödéma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- duzzadt, kifejezéstelen, egykedvű arc\n- durva, hideg tapintatú bőr\n- alacsony testhőmérséklet\n- rekedt hang, lassult beszéd\n- gyér pulzus\n- székrekedés\n- fázékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a felsorolt hormonok hatását! Töltse ki a táblázatot!\n| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           |                                       |\n| ADH           |                                       |\n| FSH           | nő                                      |\n|               | férfi                                   |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A hormon neve | A hormon hatása Írjon egyet-egyet! |\n|---------------|---------------------------------------|\n| STH           | - a test növekedésének szabályozása\n- fokozza a fehérjeszintézist                                      |\n| ADH           | - szabályozza a vízvisszaszívást a vese tubulusaiban\n- érösszehúzó\n- emeli a vérnyomást                                       |\n| FSH           | nő - megindítja a tüszőérést\n- a petefészekre hat                                     |\n|               | férfi - fenntartja az ondósejtek képződését\n- a herékben megindítja az ondósejtek képződését                                  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a Chlamydia-fertőzés tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- vizeléskor égő érzés\n- nőknél vízszerű folyás\n- férfiaknál nyákos húgycsőfolyás\n- alhasi fájdalom\n- ízületi panaszok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő betegséghez! Írja a\nsorszámokat a megfelelő helyre!\n1. fénykerülés\n4. aurajelenség\n2. magas láz\n5. tónusos generalizált roham\n3. heves fejfájás\n6. tarkókötöttség, „vadászkutyafekvés\"\nAgyhártyagyulladás: ...., ...., ...., ...\nEpilepsziás nagy roham: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 3., 6.\n4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Írja le az alábbi fogalmak jelentését!\nküszöb alatti inger:\n...\nminimális stimulus:\n...\nmaximális stimulus:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "olyan gyenge inger, amelyre az idegrost nem válaszol...\naz a legkisebb inger, amely egyetlen idegrostot képes ingerelni...\naz a legnagyobb inger, amely egy idegköteg valamennyi rostját ingerületbe hozza...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest\n\n1. csarnokvíz termelése\n2. a szem fénytörő közege\n3. az éleslátás helye\n4. az ideghártyát táplálja\n5. a szem védőkészüléke",
+      "question_type": "matching",
+      "correct_answer": "Α.-...5...., Β.-...3...., С.-...2...., D.-4...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a Méniére-betegség lényegét és tüneteit!\nLényege:\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...a belső fül folyadéktereiben megnövekszik a nyomás...\nrohamokban jelentkező, forgó jellegű szédülés\nhányinger, hányás\nszemtekerezgés\nfülzúgás/fülcsengés\nhalláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négy olyan okot, ami eszméletzavarhoz vezethet!",
+      "question_type": "open",
+      "correct_answer": "- fizikai kórokok\n- vérkeringési zavar\n- gyulladás\n- daganat\n- anyagcsere-folyamatok zavarai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_13_V_eum_v_200213_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Ismertesse a tömeges baleset fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Olyan esemény, amikor azonos helyen és időben, azonos baleseti mechanizmus, vagy egyéb azonos egészségkárosító tényező több személy sérülését, vagy betegségét okozza. Öt, vagy annál több személyt érintő eseményt tömegesnek kell tekinteni.",
+      "options": []
+    }
+  }
+]

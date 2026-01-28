@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Egészítse ki az AB0 vércsoportrendszer elemeit tartalmazó táblázatot!\n\n| Vércsoport megnevezése | 0 | A | B | AB |\n|-----------------------|---|---|---|----|\n| antitestek a vérszérumban |   |   |   | -  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Vércsoport megnevezése | 0 | A | B | AB |\n|-----------------------|---|---|---|----|\n| antitestek a vérszérumban | anti-A és anti-B | anti-B | anti-A | -  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet a daganatsejtek tulajdonságának és működésének\nsajátosságai közül!",
+      "question_type": "open",
+      "correct_answer": "- növekedésük nincs összhangban a kiindulási szövet növekedésével\n- a kiváltó tényező megszűnése után a daganat növekedése folytatódik\n- a daganatos sejtek szerkezete eltér a kiindulási szövetekétől\n- a sejtek növekedése autonóm, független\n- a daganatos szövetburjánzás céltalan, hasztalan, káros",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Sorolja fel a gerincet alkotó csigolyák csoportjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyakcsigolyák\nhátcsigolyák\nágyékcsigolyák\nkeresztcsonti csigolyák\nfarkcsigolyák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Írja le a mandulák fogalmát, feladatát!\nFogalma: ...\nFeladatuk:",
+      "question_type": "open",
+      "correct_answer": "a mandulák (tonsilla) hámmal borított nyirokszervek...\nhelyi védekezés\nimmunvédekezés a lymphocyta termelés révén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Ismertesse a Scheuermann-féle betegség tüneteit és gyógyításának lehetőségeit!\n\nPanaszok, tünetek: Írjon négyet!\n\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "- a hát fájdalmas fáradékonysága\n- a háti szakasz fokozott görbülete\n- a hát merevsége\n- mozgáskorlátozottság\n- a terhelhetőség csökkenése\n- gyógytorna\n- úszás\n- fűző viselése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a balszívfél-elégtelenség legfontosabb tüneteit!\n- bőséges éjszakai vizeletürítés\n- tüdőödéma\n- látható hasfali vénatágulat\n- cianózis\n- köhögés, köhécselés\n- véres köpet\n- telt nyaki vénák\n- nehézlégzés\n\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "tüdőödéma\ncianózis\nköhögés, köhécselés\nnehézlégzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg az orrmelléküregeket latinul!",
+      "question_type": "open",
+      "correct_answer": "- sinus frontalis\n- sinus maxillaris\n- sinus sphenoidalis\n- cellulae ethmoidales",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a kóros légzési formákhoz leírásukat/jellemzőiket! Irja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. dyspnoe\n2. Cheyne-Stokes-légzés\n3. Kussmaul-légzés\n4. tachypnoe\n\nA. pár másodpercig tartó apnoe után felületes, majd egyre mélyülő légzés, ami\nismét felületessé válik és egy légzésszünet követi\nB. a légzésszám tartósan 20 fölött van percenként\nC. a leggyakoribb kóros légzési forma, a betegnek légszomja van, erőlködve, a\nlégzési segédizmok igénybevételével veszi a levegőt\nD. mély be-, és kilégzések, a légzés száma kissé szaporább",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...A...., 3.-...D..., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Nevezze meg a szájüreg két leggyakoribb fejlődési rendellenességét! Írja le\naz azok fennállása esetén jelentkező nehézségeket/problémákat!\n\nFejlődési rendellenességek:\n- nyúlajak/ajakhasadék\n- farkastorok/szájpadhasadék\n\nNehézségek/problémák: Írjon hármat!\n- szopási, táplálkozási nehézségek\n- nyelési nehézség\n- fogzási rendellenességek\n- hangképzési zavarok",
+      "question_type": "open",
+      "correct_answer": "nyúlajak/ajakhasadék\nfarkastorok/szájpadhasadék\nszopási, táplálkozási nehézségek\nnyelési nehézség\nfogzási rendellenességek\nhangképzési zavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 4,
+      "question_text": "Ismertesse a nyál szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- szájnyálkahártya nedvesítése\n- szájüreg öntisztulásának biztosítása\n- a falat kialakításának segítése\n- a nyelés megkönnyítése\n- baktériumok elszaporodásának megakadályozása (baktericid hatás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a heveny veseelégtelenség lehetséges okait! Írja a sorszámokat a megfelelő helyre!\n1. mérgezés\n2. prosztatamegnagyobbodás\n3. kiszáradás\n4. vesekő\n5. sokk\n6. nem csoportazonos vér adása\nA vese előtti lehetséges ok: ...., .....\nVese eredetű lehetséges ok: ...., .....\nVese utáni lehetséges ok: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "...3., 5....\nVese eredetű lehetséges ok: ...1., 6....\nVese utáni lehetséges ok: ...2., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Írja le a herevízsérv lényegét!",
+      "question_type": "open",
+      "correct_answer": "A hereburok által termelt folyadék a here és a hereburok között felgyülemlik, ami miatt megnő a here mérete.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat a terhesség valószínűségi jelei közül!",
+      "question_type": "open",
+      "correct_answer": "pozitív terhességi teszt\nmenstruáció elmaradása\nbővebb hüvelyváladék\nlivid (szederjes) hüvely",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4. pont",
+      "points": 4,
+      "question_text": "Egészítse ki a mondatot a helyes kifejezéssel! A szív ingerképző központja a ",
+      "question_type": "fill_in",
+      "correct_answer": "sinuscsomó.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre! Válaszát írja a pontozott vonalakra!\n\nHány naponként következik be az ovuláció?",
+      "question_type": "fill_in",
+      "correct_answer": "28 naponta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a mixödéma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- duzzadt, kifejezéstelen, egykedvű arc\n- durva, hideg tapintatú bőr\n- alacsony testhőmérséklet\n- rekedt hang, lassult beszéd\n- gyér pulzus\n- székrekedés\n- fázékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Mi a hatása a szomatotrop (növekedési) hormonnak?\n- gátolja a csontok hosszirányú növekedését\n- serkenti a csontok hosszirányú növekedését\n\nHol termelődik a timozin?\n- a csecsemőmirigyben\n- a mellékvesében\n\nMilyen hatású a szomatosztatin hormon az emberi szervezetben?\n- a növekedési hormonnal ellentétes hatású\n- a növekedési hormonnal azonos hatású\n\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- az adrenalint",
+      "question_type": "multiple_choice",
+      "correct_answer": "serkenti a csontok hosszirányú növekedését\na csecsemőmirigyben\na növekedési hormonnal ellentétes hatású\na melatonint",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. IV. agyideg\n2. VI. agyideg\n3. VIII. agyideg\n4. X. agyideg\n5. XII. agyideg\nA. bolygóideg\nB. nyelv alatti ideg\nC. távolító ideg\nD. sodorideg\nE. egyensúlyozó és hallóideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-E..., 4.-А...., 5.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Sorolja fel a tudat világosságának zavarait!",
+      "question_type": "open",
+      "correct_answer": "- ködös állapot/delirium\n- homályállapot/tenebrositas\n- Ganser-tünetcsoport",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa a közép-, és belsőfül részeit! Írja a betűjeleket a megfelelő\nhelyre!\nA. kalapács\nB. üllő\nC. csiga\nD. fülkürt\nE. ívjáratok\nF. Corti-szerv\nközépfül részei: ...\nbelső fül részei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "A., B., D....\nC., E., F....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse a diabéteszes retinopátia tüneteit és lehetséges következményét!\nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "látótérkiesés\nhomályos látás\nszíntévesztés\nbevérzés\naz ideghártya-leválása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó feladatai közül\nhatot!",
+      "question_type": "open",
+      "correct_answer": "- helyzetfelmérés\n- tájékozódás a történtekről\n- esetleges újabb balesetveszély elhárítása\n- a sérült állapotának megfelelő elhelyezése\n- sérülés, rosszullét természetének megállapítása\n- helyes és halaszthatatlan beavatkozások elvégzése\n- mentőhívás/segítségkérés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_februar_16_V_eumv_220216_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Egészítse ki az eszméletlen beteg vizsgálatának/ellátásának lépéseit!\n\n1. a beteg reakcióképességének vizsgálata hangos megszólítással (,,Mi\ntörtént? Segíthetek?\") és vállainak egyidejű kíméletes megrázásával\n\n2. a nem reagáló beteg vizsgálata ABCDE szerint\n\n3. légútbiztosítás, légzés ellenőrzése hármas érzékeléssel és egyidejűleg a\nkeringés, illetve a keringésre utaló jelek vizsgálata\n\n4. amennyiben nem észlelhető normális légzés:  és\nhaladéktalanul meg kell kezdeni az újraélesztést (30 mellkaskompresszió, 2\nbefúvásos lélegeztetés), ha rendelkezésre áll AED, akkor annak használata\n\n5. amennyiben normál légzést észlel:  a\npácienst és ",
+      "question_type": "fill_in",
+      "correct_answer": "mentőt kell hívni\nstabil oldalfektetésbe kell helyezni\nmentőt kell hívni",
+      "options": []
+    }
+  }
+]

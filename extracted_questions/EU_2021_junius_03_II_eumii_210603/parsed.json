@@ -1,0 +1,302 @@
+[
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Egészítse ki a vizsgálódási területekkel az alábbi táblázatot!\n| tudományterület | vizsgálódási terület |\n|---|---|\n| makroszkópos anatómia |  |\n| mikroszkópos anatómia |  |\n| élettan |  |\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| tudományterület | vizsgálódási terület |\n|---|---|\n|  | szabad szemmel látható képletek |\n|  | szabad szemmel nem látható képletek |\n|  | egészséges szervezet működése |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az autoimmunitás lényegét!",
+      "question_type": "open",
+      "correct_answer": "Autoimmunitás során az immunrendszer a saját antigénjei ellen indít immunválaszt.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az élő kórokok közül!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\nprotozoonok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertessen a csontvázizom jellemzői közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- akaratunktól függően működik\n- harántcsíkolt izomzat\n- gyors, nagy erőkifejtésre képes\n- viszonylag gyorsan elfárad",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- fekély\n- fájdalom\n- alakváltozás\n- duzzanat\n- izomsorvadás\n- X- láb\n- mozgáskiesés\n- vérmérgezés\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "fájdalom\nalakváltozás\nduzzanat\nmozgáskiesés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg a gerinc hajlatainak lehetséges fajtáit latinul!",
+      "question_type": "open",
+      "correct_answer": "lordosis\nkyphosis\nscoliosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a folyadék-, és elektrolit háztartás zavarainak magyar és latin\nelnevezését! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. az ozmolaritás csökken\nA. dehidráció\n2. az ozmolaritás nő\nB. hiperhidráció\n3. a víz mennyisége a normálisnál nagyobb\nC. hipertónia\n4. a víz mennyisége a normálisnál kisebb\nD. hipotónia",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...C...., 3.-...B...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Értelmezze a normál EKG-görbe részeit!\n- P-hullám: ...\n- P-Q távolság: ...\n- QRS-komplexus: ...\n- T-hullám: ...",
+      "question_type": "fill_in",
+      "correct_answer": "pitvaringerület, a pitvar összehúzódása közben keletkezik...\ningerületátvezetés a pitvarról a kamrára...\na kamra összehúzódása közben keletkezik...\nnyugalmi helyzet visszaállása (refrakter stádium) ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőgyulladás lehetséges tüneteit! Írjon hatot!",
+      "question_type": "open",
+      "correct_answer": "- köpetürítéssel járó köhögés\n- nehézlégzés\n- láz\n- szapora, nehezített légzés\n- szúró mellkasi fájdalom\n- szapora pulzus\n- fejfájás\n- gyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő anyagot! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. fehérjék\n2. ásványi anyagok\n3. zsírok\n4. szénhidrátok\n5. víz\n6. alkohol\n\ngyomor: ......\nvékonybél: ......\nvastagbél: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "6\n1., 3., 4.\n2., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Soroljon fel a nyelőcsőszűkület lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nmarószeres mérgezés utáni hegesedés\ndaganat\nfejlődési rendellenesség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg az idült vesegyulladás lefolyásának három szakaszát!",
+      "question_type": "open",
+      "correct_answer": "krónikus renális tünetek szaka\na kompenzált veseelégtelenség szaka\nveseelégtelenség (urémia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Ismertesse a normál vizelet jellemzőit!\n- színe:\n- fajsúlya:\n- napi mennyisége:\n- vegyhatása:\n- szaga:",
+      "question_type": "open",
+      "correct_answer": "szalmasárga\n1020-1025 g/l (1001-1040 g/l)\n1,5-2 l\nsavanyú\naromás húslé szagú",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 6,
+      "question_text": "Sorolja fel magyarul a férfi belső nemi szerveket!",
+      "question_type": "open",
+      "correct_answer": "here\nmellékhere\nondóvezeték\nondózsinór\nondóhólyag\ndülmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- erős vérzés: ...\n- terhesség: ...\n- férfiklimax:...\n- herevízsérv: ...",
+      "question_type": "fill_in",
+      "correct_answer": "menorrhagia\ngraviditas\nandropauza\nhydrokele testis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Húzza alá azokat a hormonokat, amelyek a vércukorszintet emelik!\n- szomatosztatin\n- inzulin\n- glükagon\n- adrenalin\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "glükagon\nadrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMilyen bőrtünete van az Addison-kóros betegnek?\n...\nHogy nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\n...\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "fokozottan pigmentált (sötét elszíneződésű)\nexophthalmus (kidülledt szem)\naz arc duzzadt, kifejezéstelen",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Ismertesse a növekedési hormon (STH) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sejtek méretükben megnagyobbodnak\n- a sejtek számukban megszaporodnak\n- a csontok hosszirányban növekednek\n- a csontok vastagodnak\n- a lágy szövetek, zsigerek megnagyobbodnak\n- segíti a fehérjeszintézist",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Csoportosítsa a központi és a környéki idegrendszer részeit! Írja a\nsorszámokat a megfelelő helyre!\n\n1. agyidegek\n2. gerincvelő\n3. agyvelő\n4. gerincvelői idegek\n\nkörnyéki, vagy perifériás idegrendszer: ......\nközponti idegrendszer: ......\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4.\n2., 3.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Soroljon fel az agyembólia lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- ütésszerű fejfájás\n- eszméletvesztés\n- epilepsziás rohamok\n- féloldali bénulás\n- érzészavar\n- látás-, és beszédzavar\n- góctünetek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse azokat az emlő önvizsgálata során tapasztalt elváltozásokat, melyek észlelése esetén orvoshoz kell fordulni! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "csomó vagy göb az emlőben/hónaljban\na mell formájának megváltozása\nváladékozó mellbimbó\ntartósan behúzódott mellbimbó\naz emlő bőrének megváltozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem fénytörő közegeit!",
+      "question_type": "open",
+      "correct_answer": "- csarnokvíz\n- szemlencse\n- üvegtest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Ismertesse a sérülés következtében kialakult légmellet a megadott\nszempontok szerint!\nLényege:\n\nFajtái:",
+      "question_type": "open",
+      "correct_answer": "...A mellüreg megnyílásakor levegő jut a mellüregbe...\nzárt\nnyitott\nszelepes",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_03_II_eumii_210603_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Írja le az elsősegélynyújtó teendőit az egyik alkar I.-II. fokú (9%) égési\nsérülése esetén! Írjon négyet!\n- a ruházat eltávolítása az égett felületről\n- az égett testrész hűtése hideg folyó vízzel (10-15 percig)\n- a sérült nyugalomba helyezése\n- az égett testfelszín steril gézzel való befedése, laza rögzítése\n- folyadékpótlás",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki a táblázatot a szakkifejezések magyar megfelelőjével!\n\n| latin | magyar |\n|---------|---------|\n| akut |  |\n| chronicus |  |\n| morbus |  |\n| benignus |  |\n| degeneratio |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | heveny |\n|  | idült |\n|  | betegség |\n|  | jóindulatú |\n|  | elfajulás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sejtorganellumok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "sejtközpont\nmitokondriumok\nendoplazmatikus retikulum\nGolgi-apparátus\nriboszómák\nlizoszómák",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n\n1. ékcsont\n\n4. könnycsont\n\n2. járomcsont\n\n5. felső állcsont\n\n3. homlokcsont\n\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...., ...., .....\n\nAz agykoponya csontjai: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4., 5.\n1., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a gerincferdülés kezelésének lehetőségeit! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- izomerő növelése úszással\n- a görbület korrekciója gyógytornával\n- manuális medicina (fűző)\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\n uralkodó nyomással\n- a pulzust a vena radialison számoljuk\n- a pulzus száma megegyezik a szívösszehúzódások számával\n- a nagyvérkör a bal pitvarból indul ki, és a jobb pitvarba érkezik\n- a kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\n- a vénák oxigéndús vért szállítanak\n- a vér pH-értéke: 7,34–7,42 között mozog\n- a vörösvértestek élettartama 220 nap\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\n uralkodó nyomással\na pulzus száma megegyezik a szívösszehúzódások számával\na kisvérkör a jobb kamrából indul ki, és a bal pitvarba érkezik\na vér pH-értéke: 7,34–7,42 között mozog",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Nevezze meg az érett granulocyták három csoportját!",
+      "question_type": "open",
+      "correct_answer": "eosinophil granulocyták\nbasophil granulocyták\nneutrophil granulocyták",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!\nVitálkapacitás:\n\nReziduális levegő:",
+      "question_type": "open",
+      "correct_answer": "Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l).\nTeljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket/állapotokat a rájuk jellemző kóros légzési\nformákkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. súlyos anyagcserezavarok (pl. veseelégtelenség)\n2. súlyos légzőszervi betegségek (pl. tüdőödéma)\n3. idegrendszeri károsodás\nA. dyspnoe\nB. Cheyne-Stokes-légzés\nC. Kussmaul-légzés",
+      "question_type": "matching",
+      "correct_answer": "C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!\nMelyek a tüdő saját vérellátását biztosító erek?\n- arteria és vena pulmonalis\n- arteria és vena bronchialis\nMelyik reflex biztosítja az orr nyálkahártyáját izgató anyagok eltávolítását?\n- a tüsszentés\n- a köhögés\nHogyan alakul a légzésszám a paraszimpatikus idegrendszer hatására?\n- csökken\n- emelkedik",
+      "question_type": "multiple_choice",
+      "correct_answer": "arteria és vena bronchialis\na tüsszentés\ncsökken",
+      "options": [
+        "arteria és vena pulmonalis",
+        "arteria és vena bronchialis",
+        "a tüsszentés",
+        "a köhögés",
+        "csökken",
+        "emelkedik"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga\nelőállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a bélelzáródás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "görcsös hasi fájdalom\nhányinger, hányás\nszékletürítés hiánya\n„néma has\"\nszáraz, lepedékes nyelv\nszáraz, tónustalan bőr",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Írja a magyar kifejezés mellé a latin megfelelőjét!\nállkapocs alatti mirigy: ...\nnyál: ...\ngarat: ...",
+      "question_type": "fill_in",
+      "correct_answer": "glandula submandibularis\nsaliva\npharynx",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a megfelelő szervhez! Írja a sorszámokat a\nmegfelelő helyre!\n1. kb. 30 cm hosszú\n2. nők esetében 3-4 cm hosszú\n3. férfiaknál 25 cm hosszú\n4. átfúrja a gátat\n5. a húgyhólyag falát ferdén fúrja át\n6. latin neve uréter\nhúgyvezeték: ...\nhúgycső: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 5., 6....\n2., 3., 4......",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg lényegét!\n\nElsődleges nemi jelleg:\n...a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt hormonok\nhatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)...",
+      "question_type": "open",
+      "correct_answer": "a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\na nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt hormonok\nhatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Csoportosítsa a várandósság jeleit! Töltse ki a táblázatot két-két példával!\n\n| gyanújelek | A várandósság jelei | biztos jelek |\n|---|---|---|\n|  | valószínűségi jelek |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| gyanújelek | A várandósság jelei | biztos jelek |\n|---|---|---|\n| émelygés | valószínűségi jelek | magzatmozgások |\n| hányinger, hányás | a menstruáció elmaradása | magzati szívhangok |\n| szagoktól undorodás | bővebb hüvelyváladék | ultrahangvizsgálattal megfigyelhető magzati, illetve mellékrészek |\n|  | livid (szederjes) hüvely |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse az óriásnövést a megadott szempontok szerint!\nOka:\nTünetei: Írjon hármat!\n-\t\naz átlagot meghaladó testmagasság\n-\t\na felső végtag aránytalan hosszúsága\n-\t\nvégtagfájdalmak, ujjak zsibbadása\n-\t\ndurva, ügyetlen mozgás és kézmozdulatok\nGyógyításának lehetőségei:",
+      "question_type": "open",
+      "correct_answer": "a hormont termelő szövetek szaporodása, daganata\ntúlműködés esetén férfi nemi hormon, illetve tüszőhormon adása\ndaganat esetén sugárterápia, műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel az antidiuretikus hormon (ADH) hatásai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\nkevesebb víz választódik ki a vizelettel\nnöveli a vizelet fajsúlyát\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású\nemeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó neuronokkal! Írja a\nsorszámok mellé a helyes válasz betűjelét!\n\n1. hátsó szarv\nA. vegetatív neuronok\n2. oldalszarv\nB. mozgató neuronok\n3. elülső szarv\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-A..., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az idegrendszerre vonatkozó kérdésekre!\nHol kereszteződik a piramispálya nagy része?\n...\nHol található az agyban a beszéd motoros központja?\n...\nMely lebenyben találhatók a látóközpontok?\n...\nHogy nevezzük az idegrendszer támasztószövetét?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "a nyúltvelőben\naz egyik féltekében a Sylvius-féle árok fölött\na nyakszirti lebenyben\nneuroglia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Nevezze meg a szem középső burkának részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "érhártya\nszivárványhártya\nsugártest",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse a bőr jelentőségét/feladatait! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- védelem a mechanikai hatásoktól, a kórokozók bejutásától\n- hőszabályozás (hőleadás)\n- folyadék és páratartalom szabályozása (verejtékezés)\n- zsírraktározás\n- a tapintás érzékszerve",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\nmérgezés: ...\négés: ...\nkritikus lehűlés: ...\nagyrázkódás: ...",
+      "question_type": "fill_in",
+      "correct_answer": "intoxikáció\ncombustio\nhypothermia\ncommotio cerebri",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját az alábbi állapotokban!\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...\nMellkasi sérülés esetén: ...",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nfélig ülő helyzet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 3,
+      "question_text": "Soroljon fel hármat az idült középfülgyulladás lehetséges szövődményei közül!",
+      "question_type": "open",
+      "correct_answer": "- belsőfül-gyulladás\n- agyhártyagyulladás\n- arcbénulás\n- jóindulatú daganat kialakulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_februar_11_III_eum_iii_200211_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 4,
+      "question_text": "Párosítsa a sebek fajtáit lehetséges okozójukkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. vágott seb\nA. horgas, kampós eszköz\n2. horzsolt\nB. hegyes szúró eszköz\n3. szúrt\nC. éles tárgy\n4. szakított\nD. súrlódás, esés, csúszás",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.- ...D...., 3.-...B...., 4.-...Α....",
+      "options": []
+    }
+  }
+]

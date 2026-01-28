@@ -1,0 +1,305 @@
+[
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q001_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 6,
+      "question_text": "Egészítse ki a síkokra, téri irányokra vonatkozó táblázat hiányzó részeit!\n\n| magyar megnevezés | latin megnevezés |\n|---------|---------|\n| vízszintes |  |\n| közép- nyílirányú |  |\n| középsíkhoz közel eső |  |\n| középvonaltól távol eső oldali |  |\n| törzshöz közelebb eső |  |\n| törzstől távolabb eső |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| magyar megnevezés | latin megnevezés |\n|---------|---------|\n|  | horizontalis |\n| közép- nyílirányú | median-sagittalis |\n| középsíkhoz közel eső | medialis |\n| középvonaltól távol eső oldali | lateralis |\n| törzshöz közelebb eső | proximalis |\n| törzstől távolabb eső | distalis |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az élőlények életjelenségei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- anyagcsere\n- kiválasztás\n- ingerlékenység\n- mozgás\n- szaporodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4.\n3., 5., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 4,
+      "question_text": "Írja le a veleszületett csípőficam lényegét, tüneteit!\nLényege: \nTünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "a combcsont ízületi feje nem illeszkedik az ízvápába\nhosszkülönbség az alsó végtagok között\naz érintett végtag kifelé fordul\na farredők ráncaszimmetriája\nmozgáskorlátozottság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 4,
+      "question_text": "Ismertessen a szívizom élettani sajátosságai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- különleges harántcsíkolt izom\n- akaratunktól független, ritmusos összehúzódás jellemzi\n- működésében a „minden vagy semmi törvénye” érvényesül: a szívizom küszöb\nfeletti ingerre maximális összehúzódással válaszol, küszöb alatti ingerre nem\nreagál\n- működését a refrakter stádium jellemzi: az a periódus, amelyben a szívizom\nösszehúzódás utáni elernyedt állapotban van, de még nem ingerelhető\n- valamennyi szívizomrost ingerküszöbe azonos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a nagyvérkör ereit!\naorta\narteria pulmonalis\nvena pulmonalis\nvena cava superior\nvena cava inferior\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "aorta\nvena cava superior\nvena cava inferior",
+      "options": [
+        "aorta",
+        "arteria pulmonalis",
+        "vena pulmonalis",
+        "vena cava superior",
+        "vena cava inferior"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q007_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 2,
+      "question_text": "Határozza meg a tüdőtágulat (emphysema pulmonum) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A léghólyagok és a közöttük lévő sövények fala elvékonyodik, majd átszakad és\negy közös üreggé olvad egybe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a bal tüdő?",
+      "question_type": "fill_in",
+      "correct_answer": "kettő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felszívódás helyéhez a megfelelő anyagot! Írja a helyes\nválasz sorszámát a megfelelő helyre!\n\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. víz\n5. alkohol\n6. ásványi anyagok\n\ngyomor: ......\nvékonybél: ......\nvastagbél: ......",
+      "question_type": "fill_in",
+      "correct_answer": "5\n1., 2., 3.\n4., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szájnyálkahártya-gyulladás (stomatitis) lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a szájnyálkahártya duzzadt, vérbő\n- hólyagok keletkezése\n- fekélyek keletkezése\n- fájdalom\n- nagyfokú nyálképződés\n- nyirokcsomó-megnagyobbodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Sorolja fel a bőr feladatait!",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 5,
+      "question_text": "Párosítsa az anatómiai képleteket elhelyezkedésükkel!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n1. Leydig-sejt\n2. clitoris\n3. testis\n4. epididymis\n5. uterus\n\nA. a testüregen kívül, a herezacskóban helyezkedik el\nB. a herében, a herecsatornák között található\nC. a kismedence közepén a hólyag és a végbél között helyezkedik el\nD. a két kisajak elülső találkozási pontjánál található\nE. a here hátsó felszínén helyezkedik el\n1.-..., 2-..., 3.-..., 4.-..., 5.-...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "B, D, A, E, C",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut vesemedence-gyulladás (pyelonephritis) tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "hidegrázás\nmagas láz\nvesetáji érzékenység, fájdalom\ngyakori vizelési inger\nzavaros, gennyes vizelet\nrossz közérzet\nhányinger, hányás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői, tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- természetes állapot az öregedés folyamatában\n- hormonális változás hatására alakul ki\n- csökken a nemi vágy\n- potencia-, és ejakulációs zavarok kísérik\n- fizikai teljesítőképesség csökken\n- jellemzőek a pszichés változások (ingerlékenység, melankólia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 1,
+      "question_text": "A szív ingerképző és vezető rendszerének elemei:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje rostok",
+      "options": [
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, Tawara-szárak, Purkinje rostok",
+        "sinuscsomó, pitvar-kamrai csomó, pitvari myocardium, Tawara-szárak, Purkinje rostok",
+        "sinuscsomó, pitvar-kamrai csomó, His-köteg, kamrai myocardium, Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Ismertesse a csecsemőmirigy tulajdonságait a megadott szempontok\nszerint!\n\nElhelyezkedése:\n...\n\nHormonja:\n...\n\nFeladatai:\n- \n- \n- ",
+      "question_type": "fill_in",
+      "correct_answer": "elülső gátorüregben...\ntimozin...\nserkenti a növekedést\nserkenti a szexuális fejlődést\nantitestképzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan nevezzük a szem jellegzetes elváltozását Basedow-kór esetében?\nMilyen jellegzetességeket figyelhetünk meg egy mixödémás beteg arcán?\nMilyen bőrtünete van az Addison-kóros betegnek?\nHol termelődik a melatonin hormon?",
+      "question_type": "fill_in",
+      "correct_answer": "...exophthalmus (kidülledt szem)......az arc duzzadt, kifejezéstelen......a bőr fokozottan pigmentált (sötét elszíneződésű)......a tobozmirigyben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "- elsődleges kanyarulatos csatorna\n- Henle-kacs\n- másodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő betegséghez! Írja a\nbetegségek mellé a helyes válasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, „vadászkutyafekvés\"\n5. tónusos generalizált roham\n\nAgyhártyagyulladás: ...\nEpilepsziás nagy roham: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 4....\n1., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Határozza meg az árpa és a jégárpa szembetegségek lényegét!\nÁrpa:\n\nJégárpa:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "Gyulladásos duzzanat, melyet a pillavázban elhelyezkedő mirigyek kivezető\nnyílásának elzáródása okoz.\nA gyulladásos góc kemény csomó formájában betokozódik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Húzza alá a középfül részeit!\n- dobüreg\n- csontos labirintus\n- dobhártya\n- hártyás labirintus\n- hallócsontok (kalapács, üllő, kengyel)\n- fülkürt (Eustach-kürt)\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "dobüreg\nhallócsontok (kalapács, üllő, kengyel)\nfülkürt (Eustach-kürt)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralysis: ...\n- aphasia: ...\n- tremor: ...\n- hypokinesis: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás...\nbeszédzavar...\nremegés, akarattól független mozgás...\nkórosan csökkent mozgástevékenység...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q023_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.*",
+      "points": 1,
+      "question_text": "A szívfrekvencia növekedésekor az alábbiak közül melyik nem igaz?",
+      "question_type": "multiple_choice",
+      "correct_answer": "A diasztolé rövidül meg jobban.",
+      "options": [
+        "A diasztolé rövidül meg jobban.",
+        "A szisztolé és a diasztolé is rövidül.",
+        "A szisztolé rövidül meg jobban.",
+        "A diasztolé rövidül meg."
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_februar_15_IV_eum4_190215_q024_9pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 9,
+      "question_text": "Foglalja össze a fagyással kapcsolatos ismereteit a megadott szempontok\nalapján!\n\nLényege: \nTünetei: Töltse ki a táblázatot!\n\n| Fokozatai | Tünetek/jellemzők |\n|---------|---------|\n| I. fokú fagyás | Írjon kettőt!\n- lilás, majd kékes színű bőr\n- vértelen, hideg bőr\n- fájdalom\n- zsibbadás |\n| II. fokú fagyás | Írjon kettőt!\n- bőrpír\n- vizenyő\n- hólyagosodás |\n| III. fokú fagyás | Írjon egyet!\n- a bőr felső rétegei, esetleg a\nbőr teljes mélységében elhal\n- fájdalom |\n\nElsősegélynyújtói teendők: Írjon kettőt!",
+      "question_type": "fill_in",
+      "correct_answer": "Tartós hideghatásra bekövetkező vérkeringési zavaron keresztüli\nszövetkárosodás.\n\n| Fokozatai | Tünetek/jellemzők |\n|---------|---------|\n| I. fokú fagyás |  |\n| II. fokú fagyás |  |\n| III. fokú fagyás |  |\n\nóvatos, fokozatos felmelegítés\nsérülés esetén fedőkötés felhelyezése\norvosi segítség hívása\ntovábbi lehűlés megakadályozása\nmeleg ital adása",
+      "options": []
+    }
+  }
+]

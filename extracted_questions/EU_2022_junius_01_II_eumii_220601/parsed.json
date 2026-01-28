@@ -1,0 +1,266 @@
+[
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Egészítse ki az anatómiai síkokkal, irányokkal kapcsolatos táblázatot! A megfelelő oszlopba tegyen „X\"-et!\n\n|  | irányt jelöl | síkot jelöl |\n|----------|----------|----------|\n| proximalis |  |  |\n| horizontalis |  |  |\n| frontalis |  |  |\n| sagittalis |  |  |\n| dorsalis |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | irányt jelöl | síkot jelöl |\n|----------|----------|----------|\n| proximalis | X |  |\n| horizontalis |  | X |\n| frontalis |  | X |\n| sagittalis |  | X |\n| dorsalis | X |  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel a gyulladások lehetséges kiváltó okai közül kettőt-kettőt a\nmegadott csoportosítás alapján!\n\nKülső okok:\n- mechanikai okok\n- fizikai okok\n- kémiai okok\n- biológiai okok\n\nBelső okok:\n- vérellátási zavar\n- immunológiai betegség\n- kóros enzimaktiváció",
+      "question_type": "open",
+      "correct_answer": "mechanikai okok\nfizikai okok\nkémiai okok\nbiológiai okok\nvérellátási zavar\nimmunológiai betegség\nkóros enzimaktiváció",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q003_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 4,
+      "question_text": "Írjon le a dongaláb megbetegedés gyógyításának, kezelésének lehetőségei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- korrekció gipszeléssel, tartó- és rögzítősínekkel\n- gyógytorna\n- masszázs\n- ortopédiai cipő alkalmazása\n- súlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa az anatómiai képleteket a csontok összeköttetési formái\nszerint! Írja a sorszámokat a megfelelő helyre!\n\n1. háti csigolya\n2. keresztcsont\n3. medencecsont (újszülött korban)\n4. medencecsont (felnőtt korban)\n5. koponya varratai\n6. térdízület\n\nporcos összeköttetés: ...., .... \nkötőszövetes összeköttetés: ...., .... \ncsontos összeköttetés: ...., .... \n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3.\n5., 6.\n2., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Soroljon fel a magas vérnyomás (hypertonia) lehetséges szövődményei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "szívelégtelenség\na coronaria keringési zavarai\nagyi trombózis\narterioszklerózis\nagyvérzés\nvesekárosodás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Párosítsa az EKG-görbe részeihez leírásukat! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. QRS-komplexus\n2. T-hullám\n3. P-hullám\n4. P-Q távolság\nA. a nyugalmi helyzet visszaállása (refrakter stádium)\nB. ingerületátvezetés a pitvarról a kamrára\nC. a kamra összehúzódása közben keletkezik\nD. pitvaringerület, a pitvar összehúzódása közben\nkeletkezik",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-Α...., 3.- ...D...., 4.- ...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 4,
+      "question_text": "Soroljon fel a légzés hangjának lehetséges kóros eltérései közül négyet!",
+      "question_type": "open",
+      "correct_answer": "sípoló légzés\nszörcsögő\nstridoros\nhorkoló\nhörgő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orrmelléküregek feladatait!\n- oxigéncsere\n- hangok képzése\n- légnyomás biztosítása\n- a belégzett levegő előmelegítése\n- a belégzett levegő hűtése\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- szagok érzékelése\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "hangok képzése\na belégzett levegő előmelegítése\na belégzett levegő hűtése\na belégzett levegő párásítása\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Nevezze meg az emésztőrendszer középső szakaszának részeit latinul!",
+      "question_type": "open",
+      "correct_answer": "ventriculus/gaster\nduodenum\njejunum\nileum",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 5,
+      "question_text": "Ismertessen az aranyérbetegség hajlamosító tényezői/lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- mozgásszegény életmód\n- salakszegény étrend\n- idült székrekedés\n- várandósság\n- nehéz tárgyak emelése\n- kismedencei daganatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Egészítse ki a vizeletre vonatkozó alábbi mondatokat!\nA normál vizelet ... színű, ... szagú, átlátszó\nfolyadék. A normál vizelet víztartalma ... Az elsődleges vizelet\nmennyisége naponta .... Az elsődleges vizelet koncentrációja\n..., mint a másodlagos vizeleté.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "szalmasárga\naromás húslé\n95%\n160-180 l\nhígabb",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut uraemia lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- várandósság alatti mérgezéses állapot (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsó-mérgezés\n- gombamérgezés\n- nem csoportazonos vér adása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?",
+      "question_type": "fill_in",
+      "correct_answer": "a hasüregben...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 6,
+      "question_text": "Soroljon fel a női klimax lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- alvászavarok\n- fejfájás\n- ingerlékenység, depresszió\n- hőhullámok\n- szédülés\n- fülzúgás\n- elhízás\n- csontritkulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez hatásukat! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. melatonin\n2. parathormon\n3. szomatosztatin\n4. szomatotrop hormon\n\nA. gátolja a testnövekedést\nB. emeli a vér kalcium-, és foszfátszintjét\nC. serkenti a csontok hosszirányú növekedését\nD. befolyásolja a bőr színét, gátolja a nemi mirigyek és a pajzsmirigy\nműködését",
+      "question_type": "matching",
+      "correct_answer": "1.-...D...., 2.-...B...., 3.-...A...., 4.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a koponya sérülése következtében fellépő lehetséges\nkoponyaűri vérzések fajtái közül hármat!",
+      "question_type": "open",
+      "correct_answer": "epiduralis vérzés\nsubduralis vérzés\nintracerebralis vérzés\nsubarachnoidalis vérzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Ismertesse a diabetes insipidus megbetegedés lényegét és jellemző tüneteit!\nLényege: Az antidiuretikus hormon (ADH) termelődésének csökkenése, vagy\nkövetkeztében kialakuló anyagcsere-betegség.\nJellemző tünetei:\n1. ...\n2. ...\n3. ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "hiánya\nolthatatlan szomjúságérzés\nnagy mennyiségű folyadékfogyasztás\nalacsony sűrűségű, nagy mennyiségű vizelet ürítése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vegetatív idegrendszer funkcióit! Írja a sorszámokat a\nmegfelelő helyre!\n1. a szervezet nyugalmi fázisában, a helyreállító folyamatokban van szerepe\n2. elősegíti a kimerült szövetek anyagveszteségének pótlását\n3. veszély esetén elindítja a támadási, vagy védekezési mechanizmusokat\n4. fokozza a tápcsatorna működését\n5. szerepe van a hőháztartásban\n\nA paraszimpatikus idegrendszer funkciói: ...1., 2., 4....\n\nA szimpatikus idegrendszer funkciói: ...3., 5....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Húzza alá az alábbiak közül a középfül részeit!\n- fülkagyló\n- dobüreg\n- ívjáratok\n- üllő\n- kalapács\n- fülkürt\n- kengyel\n- csiga\n- dobhártya\n- Corti-szerv\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "dobüreg\nüllő\nkalapács\nfülkürt\nkengyel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szürke hályog kialakulásának lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- genetikai betegségek\n- ionizáló sugárzás\n- cukorbetegség\n- gyógyszerek\n- szemsérülés\n- hormon-, és anyagcserezavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Írja le, hogy eszméletlen beteg légzésvizsgálatakor mely esetben ítélhetjük a\nbeteg légzését normálisnak!",
+      "question_type": "open",
+      "correct_answer": "Amennyiben légútbiztosítást követően a beteg arca fölé hajolva, a mellkasát\nhármas érzékeléssel (érzem – hallom – látom) 10 másodpercig figyelve, legalább\nkettő minőségi légvétel történik.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_01_II_eumii_220601_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertessen a napszúrás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fokozódó fejfájás\nszédülés\nhányinger\nlátászavar\nhőemelkedés, esetleg láz\nfénykerülés",
+      "options": []
+    }
+  }
+]

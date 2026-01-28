@@ -1,0 +1,311 @@
+[
+  {
+    "file": "EMI_0610_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a sejtek alkalmazkodásának lehetséges módjai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozott anyagcsere, térfogat-növekedés\nsejtszaporodás, túlburjánzás\ntömegcsökkenés, sorvadás\nalaki és működésbeli változások\naz elpusztult sejtek pótlása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Párosítsa a fertőző betegségek előfordulási módjaihoz jelentésüket! Írja\na betűjelek mellé a helyes válasz sorszámát!\nA. sporadikus\nB. epidémiás\nC. pandémiás\nD. endémiás\n\n1. A járvány több országra, esetleg egy egész kontinensre vagy az egész világra\nkiterjed.\n2. A fertőző betegségek térben és időben elszórtan, látszólag egymástól\nfüggetlenül fordulnak elő.\n3. Egy fertőző betegség bizonyos területen rövid időn belül jóval nagyobb\nszámban fordul elő, mint általában.\n4. A fertőző betegség egy bizonyos területen tartósan, rendszeresen előfordul.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...3...., С.-...1...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Sorolja fel a medenceövet alkotó csontokat latinul!",
+      "question_type": "open",
+      "correct_answer": "- os ilium\n- os ischii\n- os pubis",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q004_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 4,
+      "question_text": "Húzza alá a csonttörések tüneteit!\n- vérömleny\n- sipoly\n- alakváltozás\n- izomsorvadás\n- fájdalom\n- X-láb\n- vérmérgezés\n- duzzanat\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "vérömleny\nalakváltozás\nfájdalom\nduzzanat",
+      "options": [
+        "vérömleny",
+        "sipoly",
+        "alakváltozás",
+        "izomsorvadás",
+        "fájdalom",
+        "X-láb",
+        "vérmérgezés",
+        "duzzanat"
+      ]
+    }
+  },
+  {
+    "file": "EMI_0610_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Írja le az ízületek alak szerinti felosztását!",
+      "question_type": "open",
+      "correct_answer": "- gömbízület\n- hengerízület\n- tojás- vagy ellipszoid ízület\n- nyeregízület\n- lapos ízület",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa az ereket a vérköröknek megfelelően! Írja a sorszámokat a\nmegfelelő helyre!\n\n1. vena cava inferor\n\n2. vena pulmonalisok\n\n3. vena cava superior\n\n4. aorta\n\n5. arteria pulmonalis\n\nkisvérkör erei: ...., .....\nnagyvérkör erei: ...., ...., .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 5.\n1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 6,
+      "question_text": "Ismertesse a haemophiliát a megadott szempontok szerint!\n\nA betegség lényege:\n\nLehetséges tünetei:",
+      "question_type": "open",
+      "correct_answer": "Nemhez kötött, recesszíven öröklődő vérzékenység típus. A betegséget nők örökítik, de mindig csak a férfi utódokon jelenik meg.\n\nvérzékenység\n\na vérzések spontán vagy kis traumára jelennek meg",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden az alábbi fogalmakat!",
+      "question_type": "fill_in",
+      "correct_answer": "...Maximális belégzés után a maximális kilégzéssel kifújt levegő mennyisége (kb. 4-4,5 l). ...Teljes kilégzés után a tüdőben maradt levegő mennyisége (kb. 1,2 l).",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Soroljon fel magyarul a légutak gyulladásos megbetegedései közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- nátha\n- garatgyulladás\n- mandulagyulladás\n- gégegyulladás\n- légcsőgyulladás\n- hörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Állítsa helyes sorrendbe az alábbi anatómiai képleteket, a táplálék\nemésztőrendszerben megtett útjának megfelelően! Írja a sorszámokat a\npontozott vonalra!\n1. colon\n2. pharynx\n3. gaster\n4. intestinum\n5. oesophagus\n6. cavum oris\n\nHelyes sorrend: ...",
+      "question_type": "fill_in",
+      "correct_answer": "6., 2., 5., 3., 4., 1.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 6,
+      "question_text": "Soroljon fel az exsiccosis lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- szomjúság érzés\n- gyengeség\n- száraz, lepedékes nyelv\n- szapora pulzus\n- alacsony vérnyomás\n- a bőr elveszíti a feszességét\n- rekedt hang\n- csecsemőknél behorpadt kutacsok\n- zavartság\n- súlyos esetben eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Nevezze meg a vesetubulus részeit!",
+      "question_type": "open",
+      "correct_answer": "- elsődleges kanyarulatos csatorna\n- Henle-kacs\n- másodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt a polyuria lehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "- fokozott folyadékbevitel\n- ödémák kiürülése\n- diuretikumok szedése\n- cukorbetegség\n- krónikus veseelégtelenség (kompenzáló polyuria)\n- folyadék-, és elektrolitszabályozás zavara (diabetes insipidus)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg lényegét!\n\nElsődleges nemi jelleg:\n...a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n...a nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt hormonok\nhatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)",
+      "question_type": "open",
+      "correct_answer": "nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\nkülönböztetünk meg...\nnemi érés (pubertás) során alakul ki a nemi mirigyek által termelt hormonok\nhatására (pl. mély hang, férfias alkat, szőrzet, emlők fejlődése)",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a fogamzással és a terhességgel kapcsolatos\nhelyes megállapításokat!\n- Az érett petesejt az ovulációt követően jut a méhkürtbe, ahol találkozik a\nspermiumokkal.\n- A szülés után végbemenő hormonális változások felkészítik az anya\nszervezetét a szoptatásra.\n- Az érett petesejt az ovulációt követően jut a petefészekbe, ahol találkozik a\nspermiumokkal.\n- A terhesség valószínűségi jelei közé tartozik a fokozott nyálelválasztás.\n- A terhesség ideje 280 nap, illetve 40 hét.\n- Amennyiben a szülés a 39. hét előtt következik be koraszülésről beszélünk.\n- A szülés megindulásának jele a petefészek rendszeres összehúzódása.\n- A legtöbb szülés esetén szükség van császármetszés végzésére.\n- A terhesség gyanújelei közé tartozik az egyes szagokól való undorodás.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az érett petesejt az ovulációt követően jut a méhkürtbe, ahol találkozik a\nspermiumokkal.\nA szülés után végbemenő hormonális változások felkészítik az anya\nszervezetét a szoptatásra.\nA terhesség ideje 280 nap, illetve 40 hét.\nAmennyiben a szülés a 39. hét előtt következik be koraszülésről beszélünk.\nA terhesség gyanújelei közé tartozik az egyes szagokól való undorodás.",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMi gátolja a terhesség alatt az oxitocin hatását?",
+      "question_type": "fill_in",
+      "correct_answer": "a magas progeszteron szint....",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Írja le a gerincvelői idegek tagozódását!",
+      "question_type": "open",
+      "correct_answer": "- nyaki idegek\n- háti (mellkasi) idegek\n- ágyéki idegek\n- keresztcsonti idegek\n- farkcsonti idegek",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q019_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 1,
+      "question_text": "Nevezzen meg egyet a paralysis jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "- az izomerő kiesése\n- bénulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Ismertessen a neuroglia feladatai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az idegrendszer támasztó eleme\n- térkitöltő\n- elhatároló, elválasztó\n- részt vesz az idegszövet anyagcseréjében",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Írja le az alábbi érzékszervek receptorait!\nEgyensúlyozó szerv receptorai: ...\nHallószerv receptora: ...\nLátószerv receptorai: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "szőrsejtek\nCorti-szerv\ncsapok, pálcikák\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 4,
+      "question_text": "Ismertesse a carcinoma mammae-t az alábbi szempontok szerint!\nLényege: ...az emlő állományának rosszindulatú daganatos elfajulása...\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "tapintható csomó az emlőben\nnarancshéj-behúzódás a bőrön\nbefordult mellbimbó\na mellbimbó váladékozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Határozza meg a seb fogalmát és fajtáit!\nFogalma:\nFajtái: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...A kültakaró folytonosságának megszakadása, illetve hiánya....\nvágott seb\nszúrt seb\nharapott seb\nzúzott seb\nlőtt seb",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 4,
+      "question_text": "Soroljon fel az agyi érkatasztrófákra jellemző tünetek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- fejfájás\n- mozgászavar\n- bénulások\n- beszédzavar\n- zavart tudat\n- eszméletvesztés\n- látászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EMI_0610_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Egészítse ki a női nemi szervekkel kapcsolatos mondatokat!\nA petefészek... alakú és nagyságú páros szerv, amely a nemi érettség\nbekövetkeztéig nyugalomban van.\nA... ceruzavastagságú, kb. 12 cm hosszú,...\nbélelt izmos falú cső, amelyben a ... a méh ürege felé halad.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "mandula\npetevezeték\nnyálkahártyával\npetesejt",
+      "options": []
+    }
+  }
+]

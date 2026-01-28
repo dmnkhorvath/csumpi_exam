@@ -1,0 +1,305 @@
+[
+  {
+    "file": "Eum_VIII_20250213_13h_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Soroljon fel a fertőzés terjedési módjaira két-két példát!\nKözvetett terjedés:\n\n\nvíz közvetítésével\n\nélelmiszerek által\n\na talaj közvetítésével\n\ntárgyak közvetítésével\n\nKözvetlen érintkezés:\n\ncsók\nszexuális érintkezés\nállatharapás",
+      "question_type": "open",
+      "correct_answer": "cseppfertőzés\nintrauterin fertőzések\nkézfogás",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. ABPM\n2. BMI\n3. H2-kilégzési teszt\n4. Holter-vizsgálat\n5. CT\n\nA. testtömegindex\nB. laktózérzékenység\nC. 24 órás EKG-vizsgálat\nD. 24 órás vérnyomás-monitorozás\nE. számítógépes rétegvizsgálat",
+      "question_type": "matching",
+      "correct_answer": "1.-...D..., 2.-A., 3.-...B..., 4.-C., 5.-.E....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Húzza alá az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!",
+      "question_type": "open",
+      "correct_answer": "homlokcsont\nfalcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q004_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 2,
+      "question_text": "Ismertesse az infarctus myocardii lényegét és okát!",
+      "question_type": "open",
+      "correct_answer": "Lényege: ...a szívizom egy részének elhalása valamelyik coronariaág\nelzáródása következtében...\n\nOka: ...coronaria sclerosis, a sclerosissal járó endothelsérülések thrombus\nképződésével járhatnak, a thrombus pedig elzárja az eret...",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Milyen típusú alakja szerint a csípőízület?\n- gömbízület\n- ellipszoid ízület\nMelyik izomcsoportot fúrja át a lágyékcsatorna?\n- a hátizmokat\n- a hasizmokat\nMilyen típusú izom működése szerint a kétfejű karizom?\n- hajlító izom\n- feszítő izom\nMilyen típusú alakja szerint a csuklóízület?\n- gömbízület\n- ellipszoid ízület",
+      "question_type": "multiple_choice",
+      "correct_answer": "gömbízület\na hasizmokat\nhajlító izom\nellipszoid ízület",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a sorszámokat a megfelelő\nhelyre!\n1. innen indul ki a tüdőverőér\n2. fala kb. 15-20 mm vastag\n3. fala kb. 5 mm vastag\n4. vénás vér áramlik benne\n5. artériás vér áramlik benne\nbal kamra jellemzői: ...2., 5....\njobb kamra jellemzői: ...1., 3., 4....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Párosítsa az anémia formáit kialakulásuk okaival! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. hemolitikus anémia\n2. hiányanémia\n3. aplasztikus anémia\nA. a csontvelő csökkent vörösvérsejt termelése miatt alakul ki\nB. a vörösvérsejtek fokozott szétesése miatt alakul ki\nC. a hemoglobin vagy a vörösvérsejtek felépítéséhez szükséges anyagok\nhiánya miatt alakul ki",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...C...., 3.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomók",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Sorolja fel a cor pulmonale (tüdő eredetű szívbetegség) három jellemző\ntünetét!",
+      "question_type": "open",
+      "correct_answer": "- nehézlégzés\n- légszomj\n- cianózis\n- dobverőujjak",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Ismertessen három lehetséges óvintézkedést a tuberkulózis megelőzése érdekében!",
+      "question_type": "open",
+      "correct_answer": "- fertőző források felkeresése, elkülönítése\n- védőoltások biztosítása\n- rendszeres tüdőszűrés\n- forralatlan tej fogyasztásának mellőzése\n- higiénés szabályok betartása",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n\n1. szénhidrátok\nA. lipáz\n2. fehérjék\nB. tripszin\n3. kötőszöveti rostok\nC. amiláz\n4. zsírok\nD. kollagenáz, elasztáz\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...B...., 3.-...D...., 4.-...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel a cukorbetegség lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozott szomjúságérzet\n- a vizeletben cukor megjelenése\n- fáradtság\n- teljesítménycsökkenés\n- bőrviszketés\n- testsúlycsökkenés\n- folyadék- és elektrolitháztartás zavara\n- nehezen gyógyuló sebek\n- a nemi működés csökkenése",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a vizeletkiválasztó rendszerre vonatkozó helyes\nmegállapításokat!\n- A vesekelyhek a vesemedencébe torkollanak.\n- A vese a hasüreg elülső alsó részében helyezkedik el.\n- A vesekapun a vesevéna belép, a veseartéria pedig kilép.\n- A vesekapun a veseartéria belép, a vesevéna pedig kilép.\n- Anatómiailag a vesét három nagy részre oszthatjuk.\n- A vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A vesekelyhek a vesemedencébe torkollanak.\nA vesekapun a veseartéria belép, a vesevéna pedig kilép.\nA vesék a sókat és a vízben oldható hasznosíthatatlan anyagcseretermékeket\nürítik ki a szervezetből.",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q014_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Állítsa megfelelő sorrendbe a vesecsatorna-rendszer szakaszait a vizelet\nhaladásának megfelelően! Írja a sorszámokat a pontozott vonalakra!\n...4.... másodlagos kanyarulatos csatorna\n...1.... elsődleges kanyarulatos csatorna\n...5. gyűjtőcsatorna\n...3.... Henle-kacs, felszálló szár\n...2.... Henle-kacs, leszálló szár\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Nevezzen meg öt olyan anyagot, amelyeket csak kóros körülmények között\ntartalmaz a vizelet!",
+      "question_type": "open",
+      "correct_answer": "- fehérje\n- vér\n- genny\n- cukor\n- aceton\n- bilirubin",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül azokat, amelyekben kifejezésre jut a másodlagos nemi jelleg!\n- látás\n- hajszín\n- hangmagasság\n- hallás\n- csontozat és izomzat\n- a fül formája\n- szőrzet\n- emlők",
+      "question_type": "multiple_choice",
+      "correct_answer": "hangmagasság\ncsontozat és izomzat\nszőrzet\nemlők",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar vagy latin megnevezését! Egészítse ki a\ntáblázatot!\n\n| Kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | hydrokele testis |\n| méhnyakrák |  |\n|  | epididymitis |\n| szeméremtest-gyulladás |  |\n|  | fitymaszűkület |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| herevízsérv |  |\n|  | carcinoma cervicis uteri |\n| mellékhere-gyulladás |  |\n|  | vulvitis |\n| phimosis |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa a belső elválasztású mirigyekhez az általuk termelt hormonokat!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. tobozmirigy\nB. hasnyálmirigy\nC. csecsemőmirigy\nD. mellékvese kéregállomány\nE. mellékvese velőállomány\n1. melatonin\n2. timozin\n3. glükagon\n4. adrenalin\n5. aldoszteron",
+      "question_type": "matching",
+      "correct_answer": "Α.-...1...., Β.-...3...., С.-...2...., D.-...5...., Ε.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Nevezze meg a hypothalamusban található központokat!",
+      "question_type": "open",
+      "correct_answer": "- az anyagcsere központja\n- az éhség központja\n- a szomjúság központja\n- a testhőmérséklet központja",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertessen az epilepsziás nagyroham lezajlásának jellemzői közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- bevezető tünetekkel kezdődik: fejfájás, szédülés, szívdobogásérzés, hőhullámok, ingerlékenység, lehangoltság, szorongás, aurajelenség\n- hirtelen kitörő tónusos generalizált roham jelentkezik\n- a beteg elesik, elvágódik\n- rövid légzésszünet áll be\n- klónusos generalizált rángások jelentkeznek, amelyek percekig is eltarthatnak\n- a roham után mély alvás jelentkezhet, ködös állapotba megy át\n- a tudat fokozatosan tisztul fel\n- a beteg nem emlékszik a rohamra és az azt követő időszakra",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Mi az üvegtest feladata?\n- a szem állandó alakjának biztosítása\n- az ideghártya táplálása",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szem állandó alakjának biztosítása",
+      "options": [
+        "a szem állandó alakjának biztosítása",
+        "az ideghártya táplálása"
+      ]
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Állítsa megfelelő sorrendbe a szem fénytörő közegeit kívülről befelé\nhaladva! Írja a sorszámokat a pontozott vonalakra!\n... .... szemlencse\n... .... üvegtest\n... .... szaruhártya\n... .... csarnokvíz\n(Csak a helyes sorrend esetén adható pont!)",
+      "question_type": "fill_in",
+      "correct_answer": "...1....\n...4....\n...3....\n...2....",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Nevezze meg a vérzés fajtáit a vérzés jellegének leírása alapján! Egészítse\nki a táblázatot!\n\n| A vérzés jellege | A vérzés fajtája |\n|-------------------|------------------|\n| bőven folyó, sötétvörös |  |\n| pulzáló, lüktető, sugárban folyó, élénkpiros |  |\n| gyöngyöző, szivárgó, sötétvörös |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A vérzés jellege | A vérzés fajtája |\n|-------------------|------------------|\n|  | vénás vérzés |\n|  | artériás vérzés |\n|  | hajszáleres vérzés |",
+      "options": []
+    }
+  },
+  {
+    "file": "Eum_VIII_20250213_13h_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 4,
+      "question_text": "Ismertessen négyet az elsősegélynyújtó teendői közül napszúrás\nelőfordulása esetén!",
+      "question_type": "open",
+      "correct_answer": "sötét, hűvös helyen való elhelyezés\nmagasra polcolt felsőtesttel való fektetés\nhomlokra, tarkóra vizes borogatás felhelyezése\nfolyadékpótlás (kortyonkénti itatás)\nfejfájás csillapítása",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Húzza alá az emberi egyedfejlődésre vonatkozó helyes\nválaszokat!\n- a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\n- az érrendszer vízszintesen fut\n- a zsigerek a hasüreg irányába rendeződtek\n- az agykoponya és arckoponya aránya azonosságot mutat\n- az alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik\n- a felső végtag izomtömege megnövekedett\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a gerincoszlopon enyhén S-alakú görbületek, hajlatok találhatók\na zsigerek a hasüreg irányába rendeződtek\naz alsó végtag izomzata erősebb lett, a lábboltozat három ponton\ntámaszkodik",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol található a szívműködés extracardialis irányításának központja?\n...\nMilyen billentyűk találhatók a vénákban?\n...\nA szív melyik üregéből indul ki a tüdőartéria (truncus pulmonalis)?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "az agytörzsben (nyúltvelő)\nzsebes billentyűk (semilunáris, félhold alakú)\na jobb kamrából",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan helyet (behatolási kaput), ahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nlégutak\nvéráram\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Sorolja fel a csontok folytonos összeköttetéseinek\nfajtáit!",
+      "question_type": "open",
+      "correct_answer": "kötőszövetes\nporcos\ncsontos",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Nevezze meg a hasizmok fajtáit magyarul! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Párosítsa a mozgásszervi betegségeket jellemzőikkel!\nÍrja a jellemzők mellé a betegségek sorszámát!\n\n1. sokízületi gyulladás (RA)\n2. Bechterew-kór\n3. reumás láz\n\nA kéz kisízületeinek fájdalmas, fokozatos ízületi deformálódással járó\nbetegsége: ......\n\nLezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek\nfájdalmas gyulladása, később szívbelhártya-gyulladást is okozhat: ......\n\nA gerincoszlop kisízületeinek gyulladása miatt a gerincmozgások\nbeszűkülése, fokozott háti görbület kialakulása és csontos rögzülése: ........",
+      "question_type": "matching",
+      "correct_answer": "1\n3\n2",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül hármat!",
+      "question_type": "open",
+      "correct_answer": "B1-vitamin\nB12-vitamin\nC-vitamin\nvas",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet\nönmaga előállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Nevezzen meg két olyan betegséget/állapotot,\nmelyek a vérben acidosist idéznek elő!",
+      "question_type": "open",
+      "correct_answer": "- vesebetegség\n- kiterjedt tüdőbetegségek (szén-dioxid felszaporodása a vérben)\n- anyagcsere betegségek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel az orrmelléküregeket magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Csoportosítsa az alábbi betegségeket, illetve állapotokat\na rájuk jellemző kóros légzési formával! Írja a betegségek\nsorszámát a megfelelő helyre!\n\n1. hyperglykaemiás kóma\n2. mellhártyagyulladás\n3. veseelégtelenség\n4. balszívfél-elégtelenség\n\ndyspnoe: ...\nKussmaul-légzés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2., 4....\n1., 3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését!\nRészei:\n-\n-\n-\nElhelyezkedése:\n...",
+      "question_type": "fill_in",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\na kismedence közepén, a hólyag és a végbél között található...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Csoportosítsa az alábbi vitaminokat a megadott\nszempontok szerint! Írja a vitaminok betűjelét a\nmegfelelő helyre!\nVitaminok: A-vitamin, B-vitamin, C-vitamin, E-vitamin, K-vitamin\nVízben oldódó vitaminok: ... ,...\nZsírban oldódó vitaminok: ... ....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "B, C, A, E, K",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 3,
+      "question_text": "Soroljon fel az idült székrekedés (obstipatio) okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "rostszegény étrend\ngyenge bél, és hasfalizomzat\nmozgásszegény életmód\na székelési inger gyakori akaratlagos elnyomása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 4,
+      "question_text": "Csoportosítsa a felsorolt jellemzőket a megfelelő\nértípushoz! Írja a megadott csoportokhoz a helyes válasz\nsorszámát!\n\n1. A felületes-, a mélyvénás-, és az artériás rendszer között létrejövő\nérösszeköttetés.\n2. Az egymással szomszédos területet ellátó artériák között nincs\nösszeköttetés.\n3. Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.\n4. Ha az artéria elzáródik, az általa ellátott terület elhal.\n\nanasztomózis: ......\nkollaterális érösszeköttetés: ......\nvégartéria: ...., ....",
+      "question_type": "fill_in",
+      "correct_answer": "1\n3\n2, 4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a normál vizelet alkotóelemei közül!",
+      "question_type": "open",
+      "correct_answer": "karbamid\nhúgysav\nfoszforsav\nsó\nvíz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a tubulusok részeit!",
+      "question_type": "open",
+      "correct_answer": "elsődleges kanyarulatos csatorna\nHenle-kacs\nmásodlagos kanyarulatos csatorna",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket a rájuk jellemző\nkóros vizelettípussal! Írja a sorszámokat a megfelelő\nbetűjelhez!\nA. cukorbetegség\nB. glomerulonephritis\nC. vesemedence-gyulladás\nD. sárgaság\nΑ. - ........,\nΒ. - ........,\nC. - ........,\nD.- ........",
+      "question_type": "matching",
+      "correct_answer": "3\n1\n2\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q019_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 6,
+      "question_text": "Sorolja fel a leggyakrabban előforduló mérgezéseket!\nÍrjon hatot!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezés\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények fogyasztása\nnövényvédőszer-mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel a jóindulatú prosztatamegnagyobbodás\ntünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori, sürgető vizelési inger\nvizeletcsepegés\ngyakori éjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek\nelhelyezkedését!\nhipofízis: ...\ncsecsemőmirigy: ...\nhasnyálmirigy: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a koponyaalapon az ékcsont árkában...\na gátorüregben a szegycsont mögött...\na patkóbél homorulatában...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse a tetania okát és tüneteit!\nOka:\nTünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A mellékpajzsmirigy csökkent működése miatt a vér kalciumszintje kórosan\nlecsökken.\n- a kéz és láb ujjainak zsibbadása\n- a kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\n- a mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\n- szapora szívműködés\n- gégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Sorolja fel a bőr feladatait!",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 3,
+      "question_text": "Párosítsa a gerincvelő kötegeit a hozzájuk tartozó\nneuronokkal! Írja a sorszámok mellé a helyes válasz betűjelét!\n1. hátsó köteg\n2. oldalköteg\n3. elülső-oldalsó köteg\nA. vegetatív neuronok\nB. mozgató neuronok\nC. érző neuronok",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...Α...., 3.-...Β....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 5,
+      "question_text": "Ismertesse a koponyaűri nyomásfokozódás tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "szédülés\nfejfájás (csillapíthatatlan)\nsugárhányás\nlátászavarok\nbradycardia\nhypotonia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q026_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 3,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\ndobüreg\ncsontos labirintus\nhallócsontok\nhártyás labirintus\ndobhártya\ncsiga\n(Csak a 3 helyes válasz aláhúzása fogadható el! Több aláhúzás esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus\ncsiga",
+      "options": [
+        "dobüreg",
+        "csontos labirintus",
+        "hallócsontok",
+        "hártyás labirintus",
+        "dobhártya",
+        "csiga"
+      ]
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q027_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!\nOka: ...a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit...\nTünetei: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "a vérpályában nitrogén\nelzárja a belső fül és más fontos szervek végartériáit...\nhalláscsökkenés (süketségig fokozódó)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2018_szeptember_13_III_eumiii_0913_q028_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.*",
+      "points": 4,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság",
+      "options": []
+    }
+  }
+]

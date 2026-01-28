@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 4,
+      "question_text": "Nevezzen meg az immunrendszer felépítésében részt vevő limfoid szervek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "csecsemőmirigy\nnyirokcsomók\nlép\nmandulák\nféregnyúlvány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mechanikai hatásra létrejövő lehetséges elváltozások közül\nötöt magyarul!",
+      "question_type": "open",
+      "correct_answer": "- nyomás\n- dörzsölés, horzsolás, karcolás\n- rázkódás\n- zúzódás\n- repedés\n- csonttörés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Párosítsa az ízületekben létrejövő mozgások magyar és latin elnevezését!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. feszítés\nB. távolítás\nC. közelítés\nD. forgatás\nE. hajlítás\n1. flexio\n2. abductio\n3. extensio\n4. adductio\n5. rotatio",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., B.-...2...., C.-...4...., D.-...5...., Ε.-...1....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a csontdaganatok lehetséges tüneteit és kezelésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "Lehetséges tünetei: Írjon hármat!\n- napszaktól függetlenül jelentkező fájdalom\n- fényes, feszülő bőr érrajzolattal\n- mozgatási zavar\n- tartósan meglévő duzzanat\nKezelésének lehetőségei: Írjon kettőt!\n- gyógyszeres kezelés\n- műtét\n- sugárterápia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá a verőerekre vonatkozó helyes megállapításokat!\n- a szív irányába szállítják a vért\n- a vért a szívből a periféria felé juttatják\n- nem képesek erőteljes összehúzódásra\n- a falukat simaizomrostok alkotják\n- faluk rendkívül vékony, csak endothel sejtekből állnak\n- nagyfokú, gyors tágulásra és szűkülésre képesek\n- az anyagcserében közvetlenül részt vesznek\n- erőteljes összehúzódásra képesek\n- a test fő verőere az aorta",
+      "question_type": "multiple_choice",
+      "correct_answer": "a szív irányába szállítják a vért\na vért a szívből a periféria felé juttatják\na falukat simaizomrostok alkotják\nerőteljes összehúzódásra képesek\na test fő verőere az aorta",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt olyan tényezőt, amely a vérrögösödés kialakulásában\nszerepet játszhat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása (pl. vénás pangás)\n- nagy hasi műtétek utáni állapotok\n- szülés utáni állapotok\n- az erek tartós, kóros tágulata (pl. alsó végtag kitágult visszerei)\n- a vér összetételének megváltozása\n- az alvadási fehérjék kóros szintje",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 6,
+      "question_text": "Csoportosítsa a jellemzőket a tüdő kettős vérellátásának megfelelően! Írja a megadott csoportokhoz a helyes sorszámot!\n1. a szív jobb kamrájából indul\n2. a mellkasi aortából indul\n3. a tüdő szövetét táplálja\n4. a tüdő szövetét nem táplálja\n5. a gázcsere lebonyolításában nincs feladata\n6. a gázcseréhez szükséges vért szállítja\narteria bronchialis rendszer: ...\ntruncus pulmonalis rendszer: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5....\n1., 4., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a tüdőtágulás lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A tüdőhólyagocskák (alveolusok) rugalmasságának hiányában az elhasznált levegő a tüdőből nem tud kiürülni, ami légzési nehézséghez, légzésképtelenséghez vezethet....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel, tünetekkel! Írja a sorszámok mellé a helyes válasz betűjelét!\n\n1. P-vitamin\nA. vészes vérszegénység\n2. A-vitamin\nB. angolkór\n3. D-vitamin\nC. görcsös rohamok, hányás, hasmenés\n4. B12-vitamin\nD. farkasvakság\n5. B6-vitamin\nE. ínyvérzés",
+      "question_type": "matching",
+      "correct_answer": "1.-...Ε...., 2.-...D...., 3.-B., 4.-A, 5.-..C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Töltse ki a tejfogakkal kapcsolatos táblázatot!\n| A tejfogak száma |  |\n|---------|---------|\n| Gyermekeknél az egy kvadránsban elhelyezkedő tejfogak száma |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A tejfogak száma |  |\n|---------|---------|\n|  | - 20 db |\n| Gyermekeknél az egy kvadránsban elhelyezkedő tejfogak száma |  |\n|---------|---------|\n|  | - 2 metszőfog\n- 1 szemfog\n- 2 őrlőfog |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Állítsa sorrendbe a vizeletürítés mechanizmusát! Írja a további sorszámokat a pontozott vonalakra!\n...1.... üres állapotban a hólyagizomzat ernyedt állapotban, a záróizom tónusos összehúzódásban van\n...6.... a vizelet kiürülése\n...3.... a hólyagfal afferens idegvégződéseiben vizelési inger kiváltódása\n...5.... hólyagizomzat összehúzódása, a húgycső-záróizom ellazulása\n...2.... a hólyag telítődik, a hólyagfal feszül, a nyomás emelkedik\n...4.... impulzusok futnak be a reflexközpontba és továbbhaladnak a paraszimpatikus efferens száron\n(Csak a helyes sorrend esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2\n6\n3\n5\n1\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 4,
+      "question_text": "Ismertesse a nephrosis szindróma lehetséges okait és tüneteit! Írjon kettőt-kettőt!\nLehetséges okai:\nTünetei:\n„Korlátozott terjesztésű!\"\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "allergiás kórképek\nfertőzés\nautoimmun betegség\nnagyfokú proteinuria\nhypalbuminaemia\ntestszerte nagyfokú ödéma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 2,
+      "question_text": "Határozza meg az alábbi fogalmakat!\nHomeosztázis: ...\nClearence-vizsgálat: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a szervezet belső egyensúlya/a szervezet belső környezetének állandósága...\na vese munkájáról, szűrűképességéről tájékoztató vizsgálat...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a fogamzással, a várandóssággal kapcsolatos\nhelyes megállapításokat!\n- A menstruációs ciklus regenerációs fázisában a nyálkahártya zsugorodik,\nmajd lelökődik.\n- Az érett petesejt az ovulációt követően a méhkürtbe jut, ahol találkozik a\nspermiumokkal.\n- Ivarérett korban mindkét petefészekben kb. 20 naponként egy tüsző\nmegreped.\n- A normál szülés a terhesség 35. és 44. hete között következik be.\n- A megtermékenyítés akkor történik meg, amikor az első hímivarsejt eléri a\npetesejtet és a feji részével áthatol annak sejthártyáján.\n- A megtermékenyült petesejt első osztódása a petevezetékben történik.\n- Az utód nemét a hímivarsejt kromoszómái határozzák meg.\n- Az érett petesejt a méhben termékenyül meg.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az érett petesejt az ovulációt követően a méhkürtbe jut, ahol találkozik a\nspermiumokkal.\nA megtermékenyítés akkor történik meg, amikor az első hímivarsejt eléri a\npetesejtet és a feji részével áthatol annak sejthártyáján.\nA megtermékenyült petesejt első osztódása a petevezetékben történik.\nAz utód nemét a hímivarsejt kromoszómái határozzák meg.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 5,
+      "question_text": "Írja le a kórtani kifejezések magyar, vagy latin megnevezését! Egészítse ki\na táblázatot!\n\n| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n|  |  |\n| méhnyakrák |  |\n|  | epididymitis |\n| szeméremtest-gyulladás |  |\n|  | fitymaszűkület |\n\n(Helyes válaszonként 1-1 pont adható!)\n\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| Kórtani kifejezések |\n|---------|---------|\n| magyarul | latinul |\n| herevízsérv |  |\n|  | carcinoma cervicis uteri |\n| mellékhere-gyulladás |  |\n|  | vulvitis |\n| phimosis |  |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Purkinje rostok"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 6,
+      "question_text": "Csoportosítsa az alábbi betegségeket a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. nanismus\n2. Conn-szindróma\n3. Basedow-kór\n4. gigantizmus\n5. struma\n6. Addison-kór\nA pajzsmirigy megbetegedése: ...., .....\nA mellékvesekéreg megbetegedése: ...., .....\nAz agyalapi mirigy megbetegedése: ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 5.\n2., 6.\n1., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Írja le a tesztoszteron hatását, szerepét!",
+      "question_type": "open",
+      "correct_answer": "- a másodlagos nemi jelleg kialakítása\n- a fehérjeszintézis fokozása\n- az izomzat növekedésének fokozása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertessen a mozgás idegrendszeri szabályozásának jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a motoros aktivitás részben akaratlagos, részben akarattól független\n- az akaratlagos mozgásokat a magasabb központok (felső agytörzs, agykéreg) irányítják\n- az automatikus mozgásokat az alacsonyabb központok (gerincvelő, alsó agytörzs) irányítják\n- a mozgás központi idegrendszeri szabályozása szenzomotoros működés – érzéssel kezdődik, mozgással végződik\n- a sztereotip mozgások koordinációját az extrapiramidális rendszer biztosítja\n- a mozgásban részt vevő izmok működését a kisagy koordinálja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Nevezze meg az éberségi zavarokat!",
+      "question_type": "open",
+      "correct_answer": "- kábultság\n- somnolentia/kóros aluszékonyság\n- sopor/mély alvás\n- kóma/eszméletlenség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Mi az üvegtest feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "a szem állandó alakjának biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel a könnymirigygyulladás lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "duzzadt és vörös felső szemhéj\nnagymértékű könnyezés\ngennyképződés\nfájdalom\nnyomásérzékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Írjon le az agyi érkatasztrófákra jellemző tünetek közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nbénulások\nbeszédzavar\nzavart tudat\neszméletvesztés\nlátászavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_junius_08_V_eumv_220608_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 4,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódó mondatokat!\nMellkaskompressziót felnőttek esetén .../perces frekvenciával kell\nvégezni.\nA kompresszió és lélegeztetés aránya .... A váltások során törekedni kell\naz ... minimalizálására.\nKét segítségnyújtó esetén a kompressziót végző személyek a gyors kifáradás\nelkerülése érdekében lehetőség szerint ... percenként cseréljenek.",
+      "question_type": "fill_in",
+      "correct_answer": "100-120\n30:2\nidőveszteség\n2",
+      "options": []
+    }
+  }
+]

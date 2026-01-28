@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q001_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 8,
+      "question_text": "Hasonlítsa össze a jó- és rosszindulatú daganat jellemzőit a megadott\nszempontok alapján! Töltse ki a táblázatot!\n\n|  | Jóindulatú daganat | Rosszindulatú daganat |\n|---|---|---|\n| növekedés üteme |  |  |\n| környezethez való viszony |  |  |\n| sejtjei és szerkezete |  |  |\n| áttétképzés |  |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | Jóindulatú daganat | Rosszindulatú daganat |\n|---|---|---|\n| növekedés üteme | lassú | gyors |\n| környezethez való viszony | környezetétől élesen elhatárolódik, széttolja az ép szöveteket | átszövi a környező szöveteket, összenő velük |\n| sejtjei és szerkezete | hasonlít a kiinduló szövetéhez | eltér az ép szövetekétől |\n| áttétképzés | nem okoz áttétet | áttétet okoz |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az összetartozó fogalmakat! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. a homlok síkjával párhuzamosan fut A. vízszintes, vagy horizontális sík\n2. a homloksíkra merőleges\nB. homlokirányú, vagy frontális sík\n3. a testet jobb és bal testfélre osztja C. közép, vagy medián sík",
+      "question_type": "matching",
+      "correct_answer": "1.-...B...., 2.-...A...., 3.-...C....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Nevezze meg a medenceövet alkotó csontokat magyarul!",
+      "question_type": "open",
+      "correct_answer": "csípőcsont\nülőcsont\nszeméremcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a reumás láz lényegét és lehetséges tüneteit!\nLényege:\nLehetséges tünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "...általában hetekkel korábban lezajlott gyulladás (pl. mandulagyulladás) után\njelentkező betegség...\nláz\nfejfájás\nizzadás\na nagyízületek fájdalmas gyulladása\nerős mellkasi fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMit jelent a hematokrit érték?",
+      "question_type": "open",
+      "correct_answer": "...a vérsejtek százalékos aránya a teljes vértérfogathoz viszonyítva...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Húzza alá a jobbszívfél-elégtelenség jellegzetes tüneteit!\n- a vizelet mennyisége emelkedik\n- a vizelet mennyisége csökken\n- kisvérköri pangás\n- nyugalmi dyspnoe\n- cianózis\n- boka,- lábszárödéma, hasvízkór\n- tüdőödéma\n- telt nyaki vénák\n- éjszakai vizelés\n- köhögés",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vizelet mennyisége csökken\nboka,- lábszárödéma, hasvízkór\ntelt nyaki vénák\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q007_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 7,
+      "question_text": "Ismertesse a garatgyulladás lehetséges okait és tüneteit!\nLehetséges okai: Írjon kettőt!\n- \n- \n- \nLehetséges tünetei: Írjon ötöt!\n- \n- \n- \n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "felső légúti vírus, vagy baktérium\nforró, vagy túl hideg táplálék fogyasztása\na gyulladást állandósíthatja a dohányzás, rendszeres alkoholfogyasztás\nkaparó, égő jellegű fájdalom\na garat éjszakai kiszáradása\nállandó idegentestérzés a torokban\nvérbő és váladékos garatnyálkahártya\nmagas láz\nétvágytalanság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a tüdőkapuban elhelyezkedő képletek közül hármat!",
+      "question_type": "open",
+      "correct_answer": "vérerek\nnyirokerek\nidegek\nnyirokcsomók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Csoportosítsa az emésztőenzimeket a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n1. nukleáz\n2. kimozin\n3. pepszin\n4. tripszin\n5. amiláz\ngyomornedv enzimjei: ...., ...\nhasnyál enzimjei: ...., ...., ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi szervezet önmaga\nelőállítani nem képes, csak táplálékkal kerülhet a szervezetbe.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Húzza alá a salmonellosisra vonatkozó helyes megállapításokat!\n- bakteriális eredetű megbetegedés\n- a tápcsatornát érintő vírusfertőzés\n- lappangási ideje 8-14 nap\n- lappangási ideje 12-48 óra\n- a fertőzésen átesettek kórokozó-hordozókká válhatnak\n- a fertőzés átvészelése életre szóló védettséget ad\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "bakteriális eredetű megbetegedés, lappangási ideje 12-48 óra, a fertőzésen átesettek kórokozó-hordozókká válhatnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elsődleges vizeletből visszaszívódó/kiválasztódó anyagok\nközül ötöt!",
+      "question_type": "open",
+      "correct_answer": "víz\nNa-ion\nK-ion\nCl-ion\nkarbamid\ncukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a terhességi vesebaj jellemző tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "a terhesség második felében jelentős testsúlynövekedés\nnagyfokú ödémaképződés\nhipertónia\nproteinuria\neclampsiás görcsroham",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- méh: ...\n- petevezeték: ...\n- petefészek: ...\n- kisajkak: ...",
+      "question_type": "fill_in",
+      "correct_answer": "uterus\ntuba uterina\novarium\nlabium minus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a prosztatagyulladás lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "baktérium\na vizeletürítés károsodása\nvisszaáramlás a prosztata kivezetőcsöveiben\nimmunrendszeri tényezők\nkémiai anyagok\nlelki tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a glükokortikoidok (kortizol) hatását! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "hatásukra fokozódnak a lebontó anyagcsere-folyamatok\ncsökkentik a csontképződést\ncsökkentik a sejt közötti tér fehérjéinek termelődését\nszabályozzák a só-, és vízháztartást\nszabályozzák a vérnyomást\ngátolják az immunrendszer működését",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Nevezzen meg a mellékpajzsmirigy túlműködésének lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "a vér Ca-szintjének emelkedése\nvesekőképződés\nfelritkult, törékeny csontok\ngyomorfekély kialakulása\nhasnyálmirigy-gyulladás\nszívritmuszavarok\nmagas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Párosítsa az agyidegek számát elnevezésükkel! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. VI. agyideg\n2. VII. agyideg\n3. VIII. agyideg\n4. IX. agyideg\n5. X. agyideg\n\nA. bolygóideg\nB. egyensúlyozó és hallóideg\nC. távolító ideg\nD. nyelv-garat ideg\nE. arcideg",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...E...., 3.-...B...., 4.-...D...., 5.-A...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Sorolja fel az éberségi szint zavarait!",
+      "question_type": "open",
+      "correct_answer": "kábultság\nsomnolentia\nsopor\nkóma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Határozza meg a nyelv területeit az ízérzékelésnek megfelelően!\n- a keserű íz érzékelésének helye: ...\n- a savanyú íz érzékelésének helye: ...\n- az édes íz érzékelésének helye: ...\n- a sós íz érzékelésének helye: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "a nyelvgyök\na nyelv oldalsó szélei\na nyelv hegye\na nyelv oldalsó szélei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Ismertesse a szürke hályog lényegét!",
+      "question_type": "open",
+      "correct_answer": "...A szemlencse betegsége, a szemlencse állományának részleges, vagy teljes\nelszürkülése következtében, csökken a szem belsejébe jutó fény mennyisége....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q023_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Nevezze meg azokat az eseteket, amikor nincs remény az újraélesztésre!",
+      "question_type": "open",
+      "correct_answer": "- az élettel összeegyeztethetetlen sérülés\n- hosszas haldoklás után beállt halál\n- a halál biztos jeleinek megjelenése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2020_november_14_IV_eu_modul_iv-201114_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Soroljon fel a csonttörés lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nalakváltozás\nvérömleny (haematoma)\nfunkciókiesés (functio laesa)\nrendellenes mozgathatóság\ncsontvég ropogása (crepitatio)",
+      "options": []
+    }
+  }
+]

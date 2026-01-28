@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Csoportosítsa a gyulladás tüneteit a meghatározott\nszempontok szerint! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n\n1. láz\n2. duzzanat\n3. pirosság\n4. fehérvérsejt szaporulat\n5. melegség\n\ngyulladás helyi tünetei: ...\ngyulladás általános tünetei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 5,...\n1, 4...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 4,
+      "question_text": "Nevezze meg latinul az emberi test részeit!\nEgészítse ki a táblázatot!\n\n| az emberi test részei | latin megnevezés |\n|-----------------------|------------------|\n| fej                   |                  |\n| mellkas               |                  |\n| has                   |                  |\n| medence               |                  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| az emberi test részei | latin megnevezés |\n|-----------------------|------------------|\n|                         | caput            |\n|                         | thorax           |\n|                         | abdomen          |\n|                         | pelvis           |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q003_8pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 8,
+      "question_text": "Ismertesse a hasizmok fajtáit és feladatait!\n\nA hasizmok fajtái:\n- egyenes hasizom\n- külső ferde hasizom\n- belső ferde hasizom\n- haránt hasizom\n\nA hasizmok feladatai:\n- összehúzódás: törzs előre hajlítása, alsó végtagok emelése\n- állandó hasi nyomás biztosítása\n- hasi légzés (főleg férfiaknál)\n- hasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom\n\nösszehúzódás: törzs előre hajlítása, alsó végtagok emelése\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Soroljon fel a szívinfarktus rizikófaktorai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "dohányzás\nmozgásszegény életmód\nhelytelen táplálkozás\nmagas koleszterinszint\nmagas vérnyomás\nhajszolt életmód (stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\nkisvérkör erei: ... , ...\nnagyvérkör erei: ... , ..., ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4\n2, 3, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHány lebenyből áll a jobb tüdő?\nHonnan erednek a hangszalagok?\nA garat mely szakaszát köti össze a fülkürt a dobüreggel?\nMi a gégefedő feladata?\nHol található a légzés irányításának központja?",
+      "question_type": "fill_in",
+      "correct_answer": "három\na kannaporcok elülső nyúlványairól\naz orri szakaszt\nnyeléskor zárja a gégebemenetet\na nyúltvelőben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa a tüdőbetegségeket a rájuk jellemző\nköpettípusokkal! Írja a számok mellé a helyes\nválasz betűjelét!\n\n1. gennyes köpet\n2. élénkpiros színű, véres köpet\n3. bőséges, szilvalészerű köpet\n4. üvegszerű, tapadós köpet",
+      "question_type": "matching",
+      "correct_answer": "1.-...A...., 2.-...D...., 3.-...B..., 4.-...C...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 3,
+      "question_text": "Nevezzen meg a szerves tápanyagok csoportjából hármat!",
+      "question_type": "open",
+      "correct_answer": "fehérjék\nszénhidrátok\nzsírok\nvitaminok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 2,
+      "question_text": "Fogalmazza meg az emésztőrendszer feladatát!",
+      "question_type": "open",
+      "correct_answer": "Az emésztőrendszer feladata a tápanyagok felvétele, építőelemekre bontása, azok felszívása, az emészthetetlen salakanyagok eltávolítása.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q010_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Állítsa sorrendbe a nyelés folyamatának szakaszait!\nÍrja le a megállapítások sorszámát a megfelelő sorrendben!\nA nyelés folyamata:\n1. a lágyszájpad felemelkedik, ezáltal a szájgarat az orrgarat felé záródik\n2. a nyelvgyök és a gégefedő (epiglottis) hátrafelé mozdul\n3. a garatizmok összehúzódnak, a falat bekerül a nyelőcsőbe, majd a\nnyelőcsőizomzaton végighaladó perisztaltikus mozgás révén a falat a\ngyomorba jut\n4. a gége felemelkedik\nA nyelés folyamata megfelelő sorrendben:...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 1, 4, 3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatait!",
+      "question_type": "open",
+      "correct_answer": "a vizelet gyűjtése\na vizelet tárolása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia\nchronica) tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés\nvagy székrekedés)\nfémes szájíz\nszáraz, vastagon lepedékes nyelv\nvizeletszagú lehelet\nmagas vérnyomás\nlesoványodás\nsúlyos vérszegénység, bőr- és nyálkahártya vérzések\nbőrviszketés, sárgás, szürkés bőrszín, száraz bőr\nvizenyő\nsavós hártyák gyulladásának tünetei\nlégzőszervi tünetek (Kussmaul-típusú légzés)\nidegrendszeri tünetek (fokozott reflexek, izomgörcsök, fejfájás,\nzavartság)\ncsonttörések (spontán törések)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi szervek elhelyezkedését a\nszervezetben!\nvesék: ...\nprosztata: ...\nméh: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "közvetlenül a gerinc két oldalán, a XII. háti és a II. ágyéki\ncsigolya magasságában, a hashártya mögött helyezkednek\nel...\na húgyhólyag alatt helyezkedik el...\na kismedencében középen, a húgyhólyag és a végbél között\nhelyezkedik el...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\n\nMi borítja a méh falának belső rétegét?\n\nHol termelődik a progeszteron?\n\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték\nméhnyálkahártya\npetefészekben, a sárgatest termeli\nmyoma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Ismertesse az elsődleges és a másodlagos nemi jelleg\nlényegét!\n\nElsődleges nemi jelleg:\n... \nkülönböztetünk meg...\n\nMásodlagos nemi jelleg:\n... \nfejlődése)...",
+      "question_type": "fill_in",
+      "correct_answer": "a nemi szervek határozzák meg, eszerint női és férfi nemi jelleget\na nemi érés (pubertás) során alakul ki a nemi mirigyek által termelt\nhormonok hatására (pl. mély hang, férfias alkat, szőrzet, emlők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Soroljon fel három olyan betegséget, amely férfiaknál\na húgycső felőli felszálló fertőzés következtében alakulhat ki!",
+      "question_type": "open",
+      "correct_answer": "prosztatagyulladás\nheregyulladás\nmellékhere-gyulladás\nvesemedence-gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- fokozzák a szervezet anyagcsere-folyamatait\n- emelik a vércukorszintet\n- emelik a légzésszámot\n- fokozzák a szívműködést\n- a szervezet hőközpontjának működését stimulálják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a tetániás állapot tünetei közül!",
+      "question_type": "open",
+      "correct_answer": "a kéz és láb ujjainak zsibbadása\na kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\nszapora szívműködés\ngégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Nevezze meg a neuron fő részeit magyarul!",
+      "question_type": "multiple_choice",
+      "correct_answer": "idegsejt\nplazmanyúlványok\nidegnyúlvány\nvégfácska",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q020_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megfelelő\nbetegséghez! Írja a megadott csoportokhoz a\nhelyes válasz sorszámát!\n\n1. aurajelenség\n2. magas láz\n3. heves fejfájás\n4. tarkókötöttség, \"vadászkutyafekvés\"\n5. tónusos generalizált roham\n6. fénykerülés\n\nagyhártyagyulladás: ...\nepilepsziás nagy roham: ...",
+      "question_type": "fill_in",
+      "correct_answer": "2, 3, 4, 6\n1, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám/felhám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 5,
+      "question_text": "Mi az érhártya feladata?\n\nHol található a pupilla?\n\nHol termelődik a csarnokvíz?\n\nHol találhatók a látás receptorai?\n\nMi a szemlencse feladata?",
+      "question_type": "fill_in",
+      "correct_answer": "az ideghártya táplálása...\n\na szivárványhártya közepén...\n\na szem középső burkában a sugártest termeli...\n\naz ideghártyán...\n\na szem alkalmazkodóképességének biztosítása...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyi érkatasztrófákra jellemző tüneteket!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "fejfájás\nmozgászavar\nféloldali végtagbénulás, arcbénulás\nbeszédzavar\nzavart tudat\nhirtelen eszméletvesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2016_februar_24_II_EuMII_0224_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 6,
+      "question_text": "Ismertesse a légzés- és keringésmegállás lehetséges okait!\r\nÍrjon hármat - hármat!\r\n\r\nLégzésmegállás lehetséges okai:\r\n- légútelzáródás\r\n- légköri levegő összetételének megváltozása\r\n- légzőközpont-bénulás\r\n- mellkasfal összenyomódása\r\n\r\nKeringésmegállás lehetséges okai:\r\n- szívmegállás\r\n- kamraremegés\r\n- nagyfokú, gyors vérvesztés\r\n- súlyos, traumás agysérülés\r\n- anafilaxia\r\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "légútelzáródás\nlégköri levegő összetételének megváltozása\nlégzőközpont-bénulás\nmellkasfal összenyomódása\nszívmegállás\nkamraremegés\nnagyfokú, gyors vérvesztés\nsúlyos, traumás agysérülés\nanafilaxia",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol termelődik a synovia?",
+      "question_type": "open",
+      "correct_answer": "az ízületi tok belső rétegében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q002_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 6,
+      "question_text": "Nevezze meg az agykoponyának és az arckoponyának\naz ábrán jelölt csontjait magyarul! Válaszát írja a szá-\nmok mellé a pontozott vonalakra!\n\n1. ...\n2. ...\n3. ...\n4. ...\n5. ...\n6. ...",
+      "question_type": "fill_in",
+      "correct_answer": "1. felső állcsont\n2. állkapocs\n3. járomcsont\n4. ékcsont\n5. homlokcsont\n6. falcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q003_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi latin szavakat magyar\nmegfelelőjével!\n1. fibroma\nA. érdaganat\n2. myoma\nB. csontszöveti daganat\n3. angioma\nC. izomszöveti daganat\n4. osteoma\nD. rostos kötőszöveti daganat\n1.- ...; 2. ...; 3.-...; 4.-...",
+      "question_type": "matching",
+      "correct_answer": "D",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertessen a fájdalom (mint jelző reakció) okai\nközül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- szöveti folytonosság megszakadása\n- túlzott feszülés (oedema)\n- mechanikai ártalom az idegvégződés helyén\n- oxigénhiány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q005_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 7,
+      "question_text": "Nevezze meg az alábbi betegségeket latinul!\npikkelysömör: ...\ntüdőgyulladás: ...\nmagasvérnyomás: ...\nérelmeszesedés: ...\nszürkehályog: ...\ncukorbetegség: ...\ngümőkór: ...",
+      "question_type": "fill_in",
+      "correct_answer": "psoriasis\npneumonia\nhypertonia\narteriosclerosis\ncataracta\ndiabetes mellitus\ntuberculosis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a gyomorfekély keletkezésében szerepet játszó tényezők közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- egyes gyógyszerek (szalicilátok)\n- fertőzés (helicobacter pylori)\n- étrendi hibák (koffein, fűszerek, rendszertelen étkezés)\n- fokozott sav-és pepszintermelés\n- dohányzás\n- örökletes tényezők\n- életmódbeli és idegrendszeri tényezők (szorongás, stressz)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperglykaemiás és a hypoglykaemiás coma tüneteit! Töltse ki a táblázatot!\n| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---------|---------|---------|\n|  | vércukorszint |  |\n|  | arcszín |  |\n|  | bőr |  |\n|  | légzés típusa |  |\n|  | lehelet |  |",
+      "question_type": "fill_in",
+      "correct_answer": "| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---------|---------|---------|\n| magas | vércukorszint | alacsony |\n| piros | arcszín | sápadt |\n| száraz, meleg | bőr | verítékes, hűvös |\n| szapora, igen mély be- és kilégzések sorozata (Kussmaul típusú) | légzés típusa | normál légzés |\n| acetonszagú | lehelet | normális |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső\nszakaszának részeit!\n- végbél\n- csípőbél\n- szájüreg\n- gyomor\n- patkóbél\n- vastagbél\n- nyelőcső\n- éhbél\n- garat\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- külső hám\n- irha\n- bőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nfül (hallás):\nfül (egyensúlyozás):\nszem:\norr:\nnyelv:",
+      "question_type": "fill_in",
+      "correct_answer": "Corti szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Csoportosítsa a megadott betegségekhez az alábbiakban\nfelsorolt tüneteket! İrja a megadott betegségekhez a\ntünetek sorszámát!\n\n1. a beteg elharaphatja a nyelvét 4. tarkókötöttség, \"vadászkutyafekvés\"\n2. magas láz\n3. heves fejfájás\n5. rángógörcs\n6. fénykerülés\n\nagyhártyagyulladás:\nepilepsiás nagy roham:",
+      "question_type": "fill_in",
+      "correct_answer": "...2, 3 4, 6...\n...1, 5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 3,
+      "question_text": "Sorolja fel az utóagy részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "nyúltvelő\nhíd\nagy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q013_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!\n- csillapíthatatlan fejfájás\n- láz\n- sugárhányás\n- látási zavarok\n- csillapíthatatlan köhögés\n- szédülés",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátási zavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatát!",
+      "question_type": "open",
+      "correct_answer": "- a vizelet gyűjtése\n- a vizelet tárolása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 4,
+      "question_text": "Soroljon fel a veseeredetű (renális) akut uraemia okai\nközül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "terhességi vesebaj (toxaemia)\nglomerulonephritis acuta\nnehézfémsók\ngombamérgezés\nvércsoport összeférhetetlenség\ngörcsös állapot (lázas eclampsia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 5,
+      "question_text": "Hol képződik az elsődleges vizelet?\nMennyi az elsődleges vizelet napi mennyisége?\nTartalmaz-e élettani körülmények között a végleges vizelet\nurobilinogént?\nTartalmaz-e az elsődleges vizelet cukrot?\nTartalmaz-e a végeleges vizelet bilirubint?",
+      "question_type": "open",
+      "correct_answer": "- a Malpighi testben\n- 180 liter\n- tartalmaz\n- tartalmaz\n- nem tartalmaz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábrán a számokkal jelölt belső elvá-lasztású mirigyeket magyarul! Válaszát írja a számok mellé a pontozott vonalra!",
+      "question_type": "fill_in",
+      "correct_answer": "agyfüggelék\nmellékpajzsmirigy\npajzsmirigy\ncsecsemőmirigy\nmellékvese\nhasnyálmirigy\npetefészek\nhere",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Ismertesse a mellrákot (tumor mammae) az alábbiak szerint!\nLényege: \nTünetei: (Írjon négyet /4/!)\n-\n-\n-\n-\nMegelőzése:",
+      "question_type": "open",
+      "correct_answer": "a mell állományának rosszindulatú daganatos elfajulása\ntapintható csomó a mellben\nnarancshéj behúzódás\nbefordult bimbó\nváladékozás\nszűrővizsgálattal",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 3,
+      "question_text": "Jellemezze a hormonokat! Írjon három /3/ fontos\ntulajdonságot!",
+      "question_type": "open",
+      "correct_answer": "A belső elválasztású mirigyek termelik.\nSpeciális felépítésű kémiai anyagok.\nA vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez.\nMár alacsony koncentrációban is kifejtik hatásukat.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a prosztata megnagyobbodás tünetei közül négyet /4/!",
+      "question_type": "open",
+      "correct_answer": "vizelési nehézség (a vizeletürítés nehezen indul meg)\ngyakori vizelési inger\nvizeletcsepegés\néjszakai vizelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q021_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol fejlődnek a herék a magzati életben?\nMi a herezacskó szerepe?\nMi építi fel a hímvessző állományát?\nHol található a sárgatest?\nMi a széles méhszalag feladata?\nMennyi a spermiumok élettartama a női szervezetben?",
+      "question_type": "open",
+      "correct_answer": "- a hasüregben\n- a herék működéséhez szükséges, a test hőmérsékleténél alacsonyabb hőmérséklet biztosítása\n- három barlangos test\n- a petefészek kéregállományában\n- a méhet és a petefészket rögzíti\n- 1-2 nap",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q022_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 5,
+      "question_text": "Ismertesse, milyen hibák illetve szövődmények\nalakulhatnak ki újraélesztés során! Írjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "nem megfelelő helyen keresik a carotis pulzust\nidővesztés (aggályoskodás)\nkemény alapra fektetés hiánya\nlélegeztetés elmulasztása\na gyomor felfúvódása\nszívmasszázs helytelen technikája\nkoordináció hiánya\nbordatörés\nműködő szívnél mellkas kompresszió alkalmazása\naspiratio",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q023_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen beteget!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Soroljon fel a vashiányos anaemia okai közül hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "vérzés\nvasfelszívódási zavar\nelégtelen vasfelvétel\nmegnövekedett vasigény",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 3,
+      "question_text": "Párosítsa a betegségeket illetve állapotokat a rájuk\njellemző kóros légzési formákkal! Írja a sorszám mellé\na megfelelő betűjelet!\n1. hyperglykaemiás coma\n2. tüdőoedéma\n3. idegrendszeri károsodás\nA. dyspnoe\nB. Cheyne stokes légzés\nC. Kussmaul légzés\n1.- ...; 2.- ...; 3.- ...",
+      "question_type": "matching",
+      "correct_answer": "C\nA\nB",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 2,
+      "question_text": "Határozza meg röviden, hogy mely légúti megbetegedés-re utalnak az alábbi tünetek! Írja a betegségek nevét a pontozott vonalakra!\nA. Szapora, nehezített légzés, gyakori szúró mellkasi fájdalom (oldalszegzés), gyengeség, fejfájás. Kezdetben száraz, majd produktív köhögéssel, barnás köpettel jár.\n...\nB. Hirtelen jelentkező nehézlégzés, a beteg a légzési segéd-izmokat megfeszítve igyekszik levegőhöz jutni. Rövid kapkodó belégzése után a kilégzés hosszan elnyúló, sípoló. A köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) köpetet ürít a beteg. A pulzusa szapora.\n...",
+      "question_type": "fill_in",
+      "correct_answer": "...tüdőgyulladás (pneumonia)......tüdőasztma (asthma bronchiale)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2007_marcius_14_44E28D7D-760B-46B4-C0B1-AB8C6D590F6A_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérkeringését biztosító ereket!",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  }
+]

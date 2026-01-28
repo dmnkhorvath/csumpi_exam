@@ -1,0 +1,275 @@
+[
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le szervek latin, vagy magyar megnevezését! Egészítse ki a táblázatot!\n\n| Szervek |  |\n|---|---|\n| magyarul | latinul |\n| szív |  |\n| tüdő |  |\n| máj |  |\n| lép |  |\n| gyomor |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szervek |  |\n|---|---|\n| magyarul | latinul |\n|  | cor |\n|  | pulmo |\n|  | hepar |\n|  | lien |\n|  | gaster/ventriculus |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Nevezze meg a gyulladástípusokat a képződött izzadmány jellege szerint!",
+      "question_type": "open",
+      "correct_answer": "- savós (serosus) gyulladás\n- gennyes (suppurativ) gyulladás\n- eves-üszkös gyulladás\n- vérzéses gyulladás\n- fibrines gyulladás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait a megadott szempontok szerint! Írja a\nsorszámokat a megfelelő helyre!\n\n1. ékcsont\n4. halántékcsont\n2. rostacsont\n5. ekecsont\n3. orrcsont\n6. falcsont\n\nAz agykoponya csontjai: ...., ...., ......\nAz arckoponya csontjai: ...., ...., .....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 6.\n2., 3., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 3,
+      "question_text": "Ismertesse a porckorong-elfajulás lényegét, kialakulásának okait!\nLényege:\nKialakulásának lehetséges okai: Írjon kettőt!",
+      "question_type": "open",
+      "correct_answer": "...a csigolyák közti porcok elfajulása, deformálódása...\nmozgáshiány\na gerinc statikai hibája\ntrauma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q005_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\n- a visszerek a vért a szívből a periféria felé juttatják\n- a vitorlás billentyűk a nagyartériákban és a fő visszerekben helyezkednek el\n- a pulzusszám normál értéke nyugalmi állapotban felnőttnél 60–80/perc\n- a kisvérkör a szív bal pitvarából indul\n- a nagyvérkör a szív bal kamrájából az aortával indul\n- a vér pH-értéke 6,34–6,42 között mozog\n- a vörösvértestek élettartama körülbelül 120 nap",
+      "question_type": "multiple_choice",
+      "correct_answer": "a vérnyomás értéke a felkaron mérve megegyezik az arteria brachialisban\nuralkodó nyomással\na pulzusszám normál értéke nyugalmi állapotban felnőttnél 60–80/perc\na nagyvérkör a szív bal kamrájából az aortával indul\na vörösvértestek élettartama körülbelül 120 nap",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q006_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 5,
+      "question_text": "Soroljon fel a felületes vénák gyulladásának lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- bőrpír a gyulladt véna felett\n- meleg tapintat\n- megkeményedett és tapintható véna\n- nyomásérzékenység\n- fájdalom\n- hőemelkedés, láz",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk jellemző kóros légzési\nhanggal! Írja a betűjelek mellé a helyes válasz sorszámát!\nA. tüdőasztma\nB. tüdővizenyő\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata\n1. szörcsögő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű",
+      "question_type": "matching",
+      "correct_answer": "Α.-...3...., Β.-...1...., С.-...2...., D.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Húzza alá a meghatározáshoz tartozó helyes választ!\nA légzőközpont helye:\n- kisagy\n\nAz alveolusok és az arteria, illetve vena pulmonalis rendszer kapillárisai között\nzajló gázcsere:\n- belső légzés\n\nA garatot a dobüreggel köti össze:\n- fülkürt\n\nCsillószőrök borítják az:\n- orrüreg nyálkahártyáját\n- külső légzés\n\n- gége\n- orrmelléküregek nyálkahártyáját",
+      "question_type": "multiple_choice",
+      "correct_answer": "nyúltvelő",
+      "options": [
+        "kisagy",
+        "nyúltvelő",
+        "belső légzés",
+        "külső légzés",
+        "fülkürt",
+        "gége",
+        "orrüreg nyálkahártyáját",
+        "orrmelléküregek nyálkahártyáját"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a kiszáradáshoz vezető lehetséges okok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "nagyfokú hányás\nnagyfokú hasmenés\nelégtelen folyadékbevitel\nnagyfokú verejtékezés\nfokozott vizeletürítés\nnagy mennyiségű vérvesztés\nnagyfokú vizenyő (ödéma) képződése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Töltse ki a tejfogakkal kapcsolatos táblázatot!\n| A tejfogak száma |  |\n|---------|---------|\n| Gyermekeknél az egy kvadránsban elhelyezkedő tejfogak száma/típusa |  |\n",
+      "question_type": "fill_in",
+      "correct_answer": "| A tejfogak száma |  |\n|---------|---------|\n|  | - 20 db\n- 2 metszőfog\n- 1 szemfog\n- 2 őrlőfog |\n",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 5,
+      "question_text": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, gyógyításának\nlehetőségeit!\n\nLehetséges tünetei:\n- gyakori vizelési inger\n- a vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\n- görcsös fájdalom\n\nTerápiája:\n- bő folyadékfogyasztás\n- antibiotikum alkalmazása",
+      "question_type": "open",
+      "correct_answer": "gyakori vizelési inger\na vizeléssel járó kellemetlen égő-, csípő érzés (dysuria)\ngörcsös fájdalom\n\nbő folyadékfogyasztás\nantibiotikum alkalmazása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Fogalmazza meg a vese koncentrációs munkájának lényegét!",
+      "question_type": "open",
+      "correct_answer": "Amikor a szervezettől megvonjuk a folyadékot, a vizelet besűrűsödik, mert a\nvesék kevesebb folyadékban választják ki ugyanazt a bomlástermék\nmennyiséget.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Ismertesse az AIDS-t az alábbi szempontok szerint!\nOka:\n...\nLappangási idő:\n...\nTerjedésének módja: Írjon négyet!\n- vér\n- ondó\n- egyéb váladékok (hüvelyváladék)\n- anyatej\n- fertőzött injekciós tű",
+      "question_type": "fill_in",
+      "correct_answer": "vírus (HIV)\n3-4 hét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Nevezze meg a méh részeit!",
+      "question_type": "open",
+      "correct_answer": "- méhfenék\n- méhtest\n- méhnyak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel öt belső elválasztású mirigyet!",
+      "question_type": "open",
+      "correct_answer": "hypothalamus\nagyalapi mirigy\npajzsmirigy\nmellékpajzsmirigy\nmellékvese\nnemi mirigyek\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 4,
+      "question_text": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!\nLényege:\nLehetséges tünetei: Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg fokozott aldoszteron termelése következtében kialakuló betegség.\ngyógyszeresen nem befolyásolható magas vérnyomás\ncsökkent vér K-szint\nizomfájdalom\nizomgyengeség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 6,
+      "question_text": "Csoportosítsa a felsorolt tüneteket a megadottak szerint! Írja a sorszámokat a megfelelő helyre!\n1. hemiparesis\n2. magas láz\n3. fénykerülés\n4. érzészavarok\n5. beszédzavar\n6. tarkókötöttség, „vadászkutyafekvés\"\nAgyhártyagyulladás tünetei: ...., ...., .....\nAgyvérzés tünetei: ...., ...., .....\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6.\n1., 4., 5.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q018_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 2,
+      "question_text": "Nevezze meg a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "terminális idegvégződés\nintercalaris idegvégződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 5,
+      "question_text": "Sorolja fel az emlőt felépítő képleteket!",
+      "question_type": "open",
+      "correct_answer": "- zsírszövet\n- kötőszövet\n- vérerek\n- nyirokerek\n- tejmirigyek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. üvegtest\nB. sárgafolt\nC. vakfolt\nD. szivárványhártya\nE. sugártest\n\n1. itt lép ki a retinából a látóideg\n2. a szembe jutó fényerő reflexes szabályozása\n3. csarnokvíz termelése\n4. a szem állandó alakjának biztosítása\n5. az éleslátás helye",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., В.-...5...., С.-...1...., D.-...2...., Ε.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Állítsa sorrendbe a felnőtteknél légúti idegentest esetén javasolt ellátás\nlépéseit! Írja a sorszámokat a pontozott vonalakra!\n... hasi lökések (Heimlich-féle műfogás) alkalmazása\n... az illető megnyugtatása\n... biztonságos környezet kialakítása\n... háti ütések alkalmazása\n... köhögésre biztatás\n(Csak a helyes sorrend esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "5\n2\n1\n4\n3",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XIII_eumxiii_210616_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- halálfélelem\n- szorító, erős mellkasi fájdalom\n- a fájdalom kisugárzik a bal vállba, karba\n- gyomortáji fájdalom\n- nehézlégzés\n- szédülés, gyengeség\n- szürkés bőr, livid ajkak",
+      "options": []
+    }
+  }
+]

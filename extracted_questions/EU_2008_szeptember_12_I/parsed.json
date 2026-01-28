@@ -1,0 +1,422 @@
+[
+  {
+    "file": "EU_2008_szeptember_12_I_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Sorolja fel az emberi szervezetben található szöveteket!",
+      "question_type": "open",
+      "correct_answer": "1. Hámszövet\n2. Idegszövet\n3. Izomszövet\n4. Kötő-és támasztószövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azokat az anyagokat, amelyek a szervezetbe jutva az immunrendszer\nvédekezését mozgósítják, antigénnek nevezzük.\nAz antigén általában fehérjetermészetű anyag.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Soroljon fel az élő kórokozók közül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "vírusok\nbaktériumok\negysejtű állatok\ngombák\nférgek\nízeltlábúak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Írja le az agykoponya csontjait magyarul!",
+      "question_type": "fill_in",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Ismertesse, hogyan csoportosíthatjuk az izmokat működésük alapján!",
+      "question_type": "open",
+      "correct_answer": "hajlítás\nfeszítés\ntávolítás\nközelítés\nemelés\nszűkítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Ismertesse a Scheuermann-féle betegséget az alábbiak\nszerint!\nA. Mely életkorban jelentkezik a betegség?\n\nB. Mi az oka a betegségnek?\n\nC. Mi a lényege a betegségnek?\n- csigolyatestek\n- elvesztik szilárdságukat\nD. Mi a terápiája a betegségnek? Írjon kettőt /2/!\n- torna\n- úszás\n- fűző",
+      "question_type": "open",
+      "correct_answer": "Serdülőkorban.\nIsmeretlen.\nelkeskenyednek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q007_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\n- Hol helyezkedik el a háromhegyű vitorlás billentyű?",
+      "question_type": "open",
+      "correct_answer": "A jobb pitvar és a jobb kamra között.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást /infarctus myocardii/\naz alábbiak szerint!\nLényege:\nOka:",
+      "question_type": "fill_in",
+      "correct_answer": "a szívizomzat ék alakú elhalása\nthrombus miatt a coronariaág elzáródása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHogyan hat a Ca hiánya a véralvadásra az emberi szervezetben?\n\nHogyan hat a Ca hiánya az izomműködésre az emberi szervezetben?",
+      "question_type": "open",
+      "correct_answer": "- Ca hiányában megnő a véralvadási idő\n- Ca hiányában izomgörcsök lépnek fel",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Sorolja fel az orr melléküregeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "arcüreg\nhomloküreg\nékcsonti üreg\nrostacsont üregei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Írja le a ki- és belégzés folyamatát a megadott\nszempontok szerint! Egészítse ki a táblázatot!\n\n| A légzési mechanizmus szereplői | Belégzéskor | Kilégzéskor |\n|---|---|---|\n| bordák |  |  |\n| rekeszizom |  |  |\n| mellhártya lemezei |  |  |\n| mellüregi szívóhatás |  |  |\n| a levegő |  |  |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A légzési mechanizmus szereplői | Belégzéskor | Kilégzéskor |\n|---|---|---|\n| bordák | emelkednek | süllyednek |\n| rekeszizom | összehúzódik | ellazul |\n| mellhártya lemezei | távolodnak egymástól | közelednek egymáshoz |\n| mellüregi szívóhatás | növekszik | csökken |\n| a levegő | beáramlik a tüdőbe | a tüdő összehúzódik, kipréseli a levegőt |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Nevezze meg a légutak allergiás betegségeit és a kiváltó okot! Írjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- szénanátha - allergén anyagok (virágpor, házipor, pollen)\n-gégevizenyő - rovarcsípés, gázok, allergizáló tényezők\n- tüdőasztma (hörgő izomzatának görcse) - allergén anyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul!",
+      "question_type": "open",
+      "correct_answer": "- patkóbél\n- éhbél\n- csípőbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 2,
+      "question_text": "Határozza meg az esszenciális aminosavak fogalmát!",
+      "question_type": "open",
+      "correct_answer": "A fehérjék építőköveinek azon csoportja, amelyet az emberi\nszervezet önmaga előállítani nem képes, csak táplálékkal ke-\nrülhet a szervezetbe; az emberi szervezet számára nélkülöz-\nhetetlenek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Soroljon fel négyet /4/ a mechanikus ileus (bélelzáródás)\nkiváltó okai közül!",
+      "question_type": "open",
+      "correct_answer": "gyulladás\nösszenövés\ndaganat\nidegen test\nkizáródott sérv\nbélcsavarodás\nbélbetüremkedés\nepekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Jellemezze a vesetok felépítését!",
+      "question_type": "open",
+      "correct_answer": "- külső, vékony kötőszövetes tok, a vese rögzítését biztosítja\n- középső, zsíros tok-itt található a vese felső részén a mellékvese\n- belső kötőszövetes tok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket, amelyek a végleges vizeletben élettanilag megtalálhatók!\n- kreatinin\n- húgysav\n- bilirubin\n- urobilinogén\n- cukor\n- fehérje\n- karbamid",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nbilirubin\nurobilinogén\nkarbamid",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 4,
+      "question_text": "Jellemezze röviden az idült veseelégtelenséget (uraemia\nchronica) az alábbiakban megadott szempontok szerint!\n\nLényege:\na veseműködés beszűkülése a vese állományának súlyos\ncsökkenése (pusztulása) következtében\n\nTünetek: Soroljon fel hatot /6/!\n- étvágytalanság\n- fémes szájíz\n- émelygés\n- hányás\n- hasmenés vagy székrekedés\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás (hypertensio)\n- lesoványodás\n- súlyos vérszegénység, bőr- és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- savós hártyák gyulladásának tünetei\n- légzőszervi tünetek (Kussmaul-típusú acidoticus légzés)\n- idegrendszeri tünetek (fokozott reflexek, izomgörcsök, fejfájás,\nzavartság)",
+      "question_type": "open",
+      "correct_answer": "a veseműködés beszűkülése a vese állományának súlyos\ncsökkenése (pusztulása) következtében",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q019_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Lényegére: 1 pont, tüneteire: 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Határozza meg a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását a Naegele-módszer alapján!\nidőtartam:\nNaegele-módszer: az utolsó menstruáció első napjához hozzáadunk napot, majd visszaszámolunk 3 hónapot.\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "280 nap\naz utolsó menstruáció első napjához hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Ismertesse az alábbi anatómiai képletek\nelhelyezkedését a szervezetben!\nLeydig-sejtek: \nCowper-mirigy: \nBarlangos test: \nSárgatest: ",
+      "question_type": "fill_in",
+      "correct_answer": "a herékben, a herecsatornák között\na gát állományában beágyazva\na hímvessző állományában\na petefészek kéregállományában",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 3,
+      "question_text": "Soroljon fel három /3/ vizsgáló módszert, mely a méh-nyakrák szűrésére alkalmas!",
+      "question_type": "open",
+      "correct_answer": "- kolposzkópos vizsgálat\n- szövettani vizsgálat\n- bimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Sorolja fel a belső elválasztású (endocrin) mirigy\njellemzőit!",
+      "question_type": "open",
+      "correct_answer": "- nincs kivezető csövük\n- váladékuk a hormonok\n- hormonok a vérbe ürülnek, ott fejtik ki hatásukat\n- váladéktermelésüket elválasztásnak nevezzük",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Ismertesse a calcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "- gátolja a Ca csontokból való felszabadulását\n- megakadályozza a vér magas Ca szintjének kialakulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Írja le a tetánia kialakulásnak okait, tüneteit,\nkezelését!",
+      "question_type": "open",
+      "correct_answer": "Oka:\n- a vérszérum Ca szintjének csökkenése\n- a mellékpajzsmirigy csökkent működése\n\nTünetei:\n- kéz-lábujjak zsibbadása\n- őzfej kéztartás\n- „ördögi vigyor”-mimikai izmok görcse\n- szapora szívműködés\n- gégeizmok görcse-fulladás\n\nKezelése:\n- Ca-injekció adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "két idegsejt találkozásánál található összeköttetés, az ingerület-\nátadás helye\nitt történik az ingerület átadása egyik idegsejtről a másikra az\ningerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q027_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 1,
+      "question_text": "Sorolja fel a gerincvelő szerkezetét kívülről befelé\nhaladva!\nKívül: \nBelül:",
+      "question_type": "fill_in",
+      "correct_answer": "idegrostokból álló fehérállomány\nidegsejtekből álló szürkeállomány",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q028_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 3,
+      "question_text": "Jellemezze a szimpatikus és paraszimpatikus\nidegrendszer általános és specifikus jellemzőit!\nÁltalános jellemzők:\n- a vegetativ idegrendszer akaratunktól függetlenül működik\n- a két rendszer élettani hatása egymással ellentétes\nSzimpatikus idegrendszer jellemzői:\n- készenléti funkció\n- a szervezet teljesítőképessége nő\nParaszimpatikus idegrendszer jellemzői:\n- helyreállító folyamatokban van szerepe\n- a szervezet nyugalmi fázisát biztosítja",
+      "question_type": "open",
+      "correct_answer": "a vegetativ idegrendszer akaratunktól függetlenül működik\n- a két rendszer élettani hatása egymással ellentétes\n- készenléti funkció\n- a szervezet teljesítőképessége nő\n- helyreállító folyamatokban van szerepe\n- a szervezet nyugalmi fázisát biztosítja",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q029_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Egészítse ki az alábbi táblázatot!\n| latin | magyar |\n|---------|---------|\n| paresis |  |\n| paralysis |  |\n| tremor |  |\n| rigor |  |\n| aphasia |  |\n| atrophia |  |\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---------|---------|\n|  | izomgyengeség, izomerő\\ncsökkenése |\n| paralysis | bénulás, izomerő kiesése |\n| tremor | remegés (akarattól független) |\n|  | izomtónus fokozódás |\n| aphasia | beszédzavar |\n|  | izomsorvadás |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q030_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "külső hám\nirha\nbőr alatti kötőszövet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q031_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 3,
+      "question_text": "Jellemezze a könnykészüléket! Írjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- a könnykészülék részei a könnyet termelő mirigyek és az elvezető rendszere\n- a szemüreg külső-felső szögletében helyezkedik el\n- folyamatosan termelik a víztiszta, enyhén sós, baktériumölő könnyet\n- a könny a szaruhártya külső felszínén lefelé folyik, védi a szaruhártyát\n- a könnyzacskó összegyűjti a könnyet, elvezetődik az orr járataiba\n- a könnytermelést a VII. agyideg vegetatív része szabályozza",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q032_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 3,
+      "question_text": "Ismertesse a nyelvgyulladás okait és tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Okai:\n- vashiányos vérszegénység\n- vészes vérszegénység\n- B- és C-vitamin hiány\n\nTünetei:\n- égő fájdalom a nyelvcsúcson, és a szélein\n- ízérzési zavarok\n- ízlelőbimbók megnagyobbodnak, vörösek, majd sorvadnak",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q033_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.",
+      "points": 3,
+      "question_text": "Ismertesse a sebellátás tilalmait!",
+      "question_type": "open",
+      "correct_answer": "1. sebbe nyúlni tilos\n2. a sebszéleket széthúzni tilos\n3. a sebbe kenőcsöt, port juttatni tilos\n4. közvetlenül a sebre vattát tenni tilos\n5. más által felhelyezett, szakszerű kötést eltávolítani tilos\n6. a sebbe fertőtlenítő oldatot önteni tilos (kivétel a harapott seb)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q034_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.*",
+      "points": 5,
+      "question_text": "Ismertesse, hogy tömeges baleset esetén a mentők\ntelefonhívásakor milyen információkat kell közölnie!\nÍrjon ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- a bejelentő adatai\n- mi történt\n- hol történt\n- a sérültek száma\n- a sérültek állapota\n- szükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2008_szeptember_12_I_q035_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "34.*",
+      "points": 3,
+      "question_text": "Írjon le hat /6/ tünetet, melynek alapján a sérültnél\nbelső vérzésre gondol!",
+      "question_type": "open",
+      "correct_answer": "- hűvös, nyirkos bőr\n- sápadt, hamuszürke arcszín\n- szapora pulzus\n- fájdalom\n- szomjúságérzés\n- zavartság, nyugtalanság\n- vérzés valamely testnyílásból",
+      "options": []
+    }
+  }
+]

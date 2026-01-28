@@ -1,0 +1,340 @@
+[
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q001_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 7,
+      "question_text": "Nevezze meg az emberi test fő részeit magyarul!",
+      "question_type": "open",
+      "correct_answer": "- fej\n- nyak\n- törzs\n- mellkas\n- hasüreg\n- medence\n- végtagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Párosítsa a fehérvérsejt típusokat feladataikkal! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n1. T-lymphocyta\n2. B-lymphocyta\nA. humorális immunválasz\nB. sejtes immunválasz\n1.-... ....\n2.-... ....",
+      "question_type": "matching",
+      "correct_answer": "Β\nΑ",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Egészítse ki a csigolyák számával az alábbi táblázatot!\n\n| Csigolyák megnevezése | Csigolyák darabszáma |\n|-----------------------|----------------------|\n| nyaki csigolya        |                      |\n| háti csigolya         |                      |\n| ágyéki csigolya       |                      |\n| keresztcsonti csigolya |                      |\n| farkcsigolya          |                      |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Csigolyák megnevezése | Csigolyák darabszáma |\n|-----------------------|----------------------|\n| nyaki csigolya        | 7                    |\n| háti csigolya         | 12                   |\n| ágyéki csigolya       | 5                    |\n| keresztcsonti csigolya | 5                    |\n| farkcsigolya          | 3-4                  |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Definiálja az alábbi fogalmakat!\n- szinergista izmok: ...\n- antagonista izmok: ...\n- izomtónus: ...",
+      "question_type": "fill_in",
+      "correct_answer": "egymás működését segítő izmok...\naz izmok működése egymással ellentétes hatású...\nnyugalomban lévő izom feszülési állapota...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nHol helyezkedik el a háromhegyű vitorlás billentyű?\nMi a billentyűk feladata?\nMilyen izmokból áll a verőerek középső rétege?",
+      "question_type": "fill_in",
+      "correct_answer": "a jobb pitvar és a jobb kamra között...\na vér megfelelő irányú áramlásának biztosítása...\nsimaizmokból...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "sinuscsomó",
+        "pitvar-kamrai csomó",
+        "His-köteg"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 6,
+      "question_text": "Ismertesse a visszértágulatokat (varix, varicositas) a megadott szempontok\nalapján!\n\nKialakulásuk lehetséges okai: Írjon kettőt!\n- \naz érfal kötőszövetének gyengesége\n- fokozott terhelés\n- a hasűri nyomás fokozódása (pl. terhesség, ascites)\n\nKialakulásukra hajlamosító tényezők: Írjon hármat!\n- öröklődés\n- életmód\n- foglalkozás (pl. ápolónő, fodrász, pincér)\n- nem (pl. nőknél gyakoribb)\n\nA visszértágulatok következményei:\n...Az érfal gyulladása, a kitágult vénákban trombózisképződés....",
+      "question_type": "open",
+      "correct_answer": "- az érfal kötőszövetének gyengesége\n- fokozott terhelés\n- a hasűri nyomás fokozódása (pl. terhesség, ascites)\n- öröklődés\n- életmód\n- foglalkozás (pl. ápolónő, fodrász, pincér)\n- nem (pl. nőknél gyakoribb)\n...Az érfal gyulladása, a kitágult vénákban trombózisképződés....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő szerveket!\n- pajzsmirigy\n- szív\n- tüdők\n- aortaív ágai\n- nyelőcső\n- máj\n- hörgők\n- csecsemőmirigy\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "szív\ntüdők\naortaív ágai\nnyelőcső\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket a tüneteikkel! Írja a betűjelek mellé a helyes válasz\nsorszámát!\n\nA. tüdőasztma\nB. tüdővizenyő\nC. gége alatti nyálkahártya duzzanat\nD. tüszős mandulagyulladás\n\n1. magas láz\n2. sípoló légzési hang\n3. szörcsögő légzési hang\n4. stridoros (húzó jellegű) légzési hang\n\nA.-....... , B.-....... , C.-....... , D.-.......",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 4, 1",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Soroljon fel a szénanátha tünetei közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- vérbő kötőhártya\n- duzzadt orrnyálkahártya, orrdugulás\n- gyakori tüsszentés\n- nagy mennyiségű, vízszerű orrváladék-ürítés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 3,
+      "question_text": "Jellemezze a bélbolyhokat a megadott szempontok szerint!\nFeladata: ...\nElhelyezkedése: ...\nSzövettani szerkezete: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a tápanyag felszívása...\nvékonybél nyálkahártyáján...\negyrétegű mikrobolyhos hengerhám...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 4,
+      "question_text": "Ismertesse a vesék feladatát, szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a sók kiürítése\n- a vízben oldható hasznosíthatatlan anyagok kiürítése\n- a só-, és vízháztartás szabályozása\n- a homeosztázis fenntartása\n- hormontermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q013_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n1. kalcium\n2. cink\n3. vas\n4. magnézium\n5. nátrium\n6. szelén\n\nmakroelemek: ....\nmikroelemek: ....",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5....\n2., 3., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szárak"
+      ]
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q016_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Írja le az elsődleges vizelet jellemzőit a megadott szempontok alapján!\nMennyisége:\nFajsúlya:\nÖsszetétele: Írjon négyet!",
+      "question_type": "fill_in",
+      "correct_answer": "napi 160-180 l\n1010 g/l\nvíz\násványi anyagok\ncukor\naminosavak\nfestékanyagok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 3,
+      "question_text": "Húzza alá a felsoroltak közül a szülés megindulásának jeleit!\n- a hüvely szederjes elszíneződése\n- a méhizomzat rendszeres összehúzódása\n- a testsúlygyarapodás megtorpanása\n- hirtelen erőteljes magzatmozgások megjelenése\n- a méhnyaknál lévő nyákdugó távozása\n- a méhszáj kitágulása\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a méhizomzat rendszeres összehúzódása\na méhnyaknál lévő nyákdugó távozása\na méhszáj kitágulása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse a hererák betegség tüneteit, gyógyításának lehetőségeit!\nA betegség lehetséges tünetei: Írjon hármat!\nA betegség gyógyításának lehetőségei: Írjon kettőt!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a here tapintatának megváltozása\ncsomók megjelenése a herében\ntompa fájdalom\nfolyadékgyülem a herében\na here műtéti eltávolítása\nkemoterápia\nsugárkezelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Határozza meg az alábbi belső elválasztású mirigyek elhelyezkedését a szervezetben!\ntobozmirigy:\nhipofízis:\ncsecsemőmirigy:\npajzsmirigy:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": " ...a koponya belsejében...\n ...a középső koponyagödörben, a töröknyeregben...\n ...a gátorüregben, a szegycsont mögött...\n ...a nyak elülső részén, a pajzsporc alatt...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q020_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a phaeochromocytoma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- magas vérnyomás\n- szapora, lüktető pulzus, szívdobogásérzés\n- fokozott izzadás\n- szapora légzés\n- hideg, nyirkos bőr\n- látászavarok\n- fejfájás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q021_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Egészítse ki a táblázatot a kóros elváltozások latin, illetve magyar megfelelőivel!\n\n| latin | magyar |\n|---|---|\n| paresis |  izomgyengeség |\n| paralysis |  |\n| tremor |  remegés (akarattól független) |\n| aphasia |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| latin | magyar |\n|---|---|\n|  | paresis |\n|  | bénulás |\n|  | tremor |\n|  | beszédzavar |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Nevezzen meg négyet a harmadlagos agykérgi központok közül!",
+      "question_type": "open",
+      "correct_answer": "- beszédértő központ\n- beszéd motoros központja\n- az írás, olvasás központja\n- a jövő agykérgi területe\n- a múlt kérgi területe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Csoportosítsa a közép- és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!\nA. üllő\nB. kalapács\nC. csiga\nD. ívjáratok\nE. kengyel\nközépfül részei: ...\nbelső fül részei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "A., B., E....\nC., D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q024_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 4,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai: ...\nLátószerv receptorai: ...\nÍzlelőszerv receptorai: ...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek\ncsapok, pálcikák\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészségkárosodás három alapvető\njellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "- váratlanul, hirtelen következik be\n- a sérülés vagy betegség az életet veszélyezteti\n- magas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Írja a magyar kifejezések mellé a latin megfelelőket!\n- aluszékonyság: ...\n- agyzúzódás: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "somnolentia\ncontusio cerebri",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2019_november_13_II_eumii_191113_q027_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel ötöt az elsősegélynyújtó feladatai közül mérgezések esetén!",
+      "question_type": "open",
+      "correct_answer": "- az életveszély elhárítása\n- a szabad légút biztosítása\n- a méreg további bejutásának, illetve felszívódásának megakadályozása\n- a szennyezett ruházat eltávolítása\n- a testfelszín méregtelenítése\n- a méreg hatástalanítása, közömbösítése\n- mentőhívás",
+      "options": []
+    }
+  }
+]

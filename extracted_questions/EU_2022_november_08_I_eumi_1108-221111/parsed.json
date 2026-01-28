@@ -1,0 +1,295 @@
+[
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Párosítsa a latin kifejezéseket magyar megfelelőikkel! Írja a sorszámok\nmellé a helyes válasz betűjelét!\n1. distalis\n2. anterior\n3. lateralis\n4. saggitalis\n5. proximalis\nA. nyílirányú\nB. középsíktól távolabb eső\nC. törzstől távolabb eső\nD. elülső\nE. törzshöz közelebb eső\n1.-....., 2.-....., 3.-....., 4.-....., 5.-.......",
+      "question_type": "matching",
+      "correct_answer": "C\nD\nB\nA\nE",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q002_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a mérgezés súlyosságát és következményeit befolyásoló\ntényezők közül!",
+      "question_type": "open",
+      "correct_answer": "- a bejutás helye\n- a felszívódás, átalakítás, ürítés sebessége\n- a szer koncentrációja\n- a méreg mennyisége\n- a méreg kémiai tulajdonságai",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Ismertesse az angolkór kialakulásának okait és megelőzésének lehetőségét!\nLehetséges okai: Írjon négyet!\n\nMegelőzése:\n...",
+      "question_type": "open",
+      "correct_answer": "D-vitamin-hiány\nvesebetegségek\nmájbetegségek\nörökletes betegségek\negyes gyógyszerek\nMagyarországon újszülöttkortól 3 éves korig kötelező a D-vitamin adása....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg magyarul a felső ugróízület (bokaízület) alkotásában részt vevő csontokat!",
+      "question_type": "open",
+      "correct_answer": "- sípcsont\n- szárkapocscsont\n- ugrócsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vérkörökhöz a hozzájuk tartozó ereket! Írja a betűjeleket a\nmegfelelő helyre!\nA. vena cava superior\nB. vena cava inferor\nC. arteria pulmonalis\nD. vena pulmonalisok\nE. aorta\nnagyvérkör erei: ...\nkisvérkör erei: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "A., B., E....\nC., D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szívizomgyulladás (myocarditis) lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- jelentősen emelkedett pulzusszám\n- alacsony vérnyomás\n- nagyfokú fáradékonyság\n- nyomásérzés a mellkasban\n- szívritmuszavarok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Nevezze meg a tüdő kettős vérellátását biztosító érrendszereket és feladatukat!\n1.  \n2. ",
+      "question_type": "fill_in",
+      "correct_answer": "arteria bronchialis rendszer\nfeladata:* a tüdő szövetének táplálása\ntruncus pulmonalis rendszer\nfeladata:* a gázcseréhez szükséges vér\nszállítása a tüdőbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Ismertesse a hörghurutot a megadott szempontok szerint!\nLényege:\n...\nKialakulásának oka: Írjon egyet!\n-\n-\nGyógyításának, kezelésének lehetőségei: Írjon hármat!\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "A hörgők nyálkahártyájának gyulladásos betegsége...\nfertőzés\nirritáció\nantibiotikum\nköhögéscsillapító\nnyákoldó szerek\nlázcsillapítás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 4,
+      "question_text": "Húzza alá az emésztőrendszerre vonatkozó helyes megállapításokat!\n- A nyelv harántcsíkolt izomszövetből áll.\n- Az éhbél és a csípőbél hossza együttesen kb. 3 méter.\n- A gyomorban nem történik szénhidrátemésztés.\n- A vastagbél a tápcsatorna leghosszabb szakasza.\n- A fűszeres ételek fogyasztása lassítja a gyomorperisztaltikát.\n- Az életkor előrehaladtával a disszimilációs folyamatok hangsúlyosabbá válnak.\n- A disszimiláció során az egyszerűbb anyagok bonyolultabbá épülnek fel.\n- A maradéknitrogén a fehérje-anyagcsere során keletkező bomlástermék.",
+      "question_type": "multiple_choice",
+      "correct_answer": "A nyelv harántcsíkolt izomszövetből áll.\nA gyomorban nem történik szénhidrátemésztés.\nAz életkor előrehaladtával a disszimilációs folyamatok hangsúlyosabbá válnak.\nA maradéknitrogén a fehérje-anyagcsere során keletkező bomlástermék.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.*",
+      "points": 3,
+      "question_text": "Nevezzen meg hármat a májzsugorodás (cirrhosis hepatis) kialakulásának\nlehetséges okai közül!",
+      "question_type": "open",
+      "correct_answer": "idült alkoholizmus\nfertőzés\nanyagcsere-betegség\naz epeutak, az epehólyag idült gyulladása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Állítsa időrendi sorrendbe a hányás folyamatát! Írja le a betűjeleket a\nmegfelelő sorrendben!\nA. zárt pylorus mellett a gyomor erős perisztaltikus mozgást végez\nB. a fundus és cardia elernyed\nC. hányinger\nD. az erős hasprés a gyomortartalmat a nyelőcsövön keresztül a külvilágba\njuttatja\nE. mély belégzés után a gégebemenet záródik",
+      "question_type": "open",
+      "correct_answer": "C., A., E., B., D.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q012_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 5,
+      "question_text": "Soroljon fel az elsődleges vizeletből visszaszívódó/kiválasztódó anyagok közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "víz\nNa-ion\nK-ion\nCl-ion\nkarbamid\ncukor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 5,
+      "question_text": "Írja le a vizeletkiválasztó rendszerhez kapcsolódó szakkifejezések magyar, vagy latin megfelelőjét! Egészítse ki a táblázatot!\n\n| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| vesekőbetegség |  |\n| vizelet |  |\n| zsákvese |  |\n| húgyhólyaggyulladás |  |\n| heveny vesegyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Szakkifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | nephrolithiasis |\n|  | urina |\n|  | hydronephrosis |\n|  | cystitis |\n|  | glomerulonephritis acuta |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Egészítse ki a férfi nemi szervekkel kapcsolatos mondatokat!\nA here kb.... nagyságú és alakú páros szerv, amely a hasüregen\n... helyezkedik el.\nAz ... kisujjnyi vastagságú köteg, amely a herezacskóban és a\n... található.\nAz ondóhólyag páros szerv, melynek mirigyei ... váladékot termelnek,\nüregrendszerében pedig a ... tárolódik.",
+      "question_type": "fill_in",
+      "correct_answer": "galambtojás\nkívül\nondózsinór\nlágyékcsatornában\nlúgos\nsperma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q015_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Írja le az erős vérzés (menorrhagia) lényegét!",
+      "question_type": "open",
+      "correct_answer": "...Szabályos időnként jelentkező, a ciklust tartó, de az átlagosnál bőségesebb (80 ml-t meghaladó) vérzés....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá a neuroendokrin rendszerre vonatkozó helyes megállapításokat!\n- A neuroendokrin rendszer nem áll kapcsolatban az idegrendszerrel.\n- Az endokrin mirigyek nem hatnak a különböző szervek működésére.\n- Az endokrin mirigyek közvetlenül a sejtközötti térbe juttatják váladékukat.\n- Az ADH-t és az oxitocint a hipofízis termeli.\n- A növekedési hormont (STH) a hipofízis termeli.\n- A hypothalamus a köztiagynak a thalamus alatti részén található, a III.\nagykamra falát képezi.\n- A tobozmirigy a koponya belsejében a IV. agykamra felső részénél található.\n- A hypothalamus szabályozza a szervezet belső környezetének viszonylagos\nállandóságát.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Az endokrin mirigyek közvetlenül a sejtközötti térbe juttatják váladékukat.\n- A növekedési hormont (STH) a hipofízis termeli.\n- A hypothalamus a köztiagynak a thalamus alatti részén található, a III.\nagykamra falát képezi.\n- A hypothalamus szabályozza a szervezet belső környezetének viszonylagos\nállandóságát.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q017_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 2,
+      "question_text": "Nevezze meg a neuron idegnyúlványán levő végfácska típusait!",
+      "question_type": "open",
+      "correct_answer": "- terminális idegvégződés\n- intercalaris idegvégződés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon a mellékpajzsmirigy túlműködésének lehetséges tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "a vér kalcium-szintjének emelkedése\n- vesekőképződés\n- felritkult, törékeny csontok\n- gyomorfekély kialakulása\n- hasnyálmirigy-gyulladás\n- szívritmuszavarok\n- magas vérnyomás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 4,
+      "question_text": "Rendezze az elsődleges agykérgi központokat elhelyezkedési helyeikhez! Írja\na sorszámokat a megfelelő helyre!\n\n1. testérzés\n2. látóközpont\n3. hallóközpont\n4. szaglás\n\nhalántéki lebeny: ...., .... \nnyakszirti lebeny: .....\nhátsó központi barázdatest: .....\n\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "3., 4.\n2.\n1.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 2,
+      "question_text": "Ismertesse az arcidegzsába megjelenések/gyakoriságának jellemzőjét!",
+      "question_type": "open",
+      "correct_answer": "...Meglehetősen gyakori, általában a 40. életév után jelentkezik, nőknél sűrűbb\naz előfordulása, mint a férfiaknál.....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Sorolja fel az emlőt felépítő képleteket!",
+      "question_type": "open",
+      "correct_answer": "zsírszövet\nkötőszövet\nvérerek\nnyirokerek\ntejmirigyek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Párosítsa a jellemzőket a bőrbetegségekkel! Írja sorszámok mellé a helyes\nválasz betűjelét!\n\n1. A könyök- és térdtájékon, a hajlatokban, és a hajas fejbőrön lencse, vagy\npénzérme nagyságú felrakódások.\n2. Fokozott faggyútermelés, megváltozik a termelt faggyú összetétele is, a\nfejbőrön lemezes hámlás látható.\n3. Vakarási nyomok a testhajlatokban, az övtájékon, finom zegzugos\nvonalrajzolat, apró járatok láthatóak a bőrben.\n4. Fekély, gennyképződés, bűzös váladékozás, szövetelhalás, az érintett terület\nvizenyős és duzzadt.",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-...D...., 3.-...A...., 4.-...B....",
+      "options": [
+        "A. scabies",
+        "B. pyoderma",
+        "C. psoriasis",
+        "D. seborrhoea"
+      ]
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 4,
+      "question_text": "Határozza meg a ficam és a rándulás lényegét!\nFicam:\n...\nRándulás:\n...",
+      "question_type": "open",
+      "correct_answer": "Az erő hatására kimozdult ízületi fej az erőbehatás megszűnte után nem tér\nvissza az ízületi árokba....\nKülső erő hatására az ízfelszínek eltávolodnak egymástól, de az erőbehatás\nmegszűntekor az ízületi fej visszatér az ízületi árokba....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2022_november_08_I_eumi_1108-221111_q024_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 5,
+      "question_text": "Soroljon fel a sebellátás tilalmai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- a sebszéleket széthúzni tilos\n- a sebbe kenőcsöt, port juttatni tilos\n- közvetlenül a sebre vattát tenni tilos\n- a sebben lévő/a sebből kiálló idegen testet eltávolítani tilos\n- sebbe nyúlni tilos\n- a mások által megfelelően felhelyezett kötést eltávolítani tilos",
+      "options": []
+    }
+  }
+]

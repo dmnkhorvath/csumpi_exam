@@ -1,0 +1,323 @@
+[
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Határozza meg az antigén fogalmát!",
+      "question_type": "open",
+      "correct_answer": "Azok a testidegen anyagok, amelyek a szervezetbe jutva immunválaszt\nváltanak ki, és ennek eredményeként specifikus ellenanyagok, illetve\nimmunsejtek képződnek.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá a daganatokra vonatkozó helyes megállapításokat!\n- A daganatos szövetburjánzás nem minden esetben káros.\n- A daganatok terjedhetnek a nyirokerek és a liquorkeringés útján is.\n- A malignus daganat gyakran okoz testsúlynövekedést.\n- A daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.\n- Azokat a tényezőket, amelyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.\n- A benignus daganatok gyakran metasztázist okoznak.\n(Csak a 3 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "A daganatok terjedhetnek a nyirokerek és a liquorkeringés útján is.\nA daganatsejtek növekedése nincs összhangban a kiindulási szövet\nnövekedésével.\nAzokat a tényezőket, amelyek tumorok képződéséhez vezetnek karcinogén\ntényezőknek nevezzük.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Írja le az arckoponya csontjainak latin, vagy magyar megfelelőjét!\nEgészítse ki a táblázatot!\n\nArckoponya csontjai\n| magyarul | latinul |\n|---|---|\n| felső állcsont |  |\n|  | os zygomaticum |\n| rostacsont |  |\n|  | os nasale |\n| állkapocs |  |\n\n(Helyes válaszonként 1-1 pont adható!)\n„Korlátozott terjesztésű!\"",
+      "question_type": "fill_in",
+      "correct_answer": "| magyarul | latinul |\n|---|---|\n|  | maxilla |\n| járomcsont |  |\n|  | os ethmoidale |\n| orrcsont |  |\n|  | mandibula |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Nevezze meg a lehetséges sejtosztódási formákat!",
+      "question_type": "open",
+      "correct_answer": "direkt sejtosztódás (amitózis)\nindirekt sejtosztódás (mitózis)\nfelező sejtosztódás (meiózis)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 5,
+      "question_text": "Ismertesse a lúdtalp lényegét, tüneteit és gyógyításának lehetőségeit!\nLényege:\n...láb boltozatainak (hosszanti és haránt) ellapulása, illetve hiánya...\nLehetséges tünetei: Írjon kettőt!\n- a láb teherbíró képességének csökkenése\n- a lábfej fájdalma\n- térd-, csípő-, derékfájdalom\nKezelésének, gyógyításának lehetőségei: Írjon kettőt!\n- lúdtalpbetét\n- gyógytorna\n- súlyosabb esetben műtét",
+      "question_type": "open",
+      "correct_answer": "láb boltozatainak (hosszanti és haránt) ellapulása, illetve hiánya...\na láb teherbíró képességének csökkenése\na lábfej fájdalma\ntérd-, csípő-, derékfájdalom\nlúdtalpbetét\ngyógytorna\nsúlyosabb esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Párosítsa az anémia formáit kialakulásuk okaival! Írja a sorszámok mellé\na helyes válasz betűjelét!\n\n1. hemolitikus anémia\n2. hiányanémia\n3. aplasztikus anémia\n\nA. a csontvelő csökkent vörösvérsejt termelése miatt alakul ki\nB. a vörösvérsejtek fokozott szétesése miatt alakul ki\nC. a hemoglobin, vagy a vörösvérsejtek felépítéséhez szükséges anyagok\nhiánya miatt alakul ki\n\n1.-..., 2.-..., 3.-...",
+      "question_type": "matching",
+      "correct_answer": "B, C, A",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Egészítse ki a szív ingerképző és ingervezető rendszerével kapcsolatos\ntáblázat hiányzó részeit!\n\n| A szív ingerképző és ingervezető rendszerének részei | Elhelyezkedése |\n|-------------------------------------------------|-----------------|\n| sinuscsomó                                      |                 |\n| pitvar-kamrai csomó                             |                 |\n| HIS-köteg                                       |                 |\n| Tawara-szárak                                   |                 |\n| Purkinje-rostok                                 |                 |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| A szív ingerképző és ingervezető rendszerének részei | Elhelyezkedése |\n|-------------------------------------------------|-------------------------------------------------|\n|                                                 | a jobb pitvar hátsó falában található |\n|                                                 | a jobb pitvar alsó részében található |\n|                                                 | a pitvar-kamrai csomóból indul ki |\n|                                                 | a kamrákat elválasztó sövényen húzódik lefelé |\n|                                                 | a kamraizomrostok között |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 4,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q009_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "0.*",
+      "points": 1,
+      "question_text": "(pont)",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 6,
+      "question_text": "Ismertesse a tüdőasztmát (asthma bronchiale) a megadott szempontok\nalapján!\nLényege:\nTünetei: Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "A hörgők falában lévő simaizomzat rohamokban fellépő görcse, melyet a\nkishörgők nyálkahártyájának duzzanata kísér.\n- hirtelen jelentkező nehézlégzés\n- légzési segédizmok segítségével próbál levegőhöz jutni a beteg\n- rövid, kapkodó belégzés után, hosszan elnyúló, sípoló kilégzés\n- a köhögés kezdetben száraz, majd üvegszerű, tapadós (szívós nyák) ürül\n- szapora pulzus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív ingerképző központja:",
+      "question_type": "multiple_choice",
+      "correct_answer": "sinuscsomó",
+      "options": [
+        "pitvari-kamrai csomó",
+        "His-köteg",
+        "sinuscsomó",
+        "Tawara-szár"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a\nhelyes válasz sorszámát a megfelelő helyre!\n1. kalcium\n2. cink\n3. vas\n4. magnézium\n5. nátrium\n6. szelén\nmikroelemek: ...\nmakroelemek: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 6....\n1., 4., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q013_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel az aranyérbetegség hajlamosító tényezői/lehetséges okai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- mozgásszegény életmód\n- rost-, salakszegény étrend\n- idült székrekedés, hasmenés\n- terhesség\n- nehéz tárgyak emelése\n- kismedencei daganatok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 2,
+      "question_text": "Írja le a veseműködést szabályozó hormonok hatását!\n- antidiuretikus hormon: ...\n- aldoszteron: ...",
+      "question_type": "open",
+      "correct_answer": "a vesecsatornák utolsó szakaszának vízáteresztő\nképességét biztosítja...\nfokozza a Na-ion és a víz visszaszívását, így csökkenti az\nürített vizelet mennyiségét...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q015_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Ismertesse a terhességi vesebajt a megadott szempontok szerint!\nJellemző tünetei: Írjon négyet!\n- a terhesség második felében jelentős testsúlynövekedés\n- nagyfokú ödémaképződés\n- hipertónia\n- proteinuria\n- eclampsiás görcsroham\nKezelésének lehetőségei: Írjon kettőt!\n- sószegény étrend\n- gyógyszeres kezelés\n- a szülést követően a tünetek megszűnnek\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "a terhesség második felében jelentős testsúlynövekedés\nnagyfokú ödémaképződés\nhipertónia\nproteinuria\neclampsiás görcsroham\nsószegény étrend\ngyógyszeres kezelés\na szülést követően a tünetek megszűnnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q016_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogyan nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "fill_in",
+      "correct_answer": "a petevezeték\nméhnyálkahártya\na petefészekben\nmióma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q017_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Soroljon fel a férfiklimax jellemzői közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "természetes állapot az öregedés folyamatában\nhormonális változás hatására alakul ki\ncsökken a nemi vágy\nfizikai és szellemi teljesítőképesség csökken\npszichés változások\nandrogén impotencia",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nMilyen hormont termel a tobozmirigy?\n- a melatonint\n- a timozint\nHol termelődik a szomatotrop hormon?\n- a hipofízis hátulsó lebenyében\n- a hipofízis elülső lebenyében\nMi a hatása a parathormonnak?\n- emeli a vér kalcium- és foszfátszintjét\n- csökkenti a vér kalcium- és foszfátszintjét\nHol termelődik a kortizol?\n- a mellékvesekéregben\n- a mellékpajzsmirigyben",
+      "question_type": "multiple_choice",
+      "correct_answer": "a melatonint\na hipofízis elülső lebenyében\nemeli a vér kalcium- és foszfátszintjét\na mellékvesekéregben",
+      "options": [
+        "a melatonint",
+        "a timozint",
+        "a hipofízis hátulsó lebenyében",
+        "a hipofízis elülső lebenyében",
+        "emeli a vér kalcium- és foszfátszintjét",
+        "csökkenti a vér kalcium- és foszfátszintjét",
+        "a mellékvesekéregben",
+        "a mellékpajzsmirigyben"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 5,
+      "question_text": "Soroljon fel a mixödéma lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- duzzadt, kifejezéstelen, egykedvű arc\n- durva, hideg tapintatú bőr\n- alacsony testhőmérséklet\n- rekedt hang, lassult beszéd\n- gyér pulzus\n- székrekedés\n- fázékonyság",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 3,
+      "question_text": "Határozza meg az agykérgi központok szerepét/feladatát!\n- elsődleges központok: ...\n- másodlagos központok: ...\n- harmadlagos központok: ...",
+      "question_type": "open",
+      "correct_answer": "a tudatos érzékelés helyei, itt alakulnak ki az érzetek...\nitt gyűlnek össze az emlékképek...\na magasabb rendű idegtevékenységek helye...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 5,
+      "question_text": "Nevezzen meg a sclerosis multiplex kezelési lehetőségei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "gyógyszeres kezelés\nszövődmények megelőzése\nmozgásterápia\naktív és passzív tornáztatás\ntáplálkozásreform\nkáros szokások elhagyása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 6,
+      "question_text": "Csoportosítsa a közép-, és belsőfül részeit! Írja a helyes válasz betűjelét a\nmegfelelő helyre!",
+      "question_type": "fill_in",
+      "correct_answer": "C., D., E....\nA., B., F....",
+      "options": [
+        "A. csiga",
+        "B. ívjáratok",
+        "C. kengyel",
+        "D. fülkürt",
+        "E. dobüreg",
+        "F. Corti-szerv"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szemhéjgyulladás kialakulásának lehetséges okai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- erős napozás\n- tartós könnyezés\n- hegesztőfény hatása\n- bakteriális fertőzés\n- ismeretlen eredetű gyulladásos bőrbetegség",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q024_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 3,
+      "question_text": "Ismertesse az elsősegélynyújtást igénylő egészségkárosodás három\nalapvető jellegzetességét!",
+      "question_type": "open",
+      "correct_answer": "- váratlanul, hirtelen következik be\n- a sérülés vagy betegség az életet veszélyezteti\n- magas az időfaktor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_junius_16_XII_eumxii_210616_q025_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 5,
+      "question_text": "Egészítse ki az alapfokú újraélesztéshez kapcsolódóan a földön fekvő\nsérült vizsgálatára vonatkozó mondatokat!\n\nA segélynyújtónak legelőször gondoskodnia kell a ... megteremtéséről.... Ez után az első lépés ... az vizsgálata. Amennyiben a sérült nem reagál, nem vonható kontaktusba, akkor\nazonnal ... hívnunk. A következő teendő ... a fej hátrahajtásával, vagy ...\nelőreemelésével....",
+      "question_type": "fill_in",
+      "correct_answer": "biztonságos környezet\neszmélet/reakciókészség\nsegítséget kell\nlégutak felszabadítása/szabaddá tétele\naz áll",
+      "options": []
+    }
+  }
+]

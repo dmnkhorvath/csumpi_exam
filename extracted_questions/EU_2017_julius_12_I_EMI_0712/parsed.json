@@ -1,0 +1,290 @@
+[
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 3,
+      "question_text": "Írjon három okot, mely a szervezet folyadék- és\nelektrolit háztartásának felborulásához vezethet!",
+      "question_type": "open",
+      "correct_answer": "hányás\nhasmenés\nnagyfokú izzadás\nvérplazmavesztés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi fehérvérsejt típusokat azok\nfeladataival! Írja a sorszámok mellé a helyes válasz\nbetűjelét!\n\n1. T-lymphocyta\n2. B-lymphocyta\n3. granulocyta és monocyta\n\nA. fagocitózis\nB. sejtes immunválasz\nC. humorális immunválasz",
+      "question_type": "matching",
+      "correct_answer": "1.- ...Β....\n2.- ...C....\n3.- ...Α....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három olyan helyet (behatolási kaput), ahol a kórokozó bejuthat a szervezetbe!",
+      "question_type": "open",
+      "correct_answer": "bőr\nlégutak\nvéráram\nemésztőrendszer",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertessen öt fontos információt, amit baleset\nészlelése esetén mentőhíváskor közölnie kell!",
+      "question_type": "open",
+      "correct_answer": "a bejelentő adatai\nmi történt\nhol történt\na sérültek száma\na sérültek állapota\nszükséges-e műszaki mentés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Soroljon fel a leggyakrabban előforduló mérgezések\ntípusai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "gyógyszermérgezés\nalkoholmérgezés\ngázmérgezés\nmarószermérgezés\nételmérgezés\ngombamérgezés\nmérgező növények okozta mérgezés\nnövényvédőszer mérgezés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q006_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 6,
+      "question_text": "Rendelje a betegségekhez tüneteiket!\nÍrja a helyes válasz sorszámát a megfelelő helyre!\n1. éles görcsös fájdalom a deréktájon\n2. szemhéj-, arc-, kéz ödéma\n3. magas vérnyomás\n4. kínzó vizelési inger\n5. a fájdalom a comb belső oldalára, illetve a herékbe, vagy a nagyajkakba\nsugárzik\n6. a vizeletben fehérje jelenhet meg\nVeseköves roham: ...____....\nGlomerulonephritis acuta: ...____....\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 4., 5.\n2., 3., 6.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból az orr feladatait!\n- a belégzett levegő előmelegítése\n- oxigéncsere\n- a belégzett levegő párásítása\n- hőháztartás fenntartása\n- hangok képzése\n- szagok érzékelése\n- légnyomás biztosítása\n(Csak a 4 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem\nadható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "a belégzett levegő előmelegítése\na belégzett levegő párásítása\nhangok képzése\nszagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel a tetaniás állapotra jellemző tünetek közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a kéz és láb ujjainak zsibbadása\na kéz őzfejtartása (a hüvelykujj és a kézujjak kúpot képeznek)\na mimikai izmokban görcs alakul ki: „ördögi vigyor” (risus sardonicus)\nszapora szívműködés\ngégeizmok görcse, ami fulladást eredményezhet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q009_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek (emésztőrendszer)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 5,
+      "question_text": "Rendezze a vérkörökhöz a hozzájuk tartozó ereket!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n\n1. arteria pulmonalis\n2. aorta\n3. vena cava superior\n4. vena pulmonalis\n5. vena cava inferior\n\nkisvérkör erei: ...\nnagyvérkör erei: ...",
+      "question_type": "fill_in",
+      "correct_answer": "1, 4...\n2, 3, 5...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q011_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Ismertesse a szem könnykészülékének részeit és feladatát!\nRészei:\n-\n-\nFeladata:\n-",
+      "question_type": "open",
+      "correct_answer": "könnyet termelő mirigyek\nkönnyelvezető-rendszer\nfolyamatos könnytermelés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Írja le az antidiuretikus hormon (ADH) hatásait!",
+      "question_type": "open",
+      "correct_answer": "a vese gyűjtőcsatornáiban a vízvisszaszívást szabályozza (befolyásolja a\nszervezet só- víz háztartását és az ürített vizelet mennyiségét)\nmegakadályozza a vér besűrűsödését\nerős érösszehúzó hatású (emeli a vérnyomást)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 4,
+      "question_text": "Soroljon fel a szekunder (másodlagos) hypertonia okai\nközül négyet!",
+      "question_type": "open",
+      "correct_answer": "vesebetegség\nendokrin betegségek\nanyagcserezavarok\narterioszklerózis\nközponti idegrendszer betegségei",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Párosítsa az alábbi betegségeket/állapotokat a rájuk\njellemző kóros légzéshanggal!\nÍrja a sorszámok mellé a helyes válasz betűjelét!\n\n1. szörcsölő\n2. horkoló\n3. sípoló\n4. stridoros, húzó jellegű\n\nA. tüdőasztma\nB. tüdőödéma\nC. eszméletlenség\nD. a gége alatti nyálkahártya duzzanata",
+      "question_type": "matching",
+      "correct_answer": "1.- ...Β...., 2.- ...C....., 3.- ...Α...., 4.- ...D....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 2,
+      "question_text": "Nevezze meg latinul a tüdő szövetének vérellátását\nbiztosító ereket!",
+      "question_type": "open",
+      "correct_answer": "arteria bronchialis\nvena bronchialis",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 2,
+      "question_text": "Írja le az oxitocin hormon szerepét!",
+      "question_type": "open",
+      "correct_answer": "erős méhösszehúzódásokat vált ki (szülést beindítja)\naz emlőkből a tej kiürülését segíti (szülés után)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 6,
+      "question_text": "Ismertesse a bőr feladatait és járulékos részeit!\nÍrjon hármat-hármat!\nFeladatai:\n- védelem\n- hőszabályozás\n- zsírraktározás\n- tapintás\nJárulékos részei:\n- szőrszálak\n- faggyúmirigyek\n- verejtékmirigyek\n- körmök",
+      "question_type": "open",
+      "correct_answer": "védelem\nhőszabályozás\nzsírraktározás\ntapintás\nszőrszálak\nfaggyúmirigyek\nverejtékmirigyek\nkörmök",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q018_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 6,
+      "question_text": "Soroljon fel az arckoponya csontjai közül hatot magyarul!",
+      "question_type": "open",
+      "correct_answer": "felső állcsont\njáromcsont\nrostacsont\norrcsont\nállkapocs\nekecsont\nkönnycsont\nszájpadcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q019_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 2,
+      "question_text": "Határozza meg a szinapszis fogalmát és feladatát!\nFogalma:\n\nFeladata:\n",
+      "question_type": "open",
+      "correct_answer": "Két idegsejt találkozásánál található összeköttetés.\nItt történik az ingerület átadása egyik idegsejtről a másikra, az ingerületátvivő anyagok (neurotranszmitterek) segítségével.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 4,
+      "question_text": "Sorolja fel a has izmait!",
+      "question_type": "open",
+      "correct_answer": "egyenes\nk\nülső ferde\nbelső ferde\nharánt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q021_7pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 7,
+      "question_text": "Jellemezze az agytályogot (abscessus cerebri) a megadott szempontok alapján!\n\nA betegség oka:\n- az agy\n\nKialakulásának lehetősége: Írjon kettőt!\n- a középfül vagy az orrmelléküregek gyulladásainak\n- koponya-, és agytraumák\n- metasztatázis talaján\n\nTünetek: Írjon négyet!\n- rossz közérzet\n- láz\n- agyi nyomásfokozódás tünetei: fejfájás, hányás, tudatzavar\n- góctünetek: érzéskiesés, látótérkiesés, beszédzavar\n- epilepsziás roham",
+      "question_type": "open",
+      "correct_answer": "bakteriális fertőzése\n\nközvetlen\nátterjedése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Ismertesse a herevízsérvet (hydrokele testis) a megadott szempontok alapján!\n\nA betegség lényege:\n\nTünetei: Írjon kettőt!\n- \n- \n- ",
+      "question_type": "open",
+      "correct_answer": "A herezacskóban folyadék halmozódik fel.\n\n- megnövekszik a herezacskó\n- nyomásérzékenység\n- esetenként fájdalom",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 6,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését,\nfeladatát!\nRészei:\n\nElhelyezkedése:\n...a kismedence közepén, a hólyag és a végbél között található...\nFeladata:",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\n\na megtermékenyített petesejt befogadása (beágyazódás)\naz embrió/magzat fejlődésének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_julius_12_I_EMI_0712_q024_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 6,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMely tápanyagok bontása kezdődik a szájüregben?\n...\nMely tápanyagok bontása kezdődik a gyomorban?\n...\nHol kezdődik meg a zsírok lebontása?\n...\nHol termelődik az epe?\n...\nHol tárolódik az epe?\n...\nMi az epe feladata?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "szénhidrátok\nfehérjék\na vékonybélben\na májban\naz epehólyagban\na zsírcseppek emulgeálása",
+      "options": []
+    }
+  }
+]

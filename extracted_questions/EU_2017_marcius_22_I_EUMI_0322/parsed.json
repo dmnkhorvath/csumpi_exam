@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q001_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 4,
+      "question_text": "Húzza alá a helyes válaszokat!\nHol található a beszéd motoros központja?\n- a homloklebenyben\n- a fali lebenyben\n\nMi a kisagy feladata?\n- a magatartás szabályozása\n- a mozgások összerendezése, harmonikussá tétele\n\nHol található a légzés szabályozásának központja?\n- a hypothalamusban\n- a nyúltvelőben\n\nHol termelődik az agy-gerincvelői folyadék (liquor)?\n- az agykamrákban\n- az agyhártyák között",
+      "question_type": "multiple_choice",
+      "correct_answer": "a homloklebenyben\na mozgások összerendezése, harmonikussá tétele\na nyúltvelőben\naz agykamrákban",
+      "options": [
+        "a homloklebenyben",
+        "a fali lebenyben",
+        "a magatartás szabályozása",
+        "a mozgások összerendezése, harmonikussá tétele",
+        "a hypothalamusban",
+        "a nyúltvelőben",
+        "az agykamrákban",
+        "az agyhártyák között"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Rendelje a latin kifejezéseket magyar\nmeghatározásukhoz! Írja a helyes válasz sorszámát\na megfelelő helyre!\n\n1. myoma\n2. lipoma\n3. papilloma\n4. carcinoma\n5. sarcoma\n\nIzomszövet eredetű jóindulatú daganat: ... ....\nHámszövet eredetű rosszindulatú daganat: ... ....\nHámszövet eredetű jóindulatú daganat: ... ....\nZsírszövet eredetű jóindulatú daganat: ... ....\nKötőszövet eredetű rosszindulatú daganat: ... ....",
+      "question_type": "matching",
+      "correct_answer": "1\n4\n3\n2\n5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q003_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 6,
+      "question_text": "Ismertesse a hasizmok fajtáit és feladatait!\nA hasizmok fajtái: Írjon hármat!\nA hasizmok feladatai: Írjon hármat!\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "egyenes hasizom\nkülső ferde hasizom\nbelső ferde hasizom\nharánt hasizom\nösszehúzódás: törzs előre hajlítása, alsó végtagok emelése\nállandó hasi nyomás biztosítása\nhasi légzés (főleg férfiaknál)\nhasprés (vizeletürítésnél, székletürítésnél és a szülésnél van szerepe)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q004_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 6,
+      "question_text": "Csoportosítsa a koponya csontjait az alábbi szempontok szerint! Írja a megadott csoportokhoz a helyes\nválasz sorszámát!\n\n1. járomcsont\n2. felső állcsont\n3. homlokcsont\n4. könnycsont\n5. ékcsont\n6. nyakszirtcsont\n\nAz arckoponya csontjai: ...\nAz agykoponya csontjai: ...\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1, 2, 4\n3, 5, 6",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q005_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 6,
+      "question_text": "Soroljon fel segítségnyújtás során az elsősegélynyújtó\nfeladatai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "helyzetfelmérés\ntájékozódás a történtekről\nesetleges újabb balesetveszély elhárítása\na sérült állapotának megfelelő elhelyezés\nsérülés, rosszullét természetének megállapítása\nhelyes és halaszthatatlan beavatkozások elvégzése\nmentőhívás\na sérült felügyeletének biztosítása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet a neuron részei közül magyarul vagy\nlatinul!",
+      "question_type": "open",
+      "correct_answer": "sejttest - perikaryon\nplazmanyúlvány - dendrit\nidegrost - neurit/axon\nvégfácska - telodendrion\nmag - nucleus\nmagvacskák - nucleolus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik sejt feladata a szervezetben az ellenanyagok (immunglobulinok)\ntermelése?\n...\nMelyik sejtet nevezzük nagy falósejtnek?\n...\nMelyik sejt felelős a beültetett transzplantátum kilökődéséért?\n...\nMennyi a normális hematokrit érték?\n...\nHol található a hemoglobin?\n...",
+      "question_type": "fill_in",
+      "correct_answer": "B-lymphocyta\na monocytát\na T-lymphocyta\n0,36-0,46 L/L\na vörösvértestben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Ismertesse a tiroxin és trijód-tironin hormonok hatásait!\nÍrjon négyet!",
+      "question_type": "open",
+      "correct_answer": "fokozzák a szervezet anyagcsere-folyamatait\nemelik a vércukorszintet\nemelik a légzésszámot\nfokozzák a szívműködést\na szervezet hőközpontjának működését stimulálják",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 5,
+      "question_text": "Hasonlítsa össze a hyperglykaemiás és a hypoglykaemiás coma tüneteit! Töltse ki a táblázatot!\n\n| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---------------------------------------|--------|-----------------------|\n|                                       | vércukorszint |                        |\n|                                       | arcszín |                        |\n|                                       | bőr |                        |\n|                                       | légzés típusa |                        |\n|                                       | lehelet |                        |\n\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Hyperglykaemiás coma (diabeteses coma) | Tünet | Hypoglykaemiás coma |\n|---------------------------------------|--------|-----------------------|\n| magas                                   |        | alacsony                |\n| piros                                   |        | sápadt                  |\n| száraz, meleg                             |        | verítékes, hűvös         |\n| szapora, igen mély be- és kilégzések sorozata (Kussmaul-típusú) |        | normál légzés           |\n| acetonszagú                              |        | normális                |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Csoportosítsa a tápanyagokat funkcióik szerint!\nÍrja a megadott csoportokhoz a helyes válasz sorszámát!\n1. szénhidrátok\n2. zsírok\n3. fehérjék\n4. víz\nsejtépítő: ....\nenergiaszolgáltató: .....\nsejtalkotó: .....",
+      "question_type": "fill_in",
+      "correct_answer": "3\n1., 2.\n4",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q011_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.*",
+      "points": 5,
+      "question_text": "Soroljon fel a légutak gyulladásos megbetegedései közül\nötöt!",
+      "question_type": "open",
+      "correct_answer": "nátha\ngaratgyulladás\nmandulagyulladás\ngégegyulladás\nlégcsőgyulladás\nhörghurut",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q012_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Sorolja fel a vizeletkiválasztó- és elvezető rendszer\nrészeit!",
+      "question_type": "open",
+      "correct_answer": "vese\nhúgyhólyag\nhúgyvezeték\nhúgycső",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a felsoroltak közül azokat az alkotórészeket,\namelyek a végleges vizeletben élettanilag megtalálhatók!",
+      "question_type": "multiple_choice",
+      "correct_answer": "kreatinin\nhúgysav\nbilirubin\nurobilinogén\nkarbamid",
+      "options": [
+        "kreatinin",
+        "húgysav",
+        "bilirubin",
+        "urobilinogén",
+        "cukor",
+        "fehérje",
+        "karbamid"
+      ]
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 6,
+      "question_text": "Ismertesse a méh falának rétegeit magyarul\nés latinul!",
+      "question_type": "open",
+      "correct_answer": "külső hashártya által borított réteg - perimetrium\nközépső izomréteg - myometrium\nbelső nyálkahártyaréteg - endometrium",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Soroljon fel a méhnyakrák diagnosztizálására alkalmas\nmódszerek közül kettőt!",
+      "question_type": "open",
+      "correct_answer": "kolposzkópos vizsgálat\nszövettani vizsgálat\nbimanuális tapintási vizsgálat",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q016_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 5,
+      "question_text": "Ismertesse a bronzkórt (Addison-kór) az alábbi\nszempontok szerint!\nLényege:\n...a mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak\nTünetei: Írjon hármat!\n- fáradtság\n- gyengeség\n- fogyás\n- étvágytalanság\n- gyakori hányás\n- fokozott pigmentáció\n- hasmenés\n- alacsony vérnyomás",
+      "question_type": "open",
+      "correct_answer": "csökkent termelődése...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q017_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hypovolaemiás sokk lehetséges\nokai közül négyet!",
+      "question_type": "open",
+      "correct_answer": "nagyfokú vérzés (trauma)\nnagyfokú hányás\nnagyfokú hasmenés\nkiszáradás\nsúlyos égési sérülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Ismertesse az agyvérzés (apoplexia cerebri) tüneteit!\nÍrjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "tudatzavar (somnolentia, sopor, coma)\nhemiplegia (féloldali bénulás)\nlégzészavar\nbeszédzavar\nérzészavar\nincontinentia\nnyelési zavar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse a keszonbetegség okát, tüneteit!",
+      "question_type": "open",
+      "correct_answer": "Oka: ...a vérpályában nitrogén szabadul fel, amely buborék formájában\nelzárja a belső fül és más fontos szervek végartériáit...\nTünetei: Írjon kettőt!\nhalláscsökkenés (süketségig)\nheves, forgó jellegű szédülés\nhányinger",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q020_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 3,
+      "question_text": "Határozza meg a sérült fektetési módját\naz alábbi állapotokban!\nEszméletlen beteg esetén: ...\nÚjraélesztéskor: ...\nHasi sérülés esetén: ...\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés\nkemény alapon hanyatt fektetve\nhanyatt fektetve, a sérült lábait térdben felhúzva",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Nevezze meg az alábbi érzékszervek receptorait!\nHallószerv receptora: ...\nEgyensúlyozó szerv receptorai:...\nLátószerv receptorai:...\nSzaglószerv receptorai:...\nÍzlelőszerv receptorai:...",
+      "question_type": "fill_in",
+      "correct_answer": "Corti-szerv\nszőrsejtek a hártyás labirintusban\ncsapok, pálcikák\nszaglóhám-sejtek\nízlelőbimbók",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2017_marcius_22_I_EUMI_0322_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Sorolja fel a tbc megelőzésének lehetőségeit!",
+      "question_type": "open",
+      "correct_answer": "rendszeres tüdőszűrés\nhigiénés szabályok betartása\nvédőoltás\nfertőző források felkeresése, gondozásba vétele",
+      "options": []
+    }
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "file": "EU_2003_marcius_05_q001_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 2,
+      "question_text": "Fogalmazza meg röviden a daganat lényegét!\nKimutatható ok nélküli kóros szövetburjánzás.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q002_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 2,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\nMit nevezünk behatolási kapunak?\nAzt a helyet, amelyen a kórokozó a szervezetbe jut.\n\nMettől-meddig tart a lappangási szakasz?\nA kórok behatolásától a tünetek megjelenéséig.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul az emberi test fő részeit!\n| Emberi test | Latin megnevezés |\n|-------------|-------------------|\n| fej         |                   |\n| nyak        |                   |\n| törzs       |                   |\n| mellkas     |                   |\n| has         |                   |\n| medence     |                   |",
+      "question_type": "fill_in",
+      "correct_answer": "| Emberi test | Latin megnevezés |\n|-------------|-------------------|\n|             | caput             |\n|             | collum            |\n|             | truncus           |\n|             | thorax            |\n|             | abdomen           |\n|             | pelvis            |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q004_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 3,
+      "question_text": "Ismertesse a csontok folytonos összeköttetéseinek fajtáit!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Nevezze meg, milyen csigolyákból áll a gerincoszlop!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 3,
+      "question_text": "Ismertesse a Scheuermann féle betegséget az alábbiak\nszerint!\n\nA. Mely életkorban jelentkezik a betegség?\nSerdülőkorban.\n\nB. Mi az oka a betegségnek?\nIsmeretlen.\n\nC. Mi a lényege a betegségnek?\n- csigolyatestek elkeskenyednek,\n- elvesztik szilárdságukat\n\n*D. Mi a terápiája a betegségnek?\n- torna\n- úszás\n- fűző",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q007_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 1,
+      "question_text": "(Az \"A-B\" részre: 0,5 - 0,5 pont; a \"C-D\" részre: 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q008_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 3,
+      "question_text": "Válaszoljon az alábbi kérdésekre!\n- Hol helyezkedik el a háromhegyű vitorlás billentyű?\nA jobb pitvar és a jobb kamra között.\n- Mi a billentyűk feladata?\nA vér egyirányú áramlásának biztosítása.\n- Milyen izmokból áll a vérerek középső rétege?\nSimaizmokból.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q009_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Ismertesse a mandulák feladatát!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q010_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 3,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n- Hol termelődnek a lymphocyták?\n- a nyirokrendszerben\n- Hol történik a vörösvértestek képzése?\n- a vörös csontvelőben\n- Hol történik a vörösvértestek lebontása?\n- a lépben",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Ismertesse a szívizomelhalást /myocardialis infarctus/ az alábbiak szerint!\n\nLényege: szívizomzat ék alakú elhalása\n\nOka: thrombus miatt a coronária ág elzáródása\n\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Határozza meg a légzőrendszer feladatát!\nA szervezet gázcseréjének biztosítása, az oxigén felvétele és továbbítása, a CO2 leadása.",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Sorolja fel az orr melléküregeit magyarul!\n- arcüreg\n- homloküreg\n- ékcsonti üreg\n- rostacsont üregei",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q014_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 3,
+      "question_text": "Párosítsa a megadott betegségekhez tüneteiket!",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q015_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 4,
+      "question_text": "Nevezze meg a fog ábrán látható részeit!\n...zománc...\n...dentin...\n...pulpa üreg...\n...gyökércsatorna...",
+      "question_type": "fill_in",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.",
+      "points": 3,
+      "question_text": "Sorolja fel a vékonybél szakaszait magyarul és latinul!\npatkóbél - duodenum\néhbél - jejunum\ncsípőbél - ileum\n(Helyes válaszonként 0,5-0,5 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.",
+      "points": 3,
+      "question_text": "Párosítsa a felszívódás helyét a megfelelő tápanyaggal!\n(Írja a számot a megfelelő helyre!)",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q018_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.*",
+      "points": 4,
+      "question_text": "Soroljon fel a bélelzáródás tünetei közül négyet /4/!\n- görcsös hasi fájdalom\n- hányinger, hányás\n- bélsárhányás\n- székletürítés hiánya\n- “néma has”\n- beesett arc\n- nyelv száraz, lepedékes",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q019_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 3,
+      "question_text": "Ismertesse a tubulus részeit!\n- elsődleges kanyarulatos csatorna\n- Henle kacs\n- másodlagos kanyarulatos csatorna\n(Helyes válaszonként 1 - 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Határozza meg a húgyhólyag feladatát!\n- a vizelet gyűjtése\n- a vizelet tárolása",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q021_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 3,
+      "question_text": "Soroljon fel a húgyhólyaggyulladás (cystitis) tünetei közül hármat/3/!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q022_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 6,
+      "question_text": "Ismertesse a mellrákot (tumor mammae) az alábbiak\nszerint!\n\nLényege: a mell állományának rosszindulatú daganatos elfajulása\n\nTünetei: - tapintható csomó a mellben\n- narancshéj behúzódás\n- befordult bimbó\n- váladékozás\n\nMegelőzése: szűrővizsgálattal",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q023_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 4,
+      "question_text": "Sorolja fel a külső és a belső férfi nemi szerveket!\nKülső nemi szervek: - herezacskó\n- hímvessző\nBelső nemi szervek: - here\n- mellékhere\n- ondóvezeték\n- ondózsinór\n- ondóhólyag\n- dülmirigy",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q024_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 1,
+      "question_text": "Húzza alá az alábbiak közül a belsőfül részeit!\n- dobüreg\n- csontos labirintus\n- hallócsontok\n- hártyás labirintus\n- dobhártya",
+      "question_type": "multiple_choice",
+      "correct_answer": "csontos labirintus\nhártyás labirintus",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q025_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.",
+      "points": 4,
+      "question_text": "Nevezze meg az ábrán látható számokkal jelölt belső elválasztású mirigyeket magyarul!\n(Válaszát írja a számok mellé a pontozott vonalra!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q026_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 2,
+      "question_text": "Ismertesse a calcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q027_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának a hormonjait!",
+      "question_type": "open",
+      "correct_answer": "adrenalin\nnoradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q028_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.*",
+      "points": 6,
+      "question_text": "Ismertesse az acromegaliát a megadott szempontok\nszerint!\nOka: a növekedési hormon túltermelődése a fejlődés befejezése után\nTünetei: (Írjon négyet /4/!)\n- a csontok végi részének növekedése\n- arckifejezés eldurvulása\n- orr megnagyobbodása\n- lábujjak, kézujjak meghosszabbodása\n- szexuális aktivitás csökkenése\n- nőknél tejelválasztás\n- nagy nyelv\n- durva bőr megjelenése",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q029_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "\"Okra\"",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q030_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 2,
+      "question_text": "Sorolja fel a gerincvelő szerkezetét kívülről befelé\nhaladva!\n\nKívül: helyezkedik el az idegrostokból álló fehérállomány\nBelül: helyezkedik el az idegsejtekből álló szürkeállomány\n\n(Helyes válaszonként 1 – 1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q031_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q032_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.*",
+      "points": 6,
+      "question_text": "Ismertesse a hőgutát az alábbi szempontok szerint!\n- Mi a hőguta lényege?\n- a hőközpont funkciózavara\n- Soroljon fel három /3/ jellemző tünetet!\n- fejfájás\n- rossz közérzet\n- zavartság\n- forró, kipirult, száraz bőr\n- testhőmérséklet 40 °C fölött van\n- Írja le az elsősegélynyújtó feladatát! (Írjon kettőt /2/!)\n- gyors testhőmérséklet csökkentés vizes lepedő segítségével\n- folyadékpótlás\n- orvosi segítség",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q033_1pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 1,
+      "question_text": "Írja le, hogyan helyezné el az eszméletlen beteget!",
+      "question_type": "open",
+      "correct_answer": "stabil oldalfekvésben",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2003_marcius_05_q034_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.",
+      "points": 3,
+      "question_text": "Sorolja fel a bőr rétegeit magyarul!\n- külső hám\n- irha\n- bőr alatti kötőszövet",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  }
+]

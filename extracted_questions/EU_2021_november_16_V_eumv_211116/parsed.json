@@ -1,0 +1,283 @@
+[
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.*",
+      "points": 5,
+      "question_text": "Ismertesse a fertőző betegségek lefolyásával kapcsolatos fogalmak jelentését!\ninkubáció: ...\nprodroma: ...\nmanifesztáció: ...\nrekonvaleszcens szak: ...\nszanáció: ...",
+      "question_type": "fill_in",
+      "correct_answer": "lappangás, a fertőzés és a betegség kialakulása között eltelt idő...\nbevezető szakasz, az általános tünetek megjelenésének szakasza...\nkifejlődés szakasza , kialakulnak a konkrét betegségre jellemző tünetek...\na tünetek lezajlása után következő szakasz...\ngyógyulás, amely lehet részleges, vagy teljes...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.*",
+      "points": 5,
+      "question_text": "Soroljon fel a kötőszövet feladatai közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "- kitölti az egyes szervek közti tereket\n- összeköti a szerveket\n- védelmet nyújt a mechanikai ártalmakkal szemben\n- védelmet nyújt a kémiai ártalmak ellen\n- védelmet nyújt a fertőzések ellen\n- zsírt tárol",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 5,
+      "question_text": "Írjon le a sokízületi gyulladás lehetséges tünetei közül ötöt!",
+      "question_type": "open",
+      "correct_answer": "fájdalom a kéz és a láb kisízületeiben\naz ízfelszíni porcok pusztulása és elfajulása\naz ízületi mozgások beszűkülése\nhőemelkedés, láz\nfáradékonyság, rossz közérzet\nbőrkiütés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Párosítsa az ízületekben létrejövő mozgások magyar és latin elnevezését!\nÍrja a betűjelek mellé a helyes válasz sorszámát!\nA. hajlítás\nB. közelítés\nC. feszítés\nD. forgatás\nE. távolítás\n",
+      "question_type": "matching",
+      "correct_answer": "Α.-...4...., B.-...5...., C.-...2...., D.-...1...., Ε.-...3....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q005_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 3,
+      "question_text": "Soroljon fel a trombózis kialakulásában szerepet játszó tényezők közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lelassulása (vénás pangás, nagy hasi műtétek)\n- a vér összetételének megváltozása\n- az alvadási fehérjék kóros szintje, működése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes\nmegállapításokat!\n- A tüdőartéria eredése után két ágra oszlik.\n- Az artéria pulmonalis artériás vért szállít a tüdőbe.\n- A jobb szívfélben található a háromhegyű billentyű.\n- Élettanilag a vér alvadási ideje szobahőmérsékleten 5-7 perc.\n- A vér enyhén sós ízű, gyengén savas vegyhatású.\n- A vér vegyhatása élettanilag alig változik, a pH-érték 7,34-7,45 közötti\ntartományban mozog.\n- Perctérfogatnak nevezzük az egy kamrai összehúzódás alkalmával kilökött\nvérmennyiséget.\n- A szív jobb pitvarának falában található az elsődleges ingerképző központ.\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "Élettanilag a vér alvadási ideje szobahőmérsékleten 5-7 perc.\nA vér vegyhatása élettanilag alig változik, a pH-érték 7,34-7,45 közötti\ntartományban mozog.\nA szív jobb pitvarának falában található az elsődleges ingerképző központ.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q007_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.*",
+      "points": 6,
+      "question_text": "Ismertesse a gégegyulladást a megadott szempontok szerint!\nLényege:\n...\n\nJellemző tünetei:\n-\n-\n-\n\nGyógyításának, kezelésének lehetőségei: Írjon kettőt!\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "...a gége heveny, hurutos gyulladása, amely a hangszalagok gyulladásával jár\negyütt...\nehézlégzés\nrekedtség\nhangadási képtelenség\nbőséges folyadékfogyasztás\na levegő párásítása\na nyálkahártyát ingerlő hatások kerülése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q008_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 4,
+      "question_text": "Soroljon fel négyet az orrmelléküregek feladatai közül!",
+      "question_type": "open",
+      "correct_answer": "- a belégzett levegő előmelegítése\n- a belégzett levegő párásítása\n- a belélegzett levegő mechanikus tisztítása\n- hangok képzése\n- szagok érzékelése",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Írja le az emésztőrendszer alábbi képleteinek latin, vagy magyar\nmegfelelőjét! Egészítse ki a táblázatot!\n\n| Az emésztőrendszer képletei |\n|---------|---------|\n| magyarul | latinul |\n| garat |  |\n| éhbél |  |\n| nyelőcső |  |\n| felszálló vastagbél |  |\n| csípőbél |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Az emésztőrendszer képletei |\n|---------|---------|\n| magyarul | latinul |\n|  | pharynx |\n|  | jejunum |\n|  | oesophagus |\n|  | colon ascendens |\n|  | ileum |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q010_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 1,
+      "question_text": "A szív melyik része nem vesz részt a kisvérkörben?",
+      "question_type": "multiple_choice",
+      "correct_answer": "bal kamra",
+      "options": [
+        "jobb kamra",
+        "tüdőerek",
+        "tüdőkapillárisok",
+        "bal kamra"
+      ]
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q011_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 6,
+      "question_text": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!\n1. vas\n2. kalcium\n3. cink\n4. szelén\n5. magnézium\n6. nátrium\nmikroelemek: ...\nmakroelemek: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 3., 4....\n2., 5., 6....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q012_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 3,
+      "question_text": "Tegye helyes sorrendbe a vizeletürítés mechanizmusát! Írja le a sorszámokat a megfelelő sorrendben!\n1. a hólyagfal feszülése ingerként hat a hólyagfal afferens idegvégződéseire\n2. a hólyagizomzat állandó szimpatikus idegrendszeri impulzusok hatására\nernyedt állapotban, a hólyagzáróizom tónusos összehúzódásban van\n3. a hólyagizomzat összehúzódik, és egyidejűleg a húgycső-záróizomzat ellazul\n4. a vizelet kiürül a húgycsövön keresztül\n5. kiváltódik a vizelési inger",
+      "question_type": "fill_in",
+      "correct_answer": "2., 1., 5., 3., 4.",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q013_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 3,
+      "question_text": "Ismertesse az endometriózis lényegét, következményét!\nLényege: ...\nLehetséges következménye: ...",
+      "question_type": "fill_in",
+      "correct_answer": "A méhben jelenlévő nyálkahártya, az endometrium a méhen kívül\nmáshol is megjelenik a szervezetben....\nmeddőség...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q014_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.*",
+      "points": 6,
+      "question_text": "Egészítse ki a heveny veseelégtelenség lehetséges okait tartalmazó\ntáblázatot! Írjon két-két betegséget/állapotot!\n\n|  | A heveny veseelégtelenség lehetséges okai |\n|---|---|\n| A vese előtti okok |  |\n| Vese eredetű okok |  |\n| Vese utáni okok |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "|  | A heveny veseelégtelenség lehetséges okai |\n|---|---|\n| A vese előtti okok | - sokk\n- heveny szív eredetű keringési elégtelenség\n- kiszáradás |\n| Vese eredetű okok | - terhességi vesebaj\n- nem csoportazonos vér adása\n- glomerulonephritis acuta |\n| Vese utáni okok | - daganatos kompresszió\n- gyulladásos ödéma\n- vesekő |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMelyik két hormont termeli a petefészek?",
+      "question_type": "fill_in",
+      "correct_answer": "ösztrogén és progeszteron",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q016_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 3,
+      "question_text": "Ismertesse a hormonok tulajdonságait, jellemzőit! Írjon hármat!",
+      "question_type": "open",
+      "correct_answer": "- a belső elválasztású (endokrin) mirigyek termelik\n- speciális felépítésű kémiai anyagok\n- a vér útján jutnak el a rájuk specifikusan érzékeny sejtekhez\n- már alacsony koncentrációban is hatást fejtenek ki",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q017_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 6,
+      "question_text": "Soroljon fel a Basedow-kór tünetei közül hatot!",
+      "question_type": "open",
+      "correct_answer": "- megnagyobbodott pajzsmirigy\n- nagy, élénk, csillogó szemek, aggódó, rémült tekintet (exophthalmus)\n- szapora szívműködés\n- szívdobogásérzés\n- jó étvágy mellett súlycsökkenés\n- élénk bélmozgás, hasmenés\n- nyirkos tenyér és talp\n- állandó hőemelkedés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg latinul az agyvelő és a gerincvelő burkait!",
+      "question_type": "fill_in",
+      "correct_answer": "- dura mater\n- arachnoidea\n- pia mater",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbiak közül az érzékszervekre vonatkozó helyes\nmegállapításokat!\n- az ínhártya a szem külső burkának elülső egyötöd részét képezi\n- az ínhártya ereket és idegeket nem tartalmaz\n- az ideghártya elülső része a fényre érzéketlen\n- a dobhártya külső felszíne szorosan összenőtt a kalapáccsal\n- a hallócsontok a sziklacsontban helyezkednek el\n- a dobüreg nyálkahártyával bélelt, légtartalmú üreg\n- az ízlelőbimbók idegvégződései a keletkezett ingerületet a VII. és a IX.\nagyideg révén juttatják el a központi idegrendszerbe\n- az ízlelőbimbók idegvégződései a keletkezett ingerületet az V. és a X. agyideg\nrévén juttatják el a központi idegrendszerbe\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén pontszám nem adható!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "az ízlelőbimbók idegvégződései a keletkezett ingerületet a VII. és a IX.\nagyideg révén juttatják el a központi idegrendszerbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertesse az agytrombózis lényegét és hajlamosító tényezőit!\nLényege:\n...az ér elzáródása az érfalon képződött vérrög miatt...\nKialakulásának hajlamosító tényezői:",
+      "question_type": "open",
+      "correct_answer": "az ér elzáródása az érfalon képződött vérrög miatt...\nvéralvadási zavarok\narterioszklerózis\nidőskor",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Párosítsa a fogalmakhoz a hozzájuk tartozó leírást! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\nA. tálcafogás\nB. stabil oldalfektetés\nC. BLS\nD. félig ülő helyzet\nE. AED\n1. A sérült felsőtestét 40-60°-ban kell megemelni és megtámasztani.\n2. Gerincsérülés gyanúja esetén alkalmazzuk, amikor a sérültet el kell távolítani\na veszélyzónából.\n3. Felnőttek alapszintű újraélesztése.\n4. Külső automata defibrillátor.\n5. Célja a légutak szabaddá tételével és szabadon tartásával az eszméletlen\nsérültet megvédeni a fulladástól.",
+      "question_type": "matching",
+      "correct_answer": "Α.-...2...., Β.-...5...., С.-...3...., D.-...1...., E.-...4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q022_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 4,
+      "question_text": "Ismertesse az elsősegélynyújtó teendőit az egyik alkar (9%) I.-II. fokú égési\nsérülése esetén! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- a ruházat eltávolítása az égett felületről\n- az égett testrész hűtése hideg folyó vízzel (10-15 percig)\n- a sérült nyugalomba helyezése\n- az égett testfelszín steril gézzel való befedése, laza rögzítése\n- folyadékpótlás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_november_16_V_eumv_211116_q023_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 6,
+      "question_text": "Soroljon fel a nyelvgyulladás lehetséges okai közül hatot!",
+      "question_type": "open",
+      "correct_answer": "égési sérülés\nmechanikai sérülés\nirritáció\nvashiányos vérszegénység\nB-vitamin-hiány\nmérgezés\nfelmaródás",
+      "options": []
+    }
+  }
+]

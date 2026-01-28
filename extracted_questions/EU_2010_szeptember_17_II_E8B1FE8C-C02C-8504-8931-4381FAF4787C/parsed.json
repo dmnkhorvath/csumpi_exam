@@ -1,0 +1,422 @@
+[
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q001_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 3,
+      "question_text": "Párosítsa az alábbi latin kifejezéseket magyar\nmegfelelőjükkel! Írja a sorszám mellé a helyes betűjelet!\n1. superior\t\tA. központi\n2. periferialis\t\tB. lefelé\n3. posterior\t\tC. hasi irányú\n4. ventrális\t\tD. felfelé\n5. centralis\t\tE. környéki\n6. inferior\t\tF. hátul lévő",
+      "question_type": "matching",
+      "correct_answer": "1.: ... D... 2.: ... E... 3.: ... F ... 4.: ... C ... 5.: ... A... 6.: ... B ...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q002_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 3,
+      "question_text": "Húzza alá a gátorüregben (mediastinum) elhelyezkedő\nszerveket!\n- szív\n- tüdők\n- máj\n- aortaív ágai\n- hörgők\n- nyelőcső\n- fő nyirokér\n- bolygóideg (nervus vagus)\n- csecsemőmirigy\n- pajzsmirigy",
+      "question_type": "fill_in",
+      "correct_answer": "szív\nnyelőcső\nfő nyirokér\nbolygóideg (nervus vagus)\naortaív ágai\ncsecsemőmirigy",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q003_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.*",
+      "points": 3,
+      "question_text": "Sorolja fel a trombózis kialakulásában szerepet játszó\ntényezőket! Írjon hármat /3/!",
+      "question_type": "open",
+      "correct_answer": "- az érbelhártya sérülése\n- a keringés lassulása\n- a vér összetételének megváltozása\n- nyirokcsomó kompressziós hatása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.",
+      "points": 5,
+      "question_text": "Nevezze meg az agykoponya csontjait magyarul!",
+      "question_type": "open",
+      "correct_answer": "homlokcsont\nfalcsont\nékcsont\nhalántékcsont\nnyakszirtcsont",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q005_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.*",
+      "points": 2,
+      "question_text": "Ismertesse a csonthártya (periosteum) feladatát!\nÍrjon kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "biztosítja a csont vér- és idegellátását\nbiztosítja a csont vastagságbeli növekedését\nelősegíti a törés utáni gyógyulást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q006_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.",
+      "points": 3,
+      "question_text": "Húzza alá az anyagcserezavar miatt kialakuló\nmozgásszervi betegségeket!\n- ferdenyak\n- köszvény\n- nyitott gerinc\n- angolkór\n- csontvelőgyulladás\n- csontritkulás\n(Helyes válaszonként 1-1 pont adható! Több válasz aláhúzása esetén a megoldás érvénytelen!)",
+      "question_type": "multiple_choice",
+      "correct_answer": "köszvény\nangolkór\ncsontritkulás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Határozza meg a vércsoportot az alábbi táblázat szerint!\n| Vörösvértestben található agglutinogén | A szérumban található agglutinin |\n|---|---|\n| - | anti-A, anti-B |\n| A, B | - |\n| A | anti-B |\n| B | anti-A |",
+      "question_type": "fill_in",
+      "correct_answer": "| Vörösvértestben található agglutinogén | A szérumban található agglutinin | Vércsoport neve|\n|---|---|---|\n| - | anti-A, anti-B | 0 |\n| A, B | - | AB |\n| A | anti-B | A |\n| B | anti-A | B |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q008_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.",
+      "points": 2,
+      "question_text": "Ismertesse az orr-garat mandula feladatát!",
+      "question_type": "open",
+      "correct_answer": "- helyi védekezés\n- immunvédekezés a lymphocita-termelés révén",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q009_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.",
+      "points": 5,
+      "question_text": "Ismertesse a szívizomelhalást (infarctus myocardii)\na megadott szempontok szerint!\nA. Lényege és oka:\nB. A fájdalom helye:\nC. A fájdalom jellege:\nD. A fájdalom kisugárzása:",
+      "question_type": "open",
+      "correct_answer": "coronariaág (végartéria) elzáródása\nthrombus miatt\na szegycsont mögött\nszorító, markoló érzés\n- nyak bal oldala\n- bal váll, bal kar\n- lapockák közé\n- gyomorgödörbe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q010_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "",
+      "points": 2,
+      "question_text": "(Helyes válasz esetén az „A\" részre: 2 pont; a „B\" és „C\" részre: 0,5-0,5 pont; a „D\" részre: 2 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q011_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 2,
+      "question_text": "Sorolja fel a gége porcait!",
+      "question_type": "open",
+      "correct_answer": "pajzsporc\ngyűrűporc\nkannaporc\ngégefedő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q012_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 2,
+      "question_text": "Ismertesse a légzés élettani szabályozásának módjait!",
+      "question_type": "open",
+      "correct_answer": "- idegi szabályozás\n- kémiai szabályozás\n- reflexes szabályozás\n- központi idegrendszeri szabályozás",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségeket tüneteikkel!\nÍrja a betegségek mellé a pontozott vonalra a tünetek számait!\n\n1. hosszan elnyúló, sípoló kilégzés\n2. véres köpet\n\nTüdőasztma: ...\nTuberkulózis: ...\n\n3. levertség, fáradékonyság\n4. üvegszerű, tapadós köpet\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "matching",
+      "correct_answer": "1, 4...\n2, 3...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q014_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 2,
+      "question_text": "Húzza alá a felsorolásból az emésztőrendszer középső szakaszának részeit!\nvégbél\ncsípőbél\nszájüreg\ngyomor\npatkóbél\nvastagbél\nnyelőcső\néhbél\ngarat",
+      "question_type": "multiple_choice",
+      "correct_answer": "csípőbél\ngyomor\npatkóbél\néhbél",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q015_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.",
+      "points": 2,
+      "question_text": "Párosítsa az alábbi tápanyagokat és az őket bontó\nenzimeket! Írja a sorszám mellé a megfelelő betűjelet!\n1. fehérjék\n2. szénhidrátok\n3. zsírok\n4. kötőszöveti rostok",
+      "question_type": "matching",
+      "correct_answer": "",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 2,
+      "question_text": "Soroljon fel négyet /4/ a mechanikus ileus (bélelzáródás) kiváltó okai közül!",
+      "question_type": "fill_in",
+      "correct_answer": "- gyulladás\n- összenövés\n- daganat\n- idegen test\n- kizáródott sérv\n- bélcsavarodás\n- bélbetüremkedés\n- epekő",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 3,
+      "question_text": "Nevezzen meg három /3/ kiválasztást végző szervet!",
+      "question_type": "open",
+      "correct_answer": "tüdő\nvesék\nbőr\nbelek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q018_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Határozza meg az alábbi fogalmak lényegét!\nNephron:...\nElsődleges vizelet: ...\nHomeosztázis: ...",
+      "question_type": "fill_in",
+      "correct_answer": "a vese működési egysége...\na vérplazma finom szűrlete...\na szervezet belső egyensúlya...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q019_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.*",
+      "points": 5,
+      "question_text": "Soroljon fel a veseeredetű (renalis) akut urémia okai\nközül ötöt /5/!",
+      "question_type": "open",
+      "correct_answer": "- terhességi vesebaj (toxaemia)\n- glomerulonephritis acuta\n- nehézfémsók\n- gombamérgezés\n- vércsoport összeférhetetlenség\n- görcsös állapot (lázas eclampsia)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q020_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.",
+      "points": 2,
+      "question_text": "Ismertesse a méh (uterus) részeit, elhelyezkedését!\nRészei: -\n-\n-\nElhelyezkedése:\n-",
+      "question_type": "open",
+      "correct_answer": "méhfenék\nméhtest\nméhnyak\na kismedence közepén a hólyag és a végbél között található",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHová nyílik a Bartholin-mirigy kivezető csöve?\nMely szerv biztosítja a petesejt továbbítását a méh felé?\nMi borítja a méh falának belső rétegét?\nHol termelődik a progeszteron?\nHogy nevezzük a méh izomzatának jóindulatú daganatát?",
+      "question_type": "open",
+      "correct_answer": "a hüvelybe\na petevezeték\nméhnyálkahártya\na petefészekben\nmióma",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q022_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.*",
+      "points": 2,
+      "question_text": "Határozza meg a herevízsérv (hydrocele testis) fogalmát, tüneteit, kezelését!\n\nFogalma:\n\nTünetei: Írjon kettőt /2/!\n- \n- \n- \n\nKezelése:\n-",
+      "question_type": "open",
+      "correct_answer": "a herezacskóban folyadék halmozódik fel\n\n- megnövekszik a herezacskó\n- nyomásérzékenység\n- esetenként fájdalom\n\n- sebészi (folyadék leszívása)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q023_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.",
+      "points": 2,
+      "question_text": "Sorolja fel a mellékvese velőállományának hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- adrenalin\n- noradrenalin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q024_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.",
+      "points": 2,
+      "question_text": "Ismertesse a calcitonin hatását!",
+      "question_type": "open",
+      "correct_answer": "- gátolja a Ca csontokból való felszabadulását\n- megakadályozza a vérben a magas Ca-szint kialakulását",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q025_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "24.*",
+      "points": 3,
+      "question_text": "Ismertesse a tetánia kialakulásának okait, tüneteit, kezelését!\nOka:\n- a vérszérum Ca-szintjének csökkenése\n- a mellékpajzsmirigy csökkent működése\nTünetei: Írjon hármat /3/!\n- kéz- és lábujjak zsibbadása\n- őzfej kéztartás\n- „ördögi vigyor\" - mimikai izmok görcse\n- szapora szívműködés\n- gégeizmok görcse\nKezelése:\nCa-injekció adása intravénásan",
+      "question_type": "open",
+      "correct_answer": "a vérszérum Ca-szintjének csökkenése\na mellékpajzsmirigy csökkent működése\nkéz- és lábujjak zsibbadása\nőzfej kéztartás\n„ördögi vigyor\" - mimikai izmok görcse\nszapora szívműködés\ngégeizmok görcse\nCa-injekció adása intravénásan",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q026_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "25.",
+      "points": 4,
+      "question_text": "Írja le az alábbi orvosi kifejezések magyar megfelelőjét!\n- paralízis: \n- afázia: \n- tremor: \n- hipokinézis:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "izomerő kiesése, bénulás\nbeszédzavar\nremegés, akarattól független mozgás\nkórosan csökkent mozgástevékenység",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q027_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "26.*",
+      "points": 3,
+      "question_text": "Jellemezze röviden a neuroglia szövetet az alábbi\nszempontok szerint!\n\nFogalma:\nFeladata:\nJellemzője:\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "az idegrendszer támasztószövete\ngátat képez a véráram és az idegszövet határán\na vérből bizonyos létfontosságú anyagokat - oxigént, vizet, cukrot - enged át",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q028_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "27.",
+      "points": 2,
+      "question_text": "Húzza alá a koponyaűri nyomásfokozódás tüneteit!",
+      "question_type": "multiple_choice",
+      "correct_answer": "csillapíthatatlan fejfájás\nsugárhányás\nlátási zavarok\nszédülés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q029_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "28.",
+      "points": 3,
+      "question_text": "Sorolja fel a külsőfül és a középfül részeit!\nKülső fül:\n-\n-\n-\nKözépfül:\n-\n-\n-",
+      "question_type": "fill_in",
+      "correct_answer": "fülkagyló\nkülső hallójárat\ndobhártya\ndobüreg\nhallócsontok\nfülkürt",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q030_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "29.",
+      "points": 5,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nHol van az éleslátás helye az ideghártyán?\nMit érzékelnek az ideghártya csapok nevű receptorai?\nMit érzékelnek az ideghártya pálcikák nevű receptorai?\nMely területen nem találhatók sem csapok, sem pálcikák az ideghártyán?\nHol található a pupilla?",
+      "question_type": "fill_in",
+      "correct_answer": "...a sárgafolton...\n...a színeket...\n...a fényt...\n...a vakfolton...\n...a szivárványhártya közepén...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q031_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "30.",
+      "points": 2,
+      "question_text": "Nevezze meg tünetei alapján az érzékszervek betegségeit! \nVálaszát írja a pontozott vonalra!\n- a szem belső nyomása kórosan emelkedett\n- látásélesség romlása\n- látótérkiesés\n- fejfájás\n- forgó jellegű szédülés\n- hányinger, hányás\n- spontán nystagmus\n- nagyfokú halláscsökkenés",
+      "question_type": "fill_in",
+      "correct_answer": "...zöldhályog / glaucoma......belső fül gyulladása\n(vagy Meniére-betegség)...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q032_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "31.",
+      "points": 3,
+      "question_text": "Határozza meg elsősegélynyújtáskor a sérült fektetési módját az alábbi állapotokban!\nEszméletlenség: ...\nKlinikai halál (újraélesztéskor): ...\nHasi sérülés: ...",
+      "question_type": "fill_in",
+      "correct_answer": "stabil oldalfektetés...\nkemény alapon hanyatt fektetve...\nhanyatt fektetve, lábakat térdben felhúzva...",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q033_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "32.",
+      "points": 2,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\n\nHogy nevezzük a szív középső rétegét?\n\nMelyik szívüregbe ömlik a szív saját gyűjtőere (sinus coronarius)?",
+      "question_type": "open",
+      "correct_answer": "szívizom\njobb pitvar",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q034_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "33.*",
+      "points": 3,
+      "question_text": "Soroljon fel hat /6/ tünetet, melynek alapján a sérültnél belső vérzésre gondol!",
+      "question_type": "open",
+      "correct_answer": "- hűvös, nyirkos bőr\n- sápadt, hamuszürke arcszín\n- szapora pulzus\n- fájdalom\n- szomjúságérzés\n- zavartság, nyugtalanság\n- vérzés valamely testnyílásból",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2010_szeptember_17_II_E8B1FE8C-C02C-8504-8931-4381FAF4787C_q035_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "34.*",
+      "points": 2,
+      "question_text": "Írjon le a végtagtörés szövődményei közül kettőt /2/!",
+      "question_type": "open",
+      "correct_answer": "erek sérülése\nidegek sérülése\nvérömleny\nfertőzés\nsokk",
+      "options": []
+    }
+  }
+]

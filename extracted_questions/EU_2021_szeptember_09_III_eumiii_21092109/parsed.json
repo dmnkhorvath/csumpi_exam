@@ -1,0 +1,278 @@
+[
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q001_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "1.",
+      "points": 5,
+      "question_text": "Írja le az anatómiai, kórtani kifejezések latin, vagy magyar megfelelőjét!\nEgészítse ki a táblázatot!\n\n| Anatómiai, kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n| sejt |  |\n|  | nucleus |\n| betegség |  |\n|  | febris |\n| gyulladás |  |\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "| Anatómiai, kórtani kifejezések |  |\n|---------|---------|\n| magyarul | latinul |\n|  | cellula |\n| sejtmag |  |\n|  | morbus |\n| láz |  |\n|  | inflammatio |",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q002_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "2.",
+      "points": 5,
+      "question_text": "Sorolja fel a járványfolyamat mozgatóerőit!",
+      "question_type": "open",
+      "correct_answer": "a fertőzés forrásai\na fertőzés terjedési módjai\nfogékonyság, immunitás\ntermészeti tényezők\ntársadalmi tényezők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q003_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "3.",
+      "points": 5,
+      "question_text": "Nevezze meg magyarul az alkar és a kéz csontjait!\nAz alkar csontjai:\n\nA kéz csontjai:",
+      "question_type": "fill_in",
+      "correct_answer": "orsócsont\nsingcsont\nkéztőcsontok\nkézközépcsontok\nujjperccsontok",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q004_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "4.*",
+      "points": 5,
+      "question_text": "Ismertesse a ferde nyakat a megadott szempontok szerint!\nLényege:\n...\nKialakulásnak lehetséges okai: Írjon kettőt!\n\n\n\nGyógyításának/kezelésének lehelőségei: Írjon kettőt!\n\n\n\n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "az egyik oldali fejbiccentő izom zsugorodása...\nfejlődési rendellenesség\nizomsérülés\nnyaki gerincferdülés\nmozgásterápia\nfizikoterápia\nsúlyos esetben műtét",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q005_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "5.",
+      "points": 5,
+      "question_text": "Csoportosítsa a szív üregeihez jellemzőiket! Írja a helyes válasz sorszámát\na megfelelő helyre!\n1. ide ömlik a vena pulmonalis\n2. fala kb. 2 mm vastag\n3. vénás vér található benne\n4. artériás vér található benne\n5. fala kb. 5 mm vastag\nbal pitvar jellemzői: ...\njobb kamra jellemzői: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "1., 2., 4....\n3., 5....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q006_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "6.*",
+      "points": 4,
+      "question_text": "Nevezze meg az angina pectoris fájdalmának és kisugárzásának jellemző\nhelyeit!\n\nA fájdalom jelentkezésének helye:\n...\n\nA fájdalom kisugárzásának helyei: Írjon hármat!\n-\n-\n-\n-\n-",
+      "question_type": "open",
+      "correct_answer": "a szegycsont mögött...\nbal kar\ngyomorgödör\na nyak alsó része\na hát közepe",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q007_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "7.",
+      "points": 4,
+      "question_text": "Húzza alá az alábbi felsorolásból azokat az anatómiai képleteket, amelyek\nnem a gátorüregben (mediastinum) helyezkednek el!",
+      "question_type": "multiple_choice",
+      "correct_answer": "pajzsmirigy\ntüdők\nmáj\nhörgők",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q008_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "8.*",
+      "points": 5,
+      "question_text": "Sorolja fel a légmell kialakulásának lehetséges okait és tüneteit!\nOkai: Írjon kettőt!\n- \n- \n- \nTünetei: Írjon hármat!\n- \n- \n- \n- \n(Helyes válaszonként 1-1 pont adható!)",
+      "question_type": "open",
+      "correct_answer": "spontán, betegséghez kapcsolódóan (pl. emphysema, tbc)\nsérülés\norvosi beavatkozás\nszúró mellkasi fájdalom\nlégzészavar/légzési elégtelenség\nlégszomj\nerőteljes, száraz köhögés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q009_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "9.*",
+      "points": 4,
+      "question_text": "Ismertesse a nyál szerepét! Írjon négyet!",
+      "question_type": "open",
+      "correct_answer": "- szájnyálkahártya nedvesítése\n- szájüreg öntisztulásának biztosítása\n- a falat kialakításának segítése\n- a nyelés megkönnyítése\n- baktériumok elszaporodásának megakadályozása (baktericid hatás)",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q010_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "10.",
+      "points": 4,
+      "question_text": "Párosítsa a betegségekhez jellemző tüneteiket! Írja a sorszámok mellé a\nhelyes válasz betűjelét!\n\n1. aranyérbetegség\n2. epehólyag-gyulladás\n3. gyomordaganat\n4. gyomorfekély\n\nA. jobb bordaív alatti heveny fájdalom\nB. éles, görcsös gyomortáji fájdalom\nC. friss, vércsíkos széklet\nD. fogyás, húsundor, vérszegénység",
+      "question_type": "matching",
+      "correct_answer": "1.-...C...., 2.-Α...., 3.-...D...., 4.-...B....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q011_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "11.",
+      "points": 4,
+      "question_text": "Válaszoljon röviden az alábbi kérdésekre!\nMennyi az elsődleges vizelet fajsúlya?",
+      "question_type": "fill_in",
+      "correct_answer": "1010 g/l",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q012_6pt.png",
+    "success": true,
+    "data": {
+      "question_number": "12.*",
+      "points": 6,
+      "question_text": "Soroljon fel az idült veseelégtelenség (uraemia chronica) lehetséges tünetei\nközül hatot!",
+      "question_type": "open",
+      "correct_answer": "emésztőszervi tünetek (étvágytalanság, émelygés, hányás, hasmenés, vagy\nszékrekedés)\n- fémes szájíz\n- száraz, vastagon lepedékes nyelv\n- vizeletszagú lehelet\n- magas vérnyomás\n- súlyos vérszegénység, bőr-, és nyálkahártya vérzések\n- bőrviszketés, sárgás, szürkés bőrszín, száraz bőr\n- vizenyő\n- Kussmaul-típusú légzés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q013_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "13.",
+      "points": 4,
+      "question_text": "Húzza alá a terhesség valószínűségi jeleit!\n- émelygés\n- hányinger, hányás\n- pozitív terhességi teszt\n- egyes szagoktól undorodás\n- menstruáció elmaradása\n- livid (szederjes) hüvely\n- kedélyállapot-változás\n- bővebb hüvelyváladék\n- fokozott nyálelválasztás",
+      "question_type": "multiple_choice",
+      "correct_answer": "pozitív terhességi teszt\nmenstruáció elmaradása\nlivid (szederjes) hüvely\nbővebb hüvelyváladék",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q014_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "14.*",
+      "points": 4,
+      "question_text": "Soroljon fel a hererák betegség lehetséges tünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "a here tapintatának megváltozása\n- csomók megjelenése a herében\n- tompa fájdalom az alhasban, vagy az ágyékban\n- folyadékgyülem a herében\n- here megnagyobbodása",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q015_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "15.*",
+      "points": 5,
+      "question_text": "Ismertesse az antidiuretikus hormon (ADH) hatásait! Írjon ötöt!",
+      "question_type": "open",
+      "correct_answer": "- fokozza a vízvisszaszívást a vese gyűjtőcsatornáiban\n- kevesebb víz választódik ki a vizelettel\n- növeli a vizelet fajsúlyát\n- megakadályozza a vér besűrűsödését\n- erős érösszehúzó hatású\n- emeli a vérnyomást",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q016_2pt.png",
+    "success": true,
+    "data": {
+      "question_number": "16.*",
+      "points": 2,
+      "question_text": "Írja le a bronzkór (Addison-kór) lényegét!",
+      "question_type": "open",
+      "correct_answer": "A mellékvesekéreg glükokortikoid és mineralokortikoid hormonjainak csökkent termelődése következtében kialakuló betegség....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q017_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "17.",
+      "points": 3,
+      "question_text": "Nevezze meg a hasnyálmirigy hormonjait!",
+      "question_type": "open",
+      "correct_answer": "- glükagon\n- inzulin\n- szomatosztatin",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q018_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "18.",
+      "points": 5,
+      "question_text": "Csoportosítsa a vegetatív idegrendszer funkcióit! Írja a sorszámokat a\nmegfelelő helyre!\n1. fokozza tápcsatorna működését\n2. a készenléti funkciót biztosítja\n3. biztosítja a szervezet fokozott teljesítményét\n4. elősegíti a kimerült szövetek anyagveszteségének pótlását\n5. veszély esetén elindítja a támadási, vagy védekezési mechanizmusokat\nA szimpatikus idegrendszer funkciói: ...\nA paraszimpatikus idegrendszer funkciói: ...\n(Helyes válaszonként 1-1 pont adható! Egyéb megoldások esetén pontszám nem adható!)",
+      "question_type": "fill_in",
+      "correct_answer": "2., 3., 5.....\n1., 4....",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q019_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "19.*",
+      "points": 4,
+      "question_text": "Ismertessen az arcidegzsába fájdalmának jellegzetességei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- a fájdalom féloldalon jelentkezik\n- a fájdalmas oldalon az arc görcsösen összehúzódik\n- a fájdalom pár másodpercig tart, naponta többször ismétlődhet\n- a rohamok napokig, hetekig tartó periódusokban lépnek fel\n- fokozatosan rövidülő, változó hosszúságú fájdalommentes időszakok lehetnek",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q020_4pt.png",
+    "success": true,
+    "data": {
+      "question_number": "20.*",
+      "points": 4,
+      "question_text": "Soroljon fel a foglalkozási betegségként jelentkező zajártalom lehetséges\ntünetei közül négyet!",
+      "question_type": "open",
+      "correct_answer": "- ingerlékenység\n- türelmetlenség\n- fokozott fáradtságérzés\n- fülcsengés/fülzúgás\n- halláscsökkenés",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q021_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "21.",
+      "points": 5,
+      "question_text": "Párosítsa a szem alkotórészeihez a feladatukat! Írja a betűjelek mellé a\nhelyes válasz sorszámát!\n\nA. kötőhártya\nB. sárgafolt\nC. szemlencse\nD. érhártya\nE. sugártest\n\n1. a szem fénytörő közege\n2. a szem védőkészüléke\n3. az éleslátás helye\n4. az ideghártyát táplálja\n5. csarnokvíz termelése",
+      "question_type": "matching",
+      "correct_answer": "2, 3, 1, 4, 5",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q022_3pt.png",
+    "success": true,
+    "data": {
+      "question_number": "22.*",
+      "points": 3,
+      "question_text": "Soroljon fel a hypothermia kialakulásának lehetséges okai közül hármat!",
+      "question_type": "open",
+      "correct_answer": "- hosszú ideig nagyon hideg környezetben történő tartózkodás\n- baleset\n- hideg, jeges vízbe merülés\n- tartós alacsony szobahőmérséklet",
+      "options": []
+    }
+  },
+  {
+    "file": "EU_2021_szeptember_09_III_eumiii_21092109_q023_5pt.png",
+    "success": true,
+    "data": {
+      "question_number": "23.*",
+      "points": 5,
+      "question_text": "Ismertessen a rándulás tünetei/jellemzői közül ötöt!\n- fájdalom\n- duzzanat\n- lilás elszíneződés\n- az ízületi működés csökken\n- az ízület mozgása korlátozott\n- az ízület körüli hajszálerek megrepedése miatt vérzés jelentkezhet\n- az erőbehatás megszűnése után az ízületi fej visszatér az ízületi árokba",
+      "question_type": "open",
+      "correct_answer": "fájdalom\nduzzanat\nlilás elszíneződés\naz ízületi működés csökken\naz ízület mozgása korlátozott\naz ízület körüli hajszálerek megrepedése miatt vérzés jelentkezhet\naz erőbehatás megszűnése után az ízületi fej visszatér az ízületi árokba",
+      "options": []
+    }
+  }
+]

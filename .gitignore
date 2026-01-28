@@ -1,5 +1,8 @@
 # JSON files in root
 /*.json
+!categorized_questions.json
+!package.json
+!package-lock.json
 
 # Manifest files in subfolders
 **/manifest.json

@@ -26,11 +26,12 @@ Get your API key at: https://aistudio.google.com/apikey
 | `categorize_questions.py` | Categorize questions into medical topics |
 | `find_similar_questions.py` | Find and group similar questions |
 | `split_by_category.py` | Split questions into separate JSON files by category |
+| `dedupe_by_longest.py` | Keep only the longest question per similarity group |
 
 ## Workflow
 
 ```
-PDF Files → extract → Images → parse → JSON → categorize → find similarities → split by category
+PDF Files → extract → Images → parse → JSON → categorize → find similarities → split by category → dedupe
 ```
 
 ---
@@ -231,6 +232,31 @@ Split the main questions file into separate JSON files for each category, with q
 
 ---
 
+## 7. Deduplicate by Longest Question
+
+Remove duplicate questions from similarity groups, keeping only the question with the longest `question_text` (by character count).
+
+```bash
+./scripts/dedupe_by_longest.py
+```
+
+**Input:** Category JSON files in `public/categories/`
+
+**Output:** Updates each category file in place, reducing each similarity group to a single question.
+
+**Example output:**
+```
+Processing 11 category files...
+
+a_mozgas_szerv_rendszere: 886 -> 334 (removed 552)
+keringes: 1053 -> 410 (removed 643)
+...
+
+Total: 8595 -> 3311 (removed 5284)
+```
+
+---
+
 ## Complete Pipeline Example
 
 ```bash
@@ -257,6 +283,9 @@ uv run scripts/find_similar_questions.py
 
 # 8. Split into category files for web app
 ./scripts/split_by_category.py
+
+# 9. Deduplicate (keep longest question per group)
+./scripts/dedupe_by_longest.py
 ```
 
 ---

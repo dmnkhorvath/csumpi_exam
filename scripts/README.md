@@ -189,7 +189,7 @@ See [SIMILARITY_GUIDE.md](SIMILARITY_GUIDE.md) for detailed documentation.
 
 ## 6. Split by Category
 
-Split the main questions file into separate JSON files for each category.
+Split the main questions file into separate JSON files for each category, with questions grouped by similarity.
 
 ```bash
 ./scripts/split_by_category.py
@@ -217,12 +217,17 @@ Split the main questions file into separate JSON files for each category.
 ```json
 {
   "category_name": "Keringés",
-  "items": [
-    { ... },
-    { ... }
+  "groups": [
+    [{ ... }, { ... }],  // similar questions grouped together
+    [{ ... }],           // unique question (null similarity_group_id)
+    [{ ... }, { ... }, { ... }]  // another group of similar questions
   ]
 }
 ```
+
+**Grouping Logic:**
+- Questions with the same `similarity_group_id` are grouped together
+- Questions with `null` similarity_group_id are placed in their own individual group
 
 ---
 

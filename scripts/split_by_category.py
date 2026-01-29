@@ -29,6 +29,29 @@ def sanitize_filename(name: str) -> str:
     name = re.sub(r'\s+', '_', name)
     return name.lower()
 
+def group_by_similarity(items: list) -> list[list]:
+    """
+    Group questions by similarity_group_id.
+    Questions with null/None similarity_group_id are placed in their own individual groups.
+    """
+    groups: dict[str, list] = {}
+    null_counter = 0
+
+    for item in items:
+        group_id = item.get('similarity_group_id')
+
+        if group_id is None:
+            # Each null question gets its own unique group
+            groups[f'__null_{null_counter}'] = [item]
+            null_counter += 1
+        else:
+            if group_id not in groups:
+                groups[group_id] = []
+            groups[group_id].append(item)
+
+    return list(groups.values())
+
+
 def main():
     root_dir = Path(__file__).parent.parent
     input_file = root_dir / 'public' / 'categorized_questions_with_similarity.json'
@@ -65,15 +88,18 @@ def main():
         filename = f"{sanitize_filename(category)}.json"
         output_path = output_dir / filename
 
+        # Group questions by similarity
+        grouped_items = group_by_similarity(items)
+
         output_data = {
             "category_name": category,
-            "items": items
+            "groups": grouped_items
         }
 
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-        print(f"  {category}: {len(items)} questions -> {filename}")
+        print(f"  {category}: {len(items)} questions in {len(grouped_items)} groups -> {filename}")
 
     if skipped:
         print(f"\nSkipped {len(skipped)} items without category:")

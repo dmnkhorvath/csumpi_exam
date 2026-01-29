@@ -3,23 +3,38 @@ import { useParams, Link } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import remarkBreaks from 'remark-breaks'
+import { Categories } from '../helpers/categories'
 
 function CategoryPage() {
   const { categoryName } = useParams()
-  const [questions, setQuestions] = useState([])
+  const [groups, setGroups] = useState([])
   const [loading, setLoading] = useState(true)
+  const [revealedAnswers, setRevealedAnswers] = useState({})
+
+  const category = Object.values(Categories).find(
+    cat => cat.file.replace('.json', '') === categoryName
+  )
 
   useEffect(() => {
-    fetch('/categorized_questions.json')
+    if (!category) {
+      setLoading(false)
+      return
+    }
+
+    fetch(`/categories/${category.file}`)
       .then(res => res.json())
       .then(data => {
-        const filtered = data.filter(
-          item => item.categorization?.category === decodeURIComponent(categoryName)
-        )
-        setQuestions(filtered)
+        const sorted = (data.groups || []).sort((a, b) => b.length - a.length)
+        setGroups(sorted)
+        setRevealedAnswers({})
         setLoading(false)
       })
-  }, [categoryName])
+      .catch(() => setLoading(false))
+  }, [category])
+
+  const toggleAnswer = (index) => {
+    setRevealedAnswers(prev => ({ ...prev, [index]: !prev[index] }))
+  }
 
   const renderMarkdown = (text) => {
     if (!text) return null
@@ -51,6 +66,15 @@ function CategoryPage() {
     )
   }
 
+  if (!category) {
+    return (
+      <div className="container mx-auto p-4">
+        <Link to="/" className="btn btn-ghost btn-sm">← Back to Categories</Link>
+        <p className="mt-4">Category not found.</p>
+      </div>
+    )
+  }
+
   return (
     <div className="container mx-auto p-4">
       <div className="mb-6">
@@ -59,47 +83,54 @@ function CategoryPage() {
         </Link>
       </div>
 
-      <h1 className="text-2xl font-bold mb-6">{decodeURIComponent(categoryName)}</h1>
-      <p className="mb-4 text-base-content/70">{questions.length} questions</p>
+      <h1 className="text-2xl font-bold mb-6">{category.name}</h1>
 
-      <div className="space-y-2">
-        {questions.map((item, index) => (
-          <div key={item.file} className="collapse collapse-arrow bg-base-100">
-            <input type="checkbox" />
-            <div className="collapse-title font-medium">
-              <span className="badge badge-neutral mr-2">{item.data?.points || '?'} pts</span>
-              <span className="badge badge-outline mr-2">{item.data?.question_type || 'unknown'}</span>
-              Question {index + 1}
-              <span className="text-xs text-base-content/50 font-mono ml-2">{item.file}</span>
-            </div>
-            <div className="collapse-content">
-              <div className="mb-4">
-                <h3 className="font-semibold mb-2">Question:</h3>
-                <div className="prose prose-sm max-w-none">
+      <div className="space-y-4">
+        {groups.map((group, groupIndex) => {
+          const item = group[0]
+          const repetitions = group.length
+          const isRevealed = revealedAnswers[groupIndex]
+
+          return (
+            <div key={groupIndex} className="card bg-base-100 shadow-sm">
+              <div className="card-body">
+
+                <div className="text-center prose prose-sm max-w-none w-full">
                   {renderMarkdown(item.data?.question_text)}
                 </div>
-              </div>
 
-              {item.data?.options && item.data.options.length > 0 && (
-                <div className="mb-4">
-                  <h3 className="font-semibold mb-2">Options:</h3>
-                  <ul className="list-disc list-inside space-y-1">
+                {item.data?.options && item.data.options.length > 0 && (
+                  <ul className="list-disc list-inside space-y-1 mt-2">
                     {item.data.options.map((opt, i) => (
                       <li key={i}>{opt}</li>
                     ))}
                   </ul>
-                </div>
-              )}
+                )}
 
-              <div className="mt-4 p-4 bg-success/10 rounded-lg">
-                <h3 className="font-semibold mb-2 text-success">Answer:</h3>
-                <div className="prose prose-sm max-w-none">
-                  {renderMarkdown(item.data?.correct_answer)}
-                </div>
+                {isRevealed ? (
+                  <div className="mt-4 p-4 bg-success/10 rounded-lg">
+                    <h3 className="font-semibold mb-2 text-success">Answer:</h3>
+                    <div className="prose prose-sm max-w-none">
+                      {renderMarkdown(item.data?.correct_answer)}
+                    </div>
+                  </div>
+                ) : (
+                  <div className="card-actions justify-center mt-4">
+                    <button className="btn btn-primary" onClick={() => toggleAnswer(groupIndex)}>
+                      Answer
+                    </button>
+                  </div>
+                )}
+
+                {repetitions > 1 && (
+                  <div className="flex justify-end mt-2">
+                    <span className="badge badge-warning">×{repetitions}</span>
+                  </div>
+                )}
               </div>
             </div>
-          </div>
-        ))}
+          )
+        })}
       </div>
     </div>
   )

@@ -87,11 +87,12 @@ function CategoryPage() {
 
       <div className="space-y-4">
         {groups.map((group, groupIndex) => {
-          const item = group.reduce((longest, current) =>
-            (current.data?.question_text?.length || 0) > (longest.data?.question_text?.length || 0)
-              ? current
-              : longest
-          , group[0])
+          // Sort by question_text length descending
+          const sorted = [...group].sort((a, b) =>
+            (b.data?.question_text?.length || 0) - (a.data?.question_text?.length || 0)
+          )
+          // Pick longest with non-empty answer, or fall back to longest overall
+          const item = sorted.find(q => q.data?.correct_answer?.trim()) || sorted[0]
           const repetitions = group.length
           const isRevealed = revealedAnswers[groupIndex]
 

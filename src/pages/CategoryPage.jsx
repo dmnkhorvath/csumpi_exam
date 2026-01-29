@@ -87,7 +87,11 @@ function CategoryPage() {
 
       <div className="space-y-4">
         {groups.map((group, groupIndex) => {
-          const item = group[0]
+          const item = group.reduce((longest, current) =>
+            (current.data?.question_text?.length || 0) > (longest.data?.question_text?.length || 0)
+              ? current
+              : longest
+          , group[0])
           const repetitions = group.length
           const isRevealed = revealedAnswers[groupIndex]
 

@@ -2,6 +2,8 @@ services:
   app:
     build: .
     ports:
-      - "8080:80"
+      - "34729:80"
     environment:
       - NODE_ENV=production
+    dns:
+      - 8.8.8.8

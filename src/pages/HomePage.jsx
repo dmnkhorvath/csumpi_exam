@@ -18,6 +18,12 @@ function HomePage() {
           </Link>
         ))}
       </div>
+
+      <div className="mt-8 text-center">
+        <Link to="/similarity-groups" className="btn btn-secondary">
+          View Similarity Groups
+        </Link>
+      </div>
     </div>
   )
 }

@@ -10,6 +10,7 @@ function CategoryPage() {
   const [groups, setGroups] = useState([])
   const [loading, setLoading] = useState(true)
   const [revealedAnswers, setRevealedAnswers] = useState({})
+  const [searchQuery, setSearchQuery] = useState('')
 
   const category = Object.values(Categories).find(
     cat => cat.file.replace('.json', '') === categoryName
@@ -35,6 +36,19 @@ function CategoryPage() {
   const toggleAnswer = (index) => {
     setRevealedAnswers(prev => ({ ...prev, [index]: !prev[index] }))
   }
+
+  // Filter groups based on search query
+  const filteredGroups = groups.filter(group => {
+    if (!searchQuery.trim()) return true
+
+    const query = searchQuery.toLowerCase()
+    return group.some(item => {
+      const questionText = item.data?.question_text?.toLowerCase() || ''
+      const answer = item.data?.correct_answer?.toLowerCase() || ''
+      const options = (item.data?.options || []).join(' ').toLowerCase()
+      return questionText.includes(query) || answer.includes(query) || options.includes(query)
+    })
+  })
 
   const renderMarkdown = (text) => {
     if (!text) return null
@@ -85,8 +99,24 @@ function CategoryPage() {
 
       <h1 className="text-2xl font-bold mb-6">{category.name}</h1>
 
+      {/* Sticky search input */}
+      <div className="sticky top-0 z-10 bg-base-100 pb-4 mb-4">
+        <input
+          type="text"
+          placeholder="Search questions..."
+          className="input input-bordered w-full"
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+        />
+        {searchQuery && (
+          <div className="text-sm text-base-content/70 mt-2">
+            Found {filteredGroups.length} question{filteredGroups.length !== 1 ? 's' : ''}
+          </div>
+        )}
+      </div>
+
       <div className="space-y-4">
-        {groups.map((group, groupIndex) => {
+        {filteredGroups.map((group, groupIndex) => {
           // Sort by question_text length descending
           const sorted = [...group].sort((a, b) =>
             (b.data?.question_text?.length || 0) - (a.data?.question_text?.length || 0)

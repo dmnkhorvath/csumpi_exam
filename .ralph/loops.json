@@ -1,3 +1,12 @@
 {
-  "loops": []
+  "loops": [
+    {
+      "id": "clean-mint",
+      "pid": 15858,
+      "started": "2026-02-08T07:33:52.275630Z",
+      "prompt": "in a separate worktree implement search input that is sticky and always visible on category pages wh...",
+      "worktree_path": "/Users/dominik.horvath/git/csumpi_exam/.worktrees/clean-mint",
+      "workspace": "/Users/dominik.horvath/git/csumpi_exam/.worktrees/clean-mint"
+    }
+  ]
 }

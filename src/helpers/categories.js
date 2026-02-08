@@ -8,6 +8,7 @@ export const Categories = {
   IDEGRENDSZER: { name: 'Idegrendszer', file: 'idegrendszer.json' },
   KERINGES: { name: 'Keringés', file: 'keringes.json' },
   KIVALASZTAS_SZERVRENDSZERE: { name: 'Kiválasztás szervrendszere', file: 'kivalasztas_szervrendszere.json' },
+  LATIN: { name: 'Latin', file: 'latin.json' },
   LEGZORENDSZER: { name: 'Légzőrendszer', file: 'legzorendszer.json' },
   SZAPORODAS_SZERVRENDSZERE: { name: 'Szaporodás szervrendszere', file: 'szaporodas_szervrendszere.json' },
 }

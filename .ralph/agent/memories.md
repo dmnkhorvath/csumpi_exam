@@ -2,6 +2,14 @@
 
 ## Patterns
 
+### mem-1770550568-7a31
+> Added /all-questions route to App.jsx and primary button on HomePage to view all questions
+<!-- tags: react, routing | created: 2026-02-08 -->
+
+### mem-1770550567-2948
+> Created AllQuestionsPage.jsx: loads all questions from categorized_questions_with_similarity.json, displays with search (question/answer/category), reveals answers on click, shows category badges
+<!-- tags: react, ui, search | created: 2026-02-08 -->
+
 ### mem-1770536115-cb65
 > Search filter checks all fields: question_text, correct_answer, and options array joined
 <!-- tags: search, filter | created: 2026-02-08 -->

@@ -19,7 +19,10 @@ function HomePage() {
         ))}
       </div>
 
-      <div className="mt-8 text-center">
+      <div className="mt-8 text-center space-x-4">
+        <Link to="/all-questions" className="btn btn-primary">
+          View All Questions
+        </Link>
         <Link to="/similarity-groups" className="btn btn-secondary">
           View Similarity Groups
         </Link>

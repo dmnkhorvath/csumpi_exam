@@ -2,6 +2,18 @@
 
 ## Patterns
 
+### mem-1770536115-cb65
+> Search filter checks all fields: question_text, correct_answer, and options array joined
+<!-- tags: search, filter | created: 2026-02-08 -->
+
+### mem-1770536114-6df9
+> Added sticky search to CategoryPage: filters groups by question_text/answer/options, shows count, positioned with sticky top-0 z-10
+<!-- tags: react, search, ui | created: 2026-02-08 -->
+
+### mem-1770536081-62e1
+> Changed dev port from 5173 to 5175 (and HMR from 5174 to 5176) in vite.config.js
+<!-- tags: vite, config, ports | created: 2026-02-08 -->
+
 ### mem-1770535800-755d
 > Added LATIN entry to src/helpers/categories.js: { name: 'Latin', file: 'latin.json' }. Placed alphabetically in the categories list
 <!-- tags: frontend, category, latin | created: 2026-02-08 -->

@@ -1,0 +1,31 @@
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-card);
+  display: flex; flex-direction: column;
+  flex: 1; min-height: 0;
+  overflow: hidden;
+}
+.badge {
+  align-self: flex-start;
+  display: inline-block;
+  background: var(--brand-50); color: var(--brand-600);
+  font-size: 11px; font-weight: 700;
+  padding: 4px 10px; border-radius: var(--r-pill);
+  text-transform: uppercase; letter-spacing: .04em;
+  margin-bottom: var(--space-3);
+}
+.qtext { font-family: var(--font-heading); font-size: 22px; line-height: 1.35; word-break: break-word; }
+.options { padding-left: 20px; color: var(--text-mute); margin-top: var(--space-3); }
+.options li { margin: var(--space-1) 0; }
+
+.actions {
+  position: sticky; bottom: 0;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: var(--space-3) var(--space-4) calc(var(--space-3) + env(safe-area-inset-bottom));
+}
+.actions[data-double] {
+  display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-2);
+}

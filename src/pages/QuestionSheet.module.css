@@ -1,0 +1,14 @@
+.overlay { position: fixed; inset: 0; background: rgba(15,23,42,.5); z-index: var(--z-sheet); }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0;
+  background: var(--surface); border-radius: var(--r-lg) var(--r-lg) 0 0;
+  padding: var(--space-5) var(--space-4) calc(var(--space-5) + env(safe-area-inset-bottom));
+  max-height: 90dvh; overflow-y: auto; z-index: var(--z-sheet);
+}
+@media (min-width: 768px) {
+  .sheet { left: 50%; right: auto; bottom: 50%; transform: translate(-50%, 50%); width: min(640px, 90vw); border-radius: var(--r-lg); max-height: 80vh; }
+}
+.title { font-family: var(--font-heading); font-size: 18px; margin-bottom: var(--space-3); }
+.text { font-family: var(--font-heading); font-size: 18px; line-height: 1.4; }
+.options { padding-left: 20px; color: var(--text-mute); margin: var(--space-3) 0; }
+.close { margin-top: var(--space-4); }

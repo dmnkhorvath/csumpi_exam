@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>csumpi Learning Buddy — Visual System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --brand-500:#7C3AED; --brand-600:#6D28D9; --brand-50:#F5F0FF;
+    --success-500:#10B981; --success-50:#ECFDF5;
+    --danger-500:#EF4444; --danger-50:#FEF2F2;
+    --streak-500:#F59E0B;
+    --bg:#FAF7FF; --surface:#FFFFFF; --surface-2:#F5F2FB;
+    --text:#0F172A; --text-mute:#475569; --border:#ECE6F7;
+    --r-sm:12px; --r-md:18px; --r-lg:24px; --r-pill:999px;
+    --shadow-card:0 1px 2px rgba(15,23,42,.06), 0 8px 24px rgba(124,58,237,.08);
+    --shadow-press:0 1px 2px rgba(15,23,42,.06);
+    --ease:cubic-bezier(.2,.7,.3,1);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0F0B1A; --surface:#1A1530; --surface-2:#241D40;
+      --text:#F1ECFF; --text-mute:#A89DCC; --border:#2E2655;
+      --brand-50:#231640;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--text);font-family:Nunito,system-ui,sans-serif;font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'Baloo 2',system-ui,sans-serif;font-weight:700;margin:0 0 .25em}
+  h1{font-size:36px;letter-spacing:-.01em}
+  h2{font-size:22px}
+  h3{font-size:18px}
+  .wrap{max-width:1100px;margin:0 auto;padding:32px 20px 80px}
+  .lead{color:var(--text-mute);margin-bottom:32px}
+
+  section{margin:48px 0}
+  section > h2{margin-bottom:16px}
+
+  /* Tokens grid */
+  .swatches{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+  .sw{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);overflow:hidden;box-shadow:var(--shadow-card)}
+  .sw .chip{height:64px}
+  .sw .meta{padding:10px 12px;font-size:13px}
+  .sw .name{font-weight:700}
+  .sw .hex{color:var(--text-mute);font-variant-numeric:tabular-nums}
+
+  /* Type scale */
+  .type-row{display:flex;align-items:baseline;gap:16px;padding:8px 0;border-bottom:1px dashed var(--border)}
+  .type-row:last-child{border:0}
+  .type-row .label{color:var(--text-mute);font-size:12px;width:80px;flex:none;font-variant-numeric:tabular-nums}
+
+  /* Buttons */
+  .btn{
+    font-family:inherit;font-weight:700;font-size:16px;
+    border:0;border-radius:var(--r-md);padding:14px 22px;
+    cursor:pointer;display:inline-flex;align-items:center;gap:8px;
+    transition:transform .15s var(--ease), box-shadow .15s var(--ease), background .15s var(--ease);
+    min-height:48px;
+    -webkit-tap-highlight-color:transparent;
+    touch-action:manipulation;
+  }
+  .btn-primary{background:var(--brand-500);color:#fff;box-shadow:0 3px 0 var(--brand-600)}
+  .btn-primary:active{transform:translateY(2px);box-shadow:0 1px 0 var(--brand-600)}
+  .btn-success{background:var(--success-500);color:#fff;box-shadow:0 3px 0 #059669}
+  .btn-success:active{transform:translateY(2px);box-shadow:0 1px 0 #059669}
+  .btn-danger{background:var(--danger-500);color:#fff;box-shadow:0 3px 0 #B91C1C}
+  .btn-danger:active{transform:translateY(2px);box-shadow:0 1px 0 #B91C1C}
+  .btn-ghost{background:var(--surface);color:var(--text);border:1px solid var(--border)}
+
+  /* Card */
+  .card{background:var(--surface);border-radius:var(--r-lg);padding:20px;box-shadow:var(--shadow-card);border:1px solid var(--border)}
+
+  /* Phone preview */
+  .phones{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:24px}
+  .phone{
+    width:100%;max-width:390px;margin:0 auto;
+    aspect-ratio:390/844;
+    background:var(--bg);
+    border-radius:44px;border:10px solid #1a1a1a;
+    box-shadow:0 30px 60px rgba(15,23,42,.18);
+    overflow:hidden;display:flex;flex-direction:column;position:relative;
+  }
+  .phone .status{height:36px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;font-size:13px;font-weight:700}
+  .phone .screen{flex:1;overflow:auto;padding:8px 16px 96px}
+  .phone .nav{
+    position:absolute;left:8px;right:8px;bottom:8px;height:64px;
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--r-pill);
+    box-shadow:var(--shadow-card);
+    display:flex;align-items:center;justify-content:space-around;
+    padding:0 8px;
+  }
+  .phone .nav .item{display:flex;flex-direction:column;align-items:center;gap:2px;color:var(--text-mute);font-size:11px;font-weight:600;flex:1;padding:6px 0;border-radius:var(--r-md)}
+  .phone .nav .item.active{color:var(--brand-500);background:var(--brand-50)}
+  .icon{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+  /* Home screen */
+  .greet{font-family:'Baloo 2';font-size:24px;font-weight:700;margin-top:8px}
+  .sub{color:var(--text-mute);margin-bottom:16px}
+  .streak{
+    background:linear-gradient(135deg,#FFB45C,#F59E0B);color:#fff;border-radius:var(--r-lg);
+    padding:16px;display:flex;align-items:center;gap:14px;margin-bottom:14px;
+    box-shadow:0 8px 24px rgba(245,158,11,.25);
+  }
+  .streak .num{font-family:'Baloo 2';font-size:32px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums}
+  .streak .lbl{font-size:13px;opacity:.95}
+  .due-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:18px;box-shadow:var(--shadow-card);margin-bottom:16px}
+  .due-card .row{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .due-card .big{font-family:'Baloo 2';font-size:36px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums}
+  .due-card .small{color:var(--text-mute);font-size:13px}
+  .pbar{height:10px;background:var(--surface-2);border-radius:var(--r-pill);overflow:hidden;margin:10px 0}
+  .pbar > i{display:block;height:100%;background:linear-gradient(90deg,var(--brand-500),#A78BFA);border-radius:inherit}
+  .start-btn{width:100%;justify-content:center}
+  .cat-row{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;margin:0 -16px;padding-left:16px;padding-right:16px;scrollbar-width:none}
+  .cat-row::-webkit-scrollbar{display:none}
+  .cat-pill{flex:none;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-pill);padding:8px 14px;font-size:13px;font-weight:700;color:var(--text)}
+  .cat-pill.active{background:var(--brand-500);color:#fff;border-color:var(--brand-500)}
+
+  /* Study screen */
+  .study-top{display:flex;align-items:center;gap:10px;margin:6px 0 14px}
+  .study-top .x{width:32px;height:32px;display:grid;place-items:center;border-radius:var(--r-pill);color:var(--text-mute)}
+  .qcard{
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);
+    padding:22px;box-shadow:var(--shadow-card);min-height:280px;display:flex;flex-direction:column;
+  }
+  .qcard .qbadge{align-self:flex-start;background:var(--brand-50);color:var(--brand-600);font-size:11px;font-weight:700;padding:4px 10px;border-radius:var(--r-pill);text-transform:uppercase;letter-spacing:.04em}
+  .qcard .qtext{font-family:'Baloo 2';font-size:22px;font-weight:600;margin-top:14px;line-height:1.35}
+  .reveal{margin-top:18px;background:var(--success-50);border:1px solid #BBF7D0;border-radius:var(--r-md);padding:14px;color:#064E3B}
+  .reveal h4{margin:0 0 6px;font-family:'Baloo 2';font-size:16px;color:#047857}
+  .variants{margin-top:8px;font-size:13px;color:#065F46;opacity:.9}
+  .ratebar{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+
+  /* Long-content card variant */
+  .qcard.long{position:relative;overflow:hidden;padding:0}
+  .qcard.long .head{padding:18px 22px 0}
+  .qcard.long .body{
+    padding:14px 22px 14px;overflow-y:auto;overscroll-behavior:contain;
+    max-height:calc(100% - 180px);
+    mask-image:linear-gradient(to bottom, #000 0, #000 calc(100% - 24px), transparent 100%);
+    -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 calc(100% - 24px), transparent 100%);
+  }
+  .qcard.long .actions{
+    position:sticky;bottom:0;background:var(--surface);border-top:1px solid var(--border);
+    padding:14px 22px calc(14px + env(safe-area-inset-bottom));
+    display:grid;grid-template-columns:1fr 1fr;gap:10px;
+  }
+  .disclosure{margin-top:10px;background:var(--surface-2);border-radius:var(--r-md);padding:10px 12px;font-size:13px;font-weight:700;color:var(--brand-600);cursor:pointer;display:flex;align-items:center;gap:6px}
+  .disclosure[aria-expanded=true] + .variants-full{display:block}
+  .variants-full{display:none;margin-top:8px;font-size:13px;color:var(--text-mute)}
+  .variants-full li{margin:6px 0}
+
+  .qbanner{
+    position:sticky;top:0;z-index:2;
+    background:var(--surface);border-bottom:1px solid var(--border);
+    padding:10px 22px;display:flex;align-items:center;gap:8px;cursor:pointer;
+    font-size:14px;color:var(--text);
+  }
+  .qbanner .qb-text{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+  .qbanner .qb-tag{font-size:11px;color:var(--text-mute);font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+
+  .footer-note{color:var(--text-mute);font-size:13px;margin-top:8px}
+
+  /* Anim demo */
+  @keyframes pop{0%{transform:scale(.6);opacity:0}60%{transform:scale(1.1)}100%{transform:scale(1);opacity:1}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-5px)}50%{transform:translateX(5px)}75%{transform:translateX(-3px)}}
+  .demo-correct{display:inline-block;width:56px;height:56px;border-radius:50%;background:var(--success-500);color:#fff;display:grid;place-items:center;animation:pop .25s var(--ease) both}
+  .demo-wrong{display:inline-block;padding:14px 22px;border-radius:var(--r-md);background:var(--danger-50);color:var(--danger-500);font-weight:700;animation:shake .18s ease-in-out 2}
+  @media (prefers-reduced-motion: reduce){
+    .demo-correct,.demo-wrong{animation:none}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>csumpi Learning Buddy</h1>
+  <p class="lead">Visual system preview — colors, typography, components, and key screens. Try it in light/dark via OS preference.</p>
+
+  <section>
+    <h2>Color tokens</h2>
+    <div class="swatches">
+      <div class="sw"><div class="chip" style="background:var(--brand-500)"></div><div class="meta"><div class="name">brand-500</div><div class="hex">#7C3AED</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--brand-600)"></div><div class="meta"><div class="name">brand-600</div><div class="hex">#6D28D9</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--brand-50);border-bottom:1px solid var(--border)"></div><div class="meta"><div class="name">brand-50</div><div class="hex">#F5F0FF</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--success-500)"></div><div class="meta"><div class="name">success-500</div><div class="hex">#10B981</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--danger-500)"></div><div class="meta"><div class="name">danger-500</div><div class="hex">#EF4444</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--streak-500)"></div><div class="meta"><div class="name">streak-500</div><div class="hex">#F59E0B</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--surface);border-bottom:1px solid var(--border)"></div><div class="meta"><div class="name">surface</div><div class="hex">var</div></div></div>
+      <div class="sw"><div class="chip" style="background:var(--bg);border-bottom:1px solid var(--border)"></div><div class="meta"><div class="name">bg</div><div class="hex">var</div></div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Typography — Baloo 2 + Nunito</h2>
+    <div class="card">
+      <div class="type-row"><span class="label">36 / Baloo</span><h1 style="margin:0">Ready to study?</h1></div>
+      <div class="type-row"><span class="label">22 / Baloo</span><h2 style="margin:0">Cardiology</h2></div>
+      <div class="type-row"><span class="label">18 / Baloo</span><h3 style="margin:0">12 cards due today</h3></div>
+      <div class="type-row"><span class="label">16 / Nunito</span><span>Mi a leggyakoribb hipertónia szövődménye az időskori populációban?</span></div>
+      <div class="type-row"><span class="label">14 / Nunito</span><span style="color:var(--text-mute)">Source: 2023 May exam · 3 points</span></div>
+      <div class="type-row"><span class="label">12 / Nunito</span><span style="color:var(--text-mute);text-transform:uppercase;letter-spacing:.06em">Repeated 4× across exams</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Buttons</h2>
+    <div class="card" style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
+      <button class="btn btn-primary">Start session</button>
+      <button class="btn btn-success">
+        <svg class="icon" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+        Knew it
+      </button>
+      <button class="btn btn-danger">
+        <svg class="icon" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        Didn't know
+      </button>
+      <button class="btn btn-ghost">Browse</button>
+    </div>
+    <p class="footer-note">Buttons have a 3 px solid bottom edge that flattens on press (the Duolingo "depress" trick) — try clicking.</p>
+  </section>
+
+  <section>
+    <h2>Micro-animations</h2>
+    <div class="card" style="display:flex;gap:24px;align-items:center;flex-wrap:wrap">
+      <button class="btn btn-ghost" onclick="document.getElementById('c').style.animation='none';void document.getElementById('c').offsetWidth;document.getElementById('c').style.animation=''">replay correct</button>
+      <span id="c" class="demo-correct">
+        <svg class="icon" viewBox="0 0 24 24" style="stroke-width:3"><polyline points="20 6 9 17 4 12"/></svg>
+      </span>
+      <button class="btn btn-ghost" onclick="document.getElementById('w').style.animation='none';void document.getElementById('w').offsetWidth;document.getElementById('w').style.animation='shake .18s ease-in-out 2'">replay wrong</button>
+      <span id="w" class="demo-wrong">Try again</span>
+    </div>
+    <p class="footer-note">Both gated by <code>prefers-reduced-motion: reduce</code>.</p>
+  </section>
+
+  <section>
+    <h2>Screens</h2>
+    <div class="phones">
+      <!-- HOME -->
+      <div class="phone" aria-label="Home screen mockup">
+        <div class="status"><span>9:41</span><span>● ● ●</span></div>
+        <div class="screen">
+          <div class="greet">Szia, Anna 👋</div>
+          <div class="sub">Let's keep the streak going.</div>
+
+          <div class="streak">
+            <div style="font-size:32px">🔥</div>
+            <div>
+              <div class="num">7</div>
+              <div class="lbl">day streak · best 12</div>
+            </div>
+          </div>
+
+          <div class="due-card">
+            <div class="row">
+              <div>
+                <div class="big">12</div>
+                <div class="small">cards due today</div>
+              </div>
+              <div style="text-align:right">
+                <div style="font-weight:700">~6 min</div>
+                <div class="small">est. session</div>
+              </div>
+            </div>
+            <div class="pbar"><i style="width:42%"></i></div>
+            <button class="btn btn-primary start-btn">Start session</button>
+          </div>
+
+          <h3 style="margin-top:18px">Pick a category</h3>
+          <div class="cat-row">
+            <span class="cat-pill active">All</span>
+            <span class="cat-pill">Cardiology</span>
+            <span class="cat-pill">Pulmonology</span>
+            <span class="cat-pill">Pediatrics</span>
+            <span class="cat-pill">Surgery</span>
+            <span class="cat-pill">Neurology</span>
+          </div>
+
+          <h3 style="margin-top:18px">Recent activity</h3>
+          <div class="card" style="padding:14px">
+            <div style="display:flex;justify-content:space-between;font-size:14px"><span>Cardiology</span><span style="color:var(--success-500);font-weight:700">8 / 10</span></div>
+            <div class="pbar" style="margin-bottom:0"><i style="width:80%;background:linear-gradient(90deg,var(--success-500),#34D399)"></i></div>
+          </div>
+        </div>
+        <div class="nav">
+          <div class="item active">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M3 12 12 3l9 9"/><path d="M5 10v10h14V10"/></svg>
+            Home
+          </div>
+          <div class="item">
+            <svg class="icon" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+            Browse
+          </div>
+          <div class="item">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M12 20V10"/><path d="M18 20v-6"/><path d="M6 20v-4"/></svg>
+            Stats
+          </div>
+          <div class="item">
+            <svg class="icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.6 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.6-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+            Settings
+          </div>
+        </div>
+      </div>
+
+      <!-- STUDY — PRE-REVEAL -->
+      <div class="phone" aria-label="Study session — pre-reveal">
+        <div class="status"><span>9:41</span><span>● ● ●</span></div>
+        <div class="screen">
+          <div class="study-top">
+            <div class="x">✕</div>
+            <div class="pbar" style="flex:1;margin:0"><i style="width:35%"></i></div>
+            <div style="font-weight:700;font-variant-numeric:tabular-nums">4/12</div>
+          </div>
+
+          <div class="qcard">
+            <span class="qbadge">Cardiology · 3 pts</span>
+            <div class="qtext">Mi a leggyakoribb akut szövődménye az ST-elevációs miokardiális infarktusnak az első 24 órában?</div>
+            <ul style="margin-top:14px;padding-left:20px;color:var(--text-mute)">
+              <li>Kamrai aritmia</li>
+              <li>Szívtamponád</li>
+              <li>Akut mitrális regurgitáció</li>
+              <li>Pericarditis</li>
+            </ul>
+
+            <div style="flex:1"></div>
+
+            <button class="btn btn-primary" style="width:100%;justify-content:center;margin-top:18px">
+              <svg class="icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/></svg>
+              Show answer
+            </button>
+            <p class="footer-note" style="text-align:center;margin:8px 0 0">Or swipe up to reveal</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- STUDY — POST-REVEAL -->
+      <div class="phone" aria-label="Study session — post-reveal">
+        <div class="status"><span>9:41</span><span>● ● ●</span></div>
+        <div class="screen">
+          <div class="study-top">
+            <div class="x">✕</div>
+            <div class="pbar" style="flex:1;margin:0"><i style="width:35%"></i></div>
+            <div style="font-weight:700;font-variant-numeric:tabular-nums">4/12</div>
+          </div>
+
+          <div class="qcard">
+            <span class="qbadge">Cardiology · 3 pts</span>
+            <div class="qtext">Mi a leggyakoribb akut szövődménye az ST-elevációs miokardiális infarktusnak az első 24 órában?</div>
+            <ul style="margin-top:14px;padding-left:20px;color:var(--text-mute)">
+              <li>Kamrai aritmia</li>
+              <li>Szívtamponád</li>
+              <li>Akut mitrális regurgitáció</li>
+              <li>Pericarditis</li>
+            </ul>
+
+            <div class="reveal">
+              <h4>Kamrai aritmia (VT/VF)</h4>
+              <p style="margin:0">A reperfúzió előtti időszakban ez vezet a leggyakrabban hirtelen szívhalálhoz.</p>
+              <div class="variants">↻ Also appears as: "Mi a STEMI első 24 órájának leggyakoribb halálos szövődménye?" · "What is the most common early complication of STEMI?"</div>
+            </div>
+
+            <div class="ratebar">
+              <button class="btn btn-danger"><svg class="icon" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Didn't know</button>
+              <button class="btn btn-success"><svg class="icon" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Knew it</button>
+            </div>
+          </div>
+
+          <p class="footer-note" style="text-align:center">Swipe ← didn't know · Swipe → knew it</p>
+        </div>
+      </div>
+
+      <!-- LONG CONTENT STUDY -->
+      <div class="phone" aria-label="Study session — long content">
+        <div class="status"><span>9:41</span><span>● ● ●</span></div>
+        <div class="screen" style="padding-bottom:16px;padding-top:0">
+          <div class="study-top" style="margin-top:8px">
+            <div class="x">✕</div>
+            <div class="pbar" style="flex:1;margin:0"><i style="width:62%"></i></div>
+            <div style="font-weight:700;font-variant-numeric:tabular-nums">7/12</div>
+          </div>
+
+          <div class="qcard long" style="height:calc(100% - 80px);min-height:0">
+            <div class="head">
+              <span class="qbadge">Pediatrics · 5 pts</span>
+            </div>
+            <div class="body">
+              <div class="qtext" style="margin-top:10px">Egy 4 éves gyermek 3 napja tartó magas lázzal, kétoldali conjunctivitisszel, repedezett ajkakkal, "eperny​elv"-vel, polimorf bőrkiütéssel és nyaki nyirokcsomó-megnagyobbodással kerül felvételre. A laboratóriumi vizsgálat emelkedett CRP-t, leukocitózist, thrombocytosist mutat. A szülők szerint a gyermek nyugtalan, ingerlékeny.</div>
+              <p style="color:var(--text-mute);font-size:14px;margin-top:10px">Mi a legvalószínűbb diagnózis, és melyik a legfontosabb azonnali kivizsgálási lépés a szövődmények megelőzésére?</p>
+              <ul style="padding-left:20px;color:var(--text-mute);font-size:14px">
+                <li>Skarlát — torokváladék tenyésztés és streptococcus-gyorsteszt</li>
+                <li>Kawasaki-betegség — echocardiográfia coronária aneurizma kizárására</li>
+                <li>Stevens–Johnson-szindróma — bőrbiopszia és gyógyszer-anamnézis</li>
+                <li>Adenovírus-fertőzés — szerológia és tüneti kezelés</li>
+                <li>Toxikus shock szindróma — vérkultúra és hemodinamikai monitorozás</li>
+              </ul>
+
+              <div class="reveal" style="margin-top:14px">
+                <h4>Kawasaki-betegség — echocardiográfia</h4>
+                <p style="margin:0">A klasszikus 5-ből 4 kritérium teljesül (láz ≥5 nap, conjunctivitis, ajak-/nyelv-elváltozás, kiütés, nyirokcsomó). Coronária-aneurizma a fő szövődmény, ezért az echo elsődleges. IVIG + nagy dózisú aspirin a kezelés.</p>
+
+                <div class="disclosure" role="button" tabindex="0" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true')" aria-expanded="false">
+                  <svg class="icon" viewBox="0 0 24 24" style="width:14px;height:14px"><polyline points="6 9 12 15 18 9"/></svg>
+                  Show 3 other wordings of this question
+                </div>
+                <ul class="variants-full">
+                  <li>"Egy lázas gyermeknél, akinek conjunctivitise és bőrkiütése van, mi a legfőbb szövődmény, amit ki kell zárni?"</li>
+                  <li>"Mi az elsődleges képalkotó vizsgálat Kawasaki-szindróma gyanújakor?"</li>
+                  <li>"Which condition presents with prolonged fever, mucocutaneous changes, and risk of coronary aneurysms?"</li>
+                </ul>
+              </div>
+            </div>
+            <div class="actions">
+              <button class="btn btn-danger"><svg class="icon" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Didn't know</button>
+              <button class="btn btn-success"><svg class="icon" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Knew it</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="footer-note">Long-content variant: card body scrolls internally, action bar stays sticky, fade-mask hints there's more above. Variant wordings live behind a disclosure to avoid wall-of-text.</p>
+
+    <h3 style="margin-top:32px">Short question · long answer</h3>
+    <div class="phones">
+      <div class="phone" aria-label="Short question, long answer">
+        <div class="status"><span>9:41</span><span>● ● ●</span></div>
+        <div class="screen" style="padding-bottom:16px;padding-top:0">
+          <div class="study-top" style="margin-top:8px">
+            <div class="x">✕</div>
+            <div class="pbar" style="flex:1;margin:0"><i style="width:75%"></i></div>
+            <div style="font-weight:700;font-variant-numeric:tabular-nums">9/12</div>
+          </div>
+
+          <div class="qcard long" style="height:calc(100% - 80px);min-height:0">
+            <!-- Condensed sticky banner replaces the head once revealed and answer is long -->
+            <div class="qbanner" role="button" tabindex="0">
+              <span class="qb-tag">Q</span>
+              <span class="qb-text">Mi a warfarin antidótuma?</span>
+              <svg class="icon" viewBox="0 0 24 24" style="width:16px;height:16px;color:var(--text-mute)"><polyline points="6 9 12 15 18 9"/></svg>
+            </div>
+            <div class="body" style="max-height:calc(100% - 140px)">
+              <div class="reveal" style="margin-top:0">
+                <h4>K-vitamin (phytomenadione) — első vonalbeli antidótum</h4>
+                <p style="margin:0 0 10px">A K-vitamin pótolja a warfarin által gátolt II, VII, IX, X faktorok szintézisét. Hatása 6–24 óra alatt jelentkezik, ezért akut, súlyos vérzésnél nem elég önmagában.</p>
+                <p style="margin:0 0 10px"><strong>Adagolás:</strong> kis vérzés / túladagolás INR-emelkedéssel: 1–2 mg PO. Súlyos vérzés: 5–10 mg IV lassú infúzióban (anafilaxia rizikó).</p>
+                <p style="margin:0 0 10px"><strong>Akut, életveszélyes vérzésnél:</strong> 4-faktoros prothrombin-komplex koncentrátum (PCC, pl. Beriplex) + IV K-vitamin. FFP csak akkor, ha PCC nem elérhető — lassabb és nagyobb térfogatot igényel.</p>
+                <p style="margin:0"><strong>Kerülendő:</strong> rutin K-vitamin pótlás, ha INR enyhén emelkedett tünet nélkül — egyszerűen tartsuk vissza a warfarint és ellenőrizzük újra 24 óra múlva.</p>
+                <div class="variants" style="margin-top:10px">↻ Also appears as: "Hogyan reverzáljuk a warfarin hatását súlyos vérzésnél?"</div>
+              </div>
+            </div>
+            <div class="actions">
+              <button class="btn btn-danger"><svg class="icon" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Didn't know</button>
+              <button class="btn btn-success"><svg class="icon" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Knew it</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="footer-note">Question collapsed into a sticky 1-line banner so the long answer gets the screen real estate. Tap the banner to re-expand the question inline.</p>
+  </section>
+
+  <section>
+    <h2>Notes</h2>
+    <ul style="color:var(--text-mute);max-width:65ch">
+      <li>Toggle macOS / iOS dark mode to see the dark variant — every token swaps semantically.</li>
+      <li>Question text is illustrative; real content comes from the existing <code>category-*.json</code> chunks.</li>
+      <li>Bottom nav is 4 items max (Home, Browse, Stats, Settings) — within the ≤5 platform limit.</li>
+      <li>Touch targets: every button ≥48 px tall; 8 px+ gaps.</li>
+    </ul>
+  </section>
+</div>
+</body>
+</html>

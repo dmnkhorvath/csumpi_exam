@@ -1,0 +1,3 @@
+.tab { display: flex; flex-direction: column; height: calc(100dvh - 220px); }
+.search { width: 100%; padding: 12px 14px; border-radius: var(--r-md); border: 1px solid var(--border); background: var(--surface); margin-bottom: var(--space-3); min-height: 44px; }
+.scroll { flex: 1; overflow-y: auto; }

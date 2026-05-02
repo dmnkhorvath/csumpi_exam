@@ -1,1 +1,4 @@
-/* Replaced in Task A2 with token-based globals. */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&family=Nunito:wght@400;600;700&display=swap');
+@import './styles/reset.css';
+@import './styles/tokens.css';
+@import './styles/globals.css';

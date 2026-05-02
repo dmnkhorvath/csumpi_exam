@@ -1,0 +1,62 @@
+:root {
+  --brand-500: #7C3AED;
+  --brand-600: #6D28D9;
+  --brand-50:  #F5F0FF;
+
+  --success-500: #10B981;
+  --success-600: #059669;
+  --success-50:  #ECFDF5;
+
+  --danger-500: #EF4444;
+  --danger-600: #B91C1C;
+  --danger-50:  #FEF2F2;
+
+  --streak-500: #F59E0B;
+
+  --bg:        #FAF7FF;
+  --surface:   #FFFFFF;
+  --surface-2: #F5F2FB;
+  --text:      #0F172A;
+  --text-mute: #475569;
+  --border:    #ECE6F7;
+
+  --r-sm: 12px;
+  --r-md: 18px;
+  --r-lg: 24px;
+  --r-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgba(15,23,42,.06), 0 8px 24px rgba(124,58,237,.08);
+  --shadow-press: 0 1px 2px rgba(15,23,42,.06);
+
+  --ease: cubic-bezier(.2,.7,.3,1);
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --font-heading: 'Baloo 2', system-ui, -apple-system, sans-serif;
+  --font-body: 'Nunito', system-ui, -apple-system, sans-serif;
+
+  --z-nav: 40;
+  --z-sheet: 80;
+  --z-toast: 100;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:        #0F0B1A;
+    --surface:   #1A1530;
+    --surface-2: #241D40;
+    --text:      #F1ECFF;
+    --text-mute: #A89DCC;
+    --border:    #2E2655;
+    --brand-50:  #231640;
+    --success-50:#0F2A20;
+    --danger-50: #2A1212;
+    --shadow-card: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(124,58,237,.18);
+  }
+}

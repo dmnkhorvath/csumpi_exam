@@ -1,0 +1,7 @@
+.runner { display: flex; flex-direction: column; height: 100dvh; padding: calc(var(--space-3) + env(safe-area-inset-top)) var(--space-4) var(--space-4); gap: var(--space-3); background: var(--bg); }
+.top { display: flex; align-items: center; gap: var(--space-3); }
+.close { width: 40px; height: 40px; display: grid; place-items: center; border-radius: var(--r-pill); color: var(--text-mute); }
+.counter { font-weight: 700; }
+.cardWrap { flex: 1; min-height: 0; display: flex; }
+.center { display: grid; place-items: center; flex: 1; color: var(--text-mute); }
+.doneBtn { background: var(--brand-500); color: #fff; padding: 12px 20px; border-radius: var(--r-md); font-weight: 700; }

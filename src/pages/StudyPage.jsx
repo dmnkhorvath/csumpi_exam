@@ -5,7 +5,8 @@ import { Icon } from '../components/Icon.jsx'
 import { ProgressBar } from '../components/ProgressBar.jsx'
 import { StudyCard } from '../components/StudyCard.jsx'
 import { EmptyState } from '../components/EmptyState.jsx'
-import { useStore } from '../store/useStudyStore.js'
+import { useStudyStore } from '../store/useStudyStore.js'
+import { studyStore } from '../store/studyStore.js'
 import { schedule } from '../domain/scheduler.js'
 import { createNewCard } from '../domain/srsCard.js'
 import { loadCategoryGroups } from '../data/examData.js'
@@ -37,7 +38,8 @@ const buildCardView = (descriptor, category) => {
 export default function StudyPage() {
   const { categorySlug } = useParams()
   const navigate = useNavigate()
-  const store = useStore()
+  useStudyStore() // subscribe so component re-renders on store updates
+  const store = studyStore()
   const [pool, setPool] = useState([])
   const [rated, setRated] = useState(0)
   const [loading, setLoading] = useState(true)

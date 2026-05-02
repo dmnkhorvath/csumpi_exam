@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { useStore } from '../store/useStudyStore.js'
+import { useStudyStore } from '../store/useStudyStore.js'
+import { studyStore } from '../store/studyStore.js'
 import { Card } from '../components/Card.jsx'
 import { Button } from '../components/Button.jsx'
 import styles from './SettingsPage.module.css'
@@ -7,8 +8,9 @@ import styles from './SettingsPage.module.css'
 const GOALS = [10, 20, 30]
 
 export default function SettingsPage() {
-  const store = useStore()
-  const s = store.getSnapshot().settings
+  const snap = useStudyStore()
+  const store = studyStore()
+  const s = snap.settings
   const [confirming, setConfirming] = useState(false)
 
   const onExport = () => {

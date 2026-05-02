@@ -1,13 +1,12 @@
 import { allCategories } from '../domain/categories.js'
-import { useStore } from '../store/useStudyStore.js'
+import { useStudyStore } from '../store/useStudyStore.js'
 import { Card } from '../components/Card.jsx'
 import { ProgressBar } from '../components/ProgressBar.jsx'
 import { StreakStrip } from '../components/StreakStrip.jsx'
 import styles from './StatsPage.module.css'
 
 export default function StatsPage() {
-  const store = useStore()
-  const snap = store.getSnapshot()
+  const snap = useStudyStore()
   const cards = Object.values(snap.cards)
   const dueTomorrow = cards.filter(c => {
     const t = Date.now() + 24*3600*1000

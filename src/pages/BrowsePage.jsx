@@ -1,14 +1,13 @@
 import * as Tabs from '@radix-ui/react-tabs'
 import { allCategories } from '../domain/categories.js'
 import { CategoryTile } from '../components/CategoryTile.jsx'
-import { useStore } from '../store/useStudyStore.js'
+import { useStudyStore } from '../store/useStudyStore.js'
 import BrowseAllPage from './BrowseAllPage.jsx'
 import BrowseSimilarityPage from './BrowseSimilarityPage.jsx'
 import styles from './BrowsePage.module.css'
 
 export default function BrowsePage() {
-  const store = useStore()
-  const snap = store.getSnapshot()
+  const snap = useStudyStore()
   const masteredBy = (slug) =>
     Object.values(snap.cards).filter(c => c.categorySlug === slug && c.state === 'mastered').length
   const totalBy = (slug) =>

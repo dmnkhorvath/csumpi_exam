@@ -1,11 +1,13 @@
 import { useState } from 'react'
-import { useStore } from '../store/useStudyStore.js'
+import { useStudyStore } from '../store/useStudyStore.js'
+import { studyStore } from '../store/studyStore.js'
 import { Button } from '../components/Button.jsx'
 import styles from './OnboardingOverlay.module.css'
 
 export function OnboardingOverlay() {
-  const store = useStore()
-  const s = store.getSnapshot().settings
+  const snap = useStudyStore()
+  const store = studyStore()
+  const s = snap.settings
   const [step, setStep] = useState(0)
   if (s.onboardingComplete) return null
 

@@ -1,13 +1,15 @@
 import { useSyncExternalStore } from 'react'
 import { studyStore } from './studyStore.js'
 
-export const useStudyStore = (selector) => {
+const identity = (s) => s
+
+// Subscribes the calling component to the store and returns the selected slice.
+// Pass a selector to read just the part you need; defaults to the full snapshot.
+export const useStudyStore = (selector = identity) => {
   const store = studyStore()
-  return useSyncExternalStore(
-    store.subscribe,
-    () => selector(store.getSnapshot(), store),
-    () => selector(store.getSnapshot(), store),
-  )
+  const get = () => selector(store.getSnapshot())
+  return useSyncExternalStore(store.subscribe, get, get)
 }
 
-export const useStore = studyStore
+// Returns the store singleton without subscribing — only use for imperative ops.
+export const studyStoreSingleton = () => studyStore()

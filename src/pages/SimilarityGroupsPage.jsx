@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
-import remarkBreaks from 'remark-breaks'
-import { Categories } from '../helpers/categories'
+import QuestionMarkdown from '../components/QuestionMarkdown'
+import { loadSimilarityGroups } from '../data/examData'
+import { isInteresting } from '../domain/similarityGroup'
 
 function SimilarityGroupsPage() {
   const [similarityGroups, setSimilarityGroups] = useState([])
@@ -11,71 +10,14 @@ function SimilarityGroupsPage() {
   const [expandedGroups, setExpandedGroups] = useState({})
 
   useEffect(() => {
-    const loadAllCategories = async () => {
-      const allGroups = {}
-
-      for (const cat of Object.values(Categories)) {
-        try {
-          const res = await fetch(`/categories/${cat.file}`)
-          const data = await res.json()
-
-          for (const group of data.groups || []) {
-            for (const question of group) {
-              const groupId = question.similarity_group_id
-              // Skip questions without real similarity groups (null or __null_ prefix)
-              if (!groupId || groupId.startsWith('__null_')) continue
-
-              if (!allGroups[groupId]) {
-                allGroups[groupId] = {
-                  groupId,
-                  category: data.category_name,
-                  questions: []
-                }
-              }
-              allGroups[groupId].questions.push(question)
-            }
-          }
-        } catch (e) {
-          console.error(`Failed to load ${cat.file}:`, e)
-        }
-      }
-
-      // Convert to array and sort by count (descending)
-      const sorted = Object.values(allGroups)
-        .filter(g => g.questions.length > 1) // Only groups with 2+ questions
-        .sort((a, b) => b.questions.length - a.questions.length)
-
-      setSimilarityGroups(sorted)
-      setLoading(false)
-    }
-
-    loadAllCategories()
+    loadSimilarityGroups()
+      .then(gs => setSimilarityGroups(gs.filter(isInteresting)))
+      .catch(() => {})
+      .finally(() => setLoading(false))
   }, [])
 
   const toggleGroup = (groupId) => {
     setExpandedGroups(prev => ({ ...prev, [groupId]: !prev[groupId] }))
-  }
-
-  const renderMarkdown = (text) => {
-    if (!text) return null
-    return (
-      <ReactMarkdown
-        remarkPlugins={[remarkGfm, remarkBreaks]}
-        components={{
-          table: ({ children }) => (
-            <div className="overflow-x-auto my-2">
-              <table className="table table-zebra table-sm">{children}</table>
-            </div>
-          ),
-          thead: ({ children }) => <thead className="bg-base-300">{children}</thead>,
-          th: ({ children }) => <th className="px-2 py-1">{children}</th>,
-          td: ({ children }) => <td className="px-2 py-1">{children}</td>,
-          p: ({ children }) => <p className="mb-2">{children}</p>,
-        }}
-      >
-        {text}
-      </ReactMarkdown>
-    )
   }
 
   if (loading) {
@@ -91,9 +33,7 @@ function SimilarityGroupsPage() {
   return (
     <div className="container mx-auto p-4">
       <div className="mb-6">
-        <Link to="/" className="btn btn-ghost btn-sm">
-          ← Back to Categories
-        </Link>
+        <Link to="/" className="btn btn-ghost btn-sm">← Back to Categories</Link>
       </div>
 
       <h1 className="text-2xl font-bold mb-2">Similarity Groups</h1>
@@ -104,7 +44,6 @@ function SimilarityGroupsPage() {
       <div className="space-y-4">
         {similarityGroups.map((group) => {
           const isExpanded = expandedGroups[group.groupId]
-
           return (
             <div key={group.groupId} className="card bg-base-100 shadow-sm">
               <div className="card-body">
@@ -113,9 +52,7 @@ function SimilarityGroupsPage() {
                   onClick={() => toggleGroup(group.groupId)}
                 >
                   <div>
-                    <h2 className="card-title text-lg">
-                      {group.groupId}
-                    </h2>
+                    <h2 className="card-title text-lg">{group.groupId}</h2>
                     <p className="text-sm text-base-content/70">{group.category}</p>
                   </div>
                   <div className="flex items-center gap-2">
@@ -133,12 +70,12 @@ function SimilarityGroupsPage() {
                           <span className="text-xs text-base-content/50">{q.file}</span>
                         </div>
                         <div className="prose prose-sm max-w-none">
-                          {renderMarkdown(q.data?.question_text)}
+                          <QuestionMarkdown>{q.data?.question_text}</QuestionMarkdown>
                         </div>
                         {q.data?.correct_answer && (
                           <div className="mt-2 p-2 bg-success/10 rounded text-sm">
                             <span className="font-semibold text-success">Answer: </span>
-                            {renderMarkdown(q.data.correct_answer)}
+                            <QuestionMarkdown>{q.data.correct_answer}</QuestionMarkdown>
                           </div>
                         )}
                       </div>

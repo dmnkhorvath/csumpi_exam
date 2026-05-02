@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Categories } from '../helpers/categories'
+import { allCategories } from '../domain/categories'
 
 function HomePage() {
   return (
@@ -8,10 +8,10 @@ function HomePage() {
       <h2 className="text-xl text-center mb-6 text-base-content/70">Select a category to practice</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {Object.values(Categories).map(category => (
+        {allCategories().map(category => (
           <Link
-            key={category.file}
-            to={`/category/${category.file.replace('.json', '')}`}
+            key={category.slug}
+            to={`/category/${category.slug}`}
             className="btn btn-outline btn-lg h-auto py-4 flex flex-col items-start text-left"
           >
             <span className="text-lg font-semibold">{category.name}</span>

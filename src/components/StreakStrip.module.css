@@ -1,0 +1,10 @@
+.wrap {
+  background: linear-gradient(135deg, #FFB45C, var(--streak-500));
+  color: #fff;
+  border-radius: var(--r-lg);
+  padding: var(--space-4);
+  display: flex; align-items: center; gap: var(--space-3);
+  box-shadow: 0 8px 24px rgba(245,158,11,.25);
+}
+.num { font-family: var(--font-heading); font-size: 32px; font-weight: 700; line-height: 1; }
+.lbl { font-size: 13px; opacity: .95; }

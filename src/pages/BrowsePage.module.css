@@ -1,0 +1,15 @@
+.page { padding: var(--space-3) var(--space-4) calc(80px + env(safe-area-inset-bottom)); }
+.tabs { display: flex; gap: var(--space-2); margin-bottom: var(--space-3); overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex: none;
+  background: var(--surface); color: var(--text-mute);
+  border: 1px solid var(--border); border-radius: var(--r-pill);
+  padding: 8px 14px; font-weight: 700; font-size: 13px;
+  min-height: 40px;
+}
+.tab[data-state="active"] {
+  background: var(--brand-500); color: #fff; border-color: var(--brand-500);
+}
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-3); }
+@media (min-width: 768px) { .grid { grid-template-columns: repeat(3, 1fr); } }

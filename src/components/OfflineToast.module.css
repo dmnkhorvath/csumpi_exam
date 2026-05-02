@@ -1,0 +1,4 @@
+.viewport { position: fixed; top: env(safe-area-inset-top); left: 0; right: 0; padding: var(--space-3); display: flex; justify-content: center; z-index: var(--z-toast); }
+.toast { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-md); box-shadow: var(--shadow-card); padding: 10px 14px; }
+.title { font-weight: 700; }
+.desc { color: var(--text-mute); font-size: 13px; }

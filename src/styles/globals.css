@@ -1,0 +1,14 @@
+html { -webkit-tap-highlight-color: transparent; }
+body { min-height: 100dvh; }
+
+button, a { touch-action: manipulation; }
+
+h1, h2, h3 { font-family: var(--font-heading); font-weight: 700; line-height: 1.2; }
+.tabular { font-variant-numeric: tabular-nums; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

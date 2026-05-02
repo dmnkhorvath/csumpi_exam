@@ -1,0 +1,13 @@
+.panel {
+  background: var(--success-50);
+  border: 1px solid #BBF7D0;
+  border-radius: var(--r-md);
+  padding: 14px;
+  color: #064E3B;
+  margin-top: var(--space-4);
+}
+.title { font-family: var(--font-heading); font-size: 16px; color: #047857; margin-bottom: var(--space-1); }
+.empty {
+  padding: 14px; border-radius: var(--r-md); background: var(--surface-2);
+  color: var(--text-mute); margin-top: var(--space-4);
+}

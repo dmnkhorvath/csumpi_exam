@@ -1,0 +1,4 @@
+.page { padding: var(--space-3) var(--space-4) calc(80px + env(safe-area-inset-bottom)); display: flex; flex-direction: column; height: 100dvh; }
+.title { font-family: var(--font-heading); font-size: 22px; margin-bottom: var(--space-3); }
+.search { width: 100%; padding: 12px 14px; border-radius: var(--r-md); border: 1px solid var(--border); background: var(--surface); margin-bottom: var(--space-3); min-height: 44px; }
+.scroll { flex: 1; overflow-y: auto; }

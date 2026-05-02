@@ -32,3 +32,5 @@ venv/
 # frontend
 node_modules
 .worktrees/
+playwright-report/
+test-results/

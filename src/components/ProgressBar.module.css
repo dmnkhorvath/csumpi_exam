@@ -1,0 +1,17 @@
+.root {
+  position: relative;
+  overflow: hidden;
+  background: var(--surface-2);
+  border-radius: var(--r-pill);
+  width: 100%;
+  height: 10px;
+}
+.indicator {
+  background: linear-gradient(90deg, var(--brand-500), #A78BFA);
+  width: 100%;
+  height: 100%;
+  transition: transform 300ms var(--ease);
+}
+.root[data-tone="success"] .indicator {
+  background: linear-gradient(90deg, var(--success-500), #34D399);
+}

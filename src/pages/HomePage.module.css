@@ -1,0 +1,12 @@
+.page { padding: var(--space-3) var(--space-4) calc(80px + env(safe-area-inset-bottom)); display: flex; flex-direction: column; gap: var(--space-3); }
+.greet { font-family: var(--font-heading); font-size: 24px; font-weight: 700; }
+.sub { color: var(--text-mute); margin-bottom: var(--space-2); }
+.dueRow { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: var(--space-2); }
+.bigNum { font-family: var(--font-heading); font-size: 36px; line-height: 1; font-weight: 700; }
+.estTime { font-weight: 700; }
+.muted { color: var(--text-mute); font-size: 13px; }
+.section { font-family: var(--font-heading); font-size: 18px; margin-top: var(--space-3); }
+.pills { display: flex; gap: var(--space-2); overflow-x: auto; scrollbar-width: none; padding-bottom: var(--space-2); }
+.pills::-webkit-scrollbar { display: none; }
+.pill { flex: none; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-pill); padding: 8px 14px; font-size: 13px; font-weight: 700; }
+.link { color: var(--brand-600); font-weight: 700; }

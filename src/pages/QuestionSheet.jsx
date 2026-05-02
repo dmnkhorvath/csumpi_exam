@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, lazy, Suspense } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import * as Dialog from '@radix-ui/react-dialog'
 import { allCategories } from '../domain/categories.js'
@@ -8,6 +8,8 @@ import { pickCanonical } from '../domain/similarityGroup.js'
 import { Button } from '../components/Button.jsx'
 import { RevealPanel } from '../components/RevealPanel.jsx'
 import styles from './QuestionSheet.module.css'
+
+const Markdown = lazy(() => import('../components/Markdown.jsx'))
 
 export default function QuestionSheet() {
   const { id } = useParams()
@@ -42,10 +44,20 @@ export default function QuestionSheet() {
           <Dialog.Title className={styles.title}>Question</Dialog.Title>
           {canonical ? (
             <>
-              <p className={styles.text}>{canonical.data?.question_text}</p>
+              <div className={`${styles.text} markdown`}>
+                <Suspense fallback={<p>{canonical.data?.question_text}</p>}>
+                  <Markdown>{canonical.data?.question_text}</Markdown>
+                </Suspense>
+              </div>
               {canonical.data?.options?.length > 0 && (
-                <ul className={styles.options}>
-                  {canonical.data.options.map((o, i) => <li key={i}>{o}</li>)}
+                <ul className={`${styles.options} markdown`}>
+                  {canonical.data.options.map((o, i) => (
+                    <li key={i}>
+                      <Suspense fallback={o}>
+                        <Markdown>{o}</Markdown>
+                      </Suspense>
+                    </li>
+                  ))}
                 </ul>
               )}
               {revealed

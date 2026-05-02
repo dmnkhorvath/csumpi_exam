@@ -15,9 +15,11 @@ export function RevealPanel({ answer, variants }) {
   return (
     <div className={styles.panel} role="region" aria-label="Answer">
       <h4 className={styles.title}>Answer</h4>
-      <Suspense fallback={<div>{answer}</div>}>
-        <Markdown>{answer}</Markdown>
-      </Suspense>
+      <div className="markdown">
+        <Suspense fallback={<div>{answer}</div>}>
+          <Markdown>{answer}</Markdown>
+        </Suspense>
+      </div>
       <VariantsList variants={variants} />
     </div>
   )

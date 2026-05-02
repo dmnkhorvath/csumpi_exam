@@ -1,0 +1,1 @@
+import{r as s,p as o,R as u}from"./index-CP717_6U.js";var c=u[" useId ".trim().toString()]||(()=>{}),n=0;function i(t){const[r,a]=s.useState(c());return o(()=>{a(e=>e??String(n++))},[t]),t||(r?`radix-${r}`:"")}export{i as u};

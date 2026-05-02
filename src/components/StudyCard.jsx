@@ -1,10 +1,12 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, lazy, Suspense } from 'react'
 import { Eye, Check, X } from 'lucide-react'
 import { Button } from './Button.jsx'
 import { Icon } from './Icon.jsx'
 import { CollapsibleQA } from './CollapsibleQA.jsx'
 import { RevealPanel } from './RevealPanel.jsx'
 import styles from './StudyCard.module.css'
+
+const Markdown = lazy(() => import('./Markdown.jsx'))
 
 export function StudyCard({ card, onRate }) {
   const [revealed, setRevealed] = useState(false)
@@ -49,10 +51,20 @@ export function StudyCard({ card, onRate }) {
   const question = (
     <div>
       <span className={styles.badge}>{card.categoryName}{card.pts ? ` · ${card.pts} pts` : ''}</span>
-      <p className={styles.qtext}>{card.questionText}</p>
+      <div className={`${styles.qtext} markdown`}>
+        <Suspense fallback={<p>{card.questionText}</p>}>
+          <Markdown>{card.questionText}</Markdown>
+        </Suspense>
+      </div>
       {card.options?.length > 0 && (
-        <ul className={styles.options}>
-          {card.options.map((o, i) => <li key={i}>{o}</li>)}
+        <ul className={`${styles.options} markdown`}>
+          {card.options.map((o, i) => (
+            <li key={i}>
+              <Suspense fallback={o}>
+                <Markdown>{o}</Markdown>
+              </Suspense>
+            </li>
+          ))}
         </ul>
       )}
     </div>

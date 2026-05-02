@@ -34,3 +34,7 @@ node_modules
 .worktrees/
 playwright-report/
 test-results/
+dist/
+
+# scratch / one-off
+architecture-options.html

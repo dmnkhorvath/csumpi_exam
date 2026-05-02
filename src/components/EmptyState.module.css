@@ -1,0 +1,4 @@
+.wrap { display: flex; flex-direction: column; align-items: center; text-align: center; padding: var(--space-6) var(--space-4); }
+.icon { color: var(--brand-500); margin-bottom: var(--space-3); }
+.title { font-family: var(--font-heading); font-size: 22px; margin-bottom: var(--space-2); }
+.body { color: var(--text-mute); max-width: 38ch; margin-bottom: var(--space-4); }
